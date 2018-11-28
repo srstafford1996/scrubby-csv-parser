@@ -6,6 +6,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1 or BT 1 or 2",
 			"hit_level": "high",
 			"damage": "7 (8)",
@@ -18,6 +19,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/VibrantSeparateImperatorangel",
+			"move_name": "Kimon Rendan",
 			"notation": "1, 1",
 			"hit_level": "high, high",
 			"damage": "7 (8), 7",
@@ -30,6 +32,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(1), 1",
 			"hit_level": "high",
 			"damage": "7 (8)",
@@ -42,6 +45,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/WhoppingCooperativeCaimanlizard",
+			"move_name": "Kimon Rentotsu",
 			"notation": "1, 2",
 			"hit_level": "high, mid",
 			"damage": "7 (8), 20",
@@ -54,6 +58,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(1), 2",
 			"hit_level": "mid",
 			"damage": "20 (24)",
@@ -66,6 +71,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/ObesePerkyAurochs",
+			"move_name": "Roppu Tubushi",
 			"notation": "2",
 			"hit_level": "s. mid",
 			"damage": "15 (18)",
@@ -78,6 +84,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "3",
 			"hit_level": "high",
 			"damage": "14 (16)",
@@ -90,6 +97,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "4 or BT 3 or 4",
 			"hit_level": "high",
 			"damage": "12 (14)",
@@ -102,6 +110,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/ForkedHeartyCapeghostfrog",
+			"move_name": "Kikoku Renzan",
 			"notation": "4, 3",
 			"hit_level": "high, high",
 			"damage": "12 (14), 17",
@@ -114,6 +123,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(4), 3",
 			"hit_level": "high",
 			"damage": "17 (20)",
@@ -126,6 +136,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/AdeptMildCuscus",
+			"move_name": "Ryujinkyaku",
 			"notation": "f+3",
 			"hit_level": "mid",
 			"damage": "16 (19)",
@@ -138,6 +149,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/MajesticSmallAnole",
+			"move_name": "Onikubigari",
 			"notation": "f+4",
 			"hit_level": "high",
 			"damage": "20 (24)",
@@ -150,6 +162,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/DeterminedConcreteChupacabra",
+			"move_name": "Zugaihasatsu",
 			"notation": "f+1+2",
 			"hit_level": "mid, mid",
 			"damage": "5 (6), 15",
@@ -162,6 +175,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f+1+2 (second hit only)",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -174,6 +188,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/ExemplaryAgitatedAardvark",
+			"move_name": "Hisenkyaku",
 			"notation": "f+3+4",
 			"hit_level": "mid",
 			"damage": "20 (24)",
@@ -186,6 +201,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, F+2",
 			"hit_level": "mid",
 			"damage": "14 (16)",
@@ -198,6 +214,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/FlakyPortlyHerring",
+			"move_name": "Shakunetsu Messho",
 			"notation": "f, F+2:1",
 			"hit_level": "mid, mid",
 			"damage": "14 (16), 20",
@@ -210,6 +227,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/MeaslyDelectableApatosaur",
+			"move_name": "Ganretsuzan",
 			"notation": "f, F+4",
 			"hit_level": "mid",
 			"damage": "23 (27)",
@@ -222,6 +240,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/WhimsicalSoupyAlbertosaurus",
+			"move_name": "Shunjinkaida",
 			"notation": "f, f, f+1",
 			"hit_level": "high",
 			"damage": "30 (36)",
@@ -234,6 +253,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, f, f+3 (or WR 3)",
 			"hit_level": "mid",
 			"damage": "30 (36)",
@@ -246,6 +266,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "d/f+1",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -258,6 +279,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/TallScentedAmphiuma",
+			"move_name": "Gokumonsyo",
 			"notation": "d/f+1, 1",
 			"hit_level": "mid, high",
 			"damage": "10 (12), 7",
@@ -270,6 +292,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+1), 1",
 			"hit_level": "high",
 			"damage": "7 (8)",
@@ -282,6 +305,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/PhysicalJealousConch",
+			"move_name": "Zugaigohasatsu",
 			"notation": "d/f+1, 2",
 			"hit_level": "mid, mid, mid",
 			"damage": "10 (12), 5, 10",
@@ -294,6 +318,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+1), 2",
 			"hit_level": "mid, mid",
 			"damage": "5 (6), 10",
@@ -306,6 +331,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+1), 2 (second hit only)",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -318,6 +344,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "d/f+2",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -330,6 +357,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/UntidyComfortableAntarcticgiantpetrel",
+			"move_name": "Dohatsu Tensho",
 			"notation": "d/f+2, 1",
 			"hit_level": "mid, mid",
 			"damage": "10 (12), 10",
@@ -342,6 +370,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+2), 1",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -354,6 +383,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "d/f+2, 4",
 			"hit_level": "mid, mid",
 			"damage": "10 (12), 10, 13",
@@ -366,6 +396,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+2), 4",
 			"hit_level": "mid",
 			"damage": "13 (15)",
@@ -378,6 +409,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/chillyadmirableafricangoldencat",
+			"move_name": "Gokusatsu Gotenshu",
 			"notation": "d/f+2, 4, 3",
 			"hit_level": "mid, mid, mid",
 			"damage": "10 (12), 13, 23",
@@ -390,6 +422,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+2), 4, 3",
 			"hit_level": "mid, mid",
 			"damage": "13 (15), 23",
@@ -402,6 +435,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(d/f+2), (4), 3",
 			"hit_level": "mid",
 			"damage": "23 (27)",
@@ -414,6 +448,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/darlingbasichammerheadbird",
+			"move_name": "Yokogeri",
 			"notation": "d/f+3",
 			"hit_level": "mid",
 			"damage": "14 (16)",
@@ -426,6 +461,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/capitalnimbleamericanpainthorse",
+			"move_name": "Kitotsukyaku",
 			"notation": "d/f+4",
 			"hit_level": "mid",
 			"damage": "24 (28)",
@@ -438,6 +474,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/PotableCluelessArthropods",
+			"move_name": "Gaikaiken",
 			"notation": "b+1",
 			"hit_level": "high",
 			"damage": "17 (20)",
@@ -450,6 +487,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/UnconsciousMiniatureEmperorshrimp",
+			"move_name": "Danretto",
 			"notation": "b+2",
 			"hit_level": "mid",
 			"damage": "21 (25)",
@@ -462,6 +500,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/HastySociableHog",
+			"move_name": "Taizankyaku",
 			"notation": "b+4",
 			"hit_level": "low",
 			"damage": "15 (18)",
@@ -474,6 +513,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 1",
 			"hit_level": "s. mid",
 			"damage": "5 (6)",
@@ -486,6 +526,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 1, 2",
 			"hit_level": "s. mid, s. mid",
 			"damage": "5 (6), 8",
@@ -498,6 +539,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC (1), 2",
 			"hit_level": "s. mid",
 			"damage": "8 (9)",
@@ -510,6 +552,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 2",
 			"hit_level": "s. mid",
 			"damage": "6 (7)",
@@ -522,6 +565,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 3 (close)",
 			"hit_level": "low",
 			"damage": "10 (12)",
@@ -534,6 +578,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 3 (far)",
 			"hit_level": "low",
 			"damage": "7 (8)",
@@ -546,6 +591,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "FC 4",
 			"hit_level": "low",
 			"damage": "20 (24)",
@@ -558,6 +604,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Full Screen)",
 			"hit_level": "mid",
 			"damage": "30 (36)",
@@ -570,6 +617,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Full Screen) (On Grounded Opponent)",
 			"hit_level": "low",
 			"damage": "10 (12)",
@@ -582,6 +630,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR 4 ",
 			"hit_level": "low",
 			"damage": "23 (27)",
@@ -594,6 +643,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR 1+2",
 			"hit_level": "mid",
 			"damage": "24 (28)",
@@ -606,6 +656,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS 1",
 			"hit_level": "high",
 			"damage": "12 (!4)",
@@ -618,6 +669,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS 2",
 			"hit_level": "mid",
 			"damage": "17 (20)",
@@ -630,6 +682,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS 3",
 			"hit_level": "mid",
 			"damage": "17 (20)",
@@ -642,6 +695,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS 4",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -654,6 +708,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS 4, 4",
 			"hit_level": "mid, mid",
 			"damage": "10 (12), 20",
@@ -666,6 +721,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WS (4), 4",
 			"hit_level": "mid",
 			"damage": "20 (24)",
@@ -678,6 +734,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Vertical Jump) 1",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -690,6 +747,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Vertical Jump) 2",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -702,6 +760,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Vertical Jump) 3",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -714,6 +773,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Vertical Jump) 4",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -726,6 +786,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Forward or Backward Jump) 1",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -738,6 +799,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Forward or Backward Jump) 2",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -750,6 +812,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Forward or Backward Jump) 3",
 			"hit_level": "mid",
 			"damage": "10 (12)",
@@ -762,6 +825,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Forward or Backward Jump) 4",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -774,6 +838,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Forward Jump Peak) d+3",
 			"hit_level": "mid",
 			"damage": "14 (16)",
@@ -786,6 +851,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Up, Feet Towards+3 or (After Rolling Forward)",
 			"hit_level": "low",
 			"damage": "10 (12)",
@@ -798,6 +864,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Up, Feet Towards+4 or (After Rolling Forward)",
 			"hit_level": "mid",
 			"damage": "18 / 21 (CH)",
@@ -810,6 +877,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Up, Feet Towards, d+3 (or 4)",
 			"hit_level": "low",
 			"damage": "6 (7)",
@@ -822,6 +890,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Up, Feet Towards+3+4",
 			"hit_level": "mid",
 			"damage": "20 (24)",
@@ -834,6 +903,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Up, Feet Towards, Roll Forward+1+2",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -846,6 +916,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Down, Feet Away+3",
 			"hit_level": "low",
 			"damage": "10 (12)",
@@ -858,6 +929,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Face Down, Feet Away+4",
 			"hit_level": "mid",
 			"damage": "15 (18)",
@@ -870,6 +942,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(Upon Landing) f",
 			"hit_level": "mid",
 			"damage": "4",
@@ -882,6 +955,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/ForcefulImmenseHerculesbeetle",
+			"move_name": "Goshoryuken",
 			"notation": "f, d, d/f+1",
 			"hit_level": "s. mid",
 			"damage": "15 (18)",
@@ -894,6 +968,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/AdoredAgreeableAntipodesgreenparakeet",
+			"move_name": "Goshoryuken",
 			"notation": "f, d, d/f+2",
 			"hit_level": "s. mid, s. mid, s. mid",
 			"damage": "6, 6, 14 / 7, 6, 14 (CH)",
@@ -906,6 +981,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/AdoredAgreeableAntipodesgreenparakeet",
+			"move_name": "Goshoryuken",
 			"notation": "f, d, d/f+2",
 			"hit_level": "s. mid, s. mid",
 			"damage": "6, 14 / 7, 14 (CH)",
@@ -918,6 +994,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/AdoredAgreeableAntipodesgreenparakeet",
+			"move_name": "Goshoryuken",
 			"notation": "f, d, d/f+2",
 			"hit_level": "s. mid",
 			"damage": "20 (24)",
@@ -930,6 +1007,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, d, d/f+2, 1+2, f, f",
 			"hit_level": "s. mid",
 			"damage": "6 (7)",
@@ -942,6 +1020,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, d, d/f+2, 1+2, f, f",
 			"hit_level": "s. mid, s. mid",
 			"damage": "6 (7), 6",
@@ -954,6 +1033,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, d, d/f+3 (or 4)",
 			"hit_level": "-",
 			"damage": "-",
@@ -966,6 +1046,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) N",
 			"hit_level": "low",
 			"damage": "23 (27)",
@@ -978,6 +1059,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) 1",
 			"hit_level": "high",
 			"damage": "15 (18)",
@@ -990,6 +1072,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) 2",
 			"hit_level": "mid",
 			"damage": "20 (24)",
@@ -1002,6 +1085,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) 3",
 			"hit_level": "mid",
 			"damage": "21 (25)",
@@ -1014,6 +1098,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) 4",
 			"hit_level": "s. mid",
 			"damage": "15 (18)",
@@ -1026,6 +1111,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hyakkishu) 1+3 (or 2+4)",
 			"hit_level": "high throw",
 			"damage": "30",
@@ -1038,6 +1124,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f, d, d/f+3+4 (or b, d, d/b+3+4)",
 			"hit_level": "-",
 			"damage": "-",
@@ -1050,6 +1137,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/bluetallatlanticsharpnosepuffer",
+			"move_name": "Shakunetsu Hadoken",
 			"notation": "hcb+1",
 			"hit_level": "s. mid",
 			"damage": "15 (18)",
@@ -1062,6 +1150,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/RealisticSillyAmericanavocet",
+			"move_name": "Shakunetsu Hadoken",
 			"notation": "hcb+2",
 			"hit_level": "s. mid, s. mid, s. mid",
 			"damage": "9 (10), 6, 4",
@@ -1074,6 +1163,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "qcf+1 (or 2)",
 			"hit_level": "s. mid",
 			"damage": "14 (16)",
@@ -1086,6 +1176,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/SilverHospitableHyena",
+			"move_name": "Tatsumaki Zankukyaku",
 			"notation": "qcb+3",
 			"hit_level": "high",
 			"damage": "10 (12)",
@@ -1098,6 +1189,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/RespectfulFloweryDromedary",
+			"move_name": "Tatsumaki Zankukyaku",
 			"notation": "qcb+4",
 			"hit_level": "s. mid, high, high",
 			"damage": "13 (15), 6, 4",
@@ -1110,6 +1202,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/RespectfulFloweryDromedary",
+			"move_name": "Tatsumaki Zankukyaku",
 			"notation": "qcb+4",
 			"hit_level": "high, high",
 			"damage": "6 (7), 4",
@@ -1122,6 +1215,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/RespectfulFloweryDromedary",
+			"move_name": "Tatsumaki Zankukyaku",
 			"notation": "qcb+4",
 			"hit_level": "high",
 			"damage": "6 (7)",
@@ -1134,6 +1228,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Jump) qcf+1 (or 2)",
 			"hit_level": "s. mid",
 			"damage": "10 (12)",
@@ -1146,6 +1241,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Jump) qcb+3 (or 4)",
 			"hit_level": "s. mid",
 			"damage": "10 (12)",
@@ -1158,6 +1254,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "",
 			"hit_level": "",
 			"damage": "",
@@ -1170,6 +1267,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/HighBlueHorsechestnutleafminer",
+			"move_name": "EX Goshoryuken",
 			"notation": "f, d, d/f+1+2",
 			"hit_level": "s. mid, s. mid, s. mid",
 			"damage": "6, 6, 16",
@@ -1182,6 +1280,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/HighBlueHorsechestnutleafminer",
+			"move_name": "EX Goshoryuken",
 			"notation": "f, d, d/f+1+2",
 			"hit_level": "s. mid, s. mid",
 			"damage": "6, 16",
@@ -1194,6 +1293,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/HighBlueHorsechestnutleafminer",
+			"move_name": "EX Goshoryuken",
 			"notation": "f, d, d/f+1+2",
 			"hit_level": "s. mid",
 			"damage": "23 (27)",
@@ -1206,6 +1306,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Counter Hit) f, d, d/f+1+2",
 			"hit_level": "s. mid",
 			"damage": "7, 8, 9, 9, 9",
@@ -1218,6 +1319,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/PaleThreadbareAllosaurus",
+			"move_name": "EX Shakunetsu Hadoken",
 			"notation": "hcb+1+2",
 			"hit_level": "s. mid, s. mid, s. mid",
 			"damage": "12 (14), 8, 6",
@@ -1230,6 +1332,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/HarmoniousNarrowAlaskanmalamute",
+			"move_name": "EX Gohadoken",
 			"notation": "qcf+1+2",
 			"hit_level": "s. mid, s. mid",
 			"damage": "10 (12), 10",
@@ -1242,6 +1345,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/DizzyDisguisedJellyfish",
+			"move_name": "EX Tatsumaki Zankukyaku",
 			"notation": "qcb+3+4",
 			"hit_level": "s. mid, s. mid, s. mid, s. mid",
 			"damage": "6 (7), 6, 4, 10",
@@ -1254,6 +1358,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/DizzyDisguisedJellyfish",
+			"move_name": "EX Tatsumaki Zankukyaku",
 			"notation": "qcb+3+4",
 			"hit_level": "s. mid, s. mid, s. mid",
 			"damage": "6 (7), 4, 10",
@@ -1266,6 +1371,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/DizzyDisguisedJellyfish",
+			"move_name": "EX Tatsumaki Zankukyaku",
 			"notation": "qcb+3+4",
 			"hit_level": "s. mid",
 			"damage": "6 (7)",
@@ -1278,6 +1384,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hisenkyaku) qcf+1+2",
 			"hit_level": "mid, s. mid, s. mid",
 			"damage": "20 (24), 10, 10",
@@ -1290,6 +1397,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Hisenkyaku) qcb+3+4",
 			"hit_level": "mid, s. mid, s. mid, s. mid",
 			"damage": "20 (24), 6, 4, 10",
@@ -1302,6 +1410,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Jump) qcf+1+2",
 			"hit_level": "s. mid, s. mid",
 			"damage": "10 (12), 10",
@@ -1314,6 +1423,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "(During Jump) qcb+3+4",
 			"hit_level": "s. mid",
 			"damage": "10 (12)",
@@ -1326,6 +1436,7 @@
 		{
 			"properties": [],
 			"preview_url": "https://gfycat.com/InsecureUnsightlyDormouse",
+			"move_name": "Messatsu Gohado",
 			"notation": "qcf, qcf+1+2",
 			"hit_level": "s. mid, s. mid, s. mid, s. mid, s. mid",
 			"damage": "24, 14, 10, 8, 6",
@@ -1338,6 +1449,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 (or WS 1+2)",
 			"hit_level": "high",
 			"damage": "14 (16)",
@@ -1350,6 +1462,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2, f, f",
 			"hit_level": "high",
 			"damage": "14 (16)",
@@ -1362,6 +1475,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2, b, b",
 			"hit_level": "high",
 			"damage": "14 (16)",
@@ -1374,6 +1488,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 (Hold for 40f)",
 			"hit_level": "high",
 			"damage": "20 (24)",
@@ -1386,6 +1501,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 1+2 (Hold for 40f), f, f",
 			"hit_level": "high",
 			"damage": "20 (24)",
@@ -1398,6 +1514,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 1+2 (Hold for 40f), b, b",
 			"hit_level": "high",
 			"damage": "20 (24)",
@@ -1410,6 +1527,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1, 1, f, 3, 2",
 			"hit_level": "high throw",
 			"damage": "55",
@@ -1422,6 +1540,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 (Hold for 65f)",
 			"hit_level": "high",
 			"damage": "25 (30)",
@@ -1434,6 +1553,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 (Hold for 65f), f, f",
 			"hit_level": "high",
 			"damage": "25 (30)",
@@ -1446,6 +1566,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+2 (Hold for 65f), b, b",
 			"hit_level": "high",
 			"damage": "25 (30)",
@@ -1458,6 +1579,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "1+3",
 			"hit_level": "high throw",
 			"damage": "35",
@@ -1470,6 +1592,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "2+4",
 			"hit_level": "high throw",
 			"damage": "35",
@@ -1482,6 +1605,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f+1+3",
 			"hit_level": "high throw",
 			"damage": "35",
@@ -1494,6 +1618,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "f+2+4",
 			"hit_level": "high throw",
 			"damage": "35",
@@ -1506,6 +1631,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Approach from left side... 1+3 (or 2+4)",
 			"hit_level": "high throw",
 			"damage": "40",
@@ -1518,6 +1644,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Approach from right side... 1+3 (or 2+4)",
 			"hit_level": "high throw",
 			"damage": "40",
@@ -1530,6 +1657,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "Approach from behind... 1+3 (or 2+4)",
 			"hit_level": "high throw",
 			"damage": "50",
@@ -1542,6 +1670,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Mid Screen)",
 			"hit_level": "mid throw",
 			"damage": "5",
@@ -1554,6 +1683,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Mid Screen) 1 (or 2)",
 			"hit_level": "-",
 			"damage": "5, 5",
@@ -1566,6 +1696,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Mid Screen) 1/2, 1/2",
 			"hit_level": "-",
 			"damage": "5, 5, 5",
@@ -1578,6 +1709,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",
 			"hit_level": "-",
 			"damage": "5, 5, 5, 5",
@@ -1590,6 +1722,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",
 			"hit_level": "-",
 			"damage": "5, 5, 5, 5, 15",
@@ -1602,6 +1735,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "U",
 			"hit_level": "-",
 			"damage": "-",
@@ -1614,6 +1748,7 @@
 		{
 			"properties": [],
 			"preview_url": null,
+			"move_name": null,
 			"notation": "U/F or U/B",
 			"hit_level": "-",
 			"damage": "-",
