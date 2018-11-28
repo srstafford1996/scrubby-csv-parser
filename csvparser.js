@@ -36,7 +36,7 @@ const parseChar = function(names, movelistFN) {
 				//Reformat the gifs to store url by notation key
 				let gifsObj = gifsCSV.reduce((acc, rowObj, index) => {
 					if(rowObj['Character'] == names.displayName) {
-						acc[rowObj['Move Input']] = rowObj['GIF URL'];
+						acc[rowObj['Move Input']] = {move_name: rowObj['Move Name'], preview_url: rowObj['GIF URL']};
 					}
 
 					return acc;
@@ -90,7 +90,8 @@ const moveListToJson = function(moveListCSVArray, gifsObj, label) {
 
 		let rowObj = {
 			properties: [],
-			preview_url: null
+			preview_url: null,
+			move_name: null
 		};
 
 		for(let i = 0; i < rowArray.length; i++) {
@@ -105,10 +106,12 @@ const moveListToJson = function(moveListCSVArray, gifsObj, label) {
 
 				//GIF data stored by notation so also searching here
 				if(col == "notation") {
-					const gifUrl = gifsObj[rowArray[i]];
+					let gifData = gifsObj[rowArray[i]];
 
-					if(gifUrl)
-						rowObj['preview_url'] = gifsObj[rowArray[i]];
+					if(gifData) {
+						rowObj['preview_url'] = gifData.preview_url;
+						rowObj['move_name'] = gifData.move_name;
+					}
 				}
 			}
 
