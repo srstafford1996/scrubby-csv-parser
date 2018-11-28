@@ -1,0 +1,14 @@
+{
+  "name": "tekken-chicken-csv-parser",
+  "version": "1.0.0",
+  "description": "stuff",
+  "main": "csvparser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Stafford",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.0.0"
+  }
+}

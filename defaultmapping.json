@@ -1,0 +1,9 @@
+{
+	"COMMAND": "notation",
+	"HIT LEVEL": "hit_level",
+	"DAMAGE": "damage",
+	"START UP": "speed",
+	"ON BLOCK": "on_block",
+	"ON HIT": "on_hit",
+	"NOTES": "notes"
+}
