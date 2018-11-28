@@ -1,0 +1,240 @@
+MOVE NAME,COMMAND,HIT,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,AIR,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,ON CROUCHING,RECOVERY,ACTIVE,NOTES
+*,"u/b, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+False Salute,1+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+High Mid Parry,1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Greetings,2+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinner,3+4 (or d+3+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Somersault,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Jab,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bayonet,"1, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bayonet Thruster,"1, 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fan Dance to Pushing Hands,"1, d+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"1, D+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Birds Flock,1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+April Showers,"2, D/F+1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cloud Kick,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crescent Moon Kick,4~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,u+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u+1+2, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fortune Cookie,"u+1+2, 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ginger Snap,"u+1+2, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Flight,u/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bolting Rabbit,u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cyanide,u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,"u/f+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f+2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bai Yang Zhuan Wu,"f+2, 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wings of Fury,"f+3, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Swivel Kick,f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Clouded Peak,f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f, F+1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Poison Flower,"f, F+1, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Eclipsing Moon,"f, F+1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+,"f, F+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fortune,"f, F+2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Step Kick,"f, F+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Swallow Dance,"f, F+4 (while enemy is guarding), 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+X Marks the Spot,"f, F+1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Belly Chop,D/F+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cross Lifting Palms,d/f+2~1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sunset Fan,d+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Giant Slayer,"d+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Storming Flower,d/b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Knee Cracker,d/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Nutcracker,d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Great Wall Left,B+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Pressing Crane,"b+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Backflip,u/b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"FC 3, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"FC 3, 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fire Dancer,"FC 3, 2, 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lotus Twist,"FC d/f+2, b or f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lotus Twist,"FC d/f+2, 1, b or f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Map Sweep,"FC d/f+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Low Back Turn,FC d/b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Tail,SS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Street Sweeper,SS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Running Stomp*,"While enemy is on the ground... WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WR 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WR 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rising Jab,WS 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sunflower,"WS 2, b or f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jasmine Blossom,"WS 2 (Hold), b or f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rising Axe Kick,WS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Skyscraper Kick,WS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WS b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 1,"u+4, 1, 2, 1+2, 1, 3, 4, 4, 4, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 1,"u+4, 1, 2, 4, 4, 2, 1+2, 1, 4, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO HYPNOTIST,,,,,,,,,,,,,,,,,,,
+Hypnotist (SSR),d/b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hypnotist (SSL),u/b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+STAY IN HYPNOTIST,,,,,,,,,,,,,,,,,,,
+Hypnotist,(During Hypnotist) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT HYPNOTIST,,,,,,,,,,,,,,,,,,,
+Falling Tiger Kick,(During Hypnotist) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Hypnotist) 1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thunder Strike (One Step),"(During Hypnotist) 2+3 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thunder Strike (Two Steps),"(During Hypnotist) 2+3 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thunder Strike (Three Steps),"(During Hypnotist) 2+3 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Deadly Orchid,(During Hypnotist) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO RAIN DANCE,,,,,,,,,,,,,,,,,,,
+Rain Dance,b+3+4 (or FC d/b+3+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Phoenix) b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fan Dance,"1, d+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+April Showers,"2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fortune Cookie,"u+1+2, 2, 1, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Flight,"u/f+1+2, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Shooting Star,u/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f+3, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fortune,"f, F+2, 1, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Raccoon Swing,"f, F+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Front Layout,"f, F+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Belly Chop,d/f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Great Wall Left,b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Seven Star Fist,"b+2, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Peacock Kick,b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC d/f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"FC d/f+2, D/F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lotus Twist,"FC d/f+2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"FC d/f+2, 1, D/F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Tail,"SS 3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sunflower,WS 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jasmine Blossom,WS 2 (Hold),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+STAY IN RAIN DANCE,,,,,,,,,,,,,,,,,,,
+Spin Tornado Up (Down),(During Rain Dance) 3+4 (or d+3+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+California Roll,(During Rain Dance) f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rain Dance to Low Parry,(During Rain Dance) d+1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spin Tornado Back,(During Rain Dance) b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Monkey Kick,(During Rain Dance) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Battering Winds,(During Rain Dance) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cyclone Left,"(During Rain Dance) f+3+4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT RAIN DANCE,,,,,,,,,,,,,,,,,,,
+*,"(During Rain Dance) u/f, f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Rain Dance) u/f, f, D/F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rain Dance) 1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spin Tornado Up (Down),(During Rain Dance) 3+4 (or d+3+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rain Dance to Low Parry,(During Rain Dance) d+1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hidden Fortune,(During Rain Dance) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hidden Fortune,"(During Rain Dance) 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark & Stormy,(During Rain Dance) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark & Stormy,"(During Rain Dance) 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark & Stormy,"(During Rain Dance) 2, 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Turn of Fortune,"(During Rain Dance) 2, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Turn of Fortune,"(During Rain Dance) 2, 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mistrust,(During Rain Dance) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Battering Winds,"(During Rain Dance) 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Left Kick,(During Rain Dance) u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Right Kick,(During Rain Dance) u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Push Hands,(During Rain Dance) f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Peg Leg,"(During Rain Dance) f, F+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rain Dance) d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Crane,"(During Rain Dance) d+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hou Sao Tui,(During Rain Dance) d+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Guard Breaker,(During Rain Dance) d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO SOMERSAULT,,,,,,,,,,,,,,,,,,,
+Somersault,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT SOMERSAULT,,,,,,,,,,,,,,,,,,,
+Somersault to Phoenix Talon,"f+3+4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Somersault to Phoenix,"f+3+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO PHOENIX,,,,,,,,,,,,,,,,,,,
+Phoenix,d+1+2 or FC 1+2 or (During Rain Dance) d+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rain Dance to Phoenix,(During Rain Dance) d/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Turn of Fortune to Phoenix,"2, 2, 1, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crescent Moon Kick to Phoenix,"4~3, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Silver Needle to Phoenix,u/f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flare Kick to Phoenix,"u/f+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Somersault to Phoenix,"f+3+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Poison Flower to Phoenix,"f, F+1, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Diving Falcon to Phoenix,"f, f, f+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flapping Wings to Phoenix,D+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Backflip to Phoenix,"u/b+3+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Map Sweep to Phoenix,FC d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Tail to Phoenix,"SS 3, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Turn of Fortune,"(During Rain Dance) 2, 2, 1, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Silver Needle to Phoenix,(During Rain Dance) u/f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Forward Roll to Phoenix,"(During Phoenix) f+3+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+STAY IN PHOENIX,,,,,,,,,,,,,,,,,,,
+*,"(During Phoenix) d/f or f, d/b or b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Phoenix) f, f or b, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Butterfly,(During Phoenix) d,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Phoenix) f+3+4, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Alley-Oop to Phoenix,"(During Phoenix) u/f+3, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Pirouette to Phoenix,"(During Phoenix) u/f, n, 3, d+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flower Garden,(During Phoenix) f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT PHOENIX,,,,,,,,,,,,,,,,,,,
+*,"(During Phoenix) u/b, u or u/f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Phoenix) f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Serving,(During Phoenix) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Serving to Rain Dance,"(During Phoenix) 1, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Phoenix) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Double Palm,"(During Phoenix) 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Double Palm to Rain Dance,"(During Phoenix) 2, 1, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Piercing Spear Kick to Rain Dance,(During Phoenix) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rising Front Kick,(During Phoenix) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Firecracker,(During Phoenix) 4~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Cannon,(During Phoenix) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Alley-Oop,(During Phoenix) u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sky Kick,"(During Phoenix) u/f, (While Landing) 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Barrel Shotgun,"(During Phoenix) u/f+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Scissor Kick,"(During Phoenix) u/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Phoenix) u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Phoenix) u/f, (While Landing) 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flower Power,"(During Phoenix) u/f+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Pirouette,"(During Phoenix) u/f, n, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crane Kick,"(During Phoenix) u/f, n, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Phoenix) f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flower Garden,"(During Phoenix) f+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Roll Ball,(During Phoenix) f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Swipe,(During Phoenix) d+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wave Crest,(During Phoenix) d+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Swallow Spiral,d/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Drive,(During Rage) b+1+2 or (WS b+1+2) or (During Phoenix) b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rage Art,"(During Rage) (During Rain Dance) d+3, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
+Spin Sticker (One Step),(During Hypnotist) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spin Sticker (Two Steps),(During Hypnotist) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spin Sticker (Three Steps),(During Hypnotist) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Jade,Approach enemy... 1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jade,Approach enemy... f+1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ruby,Approach enemy... 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ruby,Approach enemy... f+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Arm Flip,Approach from left side... 1+3 or 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dump the Bucket,Approach from right side...  1+3 or 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crank Up,Approach from behind... 1+3 or 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+So Shoe Me,f+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dislocator,d/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dragon Fall,D/F+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rain Dance) 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Reverse Throw,"(During Rain Dance) f, F+1+3 (or 2+4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Layout,"(During Rain Dance) f, F+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cradle Throw,(During Phoenix) 1+3 or 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Tackle) 1 or 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

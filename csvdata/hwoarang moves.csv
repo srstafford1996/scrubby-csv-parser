@@ -1,0 +1,245 @@
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,RECOVERY,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"1, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"1, 1, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Home Surgery,"1, 1, 3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"1, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rejector,"1, 2, f+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rejection,"1, 2, f+4 (Close)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rejection,"1, 2, f+4 (Far)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab Side Kick,"2, f+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab to Spinning Back Kick*,"2, f+4 (Close)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab to Spinning Back Kick,"2, f+4 (Far)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Kicks,"3, 3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Kicks to Backlash,"3, 3, d/f or f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flying Eagle,3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Left Kick Combo,"4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kicks to Chainsaw Heel,"4, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick Combo to Chainsaw Heel,"4, 4, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick Combo,"4, 4, 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bloody Guillotine,u+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bone Stinger,u/f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hunting Hawk,"u/f+3, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,u/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flashing Trident,"u/f+3+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cheap Shot Snap Kick,f+3~n+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Push Hands,f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Axe Kick,"f, F+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Peacekeeper,"f, F+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flying Nerichagi,"f, f, f+3 (or WR+3)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sky Rocket,"f, n, d, d/f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Claymore,d/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Firecracker,"d+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sweep Kick,d/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ankle Biter to Crescent Kick,"d/b+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Stealth Needle,b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bolt Cut,b+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Plasma Blade,b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,u/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fade-Away Kick,u/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,SS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Iron Heel,WS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO LEFT FLAMINGO,,,,,,,,,,,,,,,,,,,
+Left Flamingo Feint,f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Right to Left Flamingo,"1, 2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab to Left Flamingo,"2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Kicks to Left Flamingo,"3, 3, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Left Kick Combo to Left Flamingo*,"4, 3, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jump Kick to Left Flamingo,u+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/f+3, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Shuffle to Left Flamingo,"u/b+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Phalanx to Left Flamingo,"f, n, d, d/f+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Eruption to Left Flamingo,"SS 3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Step Kick to Left Flamingo, (During Right Flamingo) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cheap Shot to Left Flamingo,(During Right Stance) f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING RIGHT FLAMINGO,,,,,,,,,,,,,,,,,,,
+*," (During Left Flamingo) U, F, D, or B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Switch, (During Left Flamingo) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Trick Jab,  (During Left Flamingo) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Left Flamingo) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Side Kick to Left Flamingo," (During Left Flamingo) 3, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Kick Combo Middle," (During Left Flamingo) 3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Side Kick to Backlash," (During Left Flamingo) 3, d/f or f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Rocket, (During Left Flamingo) f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*, (During Left Flamingo) d/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*," (During Left Flamingo) d/f+3, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Double Claymore," (During Left Flamingo) d/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Left Flamingo) d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*, (During Left Flamingo) d or d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Stealth Needle, (During Left Flamingo) b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cutter Right, (During Left Flamingo) d+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*, (During Left Flamingo) u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*," (During Left Flamingo) u/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Hunting Hawk," (During Left Flamingo) u/f+3, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Switch Plasma Blade, (During Left Flamingo) u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*, (During Left Flamingo) u/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Flashing Trident," (During Left Flamingo) u/f+3+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 1," (During Left Flamingo) 2, 2, 3, 4, 3, 4, 4, 4, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING RIGHT FLAMINGO,,,,,,,,,,,,,,,,,,,
+Right Flamingo Feint,"f, n+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Right to Right Flamingo,"1, 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab to Right Flamingo,"2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Kicks to Right Hook Kick,"3, 3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kicks to Right Flamingo,"4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick Combo to Right Flamingo,"4, 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Scorpion Side Kick to Right Flamingo,u+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u/f+4, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u/f+4, 4, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Air Raid to Right Flamingo*,"u/f+4, 4, 4, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Hook Kick to Right Flamingo,f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Smash Low Right to Right Flamingo,"d+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ankle Biter to Right Flamingo,"d/b+4, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Riffle Shuffle to RIght Flamingo,"u/b+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Side Kick to Right Hook Kick," (During Left Flamingo) 3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Step Kick, (During Left Flamingo) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Low to Right Hook Kick," (During Left Flamingo) d+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Right Stance) 2, 4, U, F, D, or B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Volcannon to Right Flamingo,"(During Right Stance) 3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Right Stance) 4, U, F, D, or B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Flamingo Feint,(During Right Stance) f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING RIGHT FLAMINGO,,,,,,,,,,,,,,,,,,,
+*," (During Right Flamingo) U, F, D, or B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flamingo Switch, (During Right Flamingo) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Punch, (During Right Flamingo) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick, (During Right Flamingo) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Flamingo) f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fire Storm Right," (During Right Flamingo) f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Snap Kick, (During Right Flamingo) d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cutter Left, (During Right Flamingo) d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cactus Shot," (During Right Flamingo) d+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Flamingo) d/b or d or d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Heel Lance, (During Right Flamingo) b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 2," (During Right Flamingo) 1, 2, 3, 4, 3, 4, 4, 4, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO LEFT STANCE,,,,,,,,,,,,,,,,,,,
+Disrespect,(During Right Stance) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Torpedo Kick to Left Stance,"f, f, f+4 (or WR+4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING LEFT STANCE ,,,,,,,,,,,,,,,,,,,
+*,(During Left Stance) 1 or 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Left Stance) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+Motion Switch,3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kicks to Right Stance,"4, f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Kick Combo to Right Stance,"4, 4, f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u/f+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Air Raid,"u/f+4, 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rusty Knife,f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Middle Claymore to Right Stance,d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Nose Bleeder to Right Stance,b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Trip Kick to Right Stance,SS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Tsunami Kick to Right Stance,"WS 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Backhand to Right Stance, (During Left Flamingo) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Left Flamingo) f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fire Storm Left to Right Stance," (During Left Flamingo) f+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Combat Low, (During Left Flamingo) d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Combat Middle, (During Left Flamingo) b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Punch to Right Stance, (During Right Flamingo) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Flamingo) f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Viper Combo to Right Sword," (During Right Flamingo) f+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Plasma Blade,(During Left Stance) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+STAY IN RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+*,(During Right Stance) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Stance) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Right Stance) 2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Right Stance) 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Chainsaw Kick Combo,"(During Right Stance) 2, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Volcannon to Right Stance,"(During Right Stance) 3, f+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Stance) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Chainsaw Kick,"(During Right Stance) 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Disrespect,(During Right Stance) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Motion Switch,(During Right Stance) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grand Theft,(During Right Stance) f+4~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Sidekick,(During Right Stance) d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Heel Screw,(During Right Stance) d+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Stance) d/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Blast Fist,(During Right Stance) b+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Screw Kick,"(During Right Stance) f, F+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+Migraine,"(During Right Stance) 1, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Big Fists,"(During Right Stance) 2, 1, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right PK Combo,"(During Right Stance) 2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Reverse Kick Combo,"(During Right Stance) 2, 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Jab Spin Kick,"(During Right Stance) 2, b+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Right Stance) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Reverse Kick,"(During Right Stance) 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Screw Kick,(During Right Stance) d/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Teaser,"(During Right Stance) d/b+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Nose Bleeder,(During Right Stance) b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spin Kick,(During Right Stance) b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hunting Heel,"(During Right Stance) f, F+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Right Stance) f, F+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO BT RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+*,"(During Right Stance) f+3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+STAY IN BT RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+*,(During BT Right Stance) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+EXIT BT RIGHT STANCE,,,,,,,,,,,,,,,,,,,
+*,(During BT Right Stance) 1 or 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Plasma Blade,(During BT Right Stance) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Scythe to Axe Heel,"(During BT Right Stance) BT 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spinning Low Kick,(During BT Right Stance) BT d+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Left Thunderbolt to Right Stance, (During Left Flamingo) b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Right Thunderbolt, (During Right Flamingo) b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Backlash,(During Right Stance) 3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage During Flamingo) d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rage) d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rage Drive 1,"(During Rage) d+3+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rage) u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Rage) u/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rage Drive 2,"(During Rage) u/f+3, 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Rage During Left Flamingo) u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Rage During Left Flamingo) u/f+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rage Drive 3,"(During Rage During Left Flamingo) u/f+3, 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
+Dynamite Heel,"d/b+3+4 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Power Blast,"(During Left Flamingo) 1+4 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Pickpocket,Approach enemy... 1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Pickpocket,Approach enemy... f+1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Falcon Dive Kick,Approach enemy... 2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Falcon Dive Kick,Approach enemy... f+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bring It On,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dead-End,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slaughterhouse,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Roll and Choke,"Approach enemy... 2+4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Human Cannonball,Approach enemy... f+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Leg Hook Throw,Approach enemy... d/b+1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Door Mat,Approach enemy... qcb+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Overhead Kick,Approach mid-air enemy... d/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jackknife,(During Right Stance) Approach enemy... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

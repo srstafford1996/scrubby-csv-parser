@@ -1,0 +1,237 @@
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,AIR,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,ON CROUCHING,RECOVERY,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,-,35,+1,+35,+35,-,-,-,-
+*,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+One Two Elbows,"1, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(1), 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Combo Jilar,"1, 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(1), 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(1), (2), 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Gancho Chibata,"3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick to Side Flop,"3~4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick to Front Stinger,"3~4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Satellite Moon,4~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Satellite Moon Roundhouse,"4~3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handslaps,1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handslaps Mirage,1+2~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Handspring,3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Acrobacia,u+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Summy,u+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Summy to Scoot Kick,"u+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Firekick,u+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Jacks,u/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Jacks Mirage,"u/f+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Roundhouse,u/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Vasuuna,u/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Meia-Lua Pulando,u/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f+2, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Shin Cutter Combo,"f+2, 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Samba,f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Au de Sol,"f+4, 3, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Samba Slippery Kick,"f+4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Reversao,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Batuque Direito,"f, F+2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lunging Brush Fire,"f, F+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mao Esquerda,d/f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Combinacao Mao,"d/f+1, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Elbow Uppercut,d/f+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Kneecap Crusher,d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mirage,d/f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Au de Bico,"d+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/b+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister Mirage,"d/b+2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira,d/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira Chibata,"d/b+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira to Circle Kick,"d/b+3, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira to Low Kick 2,"d/b+3, d/b+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thong Bikini to Low Kick 2,"d/b+3, d/b+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/b+3, d/b+4, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira to Crying Needle Impact,"d/b+3, d/b+4, 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/b+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Barbed Wire,"d/b+4, 4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/b+4, 4, 4, 4...(repeat infinitely)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Double Arm Stinger,d/b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,d/b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/b+3+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Meia-Lua de Compasso,"d/b+3+4, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Gato to Au Batido,"b+1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,b+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Godeme to Calcanheira,"b+2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Knee Thruster,b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bencao Fake-out,"b+3, f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Armada,b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Armada to Rasteira,"b+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Armada to Macacao,"b+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Leg Whip Mars Attack Flip,"b+4, 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Asfixiante,b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Queixada,u/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,BT 1 (or 2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,BT 3 (or 4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Passo para Tras,BT 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Haule,FC d/b+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,FC 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crying Needle Impact,"FC 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Front Stinger,FC 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cruncher,SS 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister,SS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister Sweep,"SS 4, n, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dos Sole,SS 4~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister Front Stinger,"SS 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Banda,SS 1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wheel Kicks,SS 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"SS 3+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"SS 3+4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"SS 3+4, 3+4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wheel Kicks Sao Paulo Special,"SS 3+4, 3+4, 3+4, u/f+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Shunjingozan,WR 4 ,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WR 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,WS 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cotovelo to Chapeu de Couro,"WS 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rising Batida,WS 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Martelo,WS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Circle Kick,WS 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 1,"4~3, 4, 2, 4, 4, 3+4, 3+4, 3+4, 3+4, u/f+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+10 Hit Combo 2,"4~3, 4, 2, 4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO HANDSTAND,,,,,,,,,,,,,,,,,,,
+*,"u/b, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handstand,f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crouch to Handstand,FC d/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Down to Handstand,While down (facing up) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+One Two Elbows to Handstand,"1, 2, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Jab to Island Mirage,"1, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick to Handstand,"3~4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Handspring to Handstand Kick,"3+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handstand Kick,f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Samba Handstand,"f+4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lunging Brush Fire to Handstand,"f, F+3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lunging Brush Fire to Perch Flop Kick,"f, F+3, B+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Folha Ataque,"f, F+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mao Esquerda to Handstand,"d/f+1, F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Island Mirage,d/f+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira to Handstand,"d/b+3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"d/b+3, d/b+4, 4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Barbed Wire Infinite Upside Down Kick,"d/b+4, b+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Gato to Au Batido to Handstand,"b+1, 4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Armada to Macacao to Negativa,"b+4, 4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Front Stinger to Handstand,"FC 3+4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special Cancel to Handstand,"SS 3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special to Handstand,"SS 3, n, B ",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special to Perch Flop Kick,"SS 3, n, B+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister to Handstand,"SS 4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dos Sole to Handstand,"SS 4~3, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister Front Stinger to Handstand,"SS 4, 3+4, D/B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"SS 3+4, 3+4, 3+4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa to Meia-lua Combo,"(During Negativa) 1, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Ipanema Wings,(During Negativa) 4~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Low Front Stinger Cancel,"(During Negativa) 3+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Low Front Stinger to Handstand*,"(During Negativa) 3+4, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Headspring to Handstand,(During Negativa) b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING HANDSTAND,,,,,,,,,,,,,,,,,,,
+Handstand to Handstand*,(During Handstand) f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handstand to Handstand to Cancel*,"(During Handstand) F+1+2 (or f, F+1+2)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Flop Right,(During Handstand) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Circus,"(During Handstand) 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Helicopter,(During Handstand) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Batucada,(During Handstand) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Quick Jab,(During Handstand) f+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mola Vermelha,(During Handstand) f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Perch,(During Handstand) D,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Perch Flop Kick,(During Handstand) D+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Handstand Tilt,"(During Handstand) u, n (or d, n)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Drop Kick,"(During Handstand) u, n, 3 (or u, n, 4)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Straight Flop,(During Handstand) u+3 (or u+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO NEGATIVA,,,,,,,,,,,,,,,,,,,
+Handstand to Negativa*,(During Handstand) N,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa,d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Left Jab to Island Mirage to Negativa,"1, 3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick,3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick to Heran Bago,"3~4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Satellite Moon Hot Plate Special,"4~3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Summy to Firekick,"u+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Firekick to Negativa,"u+3+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Jacks to Negativa,"u/f+3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jumping Jacks Evil Stinger,"u/f+3, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Lunging Brush Fire to Negativa,"f, F+3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cartao Vermelho,"f, f, f+3 (or WR+3)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Island Mirage to Negativa,"d/f+3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Palmares Giro,"d+2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Heran Bago to Negativa,d+3~3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Relogio to Negativa,d+3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira Hot Plate Special,"d/b+3, n, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rasteira to Heran Bago,"d/b+3, d/b+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Knee Thruster to Heran Bago,"b+3, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Front Stinger to Negativa,"FC 3+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bananeira Rolante,FC d/f+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special,SS 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special Cancel to Negativa,"SS 3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Twister Front Stinger to Negativa,"SS 4, 3+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"SS 3+4, 3+4, 3+4, u/f+3+4, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cotovelo to Ponteira,"WS 1, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"(During Negativa) 1, 3, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hot Plate Special,(During Handstand) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Slippery Kick,(During Handstand) 3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Helicopter to Slippery Kick,"(During Handstand) 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Tilt Twist Sweep,"(During Handstand) u+3, D (or u+4, D)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Scoot Kick,(During Handstand) b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING NEGATIVA,,,,,,,,,,,,,,,,,,,
+Side Roll to Sit,(During Negativa) U (or D),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) B or F,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa to Armada Combo,"(During Negativa) 1, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa to Flare Combo,"(During Negativa) 2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa to Lunging Brush Fire Combo,"(During Negativa) 2, f+3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Negativa to Au Batido,"(During Negativa) 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) 3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rio Delight Knee Slicer,"(During Negativa) 3, n, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+S-Dobrado,(During Negativa) 3~4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) 4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Knee Slicer Low Front Stinger,"(During Negativa) 4, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Low Front Stinger,(During Negativa) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mola Vermelha,(During Negativa) f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,(During Negativa) d/b+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Faisao,(During Handstand) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rage Drive,"(During Rage) f, F+3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
+Fruit Picker,"b, B+2+3 (b, b to cancel)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Rio Deal,1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rio Deal,f+1+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rio Special,2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rio Special,f+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Missile Launcher,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Shadow Dancer,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Back Rodeo Spin,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cabra Macaco Throw,Approach enemy... d/f+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rodeo Spin,Approach enemy... hcf+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Adeus,Approach crouching enemy... d+1+3 (or d+2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Running Tackle*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

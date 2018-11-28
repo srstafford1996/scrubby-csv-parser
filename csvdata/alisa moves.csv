@@ -1,0 +1,271 @@
+MOVE NAME,COMMAND,HIT,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
+*,1,high,-,-,-,-,-,-,-,-,10,+1,+8,+8,-,-,-,-,-
+Stop Bit,"1, 1","high, high",-,-,-,-,-,NC,-,-,10,-3,+5,+5,-,-,-,-,-
+*,"(1), 1",high,-,-,-,-,-,-,-,-,21,-3,+5,KND,-,-,-,-,-
+*,"1, 2","high, high",-,-,-,-,-,NC,-,-,10,-2,+4,+4,-,-,-,-,-
+*,"(1), 2",high,-,-,-,-,-,-,-,-,12,-2,+4,+9,-,-,-,-,-
+Coli Punch Combo,"1, 2, 2","high, high, low",-,-,-,-,-,NO,-,-,10,-11,+2,KND,-,-,-,-,-
+*,"(1), 2, 2","high, low",-,-,-,-,-,-,-,-,12,-11,+2,KND,-,-,-,-,-
+*,"(1), 2), 2",low,-,-,-,-,-,-,-,-,27,-11,+2,KND,-,-,-,-,-
+*,"1, 2, 2 (Hold)","high, high, low",-,-,-,-,-,-,-,-,10,-10,KND,KND,-,-,-,-,-
+*,"(1), (2), 2 (Hold)",low,-,-,-,-,-,-,-,-,21,-10,KND,KND,-,-,-,-,-
+Accelerator Combo,"1, 2, 4","high, high, high",-,-,-,-,-,NO,-,-,10,-5,KND,KND,-,-,-,-,-
+*,"(1), 2, 4","high, high",-,-,-,-,-,-,-,-,12,-5,KND,KND,-,-,-,-,-
+*,"(1), (2), 4",high,-,-,-,-,-,-,-,-,20,-5,KND,SCREW,-,-,-,-,-
+*,2,high,-,-,-,-,-,-,-,10 (12),12,-6,+5,+5,-,-,-,-,-
+*,"2, 3","high, mid",-,-,-,-,-,NO,-,"10 (12), 8",12,-10,+1,+1,-,-,-,-,-
+*,"(2), 3",mid,-,-,-,-,-,-,-,8 (9),22,-10,+1,+1,-,-,-,-,-
+Down Time,"2, 3, 3","high, mid, mid",-,-,-,-,-,NO,-,"10 (12), 8, 25",12,-11,KND,KND,-,-,-,-,-
+*,"(2), 3, 3","mid, mid",-,-,-,-,-,-,-,"8 (9), 25",22,-11,KND,KND,-,-,-,-,-
+*,"(2), (3), 3",mid,-,-,-,-,-,-,-,25 (30),20,-11,KND,SCREW,-,-,-,-,-
+Down Link,"2, 3, 4","high, mid, low",-,-,-,-,-,NO,-,-,12,-19,KND,KND,-,-,-,-,-
+*,"(2), 3, 4","mid, low",-,-,-,-,-,-,-,-,22,-19,KND,KND,-,-,-,-,-
+*,"(2), (3), 4",low,-,-,-,-,-,-,-,-,42,-19,KND,KND,-,-,-,-,-
+Right Jab to Accelerator,"2, 4","high, high",-,-,-,-,-,NO,-,-,12,-5,KND,KND,-,-,-,-,-
+*,"2, (4)",high,-,-,-,-,-,-,-,-,20,-5,KND,SCREW,-,-,-,-,-
+*,3,mid,-,-,-,-,-,-,-,-,14,-12,-1,-1,-,-,-,-,-
+Accelerator,4,high,-,-,-,-,-,-,-,-,13,-5,KND,SCREW,-,-,-,-,-
+Gigabyte Hammer,1+2,mid,-,-,-,-,-,-,-,-,33,-5,GROUND BOUNCE,GROUND BOUNCE,-,-,-,-,-
+*,u/f+2,high,-,-,-,-,-,-,-,-,15,-12,+9,+9,-,-,-,-,-
+*,u/f+3,mid,-,-,-,-,-,-,-,-,20,-52,-25,-25,-,-,-,-,-
+Cradle Star,"u/f+3, 2","mid, mid",-,-,-,-,-,NC,-,-,20,-14,KND,KND,-,-,-,-,-
+Downstream,u/f+3+4,mid,-,-,-,-,-,-,-,-,38,0,KND,KND,-,-,-,-,-
+*,u/f+4,mid,-,-,-,-,-,-,-,-,15,-15,-4,-4,-,-,-,-,-
+Inbound Kick,"u/f+4, 4","mid, mid",-,-,-,-,-,NC,-,-,15,-13,KND STUN,KND STUN,-,-,-,-,-
+*,"(u/f+4), 4",mid,-,-,-,-,-,-,-,-,24,-13,KND STUN,KND STUN,-,-,-,-,-
+*,f+2,mid,-,-,-,-,-,-,-,-,17,-4,+7,+7,-,-,-,-,-
+*,"f+2, 3","mid, high",-,-,-,-,-,NO,-,-,17,-8,+4,+4,-,-,-,-,-
+*,"(f+2), 3",high,-,-,-,-,-,-,-,-,22,-8,+4,+4,-,-,-,-,-
+*,"(f+2), (3), f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Triple Session,"f+2, 3, 3","mid, high, mid",-,-,-,-,-,NO,WALL BOUNCE,"12 (14), 8, 22",17,-10,KND,KND,-,-,-,-,-
+*,"(f+2), 3, 3","high, mid",-,-,-,-,-,-,-,"8 (9), 22",22,-10,KND,KND,-,-,-,-,-
+*,"(f+2), (3), 3",mid,-,-,-,-,-,-,-,22 (26),35,-10,KND,KND,-,-,-,-,-
+*,f+3,high,-,-,-,-,-,-,-,-,14,-14,-3,-3,-,-,-,-,-
+*,f+4,mid,-,-,-,-,-,-,-,-,16,-12,-2,-2,-,-,-,-,-
+*,"f+4, 1","mid, high",-,-,-,-,-,NC,-,-,16,-9,KND,KND,-,-,-,-,-
+*,"(f+4), 1",high,-,-,-,-,-,-,-,-,26,-9,KND,KND,-,-,-,-,-
+Logic Bomb,"f+4, 1, 4","mid, high, mid",-,-,-,-,-,NC,-,-,16,-12,KND,KND,-,-,-,-,-
+*,"(f+4), 1, 4","high, mid",-,-,-,-,-,-,-,-,26,-12,KND,KND,-,-,-,-,-
+*,"(f+4), (1), 4",mid,-,-,-,-,-,-,-,-,27,-12,KND,KND,-,-,-,-,-
+Overflow,f+1+2,mid,-,-,-,-,-,-,-,-,14,-12,+7,+7,-,-,-,-,-
+*,"f, F+2",mid,-,-,-,-,-,-,-,-,16,-18,+4,+4,-,-,-,-,-
+Jumper Switch,"f, F+2, 3","mid, mid",-,-,-,-,-,NC,-,-,16,-13,KND,KND,-,-,-,-,-
+*,"(f, F+2,) 3",mid,-,-,-,-,-,-,-,-,22,-13,KND,KND,-,-,-,-,-
+*,"f, F+3",mid,-,-,-,-,-,-,-,-,18,-18,-6,-6,-,-,-,-,-
+*,"f, F+3, 4","mid, high",-,-,-,-,-,NC,-,-,18,-9,KND,KND,-,-,-,-,-
+*,"(f, F+3), 4",high,-,-,-,-,-,-,-,-,19,-9,KND,KND,-,-,-,-,-
+Cutover,"f, F+3, 4, 4","mid, high, mid",-,-,-,-,-,NC,-,-,18,-10,SCREW,SCREW,-,-,-,-,-
+*,"(f, F+3), 4, 4","high, mid",-,-,-,-,-,-,-,-,19,-10,SCREW,SCREW,-,-,-,-,-
+*,"(f, F+3), (4), 4",mid,-,-,-,-,-,-,-,-,27,-10,KND,KND,-,-,-,-,-
+Sandbox,"f, F+4",mid,-,-,-,-,-,-,-,-,19,-11,+5,+5,-,-,-,-,-
+Sandbox,"f, F+4:f or b+1","mid, mid",-,-,-,-,-,NC,-,-,33,-,KND,-,-,-,-,-,-
+Worm Virus,"f, F+1+2","mid, mid",-,-,-,-,-,-,-,-,17,-16,KND,KND,-,-,-,-,-
+*,"f, F+1+2 (second hit only)",mid,-,-,-,-,-,-,-,-,29,-16,KND,KND,-,-,-,-,-
+Linear Punch,"f, f, f+2",high,-,-,-,-,-,-,-,-,13,+5,KND,KND,-,-,-,-,-
+*,"f, f, f+3",mid,-,-,-,-,-,-,-,-,18,-4,+6,+6,-,-,-,-,-
+Linear Dropkick,"f, f, f+3, 4","mid, mid",-,-,-,-,-,NC,-,-,18,-7,KND,KND,-,-,-,-,-
+*,"(f, f, f+3), 4",mid,-,-,-,-,-,-,-,-,20,-7,KND,KND,-,-,-,-,-
+*,d/f+1,mid,-,-,-,-,-,-,-,-,13,-6,+5,+8,-,-,-,-,-
+*,"d/f+1, 1","mid, high",-,-,-,-,-,NO,-,-,13,+1,+8,+8,-,-,-,-,-
+*,"(d/f+1), 1",high,-,-,-,-,-,-,-,-,32,+1,+8,+8,-,-,-,-,-
+Cyclone Hacker,"d/f+1, 4","mid, mid",-,-,-,-,-,NO,-,-,13,-9,+5,+5,-,-,-,-,-
+*,"(d/f+1), 4",mid,-,-,-,-,-,-,-,-,26,-9,+5,KND,-,-,-,-,-
+Picker,d/f+2,mid,-,-,-,-,-,-,-,-,16,-9,LAUNCH,LAUNCH,-,-,-,-,-
+*,d/f+3,mid,-,-,-,-,-,-,-,-,16,-9,+1,+1,-,-,-,-,-
+Double Socket,"d/f+3, 3","mid, low",-,-,-,-,-,NC,-,-,16,-12,+1,+1,-,-,-,-,-
+*,"(d/f+3), 3",low,-,-,-,-,-,-,-,-,23,-12,+1,KND,-,-,-,-,-
+*,d+2,mid,-,-,-,-,-,-,-,-,24,-14,+2,+2,-,-,-,-,-
+Deadlock,"d+2, 4","mid, mid",-,-,-,-,-,NC,-,-,24,-13,KND,KND,-,-,-,-,-
+*,"(d+2), 4",mid,-,-,-,-,-,-,-,-,18,-13,KND,KND,-,-,-,-,-
+*,d+4,low,-,-,-,-,-,-,-,-,17,-16,-5,-5,-,-,-,-,-
+Optimizer,"d+4, 1+2","low, high",-,-,-,-,-,NO,-,-,17,+2,KND,KND,-,-,-,-,-
+*,"(d+4), 1+2",high,-,-,-,-,-,-,-,-,23,+2,KND,KND,-,-,-,-,-
+Harpoon Sweep,d+3+4,low,-,-,-,-,-,-,-,-,27,-37,KND,KND,-,-,-,-,-
+*,d/b+2,mid,-,-,-,-,-,-,-,-,18,-18,-5,-5,-,-,-,-,-
+Daisy Chain,"d/b+2, 2","mid, mid",-,-,-,-,-,NO,-,-,18,-10,+14,+14,-,-,-,-,-
+*,"(d/b+2), 2",mid,-,-,-,-,-,-,-,-,19,-10,+14,+14,-,-,-,-,-
+Deep Link,d/b+3,low,-,-,-,-,-,-,-,-,16,-12,-1,+4,-,-,-,-,-
+Deep Web,d/b+4,low,-,-,-,-,-,-,-,-,24,-17,KND,KND,-,-,-,-,-
+*,b+1,mid,-,-,-,-,-,-,-,-,15,-5,+5,+5,-,-,-,-,-
+Gadget Found,"b+1, 1+2","mid, s.mid, mid",-,-,-,-,-,NO,-,-,15,-16,LAUNCH,LAUNCH,-,-,-,-,-
+*,"(b+1), 1+2","s.mid, mid",-,-,-,-,-,-,-,-,25,-16,LAUNCH,LAUNCH,-,-,-,-,-
+*,"(b+1), 1+2 (second hit only)",mid,-,-,-,-,-,-,-,-,70,-16,LAUNCH,LAUNCH,-,-,-,-,-
+*,b+2,mid,-,-,-,-,-,-,-,-,18,-12,-2,-2,-,-,-,-,-
+Trance Hammer,"b+2, 1","mid, mid",-,-,-,-,-,NC,-,-,18,-13,+3,+3,-,-,-,-,-
+*,"(b+2), 1",mid,-,-,-,-,-,-,-,-,25,-13,+3,KND STUN,-,-,-,-,-
+Trance Accelerator Kick,"b+2, 4","mid, high",-,-,-,-,-,NC,-,-,18,-7,KND,KND,-,-,-,-,-
+*,"(b+2), 4",high,-,-,-,-,-,-,-,-,16,-7,KND,SCREW,-,-,-,-,-
+Spinning Top,b+3,mid,-,-,-,-,-,-,-,-,20,-8,KND,KND,SCREW,-,-,-,-
+*,b+4,mid,-,-,-,-,-,-,-,-,15,-13,-4,CRUMPLE STUN,-,-,-,-,-
+Double Threading,"b+4, 3","mid, mid",-,-,-,-,-,NC,-,"17 (20), 20",15,-11,+6,+6,-,-,-,-,-
+*,"(b+4), 3",mid,-,-,-,-,-,-,-,20 (24),29,-11,+6,KND,-,-,-,-,-
+*,b+3+4,mid,-,-,-,-,-,-,-,-,19,-17,LAUNCH,LAUNCH,-,-,-,-,-
+Dynamic Range,"b+3+4, 3+4","mid, mid",-,-,-,-,-,NC,-,-,19,+6,KND,KND,-,-,-,-,-
+*,"(b+3+4), 3+4",mid,-,-,-,-,-,-,-,-,56,+6,KND,KND,-,-,-,-,-
+*,u/b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Docking Bay,"u/b+3+4, 1+2",-,-,-,-,-,-,-,-,-,51,-14,LAUNCH,LAUNCH,-,-,-,-,-
+*,BT 1 or 2,-,-,-,-,-,-,-,-,-,8,-8,+3,+3,-,-,-,-,-
+*,BT 3,-,-,-,-,-,-,-,-,-,10,-8,KND,KND,-,-,-,-,-
+*,BT 3+4,-,-,-,-,-,-,-,-,-,37,+2,KND STUN,KND STUN,-,-,-,-,-
+Goody Two Shoes,BT 4,-,-,-,-,-,-,-,-,-,16,0,KND,KND,-,-,-,-,-
+Sad Hound,FC d/f+1+2,-,-,-,-,-,-,-,-,-,21,-11,+5,+5,-,-,-,-,-
+*,FC d/f+1+2 (second hit only),-,-,-,-,-,-,-,-,-,31,-11,+5,+5,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,11,-4,+7,+7,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,16,-17,-3,-3,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,12,-15,-4,-4,-,-,-,-,-
+*,SS 4,-,-,-,-,-,-,-,-,-,24,-12,+2,+2,-,-,-,-,-
+Happy Propeller,"SS 4, 1+2",-,-,-,-,-,-,NO,-,-,18,-16,+8,+8,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,8,+13,KND,KND,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+*,WR 4,-,-,-,-,-,-,-,-,-,14,-40,KND,KND,-,-,-,-,-
+Thruster Double Punch,WR 1+2,-,-,-,-,-,-,-,-,-,18,-3,KND,KND,-,-,-,-,-
+*,WS 1,-,-,-,-,-,-,-,-,-,13,-12,-1,-1,-,-,-,-,-
+*,"WS 1, 2",-,-,-,-,-,-,NC,-,-,13,-5,+6,+6,-,-,-,-,-
+,"WS (1), 2",-,-,-,-,-,-,-,-,-,24,-5,+6,+6,-,-,-,-,-
+Spear Fishing,"WS 1, 2, 3",-,-,-,-,-,-,NO,-,-,13,-10,LAUNCH,LAUNCH,-,-,-,-,-
+,"WS (1), 2, 3",-,-,-,-,-,-,-,-,-,24,-10,LAUNCH,LAUNCH,-,-,-,-,-
+,"WS (1), (2), 3",-,-,-,-,-,-,-,-,-,25,-10,LAUNCH,LAUNCH,-,-,-,-,-
+Digital Lift,WS 2,-,-,-,-,-,-,-,-,-,17,-13,LAUNCH,LAUNCH,-,-,-,-,-
+*,WS 4,-,-,-,-,-,-,-,-,-,11,-5,+6,+6,-,-,-,-,-
+Cute But Deadly,WS 1+2,-,-,-,-,-,-,-,-,-,28,-4,KND,KND,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND STUN,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,13,-16,-3,-3,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,19,-16,KND,KND,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,21,-20,+1,KND STUN,-,-,-,-,-
+*,"Face Down, Feet Away+4 (close)",-,-,-,-,-,-,-,-,-,21,-19,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+4 (far)",-,-,-,-,-,-,-,-,-,21,-19,-8,KND,-,-,-,-,-
+*,(Upon Landing) f,-,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
+Reboot,While Down (Facing Up) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Reboot Meteor Kick,"While Down (Facing Up) 1+2, 3+4",-,-,-,-,-,-,-,-,-,22,-10,KND,KND,-,-,-,-,-
+Ground Rocket Punch,(While Enemy is Down) d/b+1+2,-,-,-,-,-,-,-,-,-,24,-14,KND,KND,-,-,-,-,-
+10 Hit Combo,"u/b+4, 1, 1, 2, 1, 1, 3+4, 3, 2, 2",-,-,-,-,-,-,-,-,-,17,-,-,-,-,-,-,-,-
+INTO BACKUP,,,,,,,,,,,,,,,,,,,
+Quick Slider,d+3,low,-,-,-,-,-,-,-,-,23,-11,+7,KND,-,-,-,-,-
+Backup,d/b+1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"f+3+4, b or d",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING BACKUP,,,,,,,,,,,,,,,,,,,
+Recovery Hook,(During Backup) 1,-,-,-,-,-,-,-,-,-,26,+4,KND,KND,-,-,-,-,-
+Meteor Kick,(During Backup) 3,-,-,-,-,-,-,-,-,-,24,-9,KND,KND,-,-,-33,-,-
+Uplink Knee,(During Backup) 4,-,-,-,-,-,-,-,-,-,18,-9,LAUNCH,LAUNCH,-,-,-,-,-
+INTO BOOT,,,,,,,,,,,,,,,,,,,
+Boot,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cradle Star to Boot,"u/f+3, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Overflow to Boot,"f+1+2, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Digital Lift to Boot,"WS 2, 3+4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING BOOT,,,,,,,,,,,,,,,,,,,
+*,(During Boot) 1,-,-,-,-,-,-,-,-,-,13,-15,0,0,-,-,-,-,-
+*,"(During Boot) 1, 2",-,-,-,-,-,-,-,-,-,13,-9,+2,+2,-,-,-,-,-
+*,"(During Boot) (1), 2",-,-,-,-,-,-,-,-,-,18,-9,+2,+7,-,-,-,-,-
+*,"(During Boot) 1, 2, 1",-,-,-,-,-,-,-,-,-,13,-20,-12,-12,-,-,-,-,-
+*,"(During Boot) (1), 2, 1",-,-,-,-,-,-,-,-,-,18,-20,-12,-12,-,-,-,-,-
+*,"(During Boot) (1), (2), 1",-,-,-,-,-,-,-,-,-,20,-20,-12,-12,-,-,-,-,-
+Hard Reset,"(During Boot) 1, 2, 1, 3+4",-,-,-,-,-,-,-,-,-,13,-18,KND,KND,-,-,-,-,-
+*,"(During Boot) (1), (2), (1), 3+4",-,-,-,-,-,-,-,-,-,18,-18,KND,KND,-,-,-,-,-
+Linear Elbow,(During Boot) 2,-,-,-,-,-,-,-,-,-,16,-8,KND,KND,-,-,-,-,-
+Eject Slider,(During Boot) 3,-,-,-,-,-,-,-,-,-,16,-14,+4,KND STUN,-,-,-,-,-
+Upstream,(During Boot) 4,-,-,-,-,-,-,-,-,-,18,-27,LAUNCH,LAUNCH,-,-,-,-,-
+INTO CLOCKWORK,,,,,,,,,,,,,,,,,,,
+Clockwork,WS 3 (hold B to cancel),-,-,-,-,-,-,-,-,-,19,-12,-1,-1,-,-,-,-,-
+DURING CLOCKWORK,,,,,,,,,,,,,,,,,,,
+Clockwork Spring Middle,(During Clockwork) 3,-,-,-,-,-,-,-,-,-,13,-10,+11,SCREW,-,-,-,-,-
+Clockwork Spring Middle Cancel*,(Clockwork Spring Middle) B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Clockwork Spring Low,(During Clockwork) d+3,-,-,-,-,-,-,-,-,-,30,-12,KND STUN,KND STUN,-,-,-,-,-
+INTO DESTRUCTIVE FORM,,,,,,,,,,,,,,,,,,,
+Destructive Form,d+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Charge to Destructive Form,"1+2+3+4, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Stop Bit to Destructive Form,"1, 1, 1+2",-,-,-,-,-,-,-,-,-,10,-3,+5,+5,-,-,-,-,-
+Quick Access,"3, 2",-,-,-,-,-,-,-,-,-,14,-9,+1,+1,-,-,-,-,-
+*,"(3), 2",-,-,-,-,-,-,-,-,-,24,-9,+1,+1,-,-,-,-,-
+Dual Session,"f+2, 1",-,-,-,-,-,-,-,-,-,17,-14,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+*,"(f+2), 1",-,-,-,-,-,-,-,-,-,24,-14,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Session to Destructive Form,"f+2, 1+2",-,-,-,-,-,-,-,-,-,17,-4,+7,+7,-,-,-,-,-
+Lost Access,"f+3, 2",-,-,-,-,-,-,-,-,-,14,-4,SCREW,SCREW,-,-,-,-,-
+*,"(f+3), 2",-,-,-,-,-,-,-,-,-,24,-4,SCREW,SCREW,-,-,-,-,-
+Automatic Transmission,"f+3, 1+2",-,-,-,-,-,-,-,-,-,14,-13,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+*,"(f+3), 1+2",-,-,-,-,-,-,-,-,-,24,-13,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Double Cut to Destructive Form,"f, F+3, 4, 1+2",-,-,-,-,-,-,-,-,-,18,-9,KND,KND,-,-,-,-,-
+Cutover to Destructive Form,"f, F+3, 4, 4, 1+2",-,-,-,-,-,-,-,-,-,18,-10,SCREW,SCREW,-,-,-,-,-
+Killer Worm Virus,"f, F+1+2, (During Hit) 2",-,-,-,-,-,-,-,-,-,17,-16,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Cyclone Mixer,"d/f+1, 1, 2",-,-,-,-,-,-,-,-,-,13,-21,+8,+8,-,-,-,-,-
+Deadlock to Destructive Form,"d+2, 4, 1+2",-,-,-,-,-,-,-,-,-,24,-13,KND,KND,-,-,-,-,-
+Harpoon Sweep to Destructive Form,"d+3+4, 1+2",-,-,-,-,-,-,-,-,-,27,-37,KND,KND,-,-,-,-,-
+Daisy Chain to Destructive Form,"d/b+2, 2, 1+2",-,-,-,-,-,-,-,-,-,18,-10,+14,+14,-,-,-,-,-
+Double Threading to Destructive Form,"b+4, 3, 1+2",-,-,-,-,-,-,-,-,-,15,-11,+6,+6,-,-,-,-,-
+Sad Hound to Destructive Form,"FC d/f+1+2, n, 1+2",-,-,-,-,-,-,-,-,-,21,-11,+5,+5,-,-,-,-,-
+*,"WS 1, 2, 1+2",-,-,-,-,-,-,-,-,-,13,-5,+6,+6,-,-,-,-,-
+Spear Fishing to Destructive Form,"WS 1, 2, 3, 1+2",-,-,-,-,-,-,-,-,-,13,-10,LAUNCH,LAUNCH,-,-,-,-,-
+Hard Reset to Destructive Form,"(During Boot) 1, 2, 1, 3+4, 1+2",-,-,-,-,-,-,-,-,-,13,-18,KND,KND,-,-,-,-,-
+Linear Elbow to Destructive Form,"(During Boot) 2, 1+2",-,-,-,-,-,-,-,-,-,16,-8,KND,KND,-,-,-,-,-
+Rage Drive to Destructive Form,"(During Rage) f+2+3, f+3+4",-,-,-,-,-,-,-,-,-,16,-,SCREW,SCREW,-,-,-,-,-
+DURING DESTRUCTIVE FORM,,,,,,,,,,,,,,,,,,,
+*,"(During Destructive Form) f, f",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Retro Rockets,"(During Destructive Form) b+3+4 (or b, b) (or u/b, b)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Destructive Form Cancel*,(During Destructive Form) D/B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Shredder,(During Destructive Form) 1,-,-,-,-,-,-,-,-,-,14,-9,KND,KND,-,-,-,-,-
+Death Marionette,(During Destructive Form) 1+2,-,-,-,-,-,-,-,-,-,16,0,KND,KND,-,-,-,-,-
+Shredding Uppercut,(During Destructive Form) 2,-,-,-,-,-,-,-,-,-,20,-8,LAUNCH,LAUNCH,-,-,-,-,-
+Idling,(During Destructive Form) 3 (or 4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spindle Slash,(During Destructive Form) u/f+1+2,-,-,-,-,-,-,-,-,-,29,-9,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Hertz Blade,(During Destructive Form) f+1,-,-,-,-,-,-,-,-,-,12,0,+11,+11,-,-,-,-,-
+*,(During Destructive Form) f+1+2,-,-,-,-,-,-,-,-,-,23,+7,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Hertz Blade Diablo,"(During Destructive Form) f+1+2, 1+2",-,-,-,-,-,-,-,-,-,23,-53,KND,KND,-,-,-,-,-
+*,"(During Destructive Form) (f+1+2), 1+2",-,-,-,-,-,-,-,-,-,20,-53,KND,KND,-,-,-,-,-
+Hertz Blade Aegis,(During Destructive Form) f+2,-,-,-,-,-,-,-,-,-,10,!,KND,KND,-,-,-,-,-
+Hertz Blade Scud,(During Destructive Form) d+1,-,-,-,-,-,-,-,-,-,20,-12,+3,+3,-,-,-,-,-
+Clock Setting,(During Destructive Form) d+2,-,-,-,-,-,-,-,-,-,30,-13,+2,+2,-,-,-,-,-
+Clock Setting*,(During Destructive Form) d+2 (Hold),-,-,-,-,-,-,-,-,-,30,-14,+3,+3,-,-,-,-,-
+*,(During Destructive Form) b+2,-,-,-,-,-,-,-,-,-,18,-12,-2,-2,-,-,-,-,-
+Hertz Blade - Tomahawk,"(During Destructive Form) b+2, 1",-,-,-,-,-,-,-,-,-,18,-3,KND,KND,-,-,-,-,-
+*,"(During Destructive Form) (b+2), 1",-,-,-,-,-,-,-,-,-,20,-3,KND,KND,-,-,-,-,-
+Evasive Action,(During Destructive Form) u+3+4 (or d+3+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Evasive Slash,"(During Destructive Form) u+3+4, 1 (or d+3+4, 1)",-,-,-,-,-,-,-,-,-,20,-10,KND,KND,-,-,-34,-,-
+Hertz Blade - Flare,(During Destructive Form) BT 1 (or 2),-,-,-,-,-,-,-,-,-,19,-9,KND,KND,-,-,-,-,-
+INTO DUAL BOOT,,,,,,,,,,,,,,,,,,,
+Dual Boot,"(During Destructive Form) f+3+4 (or f, f)",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Cradle Star to Dual Boot,"u/f+3, f+3+4",-,-,-,-,-,-,-,-,-,20,-80,-53,-53,-,-,-,-,-
+Overflow to Dual Boot,"f+1+2, f+3+4",-,-,-,-,-,-,-,-,-,14,-71,-52,-52,-,-,-,-,-
+Digital Lift to Dual Boot,"WS 2, f+3+4",-,-,-,-,-,-,-,-,-,17,-62,LAUNCH,LAUNCH,-,-,-,-,-
+DURING DUAL BOOT,,,,,,,,,,,,,,,,,,,
+Dual Boot Cancel*,(During Dual Boot) B,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thruster Left,(During Dual Boot) 1,-,-,-,-,-,-,-,-,-,24,+9,+11,+11,-,-,-,-,-
+Thruster Right,(During Dual Boot) 2,-,-,-,-,-,-,-,-,-,16,-14,KND,KND,-,-,-,-,-
+Thruster Right - Burst,"(During Dual Boot) 2, 1",-,-,-,-,-,-,-,-,-,16,-28,KND,KND,-,-,-,-,-
+*,"(During Dual Boot) 2, (1)",-,-,-,-,-,-,-,-,-,26,-11,KND,KND,-,-,-,-,-
+Destructive Form Cancel*,"(During Dual Boot) 2, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Thruster Drill,(During Dual Boot) 1+2,-,-,-,-,-,-,-,-,-,12,0,KND,KND,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Transmission,d/f+1+2,-,-,-,-,-,-,-,-,-,19,-14,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
+Overlord,"b, f+2",-,-,-,-,-,-,-,-,-,16,-8,KND,KND,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) b+1+2,-,-,-,-,-,-,-,-,-,13,+1,KND,KND,-,-,-,-,-
+Rage Drive,(During Rage) f+2+3,-,-,-,-,-,-,-,-,-,16,0,SCREW,SCREW,-,-,-,-,-
+*,(During Rage) f+2+3 (second hit only),-,-,-,-,-,-,-,-,-,19,0,SCREW,SCREW,-,,,,
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
+Rocket Punch,d/b+1~2,-,-,-,-,-,-,-,-,-,15,!,KND,KND,-,-,-,-,-
+Hang-Up,b+2+3,-,-,-,-,-,-,-,-,-,75,!,KND,KND,-,-,-,-,-
+Double Rocket Punch,"b, B+1+4",-,-,-,-,-,-,-,-,-,63,!,KND,KND,-,-,-,-,-
+Shredding Sky Punch,"(During Destructive Form) 2, (During Hit) 1",-,-,-,-,-,-,-,-,-,28,!,KND,KND,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Trigger Shuffle,1+3,-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+Trigger Shuffle,f+1+3,-,-,-,-,-,-,-,-,-,15,-,KND,KND,-,-,-,-,-
+Back Door,2+4,-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+Back Door,f+2+4,-,-,-,-,-,-,-,-,-,15,-,KND,KND,-,-,-,-,-
+Compression,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+Hat Trick,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+Random Typing,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+Spam Bomb,u/f+1+2,-,-,-,-,-,-,-,-,-,11,-,KND,KND,-,-,-,-,-
+Double Bull Shoot,FC d/b+1+2,-,-,-,-,-,-,-,-,-,11,-,KND,KND,-,-,-,-,-
+Running Tackle*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,16,-,KND,KND,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,,
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,"u/b, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Taunt 1,1+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Taunt 2,1+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Model Change,b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
