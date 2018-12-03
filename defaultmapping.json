@@ -5,5 +5,13 @@
 	"START UP": "speed",
 	"ON BLOCK": "on_block",
 	"ON HIT": "on_hit",
-	"NOTES": "notes"
+	"NOTES": "notes",
+	"RANGE": "range",
+	"TRACKING": "homing",
+	"CRUSH": "crush",
+	"JAIL": "jail",
+	"NC": "natural_combo",
+	"NCc": "natural_counter_combo",
+	"ENVIRONEMENT": "environmental_effect",
+	"ACTIVE": "active_frames"
 }

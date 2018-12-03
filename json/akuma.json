@@ -14,7 +14,7 @@
 			"on_block": "+1",
 			"on_hit": "+8",
 			"notes": "-",
-			"id": "akuma1"
+			"id": "akuma_1"
 		},
 		{
 			"properties": [],
@@ -27,7 +27,7 @@
 			"on_block": "-3",
 			"on_hit": "+4",
 			"notes": "-",
-			"id": "akuma2"
+			"id": "akuma_2"
 		},
 		{
 			"properties": [],
@@ -40,7 +40,7 @@
 			"on_block": "-3",
 			"on_hit": "+4",
 			"notes": "-",
-			"id": "akuma3"
+			"id": "akuma_3"
 		},
 		{
 			"properties": [],
@@ -53,7 +53,7 @@
 			"on_block": "-17",
 			"on_hit": "+10",
 			"notes": "-",
-			"id": "akuma4"
+			"id": "akuma_4"
 		},
 		{
 			"properties": [],
@@ -66,7 +66,7 @@
 			"on_block": "-17",
 			"on_hit": "+10",
 			"notes": "-",
-			"id": "akuma5"
+			"id": "akuma_5"
 		},
 		{
 			"properties": [],
@@ -79,7 +79,7 @@
 			"on_block": "-9",
 			"on_hit": "0",
 			"notes": "-",
-			"id": "akuma6"
+			"id": "akuma_6"
 		},
 		{
 			"properties": [],
@@ -92,7 +92,7 @@
 			"on_block": "-8",
 			"on_hit": "+3",
 			"notes": "-",
-			"id": "akuma7"
+			"id": "akuma_7"
 		},
 		{
 			"properties": [],
@@ -105,7 +105,7 @@
 			"on_block": "-13",
 			"on_hit": "+2",
 			"notes": "-",
-			"id": "akuma8"
+			"id": "akuma_8"
 		},
 		{
 			"properties": [],
@@ -118,7 +118,7 @@
 			"on_block": "-5",
 			"on_hit": "+19",
 			"notes": "-",
-			"id": "akuma9"
+			"id": "akuma_9"
 		},
 		{
 			"properties": [],
@@ -131,7 +131,7 @@
 			"on_block": "-5",
 			"on_hit": "+19",
 			"notes": "-",
-			"id": "akuma10"
+			"id": "akuma_10"
 		},
 		{
 			"properties": [],
@@ -144,7 +144,7 @@
 			"on_block": "-9",
 			"on_hit": "+1",
 			"notes": "-",
-			"id": "akuma11"
+			"id": "akuma_11"
 		},
 		{
 			"properties": [],
@@ -157,7 +157,7 @@
 			"on_block": "-9",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma12"
+			"id": "akuma_12"
 		},
 		{
 			"properties": [],
@@ -170,7 +170,7 @@
 			"on_block": "-8",
 			"on_hit": "+5 (OC)",
 			"notes": "-",
-			"id": "akuma13"
+			"id": "akuma_13"
 		},
 		{
 			"properties": [],
@@ -183,7 +183,7 @@
 			"on_block": "-8",
 			"on_hit": "+5 (OC)",
 			"notes": "-",
-			"id": "akuma14"
+			"id": "akuma_14"
 		},
 		{
 			"properties": [],
@@ -196,7 +196,7 @@
 			"on_block": "-9",
 			"on_hit": "+2",
 			"notes": "-",
-			"id": "akuma15"
+			"id": "akuma_15"
 		},
 		{
 			"properties": [],
@@ -209,7 +209,7 @@
 			"on_block": "-14",
 			"on_hit": "-2",
 			"notes": "-",
-			"id": "akuma16"
+			"id": "akuma_16"
 		},
 		{
 			"properties": [],
@@ -222,7 +222,7 @@
 			"on_block": "-13",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma17"
+			"id": "akuma_17"
 		},
 		{
 			"properties": [],
@@ -235,7 +235,7 @@
 			"on_block": "0",
 			"on_hit": "+2 (OC)",
 			"notes": "-",
-			"id": "akuma18"
+			"id": "akuma_18"
 		},
 		{
 			"properties": [],
@@ -248,7 +248,7 @@
 			"on_block": "+1",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma19"
+			"id": "akuma_19"
 		},
 		{
 			"properties": [],
@@ -261,7 +261,7 @@
 			"on_block": "+6",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma20"
+			"id": "akuma_20"
 		},
 		{
 			"properties": [],
@@ -274,7 +274,7 @@
 			"on_block": "-4",
 			"on_hit": "+7",
 			"notes": "-",
-			"id": "akuma21"
+			"id": "akuma_21"
 		},
 		{
 			"properties": [],
@@ -287,7 +287,7 @@
 			"on_block": "-3",
 			"on_hit": "+6",
 			"notes": "-",
-			"id": "akuma22"
+			"id": "akuma_22"
 		},
 		{
 			"properties": [],
@@ -300,7 +300,7 @@
 			"on_block": "-3",
 			"on_hit": "+6",
 			"notes": "-",
-			"id": "akuma23"
+			"id": "akuma_23"
 		},
 		{
 			"properties": [],
@@ -313,7 +313,7 @@
 			"on_block": "-13 (OC)",
 			"on_hit": "+5 (OC)",
 			"notes": "-",
-			"id": "akuma24"
+			"id": "akuma_24"
 		},
 		{
 			"properties": [],
@@ -326,7 +326,7 @@
 			"on_block": "-13 (OC)",
 			"on_hit": "+5 (OC)",
 			"notes": "-",
-			"id": "akuma25"
+			"id": "akuma_25"
 		},
 		{
 			"properties": [],
@@ -339,7 +339,7 @@
 			"on_block": "-13",
 			"on_hit": "+5",
 			"notes": "-",
-			"id": "akuma26"
+			"id": "akuma_26"
 		},
 		{
 			"properties": [],
@@ -352,7 +352,7 @@
 			"on_block": "-7",
 			"on_hit": "+3",
 			"notes": "-",
-			"id": "akuma27"
+			"id": "akuma_27"
 		},
 		{
 			"properties": [],
@@ -365,7 +365,7 @@
 			"on_block": "-18",
 			"on_hit": "LAUNCH",
 			"notes": "-",
-			"id": "akuma28"
+			"id": "akuma_28"
 		},
 		{
 			"properties": [],
@@ -378,7 +378,7 @@
 			"on_block": "-18",
 			"on_hit": "LAUNCH",
 			"notes": "-",
-			"id": "akuma29"
+			"id": "akuma_29"
 		},
 		{
 			"properties": [],
@@ -391,7 +391,7 @@
 			"on_block": "-11",
 			"on_hit": "0",
 			"notes": "-",
-			"id": "akuma30"
+			"id": "akuma_30"
 		},
 		{
 			"properties": [],
@@ -404,7 +404,7 @@
 			"on_block": "-11",
 			"on_hit": "0",
 			"notes": "-",
-			"id": "akuma31"
+			"id": "akuma_31"
 		},
 		{
 			"properties": [],
@@ -417,7 +417,7 @@
 			"on_block": "-17",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma32"
+			"id": "akuma_32"
 		},
 		{
 			"properties": [],
@@ -430,7 +430,7 @@
 			"on_block": "-17",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma33"
+			"id": "akuma_33"
 		},
 		{
 			"properties": [],
@@ -443,7 +443,7 @@
 			"on_block": "-17",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma34"
+			"id": "akuma_34"
 		},
 		{
 			"properties": [],
@@ -456,7 +456,7 @@
 			"on_block": "-12",
 			"on_hit": "+1",
 			"notes": "-",
-			"id": "akuma35"
+			"id": "akuma_35"
 		},
 		{
 			"properties": [],
@@ -469,7 +469,7 @@
 			"on_block": "-16",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma36"
+			"id": "akuma_36"
 		},
 		{
 			"properties": [],
@@ -482,7 +482,7 @@
 			"on_block": "-14",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma37"
+			"id": "akuma_37"
 		},
 		{
 			"properties": [],
@@ -495,7 +495,7 @@
 			"on_block": "-9",
 			"on_hit": "+8",
 			"notes": "-",
-			"id": "akuma38"
+			"id": "akuma_38"
 		},
 		{
 			"properties": [],
@@ -508,7 +508,7 @@
 			"on_block": "-13",
 			"on_hit": "+1",
 			"notes": "-",
-			"id": "akuma39"
+			"id": "akuma_39"
 		},
 		{
 			"properties": [],
@@ -521,7 +521,7 @@
 			"on_block": "-5",
 			"on_hit": "+6",
 			"notes": "-",
-			"id": "akuma40"
+			"id": "akuma_40"
 		},
 		{
 			"properties": [],
@@ -534,7 +534,7 @@
 			"on_block": "-13",
 			"on_hit": "-2",
 			"notes": "-",
-			"id": "akuma41"
+			"id": "akuma_41"
 		},
 		{
 			"properties": [],
@@ -547,7 +547,7 @@
 			"on_block": "-13",
 			"on_hit": "-2",
 			"notes": "-",
-			"id": "akuma42"
+			"id": "akuma_42"
 		},
 		{
 			"properties": [],
@@ -560,7 +560,7 @@
 			"on_block": "-4",
 			"on_hit": "+7",
 			"notes": "-",
-			"id": "akuma43"
+			"id": "akuma_43"
 		},
 		{
 			"properties": [],
@@ -573,7 +573,7 @@
 			"on_block": "-11",
 			"on_hit": "-2",
 			"notes": "-",
-			"id": "akuma44"
+			"id": "akuma_44"
 		},
 		{
 			"properties": [],
@@ -586,7 +586,7 @@
 			"on_block": "-11",
 			"on_hit": "-2",
 			"notes": "-",
-			"id": "akuma45"
+			"id": "akuma_45"
 		},
 		{
 			"properties": [],
@@ -599,7 +599,7 @@
 			"on_block": "-27",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma46"
+			"id": "akuma_46"
 		},
 		{
 			"properties": [],
@@ -612,7 +612,7 @@
 			"on_block": "+15",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma47"
+			"id": "akuma_47"
 		},
 		{
 			"properties": [],
@@ -625,7 +625,7 @@
 			"on_block": "-",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma48"
+			"id": "akuma_48"
 		},
 		{
 			"properties": [],
@@ -638,7 +638,7 @@
 			"on_block": "-24",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma49"
+			"id": "akuma_49"
 		},
 		{
 			"properties": [],
@@ -651,7 +651,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma50"
+			"id": "akuma_50"
 		},
 		{
 			"properties": [],
@@ -664,7 +664,7 @@
 			"on_block": "-5",
 			"on_hit": "+6",
 			"notes": "-",
-			"id": "akuma51"
+			"id": "akuma_51"
 		},
 		{
 			"properties": [],
@@ -677,7 +677,7 @@
 			"on_block": "-16",
 			"on_hit": "LAUNCH",
 			"notes": "-",
-			"id": "akuma52"
+			"id": "akuma_52"
 		},
 		{
 			"properties": [],
@@ -690,7 +690,7 @@
 			"on_block": "-10",
 			"on_hit": "+2",
 			"notes": "-",
-			"id": "akuma53"
+			"id": "akuma_53"
 		},
 		{
 			"properties": [],
@@ -703,7 +703,7 @@
 			"on_block": "-9",
 			"on_hit": "+2",
 			"notes": "-",
-			"id": "akuma54"
+			"id": "akuma_54"
 		},
 		{
 			"properties": [],
@@ -716,7 +716,7 @@
 			"on_block": "-15",
 			"on_hit": "-5 (OC)",
 			"notes": "-",
-			"id": "akuma55"
+			"id": "akuma_55"
 		},
 		{
 			"properties": [],
@@ -729,7 +729,7 @@
 			"on_block": "-15",
 			"on_hit": "-5 (OC)",
 			"notes": "-",
-			"id": "akuma56"
+			"id": "akuma_56"
 		},
 		{
 			"properties": [],
@@ -742,7 +742,7 @@
 			"on_block": "-25 ~ +2",
 			"on_hit": "-15 ~ +12",
 			"notes": "-",
-			"id": "akuma57"
+			"id": "akuma_57"
 		},
 		{
 			"properties": [],
@@ -755,7 +755,7 @@
 			"on_block": "-18 ~ +7",
 			"on_hit": "-8 ~ +17",
 			"notes": "-",
-			"id": "akuma58"
+			"id": "akuma_58"
 		},
 		{
 			"properties": [],
@@ -768,7 +768,7 @@
 			"on_block": "-25 ~ +2",
 			"on_hit": "-15 ~ +12",
 			"notes": "-",
-			"id": "akuma59"
+			"id": "akuma_59"
 		},
 		{
 			"properties": [],
@@ -781,7 +781,7 @@
 			"on_block": "-18 ~ +7",
 			"on_hit": "-8 ~ +17",
 			"notes": "-",
-			"id": "akuma60"
+			"id": "akuma_60"
 		},
 		{
 			"properties": [],
@@ -794,7 +794,7 @@
 			"on_block": "-23 ~ +4",
 			"on_hit": "-13 ~ +14",
 			"notes": "-",
-			"id": "akuma61"
+			"id": "akuma_61"
 		},
 		{
 			"properties": [],
@@ -807,7 +807,7 @@
 			"on_block": "-18 ~ +9",
 			"on_hit": "-8 ~ +19",
 			"notes": "-",
-			"id": "akuma62"
+			"id": "akuma_62"
 		},
 		{
 			"properties": [],
@@ -820,7 +820,7 @@
 			"on_block": "-26 ~ +2",
 			"on_hit": "-16 ~ +12",
 			"notes": "-",
-			"id": "akuma63"
+			"id": "akuma_63"
 		},
 		{
 			"properties": [],
@@ -833,7 +833,7 @@
 			"on_block": "-20 ~ +9",
 			"on_hit": "-10 ~ +19",
 			"notes": "-",
-			"id": "akuma64"
+			"id": "akuma_64"
 		},
 		{
 			"properties": [],
@@ -846,7 +846,7 @@
 			"on_block": "-6 ~ +1",
 			"on_hit": "+9 ~ +16",
 			"notes": "-",
-			"id": "akuma65"
+			"id": "akuma_65"
 		},
 		{
 			"properties": [],
@@ -859,7 +859,7 @@
 			"on_block": "-12",
 			"on_hit": "+5",
 			"notes": "-",
-			"id": "akuma66"
+			"id": "akuma_66"
 		},
 		{
 			"properties": [],
@@ -872,7 +872,7 @@
 			"on_block": "-12",
 			"on_hit": "+5",
 			"notes": "-",
-			"id": "akuma67"
+			"id": "akuma_67"
 		},
 		{
 			"properties": [],
@@ -885,7 +885,7 @@
 			"on_block": "-20",
 			"on_hit": "-3",
 			"notes": "-",
-			"id": "akuma68"
+			"id": "akuma_68"
 		},
 		{
 			"properties": [],
@@ -898,7 +898,7 @@
 			"on_block": "-12",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma69"
+			"id": "akuma_69"
 		},
 		{
 			"properties": [],
@@ -911,7 +911,7 @@
 			"on_block": "+2",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma70"
+			"id": "akuma_70"
 		},
 		{
 			"properties": [],
@@ -924,7 +924,7 @@
 			"on_block": "-20",
 			"on_hit": "+1",
 			"notes": "-",
-			"id": "akuma71"
+			"id": "akuma_71"
 		},
 		{
 			"properties": [],
@@ -937,7 +937,7 @@
 			"on_block": "-19",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma72"
+			"id": "akuma_72"
 		},
 		{
 			"properties": [],
@@ -950,7 +950,7 @@
 			"on_block": "-2",
 			"on_hit": "+3",
 			"notes": "-",
-			"id": "akuma73"
+			"id": "akuma_73"
 		},
 		{
 			"properties": [],
@@ -963,7 +963,7 @@
 			"on_block": "-26 (+3)",
 			"on_hit": "KND / LAUNCH (FADC)",
 			"notes": "-",
-			"id": "akuma74"
+			"id": "akuma_74"
 		},
 		{
 			"properties": [],
@@ -976,7 +976,7 @@
 			"on_block": "-34",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma75"
+			"id": "akuma_75"
 		},
 		{
 			"properties": [],
@@ -989,7 +989,7 @@
 			"on_block": "-36",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma76"
+			"id": "akuma_76"
 		},
 		{
 			"properties": [],
@@ -1002,7 +1002,7 @@
 			"on_block": "-36",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma77"
+			"id": "akuma_77"
 		},
 		{
 			"properties": [],
@@ -1015,7 +1015,7 @@
 			"on_block": "0",
 			"on_hit": "+14",
 			"notes": "-",
-			"id": "akuma78"
+			"id": "akuma_78"
 		},
 		{
 			"properties": [],
@@ -1028,7 +1028,7 @@
 			"on_block": "0",
 			"on_hit": "LAUNCH (FADC)",
 			"notes": "-",
-			"id": "akuma79"
+			"id": "akuma_79"
 		},
 		{
 			"properties": [],
@@ -1041,7 +1041,7 @@
 			"on_block": "-",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma80"
+			"id": "akuma_80"
 		},
 		{
 			"properties": [],
@@ -1054,7 +1054,7 @@
 			"on_block": "-24",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma81"
+			"id": "akuma_81"
 		},
 		{
 			"properties": [],
@@ -1067,7 +1067,7 @@
 			"on_block": "-4 ~ +7",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma82"
+			"id": "akuma_82"
 		},
 		{
 			"properties": [],
@@ -1080,7 +1080,7 @@
 			"on_block": "-9 ~ -5",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma83"
+			"id": "akuma_83"
 		},
 		{
 			"properties": [],
@@ -1093,7 +1093,7 @@
 			"on_block": "-10 ~ +1",
 			"on_hit": "+23 ~ +33",
 			"notes": "-",
-			"id": "akuma84"
+			"id": "akuma_84"
 		},
 		{
 			"properties": [],
@@ -1106,7 +1106,7 @@
 			"on_block": "+4 ~ +6 (OC) ",
 			"on_hit": "+16 ~ +19 (OC)",
 			"notes": "-",
-			"id": "akuma85"
+			"id": "akuma_85"
 		},
 		{
 			"properties": [],
@@ -1119,7 +1119,7 @@
 			"on_block": "-",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma86"
+			"id": "akuma_86"
 		},
 		{
 			"properties": [],
@@ -1132,7 +1132,7 @@
 			"on_block": "-",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma87"
+			"id": "akuma_87"
 		},
 		{
 			"properties": [],
@@ -1145,7 +1145,7 @@
 			"on_block": "-9",
 			"on_hit": "-1",
 			"notes": "-",
-			"id": "akuma88"
+			"id": "akuma_88"
 		},
 		{
 			"properties": [],
@@ -1158,7 +1158,7 @@
 			"on_block": "-1",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma89"
+			"id": "akuma_89"
 		},
 		{
 			"properties": [],
@@ -1171,7 +1171,7 @@
 			"on_block": "-13",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma90"
+			"id": "akuma_90"
 		},
 		{
 			"properties": [],
@@ -1184,7 +1184,7 @@
 			"on_block": "-15",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma91"
+			"id": "akuma_91"
 		},
 		{
 			"properties": [],
@@ -1197,7 +1197,7 @@
 			"on_block": "-14",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma92"
+			"id": "akuma_92"
 		},
 		{
 			"properties": [],
@@ -1210,7 +1210,7 @@
 			"on_block": "-14",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma93"
+			"id": "akuma_93"
 		},
 		{
 			"properties": [],
@@ -1223,7 +1223,7 @@
 			"on_block": "-14",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma94"
+			"id": "akuma_94"
 		},
 		{
 			"properties": [],
@@ -1236,7 +1236,7 @@
 			"on_block": "-",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma95"
+			"id": "akuma_95"
 		},
 		{
 			"properties": [],
@@ -1249,7 +1249,7 @@
 			"on_block": "-10 ~ +2",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma96"
+			"id": "akuma_96"
 		},
 		{
 			"properties": [],
@@ -1262,7 +1262,7 @@
 			"on_block": "",
 			"on_hit": "",
 			"notes": "-",
-			"id": "akuma97"
+			"id": "akuma_97"
 		},
 		{
 			"properties": [],
@@ -1275,7 +1275,7 @@
 			"on_block": "-34",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma98"
+			"id": "akuma_98"
 		},
 		{
 			"properties": [],
@@ -1288,7 +1288,7 @@
 			"on_block": "-36",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma99"
+			"id": "akuma_99"
 		},
 		{
 			"properties": [],
@@ -1301,7 +1301,7 @@
 			"on_block": "-36",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma100"
+			"id": "akuma_100"
 		},
 		{
 			"properties": [],
@@ -1314,7 +1314,7 @@
 			"on_block": "-",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma101"
+			"id": "akuma_101"
 		},
 		{
 			"properties": [],
@@ -1327,7 +1327,7 @@
 			"on_block": "+9",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma102"
+			"id": "akuma_102"
 		},
 		{
 			"properties": [],
@@ -1340,7 +1340,7 @@
 			"on_block": "+1",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma103"
+			"id": "akuma_103"
 		},
 		{
 			"properties": [],
@@ -1353,7 +1353,7 @@
 			"on_block": "-15",
 			"on_hit": "S!",
 			"notes": "-",
-			"id": "akuma104"
+			"id": "akuma_104"
 		},
 		{
 			"properties": [],
@@ -1366,7 +1366,7 @@
 			"on_block": "-15",
 			"on_hit": "S!",
 			"notes": "-",
-			"id": "akuma105"
+			"id": "akuma_105"
 		},
 		{
 			"properties": [],
@@ -1379,7 +1379,7 @@
 			"on_block": "-15",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma106"
+			"id": "akuma_106"
 		},
 		{
 			"properties": [],
@@ -1392,7 +1392,7 @@
 			"on_block": "+3",
 			"on_hit": "+20",
 			"notes": "-",
-			"id": "akuma107"
+			"id": "akuma_107"
 		},
 		{
 			"properties": [],
@@ -1405,7 +1405,7 @@
 			"on_block": "-25",
 			"on_hit": "S!",
 			"notes": "-",
-			"id": "akuma108"
+			"id": "akuma_108"
 		},
 		{
 			"properties": [],
@@ -1418,7 +1418,7 @@
 			"on_block": "-",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma109"
+			"id": "akuma_109"
 		},
 		{
 			"properties": [],
@@ -1431,7 +1431,7 @@
 			"on_block": "-4 ~ +11",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma110"
+			"id": "akuma_110"
 		},
 		{
 			"properties": [],
@@ -1444,7 +1444,7 @@
 			"on_block": "+2",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma111"
+			"id": "akuma_111"
 		},
 		{
 			"properties": [],
@@ -1457,7 +1457,7 @@
 			"on_block": "-20",
 			"on_hit": "-8",
 			"notes": "-",
-			"id": "akuma112"
+			"id": "akuma_112"
 		},
 		{
 			"properties": [],
@@ -1470,7 +1470,7 @@
 			"on_block": "-5",
 			"on_hit": "+7",
 			"notes": "-",
-			"id": "akuma113"
+			"id": "akuma_113"
 		},
 		{
 			"properties": [],
@@ -1483,7 +1483,7 @@
 			"on_block": "-15",
 			"on_hit": "-3",
 			"notes": "-",
-			"id": "akuma114"
+			"id": "akuma_114"
 		},
 		{
 			"properties": [],
@@ -1496,7 +1496,7 @@
 			"on_block": "-11",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma115"
+			"id": "akuma_115"
 		},
 		{
 			"properties": [],
@@ -1509,7 +1509,7 @@
 			"on_block": "+4",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma116"
+			"id": "akuma_116"
 		},
 		{
 			"properties": [],
@@ -1522,7 +1522,7 @@
 			"on_block": "-6",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma117"
+			"id": "akuma_117"
 		},
 		{
 			"properties": [],
@@ -1535,7 +1535,7 @@
 			"on_block": "",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma118"
+			"id": "akuma_118"
 		},
 		{
 			"properties": [],
@@ -1548,7 +1548,7 @@
 			"on_block": "-",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma119"
+			"id": "akuma_119"
 		},
 		{
 			"properties": [],
@@ -1561,7 +1561,7 @@
 			"on_block": "-",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma120"
+			"id": "akuma_120"
 		},
 		{
 			"properties": [],
@@ -1574,7 +1574,7 @@
 			"on_block": "-",
 			"on_hit": "CRUMPLE STUN",
 			"notes": "-",
-			"id": "akuma121"
+			"id": "akuma_121"
 		},
 		{
 			"properties": [],
@@ -1587,7 +1587,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "1 BREAK",
-			"id": "akuma122"
+			"id": "akuma_122"
 		},
 		{
 			"properties": [],
@@ -1600,7 +1600,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma123"
+			"id": "akuma_123"
 		},
 		{
 			"properties": [],
@@ -1613,7 +1613,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "1 BREAK",
-			"id": "akuma124"
+			"id": "akuma_124"
 		},
 		{
 			"properties": [],
@@ -1626,7 +1626,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma125"
+			"id": "akuma_125"
 		},
 		{
 			"properties": [],
@@ -1639,7 +1639,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "1 BREAK",
-			"id": "akuma126"
+			"id": "akuma_126"
 		},
 		{
 			"properties": [],
@@ -1652,7 +1652,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma127"
+			"id": "akuma_127"
 		},
 		{
 			"properties": [],
@@ -1665,7 +1665,7 @@
 			"on_block": "-",
 			"on_hit": "KND",
 			"notes": "-",
-			"id": "akuma128"
+			"id": "akuma_128"
 		},
 		{
 			"properties": [],
@@ -1678,7 +1678,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma129"
+			"id": "akuma_129"
 		},
 		{
 			"properties": [],
@@ -1691,7 +1691,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "1 BREAK",
-			"id": "akuma130"
+			"id": "akuma_130"
 		},
 		{
 			"properties": [],
@@ -1704,7 +1704,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma131"
+			"id": "akuma_131"
 		},
 		{
 			"properties": [],
@@ -1717,7 +1717,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "1 BREAK",
-			"id": "akuma132"
+			"id": "akuma_132"
 		},
 		{
 			"properties": [],
@@ -1730,7 +1730,7 @@
 			"on_block": "0",
 			"on_hit": "KND",
 			"notes": "2 BREAK",
-			"id": "akuma133"
+			"id": "akuma_133"
 		},
 		{
 			"properties": [],
@@ -1743,7 +1743,7 @@
 			"on_block": "-",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma134"
+			"id": "akuma_134"
 		},
 		{
 			"properties": [],
@@ -1756,7 +1756,7 @@
 			"on_block": "-",
 			"on_hit": "-",
 			"notes": "-",
-			"id": "akuma135"
+			"id": "akuma_135"
 		}
 	]
 }
