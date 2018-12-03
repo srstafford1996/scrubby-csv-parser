@@ -15,6 +15,12 @@ const JSON_DIR = path.join(__dirname, 'json');
 const GIF_PATH = path.join(__dirname, 'T7C Move List with GIF URLs (CSV File).csv');
 const MAPPING = require('./defaultmapping.json');
 
+gifParser = (previewUrl) => {
+	const giantAdded = previewUrl.replace(/gfycat/, 'giant.gfycat');
+	const typeAdded = giantAdded.replace(/$/, '.gif');
+	return typeAdded;
+}
+
 
 const parseChar = function (names, movelistFN) {
 	const moveListPath = path.join(CSV_DIR, movelistFN);
@@ -109,7 +115,7 @@ const moveListToJson = function (moveListCSVArray, gifsObj, label) {
 					let gifData = gifsObj[rowArray[i]];
 
 					if (gifData) {
-						rowObj['preview_url'] = gifData.preview_url;
+						rowObj['preview_url'] = gifParser(gifData.preview_url);
 						rowObj['move_name'] = gifData.move_name;
 					}
 				}
@@ -136,13 +142,12 @@ const moveListToJson = function (moveListCSVArray, gifsObj, label) {
 rl.question('Character Display Name: ', (displayName) => {
 	rl.question('Character Full Name: ', (fullname) => {
 		rl.question('Character Label: ', (label) => {
-			rl.question('Move file name: ', (movelistFileName) => {
-				parseChar({
-					displayName: displayName,
-					fullname: fullname,
-					label: label
-				}, movelistFileName);
-			});
+			parseChar({
+				displayName: displayName,
+				fullname: fullname,
+				label: label
+			}, `${label} moves.csv`);
+			rl.close();
 		});
 	});
 })
