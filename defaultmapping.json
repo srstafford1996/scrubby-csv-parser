@@ -5,13 +5,15 @@
 	"START UP": "speed",
 	"ON BLOCK": "on_block",
 	"ON HIT": "on_hit",
+	"ON CH": "on_ch",
 	"NOTES": "notes",
 	"RANGE": "range",
-	"TRACKING": "homing",
+	"TRACKING": "tracking",
 	"CRUSH": "crush",
 	"JAIL": "jail",
 	"NC": "natural_combo",
 	"NCc": "natural_counter_combo",
 	"ENVIRONEMENT": "environmental_effect",
-	"ACTIVE": "active_frames"
+	"ACTIVE": "active_frames",
+	"IN AIR": "in_air"
 }
