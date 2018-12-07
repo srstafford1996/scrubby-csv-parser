@@ -1,0 +1,187 @@
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,SPEED,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",high throw,-,-,-,low / mid,-,-,-,40,i40,-,KND,-,-,-,-,-,-
+*,1,high,-,-,-,-,-,-,-,-,i10,+1,+8,+8,-,-,-,-,-
+One Two Punch,"1, 2","high, high",-,-,-,-,-,-,-,-,i10,-1,+5,-,-,-,-,-,-
+*,"(1), 2",high,-,-,-,-,-,-,-,-,i10,-1,+5,+5,-,-,-,-,-
+Left Right Uppercut,"1, 2, 1","high, high, mid",-,-,-,-,-,-,-,-,i10,-5,+1,-,-,-,-,-,-
+*,"(1), 2, 1","high, mid",-,-,-,-,-,-,-,-,i10,-5,+1,-,-,-,-,-,-
+*,"(1), (2), 1",mid,-,-,-,-,-,-,-,-,i24,-5,+1,+31,-,-,-,-,-
+Jab Uppercut,"2, 1","high, mid",-,-,-,-,-,-,-,-,i10,-2,+5,-,-,-,-,-,-
+*,"(2), 1",mid,-,-,-,-,-,-,-,-,i23,-2,+5,+5,-,-,-,-,-
+*,1+2,mid,-,-,-,-,-,-,-,-,i17,-10,0,0,-,-,-,-,-
+Dark Cyclone,"1+2, 2","mid, high",-,-,-,-,-,-,-,-,i17,-3,KND,-,-,-,-,-,-
+*,"(1+2), 2",high,-,-,-,-,-,-,-,-,i18,-3,KND,KND,-,-,-,-,-
+Dark Buzzsaw,"1+2, 4","mid, mid",-,-,-,-,-,-,-,-,i17,-13,+8,-,-,-,-,-,-
+*,"(1+2), 4",mid,-,-,-,-,-,-,-,-,i19,-13,+8,STUN,-,-,-,-,-
+Round Out Body Press,"3+4, 1","mid, mid",-,-,-,-,-,-,-,-,i25,0,KND,-,-,-,-,-,-
+*,"(3+4), 1",mid,-,-,-,-,-,-,-,-,i24,0,KND,KND,-,-,-,-,-
+Round Out Elbow,"3+4, 2","mid, mid",-,-,-,-,-,-,-,-,i25,-18,KND,-,-,-,-,-,-
+*,"(3+4), 2",mid,-,-,-,-,-,-,-,-,i17,-18,KND,KND,-,-,-,-,-
+*,f+2,mid,-,-,-,-,-,-,-,-,i15,-11,+2,+2,-,-,-,-,-
+Dark Elbow Hook,"f+2, 1","mid, high",-,-,-,-,-,-,-,-,i15,-9,KND,-,-,-,-,-,-
+*,"(f+2), 1",high,-,-,-,-,-,-,-,-,i18,-9,KND,KND,-,-,-,-,-
+*,f+3,mid,-,-,-,-,-,-,-,-,i16,-3,+4,+4,-,-,-,-,-
+Switch-Kick Tornado,"f+3, 4","mid, mid",-,-,-,-,-,-,-,-,i16,-7,+3,-,-,-,-,-,-
+*,"(f+3), 4",mid,-,-,-,-,-,-,-,-,i27,-7,+3,+3,-,-,-,-,-
+Switch-Kick Tornado,"f+3, 4, 3","mid, mid, high",-,-,-,-,-,-,-,-,i16,-7,KND,-,-,-,-,-,-
+*,"(f+3), 4, 3","mid, high",-,-,-,-,-,-,-,-,i27,-7,KND,-,-,-,-,-,-
+*,"(f+3), (4), 3",high,-,-,-,-,-,-,-,-,i25,-7,KND,KND,-,-,-,-,-
+Wind-Up Stomp,f+4,mid,-,-,-,-,-,-,-,-,i23,+2 (OC),+7 (OC),KND,-,-,-,-,-
+Shoulder Impact,f+1+4,mid,-,-,-,-,-,-,-,-,i13,-20,KND,KND,-,-,-,-,-
+Minced Liver,d/f+1,mid,-,-,-,-,-,-,-,-,i13,-1,+7,+7,-,-,-,-,-
+Concussion Hook,d/f+2,mid,-,-,-,-,-,-,-,-,i15,-12,-1,KND,-,-,-,-,-
+Dark Knee Lift,d/f+3,mid,-,-,-,-,-,-,-,-,i17,-5,+5,STUN,-,-,-,-,-
+Spinning Lariat,d/f+1+2,mid,-,-,-,-,-,-,-,-,i25,-7,KND,KND,-,-,-,-,-
+*,d+1 (or FC 1),s. mid,-,-,-,-,-,-,-,-,i10,-5,+6,+6,-,-,-,-,-
+Knee Lift Combination,"d+1, 4 (or FC 1, 4)","s. mid, mid",-,-,-,-,-,-,-,-,i10,-10,+6,-,-,-,-,-,-
+*,"(d+1), 4 (or FC (1), 4)",mid,-,-,-,-,-,-,-,-,i15,-10,+6,+6,-,-,-,-,-
+*,d+2,mid,-,-,-,-,-,-,-,-,i17,-5,+5 (OC),+9 (OC),-,-,-,-,-
+*,"d+2, 4","mid, mid",-,-,-,-,-,-,-,-,i17,-14,-3,-,-,-,-,-,-
+*,"(d+2), 4",mid,-,-,-,-,-,-,-,-,i22,-14,-3,-3,-,-,-,-,-
+Blackjack Combination,"d+2, 4, 3","mid, mid, mid",-,-,-,-,-,-,-,-,i17,-11,KND,-,-,-,-,-,-
+*,"(d+2), 4, 3","mid, mid",-,-,-,-,-,-,-,-,i22,-11,KND,-,-,-,-,-,-
+*,"(d+2), (4), 3",mid,-,-,-,-,-,-,-,-,i35,-11,KND,KND,-,-,-,-,-
+Stomp,d+3,low,-,-,-,-,-,-,-,-,i17,-12,+1,+1,-,-,-,-,-
+*,d+4,low,-,-,-,-,-,-,-,-,i14,-13,-2,-2,-,-,-,-,
+Corporate Elbow,d+1+2,mid,-,-,-,-,-,-,-,-,i30,-8 (OC),0 (OC),0 (OC),-,-,-,-,-
+*,d+3+4,low,-,-,-,-,-,-,-,-,i17,-16,-5,-3,-,-,-,-,-
+Taurus Cutter Edge,"d+3+4, 1","low, high",-,-,-,-,-,-,-,-,i17,-9,+15,-,-,-,-,-,-
+*,"(d+3+4), 1",high,-,-,-,-,-,-,-,-,i20,-9,+15,S!,-,-,-,-,-
+Taurus Cutter Trap,"d+3+4, 3","low, mid",-,-,-,-,-,-,-,-,i17,-16,KND,-,-,-,-,-,-
+*,"(d+3+4), 3",mid,-,-,-,-,-,-,-,-,i23,-16,KND,KND,-,-,-,-,-
+Killer PK Combo,d/b+2,mid,-,-,-,-,-,-,-,-,i14,-11,0,0,-,-,-,-,-
+*,"d/b+2, 3","mid, mid",-,-,-,-,-,-,-,-,i14,-16,KND,-,-,-,-,-,-
+*,"(d/b+2), 3",mid,-,-,-,-,-,-,-,-,i28,-16,KND,KND,-,-,-,-,-
+Dark PK Combo,"d/b+2, 4","mid, high",-,-,-,-,-,-,-,-,i14,-9,+13,-,-,-,-,-,-
+*,"(d/b+2), 4",high,-,-,-,-,-,-,-,-,i20,-9,+13,KND,-,-,-,-,-
+Foot Sweep,d/b+3,low,-,-,-,-,-,-,-,-,i23,-26,+5 (OC),KND,-,-,-,-,-
+Low Drop Kick,d/b+4,low,-,-,-,-,-,-,-,-,i29,-20,KND,KND,-,-,-,-,-
+Stomping Headbutt,d/b+1+2,mid,-,-,-,-,-,-,-,-,i26,-8,KND,KND,-,-,-,-,-
+*,b+1,high,-,-,-,-,-,-,-,-,i12,-7,+5,STUN,-,-,-,-,-
+Dark Jab to Hell Stab,"b+1, 2","high, mid",-,-,-,-,-,-,-,-,i12,-12,+6,-,-,-,-,-,-
+*,"(b+1), 2",mid,-,-,-,-,-,-,-,-,i20,-12,+6,KND,-,-,-,-,-
+*,b+2,mid,-,-,-,-,-,-,-,-,i15,-9,+2 (OC),+2 (OC),-,-,-,-,-
+*,"b+2, 1","mid, mid",-,-,-,-,-,-,-,-,i15,-12,-1,-,-,-,-,-,-
+*,"(b+2), 1",mid,-,-,-,-,-,-,-,-,i18,-12,-1,-1,-,-,-,-,-
+Knife Edge Combo,"b+2, 1, 2","mid, mid, high",-,-,-,-,-,-,-,-,i15,-7,S!,-,-,-,-,-,-
+*,"(b+2), 1, 2","mid, high",-,-,-,-,-,-,-,-,i18,-7,S!,-,-,-,-,-,-
+*,"(b+2), (1), 2",high,-,-,-,-,-,-,-,-,i25,-7,S!,S!,-,-,-,-,-
+Toll Kick,b+3,high,-,-,-,-,-,-,-,-,i16,-10,KND,KND,-,-,-,-,-
+Toe Kick,b+4,mid,-,-,-,-,-,-,-,-,i15,-11,0,0,-,-,-,-,-
+Blindside,b+1+2,mid,-,-,-,-,-,-,-,-,i18,+1,+5,+16,-,-,-,-,-
+Straight Arrow,b+1+4,mid,-,-,-,-,-,-,-,-,i11,-13,KND,KND,-,-,-,-,-
+Water Parting Chop,u/b+1,high,-,-,-,-,-,-,-,-,i20,-6,KND,KND,-,-,-,-,-
+High Elbow Drop,u/f+2,mid,-,-,-,-,-,-,-,-,i47,-17,KND,KND,-,-,-,-,-
+Switch Jumping Knee Attack,u/f+3,mid,-,-,-,-,-,-,-,-,i21,-8,+5,STUN,-,-,-,-,-
+Rising Toe Kick,u/f+4,mid,-,-,-,-,-,-,-,-,i15,-13,LAUNCH,LAUNCH,-,-,-,-,-
+Capital Punishment,u/f+1+2,mid,-,-,-,-,-,-,-,-,i35,+2 (OC),STUN,STUN,-,-,-,-,-
+Scissors Kick,u/f+3+4,mid,-,-,-,-,-,-,-,-,i32,-14,KND,KND,-,-,-,-,-
+Underhanded,"f, f, n+2",low,-,-,-,-,-,-,-,-,i19,-18,+7,STUN,-,-,-,-,-
+Solar Plexus Punch,"f, F+2",mid,-,-,-,-,-,-,-,-,i16,-11,KND,KND,-,-,-,-,-
+Comeback Kick,"f, F+3",high,-,-,-,-,-,-,-,-,i17,0,STUN,STUN,-,-,-,-,-
+Brawler Kick,"f, F+4",mid,-,-,-,-,-,-,WALL BOUNCE,-,i15,-14,KND,KND,-,-,-,-,-
+Flying Forearm,"f, F+1+2",mid,-,-,-,-,-,-,-,-,i22,-14,KND,KND,-,-,-,-,-
+Drop Kick,"f, F+3+4",high,-,-,-,-,-,-,-,-,i23,-10,KND,KND,-,-,-,-,-
+Shadow Lariat,"f, n, d, d/f+1",high,-,-,-,-,-,-,-,-,i15,+6,KND,KND,-,-,-,-,-
+Dark Smash,"f, n, d, d/f+2",high,-,-,-,-,-,-,-,-,i11,-10,LAUNCH,LAUNCH,-,-,-,-,-
+Knee Vault,"f, n, d, d/f+4",mid,-,-,-,-,-,-,-,-,i16,-9,KND,KND,-,-,-,-,-
+Flying Brawler Kick,"f, f, f+3",mid,-,-,-,-,-,-,-,-,i23,+10,KND,KND,-,-,-,-,-
+Satellite Drop Kick,"f, f, f+3+4",mid,-,-,-,-,-,-,-,-,i28,+17,KND,KND,-,-,-,-,-
+Dashing Low Drop Kick,Run more than 3 steps... 4,low,-,-,-,-,-,-,-,-,i20,-24,KND,KND,-,-,-,-,-
+*,FC 2,s. mid,-,-,-,-,-,-,-,-,i11,-4,+7,+7,-,-,-,-,-
+*,FC 3,low,-,-,-,-,-,-,-,-,i18,-16,-2,-2,-,-,-,-,-
+*,FC 4,low,-,-,-,-,-,-,-,-,i14,-15,-4,-4,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",mid,-,-,-,-,-,-,-,-,i8,+13,KND,KND,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,-,-,-,-,-,-,-,-,i12,-,KND,KND,-,-,-,-,-
+*,WR 1+2,mid,-,-,-,-,-,-,-,-,i18,0,KND,KND,-,-,-,-,-
+Snap Uppercut,WS 1,mid,-,-,-,-,-,-,-,-,i16,-10,KND,KND,-,-,-,-,-
+Jugular Thrust,WS 2,mid,-,-,-,-,-,-,-,-,i12,-10,+2,STUN,-,-,-,-,-
+*,WS 3,high,-,-,-,-,-,-,-,-,i16,0,KND,KND,-,-,-,-,-
+*,WS 4,mid,-,-,-,-,-,-,-,-,i11,-6,+5,+5,-,-,-,-,-
+Backhand Chop,WS d/f+2,mid,-,-,-,-,-,-,-,-,i24,+1,STUN,STUN,-,-,-,-,-
+*,SS 2,mid,-,-,-,-,-,-,-,-,i15,-12,-1,-1,-,-,-,-,-
+Death Sandwich,"SS 2, 1","mid, mid",-,-,-,-,-,-,-,-,i15,-13,STUN,-,-,-,-,-,-
+*,"SS (2), 1",mid,-,-,-,-,-,-,-,-,i25,-13,STUN,STUN,-,-,-,-,-
+Buzz Saw Kick,SS 4,mid,-,-,-,-,-,-,-,-,i19,-12,KND,STUN,-,-,-,-,-
+Neck Cutter Kick,SS 3+4,high,-,-,-,-,-,-,-,-,i24,-6,+46,+46,-,-,-,-,-
+*,(While enemy is down) d+4,low,-,-,-,-,-,-,-,-,i18,-,-5,-,-,-,-,-,-
+*,"(While enemy is down) d+4, 4","low, low",-,-,-,-,-,-,-,-,i18,-,-3,-,-,-,-,-,-
+Twisted Mind,"(While enemy is down) d+4, 4, 4","low, low, low",-,-,-,-,-,-,-,-,i18,-,-3,-,-,-,-,-,-
+10 Hit Combo 1,"d/f+2, 1, 3, 2, 2, 4, 2, 1, 3+4, 2",-,-,-,-,-,-,-,-,-,i15,-,KND,KND,-,-,-,-,-
+10 Hit Combo 2,"d/f+2, 1, 3, 2, 2, 3, 4, 1+2, 2, 1+2",-,-,-,-,-,-,-,-,-,i15,-,KND,KND,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,-,-,-,-,-,-,-,-,i22,-12,+5,STUN,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,-,-,-,-,-,-,-,-,i22,-12,+5,KND,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",low,-,-,-,-,-,-,-,-,i13,-20,-3,-3,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",mid,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+3",low,-,-,-,-,-,-,-,-,i21,-20,+1,STUN,-,-,-,-,-
+*,"Face Down, Feet Away+4 (Far)",mid,-,-,-,-,-,-,-,-,i21,-19,-10,KND,-,-,-,-,-
+*,"Face Down, Feet Away+4 (Close)",mid,-,-,-,-,-,-,-,-,i21,-19,KND,KND,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,mid,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
+INTO BT,,,,,,,,,,,,,,,,,,,
+Round Out Kick,3+4,mid,-,-,-,-,-,-,-,-,25,-7,+3,+3,-,-,-,-,-
+Dark Destroyer,b+2+3 (D to cancel),mid,-,-,-,-,-,-,-,-,63,!,KND,KND,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",mid,-,-,-,-,-,-,-,-,16,-5,KND,KND,-,-,-,-,-
+DURING BT,,,,,,,,,,,,,,,,,,,
+Blind Kick,BT 3,mid,-,-,-,-,-,-,-,-,13,-20,STUN,STUN,-,-,-,-,-
+Turn Sobat,BT 4,mid,-,-,-,-,-,-,-,-,18,-10,KND,KND,-,-,-,-,-
+INTO SHADOW STEP,,,,,,,,,,,,,,,,,,,
+Shadow Step,d+1+4 (or d+2+3),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Stomping Headbutt Cancel to Shadow Step,"d/b+1+2, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Comeback Kick to Shadow Step,"f, F+3, D",high,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING SHADOW STEP,,,,,,,,,,,,,,,,,,,
+Shadow Press,(During Shadow Step) 1+2,mid,-,-,-,-,-,-,-,-,14,-18,KND,KND,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Hammer Impact,f+1+2,mid,-,-,-,-,-,-,-,-,20,-13,KND,KND,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) b+3+4,mid,-,-,-,-,-,-,-,-,i20,-22,KND,KND,-,-,-,-,-
+Rage Drive,"(During Rage) f, n, d, d/f+1+2 (Hold)",high,-,-,-,-,-,-,-,-,i19,!,+24,+24,-,-,-,-,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
+Moonsault Drop,1+4,mid,-,-,-,-,-,-,-,-,i52,!,KND,KND,-,-,-,-,-
+Burning Knuckle,u/f+1+2 (Hold),mid,-,-,-,-,-,-,-,-,i58,!,KND,KND,-,-,-,-,-
+Dark Inferno,"f, n, d, d/f+3",high,-,-,-,-,-,-,-,-,i31,!,KND,KND,-,-,-,-,-
+Poison Mist,"f, n, d, d/f+1+2",high,-,-,-,-,-,-,-,-,i28,!,+7,+7,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Knee Bash,Approach enemy... 1+3,high throw,-,-,-,-,-,-,-,35,12,-6,KND,-,-,-,-,-,-
+Suplex,Approach enemy... 2+4,high throw,-,-,-,-,-,-,-,35,12,-3,KND,-,-,-,-,-,-
+Phenomenon Shadow DDT,3+4 (Hold),high throw,-,-,-,-,-,-,-,40,34,-,KND,-,-,-,-,-,-
+Knee Bash,Approach enemy... f+1+3,high throw,-,-,-,-,-,-,-,-,15,-6,KND,-,-,-,-,-,-
+Suplex,Approach enemy... f+2+4,high throw,-,-,-,-,-,-,-,-,15,-3,KND,-,-,-,-,-,-
+Jaguar Screwdriver,"(During Suplex) d, d, d+1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Frakensteiner,d/f+3+4,s.mid throw,-,-,-,-,-,-,-,-,28,-,KND,-,-,-,-,-,-
+Toe Kick to Stunner,b+4 (during hit from the front) 1+2,-,-,-,-,-,-,-,-,-,15,-,KND,-,-,-,-,-,-
+Reverse Death Valley Bomb,Approach from left side... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,-,12,-,KND,-,-,-,-,-,-
+Heavy Fall Reverse DDT,Approach from right side... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,-,12,-,KND,-,-,-,-,-,-
+Reverse DDT,Approach from behind... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,-,12,-,KND,-,-,-,-,-,-
+Driving Headbutt,Approach enemy... d/f+2+3,high throw,-,-,-,-,-,-,-,-,12,-3,KND,-,-,-,-,-,-
+Tombstone Piledriver,"Approach enemy... d/b, f+2+4",high throw,-,-,-,-,-,-,-,-,15,-3,KND,-,-,-,-,-,-
+DDT,"Approach enemy... d/b, d/b+1+2",high throw,-,-,-,-,-,-,-,-,11,-6,KND,-,-,-,-,-,-
+Hades Drop,Approach enemy... qcb+1+2,high throw,-,-,-,-,-,-,-,-,11,-3,KND,-,-,-,-,-,-
+Double Arm Swing,"Approach enemy... f, hcf+1",high throw,-,-,-,-,-,-,-,-,10,-7,KND,-,-,-,-,-,-
+Brilliant Brawler Kick,"f, f, f+2+4",high throw,-,-,-,-,-,-,-,-,10,-5,KND,-,-,-,-,-,-
+Armor King Driver,"While crouching... d/b, d, d/b+1+2",high throw,-,-,-,-,-,-,-,-,12,-6,KND,-,-,-,-,-,-
+Demon Bomb,Approach (crouching enemy) d+1+3,mid throw,-,-,-,-,-,-,-,-,12,-2,KND,-,-,-,-,-,-
+Spinning Leg Lock,Approach (crouching enemy) d+2+4,mid throw,-,-,-,-,-,-,-,-,12,-2,KND,-,-,-,-,-,-
+Stand Up,(While enemy is down) d/b+2+4,mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Seesaw Whip,(Enemy on back) by the feet... d/b+1+3,mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Enzui Knee,(Enemy on back) by the head... d/b+1+3,mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Turn Over,(Enemy on back) by enemy's side... d/b+1+3 (or d/b+2+4),mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Standing Heel Hold,(Enemy face down) by the feet... d/b+1+3,mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Wake-Up Lariat,(Enemy face down) by the head.. d/b+1+3,mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Back Mount,(Enemy face down) by enemy's side... d/b+1+3 (or d/b+2+4),mid throw,-,-,-,-,-,-,-,-,18,-,KND,-,-,-,-,-,-
+Muscle Driver,"Approach mid-air enemy... f, hcf+1",high throw,-,-,-,-,-,-,-,-,10,-,KND,-,-,-,-,-,-
+Running Cross Driver,"Approach mid-air enemy... f, f, f+2+4",high throw,-,-,-,-,-,-,-,-,10,-,KND,-,-,-,-,-,-
+Catch,Time with enemy punch... b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Jugular Thrust Trap,(During Catch) 2,mid,-,-,-,-,-,-,-,-,17,-10,+2,STUN,-,-,-,-,-
+Cobra Clutch,"Approach enemy... f, n, d, D/F+1+4 (or 2+3)",high throw,-,-,-,-,-,-,-,-,12,-2,KND,-,-,-,-,-,-
+Flinging Half Nelson,"(During Cobra Clutch) 2+4, 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Sleeper,"(During Cobra Clutch) 3+4, 3+4, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Neck Drop,"(During Cobra Clutch) 2, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Triple Trouble,"(During Sleeper) 1, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Human Necktie,"(During Sleeper) 3, 4, 1+2, 3+4",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Choke Sleeper,"(During Neck Drop) 4, 3, 3+4, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+3-Count Pound,"(During Neck Drop) 3+4, 2, 1, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen)",mid throw,-,-,-,-,-,-,-,-,16,-5 (BT),KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-

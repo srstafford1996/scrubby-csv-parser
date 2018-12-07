@@ -1,7 +1,9 @@
 {
+	"ACTIVE": "active",
 	"COMMAND": "notation",
 	"HIT LEVEL": "hit_level",
 	"DAMAGE": "damage",
+	"GAP": "pushback",
 	"START UP": "speed",
 	"ON BLOCK": "on_block",
 	"ON HIT": "on_hit",
@@ -11,9 +13,11 @@
 	"TRACKING": "tracking",
 	"CRUSH": "crush",
 	"JAIL": "jail",
+	"CANCELLABLE": "cancelable",
+	"NC / NCc": "natural",
 	"NC": "natural_combo",
 	"NCc": "natural_counter_combo",
-	"ENVIRONEMENT": "environmental_effect",
+	"ENVIRONEMENTAL": "environmental",
 	"ACTIVE": "active_frames",
 	"IN AIR": "in_air"
 }
