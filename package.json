@@ -10,6 +10,8 @@
   "author": "Stephen Stafford",
   "license": "ISC",
   "dependencies": {
-    "csv": "^5.0.0"
+    "axios": "^0.18.0",
+    "csv": "^5.0.0",
+    "csv-generate": "^3.2.0"
   }
 }
