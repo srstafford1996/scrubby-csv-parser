@@ -1,188 +1,223 @@
-SPECIAL,COMMAND,HIT LEVEL,RANGE,PUSHBACK,TRACKING,CRUSH,JAIL,NC / NCc,OC / OCc,BREAK / SPLAT,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,RECOVERY,ACTIVE
-,,,,,,,,,,,,,,,,,
-PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-WS PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-MOVELIST,,,,,,,,,,,,,,,,,
-*,1,,,,,,,,,,,,,,,,
-Resorte,"1, 2",,,,,,,,,,,,,,,,
-Up-stroke,"1, 2, 4",,,,,,,,,,,,,,,,
-Martillo,"1, 2, 1+2",,,,,,,,,,,,,,,,
-Bombo,"1, 3",,,,,,,,,,,,,,,,
-*,2,,,,,,,,,,,,,,,,
-Gancho doble,"2, 1",,,,,,,,,,,,,,,,
-*,3,,,,,,,,,,,,,,,,
-Mariposa,"3, 4",,,,,,,,,,,,,,,,
-*,4,,,,,,,,,,,,,,,,
-*,1+2,,,,,,,,,,,,,,,,
-*,"1+2, D",,,,,,,,,,,,,,,,
-Martillo doble,"1+2, 1+2",,,,,,,,,,,,,,,,
-Chulería,1+4,,,,,,,,,,,,,,,,
-Obús,u/f+1,,,,,,,,,,,,,,,,
-*,u/f+3,,,,,,,,,,,,,,,,
-*,"u/f+3, 2",,,,,,,,,,,,,,,,
-Trinidad Slash,"u/f+3, 2, 2",,,,,,,,,,,,,,,,
-Patada atrás,u/f+4,,,,,,,,,,,,,,,,
-Telefonazo,f+2,,,,,,,,,,,,,,,,
-*,f+3,,,,,,,,,,,,,,,,
-Emblema,"f+3, 4",,,,,,,,,,,,,,,,
-*,f+4,,,,,,,,,,,,,,,,
-Ciclón,"f+4, 2",,,,,,,,,,,,,,,,
-Calambre,f+1+2,,,,,,,,,,,,,,,,
-*,f+3+4,,,,,,,,,,,,,,,,
-Rude Charge,f+2+3,,,,,,,,,,,,,,,,
-*,"f, F+2",,,,,,,,,,,,,,,,
-Megawatt Uppercut,"f, F+2, 1",,,,,,,,,,,,,,,,
-Megawatt Uppercut - Amplified,"f, F+2, 2",,,,,,,,,,,,,,,,
-*,"f, F+2, 2, D",,,,,,,,,,,,,,,,
-Direct Drive,"f, F+3",,,,,,,,,,,,,,,,
-Taconeo,"f, f, f+3",,,,,,,,,,,,,,,,
-Flanco,d/f+1,,,,,,,,,,,,,,,,
-Double Choking,"d/f+1, 1",,,,,,,,,,,,,,,,
-Double Choking Body,"d/f+1, 1, 2",,,,,,,,,,,,,,,,
-Flanco y patada,"d/f+1, 1, 3",,,,,,,,,,,,,,,,
-Uno-dos,"d/f+1, 2",,,,,,,,,,,,,,,,
-*,d/f+2,,,,,,,,,,,,,,,,
-Campeón,"d/f+2, 1",,,,,,,,,,,,,,,,
-Toro,"d/f+2, 2",,,,,,,,,,,,,,,,
-Hachazo,"d/f+2, d+2",,,,,,,,,,,,,,,,
-*,d/f+3,,,,,,,,,,,,,,,,
-Tunda,"d/f+3, 2",,,,,,,,,,,,,,,,
-*,d/f+4,,,,,,,,,,,,,,,,
-Espada,"d/f+4, 1",,,,,,,,,,,,,,,,
-Sable,"d/f+4, 1, 1",,,,,,,,,,,,,,,,
-Codazo,d+2,,,,,,,,,,,,,,,,
-Bajeza,d+3,,,,,,,,,,,,,,,,
-Bajeza con cabeza,"d+4, 1+2",,,,,,,,,,,,,,,,
-Rompeolas,d+1+2,,,,,,,,,,,,,,,,
-Puntera de acero,d+3+4,,,,,,,,,,,,,,,,
-Tortura,d/b+1,,,,,,,,,,,,,,,,
-*,d/b+1 (Hold),,,,,,,,,,,,,,,,
-Vamos,d/b+2,,,,,,,,,,,,,,,,
-Zancadilla,d/b+3,,,,,,,,,,,,,,,,
-Paso de baile,"d/b+3, 4",,,,,,,,,,,,,,,,
-Segada,d/b+4,,,,,,,,,,,,,,,,
-Guantazo,b+1,,,,,,,,,,,,,,,,
-Coraje,"b+2, 2",,,,,,,,,,,,,,,,
-Oleaje,b+3,,,,,,,,,,,,,,,,
-Manotazo,"b, f+1",,,,,,,,,,,,,,,,
-Tambor,u/b+1,,,,,,,,,,,,,,,,
-Tambor y platillos,"u/b+1, 4",,,,,,,,,,,,,,,,
-*,BT 1 or 2,,,,,,,,,,,,,,,,
-*,BT 3 or 4,,,,,,,,,,,,,,,,
-*,BT u/f+3,,,,,,,,,,,,,,,,
-*,BT u/f+4,,,,,,,,,,,,,,,,
-*,FC 1,,,,,,,,,,,,,,,,
-*,FC 2,,,,,,,,,,,,,,,,
-*,FC 3,,,,,,,,,,,,,,,,
-*,FC 4,,,,,,,,,,,,,,,,
-Palmeo,FC d/f+2,,,,,,,,,,,,,,,,
-Punteo,FC d/f+4,,,,,,,,,,,,,,,,
-Charging Tackle*,"WR f, f, F (Full Screen)",,,,,,,,,,,,,,,,
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",,,,,,,,,,,,,,,,
-*,WR 4,,,,,,,,,,,,,,,,
-*,WR 1+2,,,,,,,,,,,,,,,,
-Rasgado,WS 1,,,,,,,,,,,,,,,,
-*,WS 2,,,,,,,,,,,,,,,,
-*,"WS 2, 2",,,,,,,,,,,,,,,,
-Trinidad,"WS 2, 2, 2",,,,,,,,,,,,,,,,
-Distorsión,"WS 2, 4",,,,,,,,,,,,,,,,
-Cabriola,WS 3,,,,,,,,,,,,,,,,
-*,WS 4,,,,,,,,,,,,,,,,
-Cejilla,WS 1+2,,,,,,,,,,,,,,,,
-*,"WS 1+2, 4, 1, 1, 2, 1, 4, 1, 2, 1",,,,,,,,,,,,,,,,
-Pedaleo,While enemy is down... d+3,,,,,,,,,,,,,,,,
-*,"Held Jump, 1",,,,,,,,,,,,,,,,
-*,Jump~1,,,,,,,,,,,,,,,,
-*,"Jump, n~1",,,,,,,,,,,,,,,,
-*,"Jump, n, delayed 1",,,,,,,,,,,,,,,,
-*,Held Jump+2,,,,,,,,,,,,,,,,
-*,Jump~2,,,,,,,,,,,,,,,,
-*,Held Jump+3,,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 3",,,,,,,,,,,,,,,,
-*,Jump~3,,,,,,,,,,,,,,,,
-*,"Held Jump, 4",,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 4",,,,,,,,,,,,,,,,
-*,Jump~4,,,,,,,,,,,,,,,,
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",,,,,,,,,,,,,,,,
-Spring Attack*,"Face Up, Feet Towards+3+4",,,,,,,,,,,,,,,,
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+3",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+4",,,,,,,,,,,,,,,,
-Handspring Kickup,(Upon Landing) f,,,,,,,,,,,,,,,,
-INTO SAVAGE STANCE,,,,,,,,,,,,,,,,,
-Savage Stance,3+4,,,,,,,,,,,,,,,,
-Up-stroke to Savage Stance,"1, 2, 4, F",,,,,,,,,,,,,,,,
-Gancho doble to Savage Stance,"2, 1, F",,,,,,,,,,,,,,,,
-Obús to Savage Stance,"u/f+1, F",,,,,,,,,,,,,,,,
-Flanco to Savage Stance,"d/f+1, F",,,,,,,,,,,,,,,,
-Double Choking to Savage Stance,"d/f+1, 1, F",,,,,,,,,,,,,,,,
-Flanco y patada to Savage Stance,"d/f+1, 1, 3, F",,,,,,,,,,,,,,,,
-Espada to Savage Stance,"d/f+4, 1, F",,,,,,,,,,,,,,,,
-Bajeza con cabeza to Savage Stance,"d+4, 1+2, F",,,,,,,,,,,,,,,,
-Zancadilla to Savage Stance,"d/b+3, F",,,,,,,,,,,,,,,,
-Guantazo to Savage Stance,"b+1, F",,,,,,,,,,,,,,,,
-Oleaje to Savage Stance,"b+3, F",,,,,,,,,,,,,,,,
-Tambor to Savage Stance,"u/b+1, F",,,,,,,,,,,,,,,,
-Rasgado to Savage Stance,"WS 1, F",,,,,,,,,,,,,,,,
-Puño flecha to Savage Stance,"(During Savage Stance) 1, F",,,,,,,,,,,,,,,,
-Puños combinados to Savage Stance,"(During Savage Stance) 1, 2, F",,,,,,,,,,,,,,,,
-Traste to Savage Stance,"(During Savage Stance) 3, F",,,,,,,,,,,,,,,,
-Traste doble to Savage Stance,"(During Savage Stance) 3, 3, F",,,,,,,,,,,,,,,,
-Bucking to Savage Stance,"(During Savage Stance) f+1+2, F",,,,,,,,,,,,,,,,
-Flanqueo to Savage Stance,"(During Savage Stance) d/f+1, F",,,,,,,,,,,,,,,,
-Pateo to Savage Stance,"(During Savage Stance) d+4, F",,,,,,,,,,,,,,,,
-Pisoteo to Savage Stance,"(During Savage Stance) d+4, 3, F",,,,,,,,,,,,,,,,
-Segada to Savage Stance,"(During Savage Stance) d/b+3, F",,,,,,,,,,,,,,,,
-Garra to Savage Stance,"(During Savage Stance) b+1, F",,,,,,,,,,,,,,,,
-Explosión to Savage Stance,"(During Savage Stance) b+3, F",,,,,,,,,,,,,,,,
-DURING SAVAGE STANCE,,,,,,,,,,,,,,,,,
-Puño flecha,(During Savage Stance) 1,,,,,,,,,,,,,,,,
-Puños dobles,"(During Savage Stance) 1, 1",,,,,,,,,,,,,,,,
-Puños combinados,"(During Savage Stance) 1, 2",,,,,,,,,,,,,,,,
-Puños en secuencia,"(During Savage Stance) 1, 2, 1",,,,,,,,,,,,,,,,
-Puños bomba,"(During Savage Stance) 1, 4",,,,,,,,,,,,,,,,
-Machaque,(During Savage Stance) 2,,,,,,,,,,,,,,,,
-Traste,(During Savage Stance) 3,,,,,,,,,,,,,,,,
-Traste doble,"(During Savage Stance) 3, 3",,,,,,,,,,,,,,,,
-Vuelta con ritmo,(During Savage Stance) 4,,,,,,,,,,,,,,,,
-Crazy Skip,(During Savage Stance) u/f+3,,,,,,,,,,,,,,,,
-Bucking,(During Savage Stance) f+1+2,,,,,,,,,,,,,,,,
-Flanqueo,(During Savage Stance) d/f+1,,,,,,,,,,,,,,,,
-Cumbre,(During Savage Stance) d/f+2,,,,,,,,,,,,,,,,
-Pateo,(During Savage Stance) d+4,,,,,,,,,,,,,,,,
-Pisoteo,"(During Savage Stance) d+4, 3",,,,,,,,,,,,,,,,
-Segada,(During Savage Stance) d/b+3,,,,,,,,,,,,,,,,
-Barrida,(During Savage Stance) d/b+4,,,,,,,,,,,,,,,,
-Garra,(During Savage Stance) b+1,,,,,,,,,,,,,,,,
-Choke Down,"(During Savage Stance) b+1, 2",,,,,,,,,,,,,,,,
-Choke Up,"(During Savage Stance) b+1, 4",,,,,,,,,,,,,,,,
-Tornillo,(During Savage Stance) b+2,,,,,,,,,,,,,,,,
-Explosión,(During Savage Stance) b+3,,,,,,,,,,,,,,,,
-POWER CRUSHES,,,,,,,,,,,,,,,,,
-Bota en la cara,b+4,,,,,,,,,,,,,,,,
-Campana,(During Savage Stance) 1+2,,,,,,,,,,,,,,,,
-Campana,(During Savage Stance) 1+2 (Hold),,,,,,,,,,,,,,,,
-RAGE MOVES,,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) b+1+2 or (During Savage Stance),,,,,,,,,,,,,,,,
-Rage Drive,(During Rage) d/b+1+2,,,,,,,,,,,,,,,,
-UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,
-Burla,"f+3+4, F",,,,,,,,,,,,,,,,
-THROWS,,,,,,,,,,,,,,,,,
-Paseo,Approach enemy... 1+3,,,,,,,,,,,,,,,,
-Paseo,Approach enemy... f+1+3,,,,,,,,,,,,,,,,
-Masaje,Approach enemy... 2+4,,,,,,,,,,,,,,,,
-Masaje,Approach enemy... f+2+4,,,,,,,,,,,,,,,,
-Caricia,Approach from left side... 1+3 (or 2+4),,,,,,,,,,,,,,,,
-Regalo,Approach from right side...  1+3 (or 2+4),,,,,,,,,,,,,,,,
-Detalle,Approach from behind... 1+3 (or 2+4),,,,,,,,,,,,,,,,
-Exciter,Approach enemy... d/f+1+2,,,,,,,,,,,,,,,,
-Ultimate Tackle,FC d/f+1+2,,,,,,,,,,,,,,,,
-Running Tackle*,"WR f, f, F (Mid Screen)",,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen) 1 (or 2)",,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,i23,0,KND,KND,-,-,-,-,-
+*,1,-,-,-,-,-,-,-,-,-,i10,+1,+8,+8,-,-,-,-,-
+Resorte,"1, 2",-,-,-,-,-,-,-,-,-,i10,-1,+5,-,-,-,-,-,-
+*,"(1), 2",-,-,-,-,-,-,-,-,-,i17,-1,+5,+5,-,-,-,-,-
+Up-stroke,"1, 2, 4",-,-,-,-,-,-,-,-,-,i10,+3,KND,-,-,-,-,-,-
+*,"(1), 2, 4",-,-,-,-,-,-,-,-,-,i17,+3,KND,-,-,-,-,-,-
+*,"(1), (2), 4",-,-,-,-,-,-,-,-,-,i22,+3,KND,KND,-,-,-,-,-
+Martillo,"1, 2, 1+2",-,-,-,-,-,-,-,-,-,i10,+4 (OC),KND,-,-,-,-,-,-
+*,"(1), 2, 1+2",-,-,-,-,-,-,-,-,-,i17,+4 (OC),KND,-,-,-,-,-,-
+*,"(1), (2), 1+2",-,-,-,-,-,-,-,-,-,i33,+4 (OC),KND,GROUND BOUNCE,-,-,-,-,-
+Bombo,"1, 3",-,-,-,-,-,-,-,-,-,i10,-12,+1,-,-,-,-,-,-
+*,"(1), 3",-,-,-,-,-,-,-,-,-,i21,-12,+1,+1,-,-,-,-,-
+*,2,-,-,-,-,-,-,-,-,-,i11,-8,+3,+8,-,-,-,-,-
+Gancho doble,"2, 1",-,-,-,-,-,-,-,-,-,i11,-4,+7,-,-,-,-,-,-
+*,"(2), 1",-,-,-,-,-,-,-,-,-,i17,-4,+7,+7,-,-,-,-,-
+*,3,-,-,-,-,-,-,-,-,-,i13,-7,+2,+2,-,-,-,-,-
+Mariposa,"3, 4",-,-,-,-,-,-,-,-,-,i13,-12,KND,-,-,-,-,-,-
+*,"(3), 4",-,-,-,-,-,-,-,-,-,i30,-12,KND,STUN,-,-,-,-,-
+*,4,-,-,-,-,-,-,-,-,-,i12,-9,+5,LAUNCH,-,-,-,-,-
+*,1+2,-,-,-,-,-,-,-,-,-,i19,-7,+4 (OC),+4 (OC),-,-,-,-,-
+*,"1+2, D",-,-,-,-,-,-,-,-,-,i19,-7,+4 (OC),+4 (OC),-,-,-,-,-
+Martillo doble,"1+2, 1+2",-,-,-,-,-,-,-,-,-,i19,-14,KND,-,-,-,-,-,-
+*,"(1+2), 1+2",-,-,-,-,-,-,-,-,-,i23,-14,KND,S!,-,-,-,-,-
+Obús,u/f+1,-,-,-,-,-,-,-,-,-,i25,+3,KND,KND,-,-,-,-,-
+*,u/f+3,-,-,-,-,-,-,-,-,-,i19,-10,+3 (OC),+3 (OC),-,-,-,-,-
+*,"u/f+3, 2",-,-,-,-,-,-,-,-,-,i19,-12,+6,-,-,-,-,-,-
+*,"(u/f+3), 2",-,-,-,-,-,-,-,-,-,i25,-12,+6,+6,-,-,-,-,-
+Trinidad Slash,"u/f+3, 2, 2",-,-,-,-,-,-,-,-,-,i19,-6,+5 (OC),-,-,-,-,-,-
+*,"(u/f+3), 2, 2",-,-,-,-,-,-,-,-,-,i25,-6,+5 (OC),-,-,-,-,-,-
+*,"(u/f+3), (2), 2",-,-,-,-,-,-,-,-,-,i30,-6,+5 (OC),KND,-,-,-,-,-
+Patada atrás,u/f+4,-,-,-,-,-,-,-,-,-,i15,-13,LAUNCH,LAUNCH,-,-,-,-,-
+Telefonazo,f+2,-,-,-,-,-,-,-,-,-,i15,-3,+6,STUN,-,-,-,-,-
+*,f+3,-,-,-,-,-,-,-,-,-,i20,-5,+7 (OC),+7 (OC),-,-,-,-,-
+Emblema,"f+3, 4",-,-,-,-,-,-,-,-,-,i20,-15,KND,-,-,-,-,-,-
+*,"(f+3), 4",-,-,-,-,-,-,-,-,-,i20,-15,KND,KND,-,-,-,-,-
+*,f+4,-,-,-,-,-,-,-,-,-,i17,-7,+6,+6,-,-,-,-,-
+Ciclón,"f+4, 2",-,-,-,-,-,-,-,-,-,i17,-12,KND,-,-,-,-,-,-
+*,"(f+4), 2",-,-,-,-,-,-,-,-,-,i33,-12,KND,S!,-,-,-,-,-
+Calambre,f+1+2,-,-,-,-,-,-,-,-,-,i14,-5,KND,KND,-,-,-,-,-
+Rude Charge,f+2+3,-,-,-,-,-,-,-,-,-,i24,-7,KND,KND,-,-,-,-,-
+*,"f, F+2",-,-,-,-,-,-,-,-,-,i18,-14,+2,+2,-,-,-,-,-
+Megawatt Uppercut,"f, F+2, 1",-,-,-,-,-,-,-,-,-,i18,-5,KND,-,-,-,-,-,-
+*,"(f, F+2), 1",-,-,-,-,-,-,-,-,-,i17,-5,KND,KND,-,-,-,-,-
+Megawatt Uppercut - Amplified,"f, F+2, 2",-,-,-,-,-,-,-,-,-,i18,-13,KND,-,-,-,-,-,-
+*,"(f, F+2), 2",-,-,-,-,-,-,-,-,-,i25,-13,KND,KND,-,-,-,-,-
+*,"f, F+2, 2, D",-,-,-,-,-,-,-,-,-,i18,-24,-8,-8,-,-,-,-,-
+Direct Drive,"f, F+3",-,-,-,-,-,-,-,-,-,i20,-9,S!,S!,-,-,-,-,-
+Taconeo,"f, f, f+3",-,-,-,-,-,-,-,-,-,i23,+9,KND,KND,-,-,-,-,-
+Flanco,d/f+1,-,-,-,-,-,-,-,-,-,i13,-2,+5,+5,-,-,-,-,-
+Double Choking,"d/f+1, 1",-,-,-,-,-,-,-,-,-,i13,-3,+5,-,-,-,-,-,-
+*,"(d/f+1), 1",-,-,-,-,-,-,-,-,-,i22,-3,+5,+5,-,-,-,-,-
+Double Choking Body,"d/f+1, 1, 2",-,-,-,-,-,-,-,-,-,i13,-12,+2,-,-,-,-,-,-
+*,"(d/f+1), 1, 2",-,-,-,-,-,-,-,-,-,i22,-12,+2,-,-,-,-,-,-
+*,"(d/f+1), (1), 2",-,-,-,-,-,-,-,-,-,i25,-12,+2,KND,-,-,-,-,-
+Flanco y patada,"d/f+1, 1, 3",-,-,-,-,-,-,-,-,-,i13,-12,+2,-,-,-,-,-,-
+*,"(d/f+1), 1, 3",-,-,-,-,-,-,-,-,-,i22,-12,+2,-,-,-,-,-,-
+*,"(d/f+1), (1), 3",-,-,-,-,-,-,-,-,-,i28,-12,+2,KND,-,-,-,-,-
+Uno-dos,"d/f+1, 2",-,-,-,-,-,-,-,-,-,i13,-12,+1,-,-,-,-,-,-
+*,"(d/f+1), 2",-,-,-,-,-,-,-,-,-,i21,-12,+1,+1,-,-,-,-,-
+*,d/f+2,-,-,-,-,-,-,-,-,-,i17,-7,+6,+6,-,-,-,-,-
+Campeón,"d/f+2, 1",-,-,-,-,-,-,-,-,-,i16,-15,LAUNCH,-,-,-,-,-,-
+*,"(d/f+2), 1",-,-,-,-,-,-,-,-,-,i20,-15,LAUNCH,LAUNCH,-,-,-,-,-
+Toro,"d/f+2, 2",-,-,-,-,-,-,-,-,-,i16,-6,+13,-,-,-,-,-,-
+*,"(d/f+2), 2",-,-,-,-,-,-,-,-,-,i30,-6,+13,+13,-,-,-,-,-
+Hachazo,"d/f+2, d+2",-,-,-,-,-,-,-,-,-,i16,-3,KND,-,-,-,-,-,-
+*,"(d/f+2), d+2",-,-,-,-,-,-,-,-,-,i30,-3,KND,KND,-,-,-,-,-
+*,d/f+3,-,-,-,-,-,-,-,-,-,i16,-6,+5,+5,-,-,-,-,-
+Tunda,"d/f+3, 2",-,-,-,-,-,-,-,-,-,i16,-6,+5,-,-,-,-,-,-
+*,"(d/f+3), 2",-,-,-,-,-,-,-,-,-,i19,-6,+5,+5,-,-,-,-,-
+*,d/f+4,-,-,-,-,-,-,-,-,-,i14,-7,4,4,-,-,-,-,-
+Espada,"d/f+4, 1",-,-,-,-,-,-,-,-,-,i14,-5,+6,-,-,-,-,-,-
+*,"(d/f+4), 1",-,-,-,-,-,-,-,-,-,i20,-5,+6,+6,-,-,-,-,-
+Sable,"d/f+4, 1, 1",-,-,-,-,-,-,-,-,-,i14,-10,+7,-,-,-,-,-,-
+*,"(d/f+4), 1, 1",-,-,-,-,-,-,-,-,-,i20,-10,+7,-,-,-,-,-,-
+*,"(d/f+4), (1), 1",-,-,-,-,-,-,-,-,-,i19,-10,+7,STUN,-,-,-,-,-
+Codazo,d+2,-,-,-,-,-,-,-,-,-,i18,-7 (OC),+4 (OC),KND,-,-,-,-,-
+Bajeza,d+3,-,-,-,-,-,-,-,-,-,i21,-12,+1,+1,-,-,-,-,-
+*,d+4,-,-,-,-,-,-,-,-,-,i16,-11,0,0,-,-,-,-,-
+Bajeza con cabeza,"d+4, 1+2",-,-,-,-,-,-,-,-,-,i16,-8,+5 (OC),-,-,-,-,-,-
+*,"(d+4), 1+2",-,-,-,-,-,-,-,-,-,i27,-8,+5 (OC),+5 (OC),-,-,-,-,-
+Rompeolas,d+1+2,-,-,-,-,-,-,-,-,-,i21,-12,KND,KND,-,-,-,-,-
+Puntera de acero,d+3+4,-,-,-,-,-,-,-,-,-,i21,-15,KND,KND,-,-,-,-,-
+Tortura,d/b+1,-,-,-,-,-,-,-,-,-,i24,-18,KND,KND,-,-,-,-,-
+*,d/b+1 (Hold),-,-,-,-,-,-,-,-,-,i21,-18,STUN,STUN,-,-,-,-,-
+Vamos,d/b+2,-,-,-,-,-,-,-,-,-,i20,-9,KND,KND,-,-,-,-,-
+Zancadilla,d/b+3,-,-,-,-,-,-,-,-,-,i18,-13,+3,+3,-,-,-,-,-
+Paso de baile,"d/b+3, 4",-,-,-,-,-,-,-,-,-,i18,-19,-8,-,-,-,-,-,-
+*,"(d/b+3), 4",-,-,-,-,-,-,-,-,-,i24,-19,-8,-8,-,-,-,-,-
+Segada,d/b+4,-,-,-,-,-,-,-,-,-,i18,-14,+2,KND,-,-,-,-,-
+Guantazo,b+1,-,-,-,-,-,-,-,-,-,i11,-9,+2,STUN,-,-,-,-,-
+*,b+2,-,-,-,-,-,-,-,-,-,i16,-6,+2,+2,-,-,-,-,-
+Coraje,"b+2, 2",-,-,-,-,-,-,-,-,-,i16,-7,+3 (OC),-,-,-,-,-,-
+*,"(b+2), 2",-,-,-,-,-,-,-,-,-,i26,-7,+3 (OC),GROUND BOUNCE,-,-,-,-,-
+Oleaje,b+3,-,-,-,-,-,-,-,-,-,i30,+7,+7 (OC),STUN,-,-,-,-,-
+Manotazo,"b, f+1",-,-,-,-,-,-,-,-,-,i21,-8,KND,KND,-,-,-,-,-
+Tambor,u/b+1,-,-,-,-,-,-,-,-,-,i21,-5 (OC),-3 (OC),-3 (OC),-,-,-,-,-
+Tambor y platillos,"u/b+1, 4",-,-,-,-,-,-,-,-,-,i21,-15,+9,-,-,-,-,-,-
+*,"(u/b+1), 4",-,-,-,-,-,-,-,-,-,i26,-15,+9,+9,-,-,-,-,-
+*,BT 1 or 2,-,-,-,-,-,-,-,-,-,i8,-8,+3,+3,-,-,-,-,-
+*,BT 3 or 4,-,-,-,-,-,-,-,-,-,i10,-8,KND,KND,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,i10,-5,+6,+6,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,i11,-4,+7,+7,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,i16,-17,-3,-3,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,i12,-15,-4,-4,-,-,-,-,-
+Palmeo,FC d/f+2,-,-,-,-,-,-,-,-,-,i15,-12,+7 (FUFA),STUN (FUFA),-,-,-,-,-
+Punteo,FC d/f+4,-,-,-,-,-,-,-,-,-,i22,-26,KND,KND,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,i8,+13,KND,KND,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,i12,-,KND,KND,-,-,-,-,-
+*,WR 4,-,-,-,-,-,-,-,-,-,i14,-40,KND,KND,-,-,-,-,-
+*,WR 1+2,-,-,-,-,-,-,-,-,-,i18,0,KND,KND,-,-,-,-,-
+Rasgado,WS 1,-,-,-,-,-,-,-,-,-,i11,-3,+8,+8,-,-,-,-,-
+*,WS 2,-,-,-,-,-,-,-,-,-,i14,-8,+3,+3,-,-,-,-,-
+*,"WS 2, 2",-,-,-,-,-,-,-,-,-,i14,-12,LAUNCH,-,-,-,-,-,-
+*,"WS (2), 2",-,-,-,-,-,-,-,-,-,i26,-12,LAUNCH,+6,-,-,-,-,-
+Trinidad,"WS 2, 2, 2",-,-,-,-,-,-,-,-,-,i14,-6,KND,-,-,-,-,-,-
+*,"WS (2), 2, 2",-,-,-,-,-,-,-,-,-,i26,-6,KND,-,-,-,-,-,-
+*,"WS (2), (2), 2",-,-,-,-,-,-,-,-,-,i34,-6,KND,KND,-,-,-,-,-
+Distorsión,"WS 2, 4",-,-,-,-,-,-,-,-,-,i14,-12,S!,-,-,-,-,-,-
+*,"WS (2), 4",-,-,-,-,-,-,-,-,-,i25,-12,S!,KND,-,-,-,-,-
+Cabriola,WS 3,-,-,-,-,-,-,-,-,-,i18,-12,KND,KND,-,-,-,-,-
+*,WS 4,-,-,-,-,-,-,-,-,-,i11,-6,+5,+5,-,-,-,-,-
+Cejilla,WS 1+2,-,-,-,-,-,-,-,-,-,i14,+1,+3,+3,-,-,-,-,-
+*,"WS 1+2, 4, 1, 1, 2, 1, 4, 1, 2, 1",-,-,-,-,-,-,-,-,-,i14,-,KND,KND,-,-,-,-,-
+Pedaleo,While enemy is down... d+3,-,-,-,-,-,-,-,-,-,i20,-13,KND,KND,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,STUN,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,KND,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,i13,-18,-3,-3,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,i48,+10,KND,KND,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,i19,+2,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,i21,-20,+1,STUN,-,-,-,-,-
+*,"Face Down, Feet Away+4 (close)",-,-,-,-,-,-,-,-,-,i21,-19,-10,KND,-,-,-,-,-
+*,"Face Down, Feet Away+4 (far)",-,-,-,-,-,-,-,-,-,i21,-19,KND,KND,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,i33,-2,+3,+3,-,-,-,-,-
+INTO SAVAGE STANCE,,,,,,,,,,,,,,,,,,,
+Savage Stance,3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Up-stroke to Savage Stance,"1, 2, 4, F",-,-,-,-,-,-,-,-,-,i10,+3,KND,-,-,-,-,-,-
+Gancho doble to Savage Stance,"2, 1, F",-,-,-,-,-,-,-,-,-,i11,-4,KND,-,-,-,-,-,-
+Obús to Savage Stance,"u/f+1, F",-,-,-,-,-,-,-,-,-,i25,+3,KND,KND,-,-,-,-,-
+Flanco to Savage Stance,"d/f+1, F",-,-,-,-,-,-,-,-,-,i13,-2,+5,+5,-,-,-,-,-
+Double Choking to Savage Stance,"d/f+1, 1, F",-,-,-,-,-,-,-,-,-,i13,-3,+5,-,-,-,-,-,-
+Flanco y patada to Savage Stance,"d/f+1, 1, 3, F",-,-,-,-,-,-,-,-,-,i13,-12,KND,-,-,-,-,-,-
+Espada to Savage Stance,"d/f+4, 1, F",-,-,-,-,-,-,-,-,-,i14,-5,+6,-,-,-,-,-,-
+Bajeza con cabeza to Savage Stance,"d+4, 1+2, F",-,-,-,-,-,-,-,-,-,i16,-8 (OC),+5 (OC),-,-,-,-,-,-
+Zancadilla to Savage Stance,"d/b+3, F",-,-,-,-,-,-,-,-,-,i18,-13,+3,+3,-,-,-,-,-
+Guantazo to Savage Stance,"b+1, F",-,-,-,-,-,-,-,-,-,i11,-9,+2,STUN,-,-,-,-,-
+Oleaje to Savage Stance,"b+3, F",-,-,-,-,-,-,-,-,-,i17,+7,+7 (OC),STUN,-,-,-,-,-
+Tambor to Savage Stance,"u/b+1, F",-,-,-,-,-,-,-,-,-,i21,-5 (OC),-3 (OC),-3 (OC),-,-,-,-,-
+Rasgado to Savage Stance,"WS 1, F",-,-,-,-,-,-,-,-,-,i11,-3,+8,+8,-,-,-,-,-
+Puño flecha to Savage Stance,"(During Savage Stance) 1, F",-,-,-,-,-,-,-,-,-,i12,-2,+6,+6,-,-,-,-,-
+Puños combinados to Savage Stance,"(During Savage Stance) 1, 2, F",-,-,-,-,-,-,-,-,-,i12,-10,+3,-,-,-,-,-,-
+*,"(During Savage Stance) (1), 2, F",-,-,-,-,-,-,-,-,-,i15,-10,+3,+3,-,-,-,-,-
+Traste to Savage Stance,"(During Savage Stance) 3, F",-,-,-,-,-,-,-,-,-,i15,-5,+1,+1,-,-,-,-,-
+Traste doble to Savage Stance,"(During Savage Stance) 3, 3, F",-,-,-,-,-,-,-,-,-,i15,-9,-2,-,-,-,-,-,-
+*,"(During Savage Stance) (3), 3, F",-,-,-,-,-,-,-,-,-,i22,-9,-2,STUN,-,-,-,-,-
+Bucking to Savage Stance,"(During Savage Stance) f+1+2, F",-,-,-,-,-,-,-,-,-,i16,+5 (OC),+6 (OC),+6 (OC),-,-,-,-,-
+Flanqueo to Savage Stance,"(During Savage Stance) d/f+1, F",-,-,-,-,-,-,-,-,-,i13,-2,+5,+5,-,-,-,-,-
+Pateo to Savage Stance,"(During Savage Stance) d+4, F",-,-,-,-,-,-,-,-,-,i15,-14,-3,-3,-,-,-,-,-
+Pisoteo to Savage Stance,"(During Savage Stance) d+4, 3, F",-,-,-,-,-,-,-,-,-,i15,-15,-2,-,-,-,-,-,-
+*,"(During Savage Stance) (d+4), 3, F",-,-,-,-,-,-,-,-,-,i26,-15,-2,-2,-,-,-,-,-
+Segada to Savage Stance,"(During Savage Stance) d/b+3, F",-,-,-,-,-,-,-,-,-,i19,-13,+5,KND,-,-,-,-,-
+Garra to Savage Stance,"(During Savage Stance) b+1, F",-,-,-,-,-,-,-,-,-,i14,-7,+1,+1,-,-,-,-,-
+Explosión to Savage Stance,"(During Savage Stance) b+3, F",-,-,-,-,-,-,-,-,-,i17,-7,KND,KND,-,-,-,-,-
+DURING SAVAGE STANCE,,,,,,,,,,,,,,,,,,,
+Puño flecha,(During Savage Stance) 1,-,-,-,-,-,-,-,-,-,i12,-2,+6,+6,-,-,-,-,-
+Puños dobles,"(During Savage Stance) 1, 1",-,-,-,-,-,-,-,-,-,i12,-9,KND,-,-,-,-,-,-
+Puños dobles,"(During Savage Stance) (1), 1",-,-,-,-,-,-,-,-,-,i17,-9,KND,STUN,-,-,-,-,-
+Puños combinados,"(During Savage Stance) 1, 2",-,-,-,-,-,-,-,-,-,i12,-10,+3,-,-,-,-,-,-
+Puños combinados,"(During Savage Stance) (1), 2",-,-,-,-,-,-,-,-,-,i15,-10,+3,+3,-,-,-,-,-
+Puños en secuencia,"(During Savage Stance) 1, 2, 1",-,-,-,-,-,-,-,-,-,i12,-17,LAUNCH,-,-,-,-,-,-
+Puños en secuencia,"(During Savage Stance) (1), 2, 1",-,-,-,-,-,-,-,-,-,i15,-17,LAUNCH,-,-,-,-,-,-
+Puños en secuencia,"(During Savage Stance) (1), (2), 1",-,-,-,-,-,-,-,-,-,i23,-17,LAUNCH,LAUNCH,-,-,-,-,-
+Puños bomba,"(During Savage Stance) 1, 4",-,-,-,-,-,-,-,-,-,i12,-10,KND,-,-,-,-,-,-
+Puños bomba,"(During Savage Stance) (1), 4",-,-,-,-,-,-,-,-,-,i24,-10,KND,KND,-,-,-,-,-
+Machaque,(During Savage Stance) 2,-,-,-,-,-,-,-,-,-,i16,-12,KND,KND,-,-,-,-,-
+Traste,(During Savage Stance) 3,-,-,-,-,-,-,-,-,-,i15,-5,+1,+1,-,-,-,-,-
+Traste doble,"(During Savage Stance) 3, 3",-,-,-,-,-,-,-,-,-,i15,-9,-2,-,-,-,-,-,-
+Traste doble,"(During Savage Stance) (3), 3",-,-,-,-,-,-,-,-,-,i22,-9,-2,STUN,-,-,-,-,-
+Vuelta con ritmo,(During Savage Stance) 4,-,-,-,-,-,-,-,-,-,i15,-5,KND,S!,-,-,-,-,-
+Crazy Skip,(During Savage Stance) u/f+3,-,-,-,-,-,-,-,-,-,i15,-9,KND,KND,-,-,-,-,-
+Bucking,(During Savage Stance) f+1+2,-,-,-,-,-,-,-,-,-,i16,+5 (OC),+6 (OC),+6 (OC),-,-,-,-,-
+Flanqueo,(During Savage Stance) d/f+1,-,-,-,-,-,-,-,-,-,i13,-2,+5,+5,-,-,-,-,-
+Cumbre,(During Savage Stance) d/f+2,-,-,-,-,-,-,-,-,-,i19,-17,LAUNCH,LAUNCH,-,-,-,-,-
+Pateo,(During Savage Stance) d+4,-,-,-,-,-,-,-,-,-,i15,-14,-3,-3,-,-,-,-,-
+Pisoteo,"(During Savage Stance) d+4, 3",-,-,-,-,-,-,-,-,-,i15,-15,-2,-,-,-,-,-,-
+Pisoteo,"(During Savage Stance) (d+4), 3",-,-,-,-,-,-,-,-,-,i26,-15,-2,-2,-,-,-,-,-
+Segada,(During Savage Stance) d/b+3,-,-,-,-,-,-,-,-,-,i19,-13,+5,KND,-,-,-,-,-
+Barrida,(During Savage Stance) d/b+4,-,-,-,-,-,-,-,-,-,i26,-29,KND,KND,-,-,-,-,-
+Garra,(During Savage Stance) b+1,-,-,-,-,-,-,-,-,-,i14,-7,+1,+1,-,-,-,-,-
+Choke Down,"(During Savage Stance) b+1, 2",-,-,-,-,-,-,-,-,-,i14,-18,KND,-,-,-,-,-,-
+Choke Down,"(During Savage Stance) (b+1), 2",-,-,-,-,-,-,-,-,-,i25,-18,KND,KND,-,-,-,-,-
+Choke Up,"(During Savage Stance) b+1, 4",-,-,-,-,-,-,-,-,-,i14,-10,+8,-,-,-,-,-,-
+Choke Up,"(During Savage Stance) (b+1), 4",-,-,-,-,-,-,-,-,-,i25,-10,+8,KND,-,-,-,-,-
+Tornillo,(During Savage Stance) b+2,-,-,-,-,-,-,-,-,-,i23,-9,+4,+4,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Bota en la cara,b+4,-,-,-,-,-,-,-,-,-,i19,-13,KND,KND,-,-,-,-,-
+Explosión,(During Savage Stance) b+3,-,-,-,-,-,-,-,-,-,i17,-7,KND,KND,-,-,-,-,-
+Campana,(During Savage Stance) 1+2,-,-,-,-,-,-,-,-,-,i27,-21,LAUNCH,LAUNCH,-,-,-,-,-
+Campana,(During Savage Stance) 1+2 (Hold),-,-,-,-,-,-,-,-,-,i22,-12,LAUNCH,LAUNCH,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) b+1+2 or (During Savage Stance),-,-,-,-,-,-,-,-,-,i20,-22,KND,KND,-,-,-,-,-
+Rage Drive,(During Rage) d/b+1+2,-,-,-,-,-,-,-,-,-,i17,+3,S!,-,-,-,-,-,-
+Rage Drive,(During Rage) d/b+1+2 (second hit only),-,-,-,-,-,-,-,-,-,i37,+3,S!,S!,-,-,-,-,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
+Burla,"f+3+4, F",-,-,-,-,-,-,-,-,178,i41,!,KND,KND,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Paseo,Approach enemy... 1+3,-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Masaje,Approach enemy... 2+4,-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Paseo,Approach enemy... f+1+3,-,-,-,-,-,-,-,-,-,i15,-3,KND,-,-,-,-,-,-
+Masaje,Approach enemy... f+2+4,-,-,-,-,-,-,-,-,-,i15,-3,KND,-,-,-,-,-,-
+Caricia,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Regalo,Approach from right side...  1+3 (or 2+4),-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Detalle,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,i12,-,KND,-,-,-,-,-,-
+Exciter,Approach enemy... d/f+1+2,-,-,-,-,-,-,-,-,-,i12,-6,KND,-,-,-,-,-,-
+Ultimate Tackle,FC d/f+1+2,-,-,-,-,-,-,-,-,-,i26,-5 (BT),KND,-,-,-,-,-,-
+Running Tackle*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,i16,-5 (BT),KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,,
+Chulería,1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,f+3+4,-,-,-,-,-,-,-,-,-,i107,-,-,-,-,-,-,-,-
