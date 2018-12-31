@@ -1,123 +1,129 @@
-SPECIAL,COMMAND,HIT LEVEL,RANGE,PUSHBACK,TRACKING,CRUSH,JAIL,NC / NCc,OC / OCc,BREAK / SPLAT,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,RECOVERY,ACTIVE
-,,,,,,,,,,,,,,,,,
-PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-WS PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-MOVELIST,,,,,,,,,,,,,,,,,
-Falcon Shield,Time with enemy punch... b+1+2,,,,,,,,,,,,,,,,
-*,"Back towards wall... b, b, u/b",,,,,,,,,,,,,,,,
-*,1,,,,,,,,,,,,,,,,
-*,"1, 2",,,,,,,,,,,,,,,,
-Spica Gut Punch,"1, 2, 2",,,,,,,,,,,,,,,,
-Spica Blinding Sands,"1, 2, 3",,,,,,,,,,,,,,,,
-Spica Wheel Spin,"1, 2, 4",,,,,,,,,,,,,,,,
-*,2,,,,,,,,,,,,,,,,
-Cut In,"2, 1",,,,,,,,,,,,,,,,
-Blinding Sands,3,,,,,,,,,,,,,,,,
-*,4,,,,,,,,,,,,,,,,
-Hallux Kick to Algenib,"4, 1",,,,,,,,,,,,,,,,
-Hallux Kick to High Slashing Kick,"4, 3",,,,,,,,,,,,,,,,
-Hallux Kick to Ra'd,"4, 4",,,,,,,,,,,,,,,,
-Crescent Cleaver,u/f+3,,,,,,,,,,,,,,,,
-Altair,u/f+4,,,,,,,,,,,,,,,,
-*,f+2,,,,,,,,,,,,,,,,
-Silent Sting,"f+2, 3",,,,,,,,,,,,,,,,
-*,"f+2, 4, D/F, D/B",,,,,,,,,,,,,,,,
-Silent Flow,"f+2, 4, 4",,,,,,,,,,,,,,,,
-Crescent Moon,f+3,,,,,,,,,,,,,,,,
-Piercing Talon,f+4,,,,,,,,,,,,,,,,
-Skyline,f+3+4,,,,,,,,,,,,,,,,
-Hunting Falcon Dive,"f, F+3 (or f, f, f+3) (Close)",,,,,,,,,,,,,,,,
-*,"f, F+3 (or f, f, f+3) (Far)",,,,,,,,,,,,,,,,
-Hornet,"f, b+2",,,,,,,,,,,,,,,,
-Rising Falcon,d/f+2,,,,,,,,,,,,,,,,
-Whirlwind Kick,d/f+3,,,,,,,,,,,,,,,,
-Stinging Kick,d/f+4,,,,,,,,,,,,,,,,
-Gut Impact,d+2,,,,,,,,,,,,,,,,
-Silent Rigel,d+3,,,,,,,,,,,,,,,,
-Vicious Stomp,d+4,,,,,,,,,,,,,,,,
-*,d/b+2,,,,,,,,,,,,,,,,
-Rapid Strikes,"d/b+2, 1",,,,,,,,,,,,,,,,
-Snake's Bite,d/b+3,,,,,,,,,,,,,,,,
-Snake's Bite to Rising Scimitar,"d/b+3, 4",,,,,,,,,,,,,,,,
-Rising Scimitar,d/b+4,,,,,,,,,,,,,,,,
-Achernar,b+1,,,,,,,,,,,,,,,,
-Heel Strike,b+3,,,,,,,,,,,,,,,,
-Broken Mirage,b+4,,,,,,,,,,,,,,,,
-10 Hit Combo,"2, 1, 4, 1, 3, 3, 3, 3+4, 4",,,,,,,,,,,,,,,,
-*,BT 1,,,,,,,,,,,,,,,,
-Reverse Edge,BT 2,,,,,,,,,,,,,,,,
-*,BT 3 or 4,,,,,,,,,,,,,,,,
-*,BT u/f+3,,,,,,,,,,,,,,,,
-*,BT u/f+4,,,,,,,,,,,,,,,,
-*,FC 1,,,,,,,,,,,,,,,,
-*,FC 2,,,,,,,,,,,,,,,,
-*,FC 3,,,,,,,,,,,,,,,,
-*,FC 4,,,,,,,,,,,,,,,,
-Sand Storm,"FC d/f, d, D/F+3",,,,,,,,,,,,,,,,
-Charging Tackle*,"WR f, f, F (Full Screen)",,,,,,,,,,,,,,,,
-Running Stomp*,"While enemy is on the ground... WR f, f, F (Full Screen)",,,,,,,,,,,,,,,,
-*,WR 4,,,,,,,,,,,,,,,,
-*,WR 1+2,,,,,,,,,,,,,,,,
-Albireo,WS 1,,,,,,,,,,,,,,,,
-Hawk Edge,WS 2,,,,,,,,,,,,,,,,
-*,WS 3,,,,,,,,,,,,,,,,
-Double Scorpion,"WS 3, 3",,,,,,,,,,,,,,,,
-*,WS 4,,,,,,,,,,,,,,,,
-*,"Held Jump, 1",,,,,,,,,,,,,,,,
-*,Jump~1,,,,,,,,,,,,,,,,
-*,"Jump, n~1",,,,,,,,,,,,,,,,
-*,"Jump, n, delayed 1",,,,,,,,,,,,,,,,
-*,Held Jump+2,,,,,,,,,,,,,,,,
-*,Jump~2,,,,,,,,,,,,,,,,
-*,Held Jump+3,,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 3",,,,,,,,,,,,,,,,
-*,Jump~3,,,,,,,,,,,,,,,,
-*,"Held Jump, 4",,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 4",,,,,,,,,,,,,,,,
-*,Jump~4,,,,,,,,,,,,,,,,
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",,,,,,,,,,,,,,,,
-Spring Attack*,"Face Up, Feet Towards+3+4",,,,,,,,,,,,,,,,
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+3",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+4",,,,,,,,,,,,,,,,
-Handspring Kickup,(Upon Landing) f,,,,,,,,,,,,,,,,
-,INTO STEALTH STEP,,,,,,,,,,,,,,,,
-Stealth Step,"d/f, D/F",,,,,,,,,,,,,,,,
-Blinding Sands to Stealth Step,"3, D/F",,,,,,,,,,,,,,,,
-Silent Flow to Stealth Step,"f+2, 4, D/F",,,,,,,,,,,,,,,,
-Skyline to Stealth Step,"f+3+4, D/F",,,,,,,,,,,,,,,,
-Silent Rigel to Stealth Step,"d+3, D/F",,,,,,,,,,,,,,,,
-Rapid Strikes to Stealth Step,"d/b+2, D/F",,,,,,,,,,,,,,,,
-,DURING STEALTH STEP,,,,,,,,,,,,,,,,
-Blinding Snake,(During Stealth Step) 1,,,,,,,,,,,,,,,,
-Maelstrom,(During Stealth Step) 2,,,,,,,,,,,,,,,,
-Hunting Falcon Dive,(During Stealth Step) 3 (Close),,,,,,,,,,,,,,,,
-*,(During Stealth Step) 3 (Far),,,,,,,,,,,,,,,,
-Low Glide,(During Stealth Step) 4,,,,,,,,,,,,,,,,
-Assault Tackle,(During Stealth Step) 1+2,,,,,,,,,,,,,,,,
-,POWER CRUSHES,,,,,,,,,,,,,,,,
-Elnath,"f, F+4",,,,,,,,,,,,,,,,
-,RAGE MOVES,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) 1+2,,,,,,,,,,,,,,,,
-*,"(During Rage) d/b+2, 4",,,,,,,,,,,,,,,,
-Rage Drive,"(During Rage) d/b+2, 4, D/F",,,,,,,,,,,,,,,,
-,UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,
-Shalua,d/b+1+2,,,,,,,,,,,,,,,,
-,THROWS,,,,,,,,,,,,,,,,
-Desert Fang,Approach enemy... 1+3,,,,,,,,,,,,,,,,
-Desert Fang,Approach enemy... f+1+3,,,,,,,,,,,,,,,,
-Aldebaran,Approach enemy... 2+4,,,,,,,,,,,,,,,,
-Aldebaran,Approach enemy... f+2+4,,,,,,,,,,,,,,,,
-Chasm Drop,Approach from left side... 1+3 or 2+4,,,,,,,,,,,,,,,,
-Axel Spinner,Approach from right side...  1+3 or 2+4,,,,,,,,,,,,,,,,
-Silent Death,Approach from behind... 1+3 or 2+4,,,,,,,,,,,,,,,,
-Wezen,Approach enemy... d/f+1+4,,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen)",,,,,,,,,,,,,,,,
-*,(During Tackle) 1 or 2,,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,SPEED,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,35,+1,KND,KND,-,-,-,-,-
+*,1,-,-,-,-,-,-,-,-,-,10,+1,+8,+8,-,-,-,-,-
+*,"1, 2",-,-,-,-,-,-,-,-,-,10,-1,+5,+5,-,-,-,-,-
+*,"(1), 2",-,-,-,-,-,-,-,-,-,12,-1,+5,+5,-,-,-,-,-
+Spica Gut Punch,"1, 2, 2",-,-,-,-,-,-,-,-,-,10,-11,+3,+3,-,-,-,-,-
+*,"(1), 2, 2",-,-,-,-,-,-,-,-,-,12,-11,+3,+3,-,-,-,-,-
+*,"(1), (2), 2",-,-,-,-,-,-,-,-,-,20,-11,+3,STUN,-,-,-,-,-
+Spica Blinding Sands,"1, 2, 3",-,-,-,-,-,-,-,-,-,10,-8,+3,+3,-,-,-,-,-
+*,"(1), 2, 3",-,-,-,-,-,-,-,-,-,12,-8,+3,+3,-,-,-,-,-
+*,"(1), (2), 3",-,-,-,-,-,-,-,-,-,20,-8,+3,+3,-,-,-,-,-
+Spica Wheel Spin,"1, 2, 4",-,-,-,-,-,-,-,-,-,10,-13,KND,KND,-,-,-,-,-
+*,"(1), 2, 4",-,-,-,-,-,-,-,-,-,12,-13,KND,KND,-,-,-,-,-
+*,"(1), (2), 4",-,-,-,-,-,-,-,-,-,24,-13,KND,KND,-,-,-,-,-
+*,2,-,-,-,-,-,-,-,-,-,10,0,+6,+6,-,-,-,-,-
+Cut In,"2, 1",-,-,-,-,-,-,-,-,-,10,-4,+2,+2,-,-,-,-,-
+*,"(2), 1",-,-,-,-,-,-,-,-,-,17,-4,+2,+2,-,-,-,-,-
+Porrima Blinding Sands,"2, 3",-,-,-,-,-,-,-,-,-,10,-8,+3,+3,-,-,-,-,-
+Porrima Blinding Sands to Stealth Step,"(2), 3",-,-,-,-,-,-,-,-,-,20,-8,+3,+3,-,-,-,-,-
+Blinding Sands,3,-,-,-,-,-,-,-,-,-,14,-8,+3,+3,-,-,-,-,-
+*,4,-,-,-,-,-,-,-,-,-,11,-10,+1,LAUNCH,-,-,-,-,-
+Hallux Kick to Algenib,"4, 1",-,-,-,-,-,-,-,-,-,11,-5,+4,LAUNCH,-,-,-,-,-
+*,"(4), 1",-,-,-,-,-,-,-,-,-,18,-5,+4,+4,-,-,-,-,-
+Hallux Kick to High Slashing Kick,"4, 3",-,-,-,-,-,-,-,-,-,11,-1,KND,KND,-,-,-,-,-
+*,"(4), 3",-,-,-,-,-,-,-,-,-,31,-1,KND,KND,-,-,-,-,-
+Hallux Kick to Ra'd,"4, 4",-,-,-,-,-,-,-,-,-,11,-13,KND,KND,-,-,-,-,-
+*,"(4), 4",-,-,-,-,-,-,-,-,-,24,-13,KND,KND,-,-,-,-,-
+Crescent Cleaver,u/f+3,-,-,-,-,-,-,-,-,-,25,-7,STUN,STUN,-,-,-,-,-
+Altair,u/f+4,-,-,-,-,-,-,-,-,-,15,-13,LAUNCH,LAUNCH,-,-,-,-,-
+*,f+2,-,-,-,-,-,-,-,-,-,12,-8,-2,-2,-,-,-,-,-
+Silent Sting,"f+2, 3",-,-,-,-,-,-,-,-,-,12,-12,KND,KND,-,-,-,-,-
+*,"(f+2), 3",-,-,-,-,-,-,-,-,-,18,-12,KND,KND,-,-,-,-,-
+*,"f+2, 4",-,-,-,-,-,-,-,-,-,12,-13,-2,-2,-,-,-,-,-
+*,"(f+2), 4",-,-,-,-,-,-,-,-,-,22,-13,-2,KND,-,-,-,-,-
+*,"(f+2), (4), D/F, D/B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Silent Flow,"f+2, 4, 4",-,-,-,-,-,-,-,-,-,12,-3,+14,+14,-,-,-,-,-
+*,"(f+2), 4, 4",-,-,-,-,-,-,-,-,-,22,-3,+14,S!,-,-,-,-,-
+*,"(f+2), (4), 4",-,-,-,-,-,-,-,-,-,26,-3,+14,S!,-,-,-,-,-
+Crescent Moon,f+3,-,-,-,-,-,-,-,-,-,21,-5,+6,KND,-,-,-,-,-
+Piercing Talon,f+4,-,-,-,-,-,-,-,-,-,15,-2,+15,S!,-,-,-,-,-
+Skyline,f+3+4,-,-,-,-,-,-,-,-,-,22,-11,+1 (OC),+1 (OC),-,-,-,-,-
+Hunting Falcon Dive,"f, F+3 (or f, f, f+3) (Close)",-,-,-,-,-,-,-,-,-,17,-12,KND,KND,-,-,-,-,-
+*,"f, F+3 (or f, f, f+3) (Far)",-,-,-,-,-,-,-,-,-,17,-12,KND,KND,-,-,-,-,-
+Antares,"f, f, f+2 (or WR 2)",-,-,-,-,-,-,-,-,-,20,+4,KND,KND,-,-,-,-,-
+Hornet,"f, b+2",-,-,-,-,-,-,-,-,-,14,-4,KND,KND,-,-,-,-,-
+Rising Falcon,d/f+2,-,-,-,-,-,-,-,-,-,15,-7,LAUNCH,LAUNCH,-,-,-,-,-
+Whirlwind Kick,d/f+3,-,-,-,-,-,-,-,-,-,17,-9,+12,+12,-,-,-,-,-
+Stinging Kick,d/f+4,-,-,-,-,-,-,-,-,-,14,-9,+2,+2,-,-,-,-,-
+Gut Impact,d+2,-,-,-,-,-,-,-,-,-,18,-6,+8,+8,-,-,-,-,-
+Silent Rigel,d+3,-,-,-,-,-,-,-,-,-,16,-14,0,0,-,-,-,-,-
+Vicious Stomp,d+4,-,-,-,-,-,-,-,-,-,19,-12,+1,+1,-,-,-,-,-
+*,d/b+2,-,-,-,-,-,-,-,-,-,14,-10,+1,+1,-,-,-,-,-
+Rapid Strikes,"d/b+2, 1",-,-,-,-,-,-,-,-,-,14,-11,KND,KND,-,-,-,-,-
+*,"(d/b+2), 1",-,-,-,-,-,-,-,-,-,20,-11,KND,KND,-,-,-,-,-
+Snake's Bite,d/b+3,-,-,-,-,-,-,-,-,-,20,-17,-6,-6,-,-,-,-,-
+Snake's Bite to Rising Scimitar,"d/b+3, 4",-,-,-,-,-,-,-,-,-,20,-36,KND,KND,-,-,-,-,-
+*,"(d/b+3), 4",-,-,-,-,-,-,-,-,-,17,-13,KND,KND,-,-,-,-,-
+Rising Scimitar,d/b+4,-,-,-,-,-,-,-,-,-,20,-13,KND,KND,-,-,-,-,-
+Achernar,b+1,-,-,-,-,-,-,-,-,-,19,-9,+3 (OC),GROUND BOUNCE,-,-,-,-,-
+Heel Strike,b+3,-,-,-,-,-,-,-,-,-,18,0,+3 (OC),KND,-,-,-,-,-
+Broken Mirage,b+4,-,-,-,-,-,-,-,-,-,17,-15,+2,KND,-,-,-,-,-
+10 Hit Combo,"2, 1, 4, 1, 3, 3, 3, 3+4, 4",-,-,-,-,-,-,-,-,-,10,-,KND,KND,-,-,-,-,-
+*,BT 1,-,-,-,-,-,-,-,-,-,8,-8,+3,+3,-,-,-,-,-
+Reverse Edge,BT 2,-,-,-,-,-,-,-,-,-,14,-3,KND,KND,-,-,-,-,-
+*,BT 3 (or 4),-,-,-,-,-,-,-,-,-,10,-8,KND,KND,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,11,-4,+7,+7,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,16,-17,-3,-3,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,12,-15,-4,-4,-,-,-,-,-
+Sand Storm,"FC d/f, d, D/F+3",-,-,-,-,-,-,-,-,-,16,-23,KND,KND,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,8,+13,KND,KND,-,-,-,-,-
+Running Stomp*,"While enemy is on the ground... WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
+*,WR 4,-,-,-,-,-,-,-,-,-,14,-40,KND,KND,-,-,-,-,-
+*,WR 1+2,-,-,-,-,-,-,-,-,-,18,0,KND,KND,-,-,-,-,-
+Albireo,WS 1,-,-,-,-,-,-,-,-,-,15,-2,+4,+12,-,-,-,-,-
+Hawk Edge,WS 2,-,-,-,-,-,-,-,-,-,16,-17,STUN,STUN,-,-,-,-,-
+*,WS 3,-,-,-,-,-,-,-,-,-,13,-11,0,0,-,-,-,-,-
+Double Scorpion,"WS 3, 3",-,-,-,-,-,-,-,-,-,13,-15,KND,KND,-,-,-,-,-
+*,"WS (3), 3",-,-,-,-,-,-,-,-,-,17,-15,KND,KND,-,-,-,-,-
+*,WS 4,-,-,-,-,-,-,-,-,-,11,-6,+5,+5,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,STUN,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,13,-18,-3,-3,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,18,-21,KND,KND,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,21,-20,+1,STUN,-,-,-,-,-
+*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,21,-19,-10,KND,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
+INTO STEALTH STEP,,,,,,,,,,,,,,,,,,,
+Stealth Step,"d/f, D/F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spica Blinding Sands to Stealth Step,"1, 2, 3, D/F",-,-,-,-,-,-,-,-,-,10,-27,-16,-16,-,-,-,-,-
+Blinding Sands to Stealth Step,"3, D/F",-,-,-,-,-,-,-,-,-,14,-27,-16,-16,-,-,-,-,-
+Silent Flow to Stealth Step,"f+2, 4, D/F",-,-,-,-,-,-,-,-,-,12,-43,-32,-32,-,-,-,-,-
+*,"(f+2), 4, D/F",-,-,-,-,-,-,-,-,-,22,-43,-32,-2,-,-,-,-,-
+Skyline to Stealth Step,"f+3+4, D/F",-,-,-,-,-,-,-,-,-,22,-25,-13,-13,-,-,-,-,-
+Silent Rigel to Stealth Step,"d+3, D/F",-,-,-,-,-,-,-,-,-,16,-36,-22,-22,-,-,-,-,-
+Rapid Strikes to Stealth Step,"d/b+2, D/F",-,-,-,-,-,-,-,-,-,14,-28,-17,-17,-,-,-,-,-
+DURING STEALTH STEP,,,,,,,,,,,,,,,,,,,
+Blinding Snake,(During Stealth Step) 1,-,-,-,-,-,-,-,-,-,12,-1,+5,+12,-,-,-,-,-
+Maelstrom,(During Stealth Step) 2,-,-,-,-,-,-,-,-,-,15,-9,+7,KND,-,-,-,-,-
+Hunting Falcon Dive,(During Stealth Step) 3 (Close),-,-,-,-,-,-,-,-,-,20,-12,KND,KND,-,-,-,-,-
+*,(During Stealth Step) 3 (Far),-,-,-,-,-,-,-,-,-,20,-12,KND,KND,-,-,-,-,-
+Low Glide,(During Stealth Step) 4,-,-,-,-,-,-,-,-,-,26,-19,KND,KND,-,-,-,-,-
+Assault Tackle,(During Stealth Step) 1+2,-,-,-,-,-,-,-,-,-,27,-5 (BT),KND,KND,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Elnath,"f, F+4",-,-,-,-,-,-,-,-,-,16,-11,KND,KND,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) 1+2,-,-,-,-,-,-,-,-,-,19,-22,KND,KND,-,-,-,-,-
+*,"(During Rage) d/b+2, 4",-,-,-,-,-,-,-,-,-,14,+6,S!,S!,-,-,-,-,-
+*,"(During Rage) (d/b+2), 4",-,-,-,-,-,-,-,-,-,20,+6,S!,S!,-,-,-,-,-
+Rage Drive,"(During Rage) (d/b+2), (4), D/F",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
+Shalua,d/b+1+2,-,-,-,-,-,-,-,-,-,64,!,KND,KND,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Desert Fang,Approach enemy... 1+3,-,-,-,-,-,-,-,-,-,12,-3,KND,-,-,-,-,-,-
+Aldebaran,Approach enemy... 2+4,-,-,-,-,-,-,-,-,-,12,-6,KND,-,-,-,-,-,-
+Desert Fang,Approach enemy... f+1+3,-,-,-,-,-,-,-,-,-,15,-3,KND,-,-,-,-,-,-
+Aldebaran,Approach enemy... f+2+4,-,-,-,-,-,-,-,-,-,15,-6,KND,-,-,-,-,-,-
+Chasm Drop,Approach from left side... 1+3 or 2+4,-,-,-,-,-,-,-,-,-,12,-3,KND,-,-,-,-,-,-
+Axel Spinner,Approach from right side...  1+3 or 2+4,-,-,-,-,-,-,-,-,-,12,-3,KND,-,-,-,-,-,-
+Silent Death,Approach from behind... 1+3 or 2+4,-,-,-,-,-,-,-,-,-,12,-,KND,-,-,-,-,-,-
+Wezen,Approach enemy... d/f+1+4,-,-,-,-,-,-,-,-,-,12,-3,KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,16,-5 (BT),KND,-,-,-,-,-,-
+*,(During Tackle) 1 or 2,-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,,
+Falcon Shield,Time with enemy punch... b+1+2,-,-,-,-,-,-,-,-,-,-,-,+7,-,-,-,-,-,-
