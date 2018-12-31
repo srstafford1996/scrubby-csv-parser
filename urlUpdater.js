@@ -15,8 +15,7 @@ gifNameGetter = async (previewUrl) => {
         const giantResult = `https://giant.gfycat.com/${result.data.gfyItem.gfyName}.gif`
         return giantResult;
     } catch (error) {
-        console.log(error.message)
-        return 'fknerror'
+        gifNameGetter(previewUrl)
     }
 
 }

@@ -1,164 +1,177 @@
-SPECIAL,COMMAND,HIT LEVEL,RANGE,PUSHBACK,TRACKING,CRUSH,JAIL,NC / NCc,OC / OCc,BREAK / SPLAT,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,RECOVERY,ACTIVE
-,,,,,,,,,,,,,,,,,
-PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-WS PUNISHERS,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-MOVELIST,,,,,,,,,,,,,,,,,
-*,D (Hold for 160f),,,,,,,,,,,,,,,,
-*,qcf,,,,,,,,,,,,,,,,
-Sway,qcb,,,,,,,,,,,,,,,,
-Attack Reversal,Time with enemy attack... b+1+3 or b+2+4,,,,,,,,,,,,,,,,
-*,"Back towards wall... b, b, u/b",,,,,,,,,,,,,,,,
-*,1,,,,,,,,,,,,,,,,
-Left Right Combo,"1, 2",,,,,,,,,,,,,,,,
-Reverse PDK Combo,"1, 4",,,,,,,,,,,,,,,,
-*,2,,,,,,,,,,,,,,,,
-Jab Roundhouse,"2, 3",,,,,,,,,,,,,,,,
-Jab Sweep,"2, d+3",,,,,,,,,,,,,,,,
-*,3,,,,,,,,,,,,,,,,
-Piston Fire,"3, 2",,,,,,,,,,,,,,,,
-*,4,,,,,,,,,,,,,,,,
-*,f+2,,,,,,,,,,,,,,,,
-*,"f+2, 3",,,,,,,,,,,,,,,,
-*,"f+2, 3, 1",,,,,,,,,,,,,,,,
-*,f+3,,,,,,,,,,,,,,,,
-*,"f+3, 2",,,,,,,,,,,,,,,,
-Quick PK Smash,"f+3, 2, 1",,,,,,,,,,,,,,,,
-Hammer of the Gods,f+1+2,,,,,,,,,,,,,,,,
-Shoulder Tackle,f+1+4,,,,,,,,,,,,,,,,
-*,d/f+1,,,,,,,,,,,,,,,,
-*,"d/f+1, 1",,,,,,,,,,,,,,,,
-Lion's Roar,"d/f+1, 1, 2",,,,,,,,,,,,,,,,
-Body Sway to Sway,"d/f+1, B",,,,,,,,,,,,,,,,
-*,d/f+3,,,,,,,,,,,,,,,,
-Phoenix Wings,"d/f+3, 4",,,,,,,,,,,,,,,,
-*,"d/f+3, 4 (Hold)",,,,,,,,,,,,,,,,
-The Boot,d/f+4,,,,,,,,,,,,,,,,
-Hammer Punch,d+1,,,,,,,,,,,,,,,,
-*,"d+1, D",,,,,,,,,,,,,,,,
-Hammer Punch to Power Punch,"d+1, 2",,,,,,,,,,,,,,,,
-*,"d+1, 2 (Hold)",,,,,,,,,,,,,,,,
-Hang Over,"d+1, 4, 2",,,,,,,,,,,,,,,,
-*,d+4 (Close),,,,,,,,,,,,,,,,
-*,d+4 (Far),,,,,,,,,,,,,,,,
-Bone Breaker,"d+4, 2",,,,,,,,,,,,,,,,
-Demolition Man,"d+4, 2, 1+2",,,,,,,,,,,,,,,,
-*,d+4:2:1+2,,,,,,,,,,,,,,,,
-*,"d+4, 2:1+2",,,,,,,,,,,,,,,,
-Shoulder Smash,d+1+2,,,,,,,,,,,,,,,,
-Shoot the Moon,d/b+2,,,,,,,,,,,,,,,,
-*,b+1,,,,,,,,,,,,,,,,
-Double Axe Swing,"b+1, 2",,,,,,,,,,,,,,,,
-*,b+2,,,,,,,,,,,,,,,,
-Crushing Wind,"b+2, 1",,,,,,,,,,,,,,,,
-*,"b+2, 1 (Hold)",,,,,,,,,,,,,,,,
-Lights Out,b+3,,,,,,,,,,,,,,,,
-Leg Sweep,b+4,,,,,,,,,,,,,,,,
-Wrecking Ball,u/b+2,,,,,,,,,,,,,,,,
-Mortar Punch,u/f+2,,,,,,,,,,,,,,,,
-*,u/f+3,,,,,,,,,,,,,,,,
-Shredder,"u/f+3, 4",,,,,,,,,,,,,,,,
-*,"f, F+2",,,,,,,,,,,,,,,,
-Juggernaut,"f, F+2, 1",,,,,,,,,,,,,,,,
-*,"f, F+2, 1, B",,,,,,,,,,,,,,,,
-Phoenix Bone Breaker,"f, F+2:1",,,,,,,,,,,,,,,,
-Bulldozer,"f, F+2, 2",,,,,,,,,,,,,,,,
-*,"f, F+2, 2, B",,,,,,,,,,,,,,,,
-*,"f, F+3",,,,,,,,,,,,,,,,
-*,"f, F+3, 4",,,,,,,,,,,,,,,,
-Double Hop Kick High,"f, F+3, 4, 4",,,,,,,,,,,,,,,,
-Triple Kick Combo,"f, F+3, 4, f+4",,,,,,,,,,,,,,,,
-Double Hop Kick Low,"f, F+3, 4, d+4",,,,,,,,,,,,,,,,
-Neutron Bomb,"f, F+4",,,,,,,,,,,,,,,,
-Burning Spear,"b, f+1",,,,,,,,,,,,,,,,
-Thruster,qcf+1,,,,,,,,,,,,,,,,
-Phoenix Smasher,qcf+2 (Close),,,,,,,,,,,,,,,,
-*,qcf+2 (Far),,,,,,,,,,,,,,,,
-Gengetsu,qcf+3,,,,,,,,,,,,,,,,
-Mountain Raze,qcf+3+4,,,,,,,,,,,,,,,,
-God Hammer Punch,qcb+1,,,,,,,,,,,,,,,,
-Rubber Band Attack,qcb+2,,,,,,,,,,,,,,,,
-Sway and Low Kick,qcb+3,,,,,,,,,,,,,,,,
-*,"qcb+3, 2",,,,,,,,,,,,,,,,
-Rapid Fire to Phoenix Smasher,"qcb+3, 2, 1",,,,,,,,,,,,,,,,
-Rapid Fire to Lightning Bolt,"qcb+3, 2, 3",,,,,,,,,,,,,,,,
-Kawaragoma,qcb+4,,,,,,,,,,,,,,,,
-Higaku,qcb+1+2,,,,,,,,,,,,,,,,
-Down Strike,While enemy is down... d+2,,,,,,,,,,,,,,,,
-10 Hit Combo 1,"1, 2, 3, 2, 1, 2, 1, 4, 2, 1",,,,,,,,,,,,,,,,
-10 Hit Combo 2,"1, 2, 3, 2, 4, 2, 1, 4, 2, 1",,,,,,,,,,,,,,,,
-10 Hit Combo 3,"1, 2, 3, 1, 2 ",,,,,,,,,,,,,,,,
-*,BT 1 or 2,,,,,,,,,,,,,,,,
-*,BT 3 or 4,,,,,,,,,,,,,,,,
-*,BT u/f+3,,,,,,,,,,,,,,,,
-*,BT u/f+4,,,,,,,,,,,,,,,,
-*,FC 1,,,,,,,,,,,,,,,,
-*,FC 2,,,,,,,,,,,,,,,,
-*,FC 3,,,,,,,,,,,,,,,,
-*,FC 4,,,,,,,,,,,,,,,,
-Incomplete Somersault,FC D (1 sec) u+3+4,,,,,,,,,,,,,,,,
-*,FC d/f+2,,,,,,,,,,,,,,,,
-Gunba,FC d/f+1+2,,,,,,,,,,,,,,,,
-Turn Thruster,SS 1,,,,,,,,,,,,,,,,
-Pump in Pedal,SS 3,,,,,,,,,,,,,,,,
-Charging Tackle*,"WR f, f, F (Full Screen)",,,,,,,,,,,,,,,,
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",,,,,,,,,,,,,,,,
-*,WR 4,,,,,,,,,,,,,,,,
-*,WR 1+2,,,,,,,,,,,,,,,,
-Thunder Palm,WS 1,,,,,,,,,,,,,,,,
-*,WS 2,,,,,,,,,,,,,,,,
-*,WS 3,,,,,,,,,,,,,,,,
-Shioh,"WS 3, 2",,,,,,,,,,,,,,,,
-*,WS 4,,,,,,,,,,,,,,,,
-*,"Held Jump, 1",,,,,,,,,,,,,,,,
-*,Jump~1,,,,,,,,,,,,,,,,
-*,"Jump, n~1",,,,,,,,,,,,,,,,
-*,"Jump, n, delayed 1",,,,,,,,,,,,,,,,
-*,Held Jump+2,,,,,,,,,,,,,,,,
-*,Jump~2,,,,,,,,,,,,,,,,
-*,Held Jump+3,,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 3",,,,,,,,,,,,,,,,
-*,Jump~3,,,,,,,,,,,,,,,,
-*,"Held Jump, 4",,,,,,,,,,,,,,,,
-*,"Held Jump, delayed 4",,,,,,,,,,,,,,,,
-*,Jump~4,,,,,,,,,,,,,,,,
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",,,,,,,,,,,,,,,,
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",,,,,,,,,,,,,,,,
-Spring Attack*,"Face Up, Feet Towards+3+4",,,,,,,,,,,,,,,,
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+3",,,,,,,,,,,,,,,,
-*,"Face Down, Feet Away+4",,,,,,,,,,,,,,,,
-Handspring Kickup,(Upon Landing) f,,,,,,,,,,,,,,,,
-POWER CRUSHES,,,,,,,,,,,,,,,,,
-Hassou Strike,b+1+2,,,,,,,,,,,,,,,,
-RAGE MOVES,,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) 1+2,,,,,,,,,,,,,,,,
-*,"(During Rage) 1+2, B",,,,,,,,,,,,,,,,
-Rage Drive,(During Rage) qcf+1+2,,,,,,,,,,,,,,,,
-UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,
-Burning Fist,"b, B+1+2 (u, u to cancel)",,,,,,,,,,,,,,,,
-THROWS,,,,,,,,,,,,,,,,,
-Over The Shoulder,Approach enemy... 1+3,,,,,,,,,,,,,,,,
-Over The Shoulder,Approach enemy... f+1+3,,,,,,,,,,,,,,,,
-Shoulder Pop,Approach enemy... 2+4,,,,,,,,,,,,,,,,
-Shoulder Pop,Approach enemy... f+2+4,,,,,,,,,,,,,,,,
-Dragon Screw,Approach from left side... 1+3 (or 2+4),,,,,,,,,,,,,,,,
-Fall Away,Approach from right side...  1+3 (or 2+4),,,,,,,,,,,,,,,,
-Reverse Neck Throw,Approach from behind... 1+3,,,,,,,,,,,,,,,,
-Piggyback Throw,Approach from behind... 2+4,,,,,,,,,,,,,,,,
-Chest Crusher,"Approach enemy... 2+4, B",,,,,,,,,,,,,,,,
-Twist and Shout,Approach enemy... d/f+1+2,,,,,,,,,,,,,,,,
-Kongo Blast,"Approach enemy... d/f+1+3, qcf+2",,,,,,,,,,,,,,,,
-Foot Launch,Approach enemy... b+1+4,,,,,,,,,,,,,,,,
-Push Away,"Approach enemy... f, F+1+2",,,,,,,,,,,,,,,,
-Ultimate Tackle,d/b+1+2,,,,,,,,,,,,,,,,
-*,"WR f, f, F (Mid Screen)",,,,,,,,,,,,,,,,
-*,(During Tackle) 1 or 2,,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
-*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",,,,,,,,,,,,,,,,
-Ultimate Punch to Arm Breaker,"(During Tackle) 2, 1, 2, 1+2",,,,,,,,,,,,,,,,
-Ultimate Punishment,"(During Tackle) 2, d+1, 1, n, 4, 1, 1+2",,,,,,,,,,,,,,,,
-*,(During Tackle) 1+2,,,,,,,,,,,,,,,,
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
+*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,i23,0,KND,KND,-,-,-,-,-
+*,1,-,-,-,-,-,-,-,-,-,i10,+1,+8,+8,-,-,-,-,-
+Left Right Combo,"1, 2",-,-,-,-,-,-,-,-,-,i10,-1,+6,+6,-,-,-,-,-
+*,"(1), 2",-,-,-,-,-,-,-,-,-,i10,-1,+6,+6,-,-,-,-,-
+Reverse PDK Combo,"1, 4",-,-,-,-,-,-,-,-,-,i10,-11,+1,+1,-,-,-,-,-
+*,"(1), 4",-,-,-,-,-,-,-,-,-,i23,-11,+1,+1,-,-,-,-,-
+*,2,-,-,-,-,-,-,-,-,-,i10,0,+6,+6,-,-,-,-,-
+Jab Roundhouse,"2, 3",-,-,-,-,-,-,-,-,-,i10,-12,KND,KND,-,-,-,-,-
+*,"(2), 3",-,-,-,-,-,-,-,-,-,i22,-12,KND,STUN,-,-,-,-,-
+Jab Sweep,"2, d+3",-,-,-,-,-,-,-,-,-,i10,-12,-1,-1,-,-,-,-,-
+*,"(2), d+3",-,-,-,-,-,-,-,-,-,i22,-12,-1,-1,-,-,-,-,-
+*,3,-,-,-,-,-,-,-,-,-,i15,-7,+4,+4,-,-,-,-,-
+Piston Fire,"3, 2",-,-,-,-,-,-,-,-,-,i15,-3,+7,+7,-,-,-,-,-
+*,"(3), 2",-,-,-,-,-,-,-,-,-,i23,-3,+7,KND,-,-,-,-,-
+*,4,-,-,-,-,-,-,-,-,-,i12,-7,+7,LAUNCH,-,-,-,-,-
+*,f+2,-,-,-,-,-,-,-,-,-,i12,0,+6,+6,-,-,-,-,-
+*,"f+2, 3",-,-,-,-,-,-,-,-,-,i12,-11,+5,+5,-,-,-,-,-
+*,"(f+2), 3",-,-,-,-,-,-,-,-,-,i20,-11,+5,+5,-,-,-,-,-
+Quick PK Smash,"f+2, 3, 1",-,-,-,-,-,-,-,-,-,i12,-12,KND,KND,-,-,-,-,-
+*,"(f+2), 3, 1",-,-,-,-,-,-,-,-,-,i20,-12,KND,KND,-,-,-,-,-
+*,"(f+2), (3), 1",-,-,-,-,-,-,-,-,-,i17,-12,KND,KND,-,-,-,-,-
+*,f+3,-,-,-,-,-,-,-,-,-,i16,-16,KND,KND,-,-,-,-,-
+Hammer of the Gods,f+1+2,-,-,-,-,-,-,-,-,-,i20,+3 (OC),+8 (OC),KND,-,-,-,-,-
+Shoulder Tackle,f+1+4,-,-,-,-,-,-,-,-,-,i8,-14,KND,KND,-,-,-,-,-
+*,d/f+1,-,-,-,-,-,-,-,-,-,i14,-2,+4,+4,-,-,-,-,-
+*,"d/f+1, 1",-,-,-,-,-,-,-,-,-,i14,-5,+5,+5,-,-,-,-,-
+*,"(d/f+1), 1",-,-,-,-,-,-,-,-,-,i20,-5,+5,+8,-,-,-,-,-
+Lion's Roar,"d/f+1, 1, 2",-,-,-,-,-,-,-,-,-,i14,-9,KND,KND,-,-,-,-,-
+*,"(d/f+1), 1, 2",-,-,-,-,-,-,-,-,-,i20,-9,KND,KND,-,-,-,-,-
+*,"(d/f+1), (1), 2",-,-,-,-,-,-,-,-,-,i22,-9,KND,KND,-,-,-,-,-
+*,d/f+3,-,-,-,-,-,-,-,-,-,i16,-9,+2,+2,-,-,-,-,-
+Phoenix Wings,"d/f+3, 4",-,-,-,-,-,-,-,-,-,i16,-10,+6,+6,-,-,-,-,-
+*,"(d/f+3), 4",-,-,-,-,-,-,-,-,-,i21,-10,+6,STUN,-,-,-,-,-
+*,"(d/f+3), 4 (Hold)",-,-,-,-,-,-,-,-,-,i15,-6,STUN,STUN,-,-,-,-,-
+The Boot,d/f+4,-,-,-,-,-,-,-,-,-,i19,-1,+9,KND,-,-,-,-,-
+Hammer Punch,d+1,-,-,-,-,-,-,-,-,-,i14,-9,+2,+2 (OC),-,-,-,-,-
+*,"d+1, D",-,-,-,-,-,-,-,-,-,i14,-9,+2,+2 (OC),-,-,-,-,-
+Hammer Punch to Power Punch,"d+1, 2",-,-,-,-,-,-,-,-,-,i14,-17,KND,KND,-,-,-,-,-
+*,"(d+1), 2",-,-,-,-,-,-,-,-,-,i29,-17,KND,KND,-,-,-,-,-
+*,"(d+1), 2 (Hold)",-,-,-,-,-,-,-,-,-,i24,+19,KND,KND,-,-,-,-,-
+Hang Over,"d+1, 4, 2",-,-,-,-,-,-,-,-,-,i14,-14,KND,KND,-,-,-,-,-
+*,"(d+1), 4, 2",-,-,-,-,-,-,-,-,-,i19,-14,KND,KND,-,-,-,-,-
+*,"(d+1), (4), 2",-,-,-,-,-,-,-,-,-,i21,-14,KND,KND,-,-,-,-,-
+*,d+4 (Close),-,-,-,-,-,-,-,-,-,i15,-31,-17,KND,-,-,-,-,-
+*,d+4 (Far),-,-,-,-,-,-,-,-,-,i15,-31,KND,KND,-,-,-,-,-
+Bone Breaker,"d+4, 2",-,-,-,-,-,-,-,-,-,i15,-31,KND,KND,-,-,-,-,-
+*,"(d+4), 2",-,-,-,-,-,-,-,-,-,i15,-31,KND,KND,-,-,-,-,-
+Demolition Man,"d+4, 2, 1+2",-,-,-,-,-,-,-,-,-,i15,-31,KND,KND,-,-,-,-,-
+*,"(d+4), 2, 1+2",-,-,-,-,-,-,-,-,-,i21,-31,KND,KND,-,-,-,-,-
+*,"(d+4), (2), 1+2",-,-,-,-,-,-,-,-,-,i26,-31,KND,KND,-,-,-,-,-
+Shoulder Smash,d+1+2,-,-,-,-,-,-,-,-,-,i12,-16,KND,KND,-,-,-,-,-
+Shoot the Moon,d/b+2,-,-,-,-,-,-,-,-,-,i19,-11,LAUNCH,LAUNCH,-,-,-,-,-
+*,b+1,-,-,-,-,-,-,-,-,-,i12,-9,+2,+2,-,-,-,-,-
+Double Axe Swing,"b+1, 2",-,-,-,-,-,-,-,-,-,i12,-5,+8,+8,-,-,-,-,-
+*,"(b+1), 2",-,-,-,-,-,-,-,-,-,i18,-5,+8,+8,-,-,-,-,-
+*,b+2,-,-,-,-,-,-,-,-,-,i18,-5 (OC),+4 (OC),+4 (OC),-,-,-,-,-
+Crushing Wind,"b+2, 1",-,-,-,-,-,-,-,-,-,i18,-12,0 (OC),0 (OC),-,-,-,-,-
+*,"(b+2), 1",-,-,-,-,-,-,-,-,-,i16,-12,0 (OC),GROUND BOUNCE,-,-,-,-,-
+*,"(b+2), 1 (Hold)",-,-,-,-,-,-,-,-,-,i60,+8,+8 (OC),GROUND BOUNCE,-,-,-,-,-
+Lights Out,b+3,-,-,-,-,-,-,-,-,-,i14,-6,STUN,STUN,-,-,-,-,-
+Leg Sweep,b+4,-,-,-,-,-,-,-,-,-,i20,-13,+3,+3,-,-,-,-,-
+Wrecking Ball,u/b+2,-,-,-,-,-,-,-,-,-,i20,-9,KND,STUN,-,-,-,-,-
+Mortar Punch,u/f+2,-,-,-,-,-,-,-,-,-,i34,+9,KND,KND,-,-,-,-,-
+*,u/f+3,-,-,-,-,-,-,-,-,-,i15,-16,LAUNCH,LAUNCH,-,-,-,-,-
+Shredder,"u/f+3, 4",-,-,-,-,-,-,-,-,-,i15,-13,LAUNCH,LAUNCH,-,-,-,-,-
+*,"(u/f+3), 4",-,-,-,-,-,-,-,-,-,i13,-13,LAUNCH,LAUNCH,-,-,-,-,-
+*,"f, F+2",-,-,-,-,-,-,-,-,-,i15,-17,-7,-7,-,-,-,-,-
+Juggernaut,"f, F+2, 1",-,-,-,-,-,-,-,-,-,i15,-12,KND,KND,-,-,-,-,-
+*,"(f, F+2), 1",-,-,-,-,-,-,-,-,-,i26,-12,KND,KND,-,-,-,-,-
+*,"f, F+2, 1, B",-,-,-,-,-,-,-,-,-,i15,-21,-11,-11,-,-,-,-,-
+Phoenix Bone Breaker,"f, F+2:1",-,-,-,-,-,-,-,-,-,i15,-4,KND,KND,-,-,-,-,-
+Bulldozer,"f, F+2, 2",-,-,-,-,-,-,-,-,-,i36,-19,KND,KND,-,-,-,-,-
+*,"f, F+2, 2, B",-,-,-,-,-,-,-,-,-,i15,-28,-7,-7,-,-,-,-,-
+*,"f, F+3",-,-,-,-,-,-,-,-,-,i15,-17,LAUNCH,LAUNCH,-,-,-,-,-
+*,"f, F+3, 4",-,-,-,-,-,-,-,-,-,i15,-16,LAUNCH,LAUNCH,-,-,-,-,-
+*,"(f, F+3), 4",-,-,-,-,-,-,-,-,-,i13,-16,LAUNCH,LAUNCH,-,-,-,-,-
+Double Hop Kick High,"f, F+3, 4, 4",-,-,-,-,-,-,-,-,-,i15,-5,KND,KND,-,-,-,-,-
+*,"(f, F+3), 4, 4",-,-,-,-,-,-,-,-,-,i13,-5,KND,KND,-,-,-,-,-
+*,"(f, F+3), (4), 4",-,-,-,-,-,-,-,-,-,i23,-5,KND,KND,-,-,-,-,-
+Triple Kick Combo,"f, F+3, 4, f+4",-,-,-,-,-,-,-,-,-,i15,-14,KND,KND,-,-,-,-,-
+*,"(f, F+3), 4, f+4",-,-,-,-,-,-,-,-,-,i13,-14,KND,KND,-,-,-,-,-
+*,"(f, F+3), (4), f+4",-,-,-,-,-,-,-,-,-,i27,-14,KND,KND,-,-,-,-,-
+Double Hop Kick Low,"f, F+3, 4, d+4",-,-,-,-,-,-,-,-,-,i15,-17,KND,KND,-,-,-,-,-
+*,"(f, F+3), 4, d+4",-,-,-,-,-,-,-,-,-,i13,-17,KND,KND,-,-,-,-,-
+*,"(f, F+3), (4), d+4",-,-,-,-,-,-,-,-,-,i27,-17,-6,-6,-,-,-,-,-
+Neutron Bomb,"f, F+4",-,-,-,-,-,-,-,-,-,i23,-2,STUN,STUN,-,-,-,-,-
+Burning Spear,"b, f+1",-,-,-,-,-,-,-,-,-,i28,-6,KND,KND,-,-,-,-,-
+Thruster,qcf+1,-,-,-,-,-,-,-,-,-,i16,-4,LAUNCH,LAUNCH,-,-,-,-,-
+Phoenix Smasher,qcf+2 (Close),-,-,-,-,-,-,-,-,-,i13,-17,KND,KND,-,-,-,-,-
+*,qcf+2 (Far),-,-,-,-,-,-,-,-,-,i13,-17,KND,KND,-,-,-,-,-
+Gengetsu,qcf+3,-,-,-,-,-,-,-,-,-,i18,-14,0,KND,-,-,-,-,-
+Mountain Raze,qcf+3+4,-,-,-,-,-,-,-,-,-,i19,-9,LAUNCH,LAUNCH,-,-,-,-,-
+God Hammer Punch,qcb+1,-,-,-,-,-,-,-,-,-,i21,0 (OC),KND,GROUND BOUNCE,-,-,-,-,-
+Rubber Band Attack,qcb+2,-,-,-,-,-,-,-,-,-,i15,-8,KND,KND,-,-,-,-,-
+Sway and Low Kick,qcb+3,-,-,-,-,-,-,-,-,-,i18,-21,-10,KND,-,-,-,-,-
+*,"qcb+3, 2",-,-,-,-,-,-,-,-,-,i18,-10,KND,KND,-,-,-,-,-
+*,"(qcb+3), 2",-,-,-,-,-,-,-,-,-,i27,-10,KND,KND,-,-,-,-,-
+Rapid Fire to Phoenix Smasher,"qcb+3, 2, 1",-,-,-,-,-,-,-,-,-,i18,-10,KND,KND,-,-,-,-,-
+*,"(qcb+3), 2, 1",-,-,-,-,-,-,-,-,-,i27,-10,KND,KND,-,-,-,-,-
+*,"(qcb+3), (2), 1",-,-,-,-,-,-,-,-,-,i18,-10,KND,KND,-,-,-,-,-
+Rapid Fire to Lightning Bolt,"qcb+3, 2, 3",-,-,-,-,-,-,-,-,-,i18,-13,0,0,-,-,-,-,-
+*,"(qcb+3), 2, 3",-,-,-,-,-,-,-,-,-,i27,-13,0,0,-,-,-,-,-
+*,"(qcb+3), (2), 3",-,-,-,-,-,-,-,-,-,i21,-13,0,KND,-,-,-,-,-
+Kawaragoma,qcb+4,-,-,-,-,-,-,-,-,-,i15,+1,KND,STUN,-,-,-,-,-
+Higaku,qcb+1+2,-,-,-,-,-,-,-,-,-,i18,-14,LAUNCH,LAUNCH,-,-,-,-,-
+Down Strike,While enemy is down... d+2,-,-,-,-,-,-,-,-,-,i18,-,KND,KND,-,-,-,-,-
+10 Hit Combo 1,"1, 2, 3, 2, 1, 2, 1, 4, 2, 1",-,-,-,-,-,-,-,-,-,i10,-,KND,KND,-,-,-,-,-
+10 Hit Combo 2,"1, 2, 3, 2, 4, 2, 1, 4, 2, 1",-,-,-,-,-,-,-,-,-,i10,-,KND,KND,-,-,-,-,-
+10 Hit Combo 3,"1, 2, 3, 1, 2 ",-,-,-,-,-,-,-,-,-,i10,-,KND,KND,-,-,-,-,-
+*,BT 1 (or 2),-,-,-,-,-,-,-,-,-,i8,-8,+3,+3,-,-,-,-,-
+*,BT 3 (or 4),-,-,-,-,-,-,-,-,-,i10,-8,KND,KND,-,-,-,-,-
+*,FC 1,-,-,-,-,-,-,-,-,-,i10,-5,+6,+6,-,-,-,-,-
+*,FC 2,-,-,-,-,-,-,-,-,-,i11,-4,+7,+7,-,-,-,-,-
+*,FC 3,-,-,-,-,-,-,-,-,-,i16,-17,-3,-3,-,-,-,-,-
+*,FC 4,-,-,-,-,-,-,-,-,-,i12,-15,-4,-4,-,-,-,-,-
+Incomplete Somersault,FC D (1 sec) u+3+4,-,-,-,-,-,-,-,-,-,i13,-49,KND,KND,-,-,-,-,-
+*,FC d/f+2,-,-,-,-,-,-,-,-,-,i14,-17,-7,-7,-,-,-,-,-
+Gunba,FC d/f+1+2,-,-,-,-,-,-,-,-,-,i32,-12,KND,KND,-,-,-,-,-
+Turn Thruster,SS 1,-,-,-,-,-,-,-,-,-,i20,+8,KND,S!,-,-,-,-,-
+Pump in Pedal,SS 3,-,-,-,-,-,-,-,-,-,i19,-12,+4,+12,-,-,-,-,-
+Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,i8,+13,KND,KND,-,-,-,-,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,i12,-,KND,KND,-,-,-,-,-
+*,WR 4,-,-,-,-,-,-,-,-,-,i14,-40,KND,KND,-,-,-,-,-
+*,WR 1+2,-,-,-,-,-,-,-,-,-,i18,0,KND,KND,-,-,-,-,-
+Thunder Palm,WS 1,-,-,-,-,-,-,-,-,-,i10,-3,+8,+8,-,-,-,-,-
+*,WS 2,-,-,-,-,-,-,-,-,-,i15,-14,LAUNCH,LAUNCH,-,-,-,-,-
+*,WS 3,-,-,-,-,-,-,-,-,-,i13,-8,+3,+3,-,-,-,-,-
+Shioh,"WS 3, 2",-,-,-,-,-,-,-,-,-,i13,-9,KND,KND,-,-,-,-,-
+Shioh,"WS (3), 2",-,-,-,-,-,-,-,-,-,i21,-9,KND,STUN,-,-,-,-,-
+*,WS 4,-,-,-,-,-,-,-,-,-,i11,-6,+5,+5,-,-,-,-,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,STUN,-,-,-,-,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,KND,-,-,-,-,-
+Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,i13,-18,-3,-3,-,-,-,-,-
+Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,i48,+10,KND,KND,-,-,-,-,-
+Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,i19,+2,KND,KND,-,-,-,-,-
+*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,i21,-20,+1,STUN,-,-,-,-,-
+*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,i21,-19,-10,KND,-,-,-,-,-
+Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,i33,-2,+3,+3,-,-,-,-,-
+INTO SWAY,,,,,,,,,,,,,,,,,,,
+Sway,qcb,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Body Sway to Sway,"d/f+1, B",-,-,-,-,-,-,-,-,-,i14,-18,-12,-12,-,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,
+Hassou Strike,b+1+2,-,-,-,-,-,-,-,-,-,i24,0,KND,KND,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) 1+2,-,-,-,-,-,-,-,-,-,i20,-22,KND,KND,-,-,-,-,-
+Rage Drive,(During Rage) qcf+1+2,-,-,-,-,-,-,-,-,-,i12,+3,KND,KND,-,-,-,-,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
+Burning Fist,"b, B+1+2 (u, u to cancel)",-,-,-,-,-,-,-,-,-,i63,!,KND,KND,-,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,,
+Over The Shoulder,Approach enemy... 1+3,-,-,-,-,-,-,-,-,-,i12,-6,KND,-,-,-,-,-,-
+Shoulder Pop,Approach enemy... 2+4,-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Over The Shoulder,Approach enemy... f+1+3,-,-,-,-,-,-,-,-,-,i15,-6,KND,-,-,-,-,-,-
+Shoulder Pop,Approach enemy... f+2+4,-,-,-,-,-,-,-,-,-,i15,-3,KND,-,-,-,-,-,-
+Dragon Screw,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Fall Away,Approach from right side...  1+3 (or 2+4),-,-,-,-,-,-,-,-,-,i12,-3,KND,-,-,-,-,-,-
+Reverse Neck Throw,Approach from behind... 1+3,-,-,-,-,-,-,-,-,-,i12,-,KND,-,-,-,-,-,-
+Piggyback Throw,Approach from behind... 2+4,-,-,-,-,-,-,-,-,-,i12,-,KND,-,-,-,-,-,-
+Chest Crusher,"Approach enemy... 2+4, B",-,-,-,-,-,-,-,-,-,i12,-2,KND,-,-,-,-,-,-
+Twist and Shout,Approach enemy... d/f+1+2,-,-,-,-,-,-,-,-,-,i12,-6,KND,-,-,-,-,-,-
+Kongo Blast,Approach enemy... d/f+1+3,-,-,-,-,-,-,-,-,-,i12,-2,+9,-,-,-,-,-,-
+*,"Approach enemy... (d/f+1+3), qcf+2",-,-,-,-,-,-,-,-,-,i13,-,KND,-,-,-,-,-,-
+Foot Launch,Approach enemy... b+1+4,-,-,-,-,-,-,-,-,-,i11,-2,KND,-,-,-,-,-,-
+Push Away,"Approach enemy... f, F+1+2",-,-,-,-,-,-,-,-,-,i12,0 (BT),KND,-,-,-,-,-,-
+Ultimate Tackle,d/b+1+2,-,-,-,-,-,-,-,-,-,i26,-5 (BT),KND,-,-,-,-,-,-
+*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,i16,-5 (BT),KND,-,-,-,-,-,-
+*,(During Tackle) 1 or 2,-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Ultimate Punch to Arm Breaker,"(During Tackle) 2, 1, 2, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+Ultimate Punishment,"(During Tackle) 2, d+1, 1, n, 4, 1, 1+2",-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+*,(During Tackle) 1+2,-,-,-,-,-,-,-,-,-,-,-,KND,-,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,,
+*,D (Hold for 160f),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+*,qcf,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Attack Reversal,Time with enemy attack... b+1+3 or b+2+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
