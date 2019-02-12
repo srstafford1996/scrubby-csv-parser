@@ -1,143 +1,143 @@
-MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,CANCELLABLE,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
-Sengeki,1 or BT 1 or 2,high,1,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,7 (8),10,+1,+8,+8,-,-,-13,1,-
-Kimon Rendan,"1, 1","high, high",1,0.25,-,-,NO,NCc,-,SPECIAL / EX / SUPER,"7 (8), 7",10,-3,+4,+4,-,-,-17,1,-
-*,"(1), 1",high,1,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,7 (8),15,-3,+4,+4,-,-,-17,1,-
-Kimon Rentotsu,"1, 2","high, mid",1,0.25,"NONE, SSR",-,YES,NC,WALL BREAK / SPLAT,-,"7 (8), 20",10,-17,+10,+10,-,-,-33,2,-
-*,"(1), 2",mid,2.25,0.25,-,-,-,-,-,-,20 (24),13,-17,+10,+10,-,-,-33,2,-
-Roppu Tubushi,2,s. mid,1.5,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,15 (18),15,-9,0,0,-,-,-26,2,-
-*,3,high,1.5,0.5,-,-,-,-,-,-,14 (16),15,-8,+3,+3,-,-,-23,1,-
-*,4 or BT 3 or 4,high,2,0,HOMING,-,-,-,-,-,12 (14),14,-13,+2,+2,-,-,-26,2,-
-Kikoku Renzan,"4, 3","high, high",2,0.5,"HOMING, NONE",-,NO,NC,WALL BREAK / SPLAT,-,"12 (14), 17",14,-5,+19,+19,S!,-,-21,2,-
-*,"(4), 3",high,2,0.5,"HOMING, NONE",-,-,-,WALL BREAK / SPLAT,-,17 (20),16,-5,+19,S!,S!,-,-21,2,-
-Ryujinkyaku,f+3,mid,2.75,0.5,-,-,-,-,-,-,16 (19),17,-9,+1,+1,-,-,-24,1,-
-Onikubigari,f+4,high,1.75,1.25,HOMING,-,-,-,WALL BREAK / SPLAT,-,20 (24),16,-9,KND,S!,-,-,-27,2,-
-Zugaihasatsu,f+1+2,"mid, mid",1.5,1,-,-,YES,NC,FLOOR BREAK,-,"5 (6), 15",20,-8,+5 (OC),+5 (OC),-,-,-27,"1, 1",-
-*,f+1+2 (second hit only),mid,1.75,1.5,SSR,-,-,-,FLOOR BREAK,-,15 (18),1,-8,+5 (OC),+5 (OC),-,-,-27,1,-
-Hisenkyaku,f+3+4,mid,2.25,1,HOMING,LOW,-,-,WALL BREAK,-,20 (24),22,-9,+2,+2,-,-,-26,2,-
-*,"f, F+2",mid,2.5,0.5,SSL,-,-,-,-,-,14 (16),15,-14,-2,-2,-,-,-32,1,-
-Shakunetsu Messho,"f, F+2:1","mid, mid",2.75,1.5,SSL,-,YES,NC,WALL BOUNCE,-,"14 (16), 20",15,-13,KND,KND,-,-,-29,1,-
-Ganretsuzan,"f, F+4",mid,3,2.5,-,-,-,-,WALL BREAK / SPLAT,-,23 (27),20,0,+2 (OC),GROUND BOUNCE,-,-,-27,2,-
-Shunjinkaida,"f, f, f+1",high,3.5,3,-,-,-,-,WALL BREAK / SPLAT,-,30 (36),16,+1,KND,KND,-,-,-33,2,-
-Tenmakuretsukyaku,"f, f, f+3 (or WR 3)",mid,4,0,-,LOW,-,-,FLOOR BREAK,-,30 (36),26,+6,KND,KND,-,-,-22,6,-
-*,d/f+1,mid,1.5,1,SSR,-,-,-,-,-,10 (12),13,-4,+7,+7,-,-,-18,2,-
-Gokumonsyo,"d/f+1, 1","mid, high",1.5,1,-,-,NO,NC,-,-,"10 (12), 7",13,-3,+6,+6,-,-,-18,"2, 1",-
-*,"(d/f+1), 1",high,1,1.5,-,-,-,-,-,-,7 (8),20,-3,+6,+6,-,-,-18,1,-
-Zugaigohasatsu,"d/f+1, 2","mid, mid, mid",1.5,0.5,-,-,YES,NC,FLOOR BREAK,-,"10 (12), 5, 10",13,-13 (OC),+5 (OC),+5 (OC),-,-,-27,"2, 1, 1",-
-*,"(d/f+1), 2","mid, mid",1.5,1,-,-,YES,NC,FLOOR BREAK,-,"5 (6), 10",21,-13 (OC),+5 (OC),+5 (OC),-,-,-27,"1, 1",-
-*,"(d/f+1), 2 (second hit only)",mid,1.75,1.5,-,-,-,-,FLOOR BREAK,-,15 (18),1,-13,+5,+5,-,-,-27,1,-
-*,d/f+2,mid,1.5,0.5,SSR,-,-,-,-,-,10 (12),16,-7,+3,+3,-,-,-21,2,-
-Dohatsu Tensho,"d/f+2, 1","mid, mid",1.5,0.5,"SSR, SSL / SSR",-,YES,NC,WALL SPLAT,-,"10 (12), 10",16,-18,LAUNCH,LAUNCH,-,-,-33,"2, 2",-
-*,"(d/f+2), 1",mid,2,1,"SSR, SSL / SSR",-,-,-,WALL SPLAT,-,10 (12),20,-18,LAUNCH,LAUNCH,-,-,-33,2,-
-*,"d/f+2, 4","mid, mid",1.5,0.5,SSR,-,YES,NC,-,-,"10 (12), 10, 13",16,-11,0,0,-,-,-29,"2, 1",-
-*,"(d/f+2), 4",mid,1,0.75,-,-,-,-,-,-,13 (15),16,-11,0,0,-,-,-29,1,-
-Gokusatsu Gotenshu,"d/f+2, 4, 3","mid, mid, mid",1.5,1.5,"SSR, NONE, NONE",-,NO,NO,WALL BREAK / SPLAT,-,"10 (12), 13, 23",16,-17,KND,KND,-,-,-36,"2, 1, 2",-
-*,"(d/f+2), 4, 3","mid, mid",1,0.75,"SSR, NONE, NONE",-,NO,NO,WALL BREAK / SPLAT,-,"13 (15), 23",16,-17,KND,KND,-,-,-36,"1, 2",-
-*,"(d/f+2), (4), 3",mid,2,2.5,"SSR, NONE, NONE",-,-,-,WALL BREAK / SPLAT,-,23 (27),21,-17,KND,KND,-,-,-36,2,-
-Yokogeri,d/f+3,mid,1.5,1,-,-,-,-,-,-,14 (16),12,-12,+1,+1,-,-,-24,1,-
-Kitotsukyaku,d/f+4,mid,2.5,1.25,-,-,-,-,WALL BREAK / SPLAT,-,24 (28),19,-16,KND,KND,-,-,-36,1,-
-Gaikaiken,b+1,high,1.5,1,-,-,-,-,WALL BREAK / SPLAT,SPECIAL / EX / SUPER,17 (20),14,-14,KND,KND,-,-,-30,2,-
-Danretto,b+2,mid,2.5,0.25,HOMING,-,-,-,WALL BREAK,-,21 (25),23,-9,+8,CRUMPLE STUN,-,-,-24,2,-
-Taizankyaku,b+4,low,2.5,1,SSL,-,-,-,-,-,15 (18),20,-13,+1,+1,-,-,-27,2,-
-Fukusengeki,FC 1,s. mid,0.5,0,-,HIGH,-,-,-,SPECIAL / EX / SUPER,5 (6),10,-5,+6,+6,-,-,-20,1,-
-Fkusenshotei,"FC 1, 2","s. mid, s. mid",0.5,0.5,-,HIGH,YES,NCc,-,SPECIAL / EX / SUPER,"5 (6), 8",10,-13,-2,-2,-,-,-28,"1, 1",-
-Fkusenshotei,"FC (1), 2",s. mid,0.5,0.5,-,HIGH,-,-,-,SPECIAL / EX / SUPER,8 (9),10,-13,-2,-2,-,-,-28,1,-
-Shotei,FC 2,s. mid,0.5,0.5,-,HIGH,-,-,-,SPECIAL / EX / SUPER,6 (7),12,-4,+7,+7,-,-,-19,1,-
-Kurubushi Kick,FC 3 (close),low,0,0.5,-,HIGH,-,-,-,SPECIAL / EX / SUPER,10 (12),15,-11,-2,-2,-,-,-26,2,-
-*,FC 3 (far),low,1.5,1.75,-,HIGH,-,-,-,SPECIAL / EX / SUPER,7 (8),15,-11,-2,-2,-,-,-26,2,-
-Ashibarai,FC 4,low,2,1.5,SWL / SWR,HIGH,-,-,-,-,20 (24),17,-27,KND,KND,-,-,-35,2,-
-Charging Tackle*,"WR f, f, F (Full Screen)",mid,0,0.25,-,-,-,-,WALL BREAK / SPLAT,-,30 (36),8,+15,KND,KND,-,-,-29,13,-
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,0,0,-,-,-,-,-,-,10 (12),12,-,KND,KND,-,-,-43,4,-
-Shunjingozan,WR 4 ,low,3,1,SSR,HIGH,-,-,-,-,23 (27),20,-24,KND,KND,-,-,-36,7,-
-*,WR 1+2,mid,3,0,-,HIGH,-,-,WALL BREAK / SPLAT,-,24 (28),18,0,KND,KND,-,-,-40,19,-
-Hijiuchi,WS 1,high,1.75,0.5,SSR,-,-,-,-,SPECIAL / EX / SUPER,12 (!4),13,-5,+6,+6,-,-,-20,1,-
-Sotensho,WS 2,mid,1.5,0,-,-,-,-,WALL SPLAT,SPECIAL / EX / SUPER,17 (20),15,-16,LAUNCH,LAUNCH,-,-,-32,2,-
-Totsuhizageri,WS 3,mid,1.5,0.5,SSR,-,-,-,-,SPECIAL / EX,17 (20),13,-10,+2,CRUMPLE STUN,-,-,-24,1,-
-*,WS 4,mid,1.5,0.25,-,-,-,-,-,-,10 (12),11,-9,+2,+2,-,-,-23,2,-
-Shizan,"WS 4, 4","mid, mid",1.5,1,-,-,YES,YES,-,FLOOR BREAK,"10 (12), 20",11,-15,-5 (OC),-5,-,-,-28,"2, 2",-
-*,"WS (4), 4",mid,2,2,-,-,-,-,-,FLOOR BREAK,20 (24),15,-15,-5 (OC),KND,-,-,-28,2,-
-Hijitoshi,(During Vertical Jump) 1,mid,0,0.5,-,LOW,-,-,-,-,10 (12),7,-25 ~ +2,-15 ~ +12,-15 ~ +12,-,-,-37,7,-
-Gokusengeki,(During Vertical Jump) 2,mid,0,0.5,-,LOW,-,-,-,-,15 (18),9,-18 ~ +7,-8 ~ +17,-8 ~ +17,-,-,-39,3,-
-Maegeri,(During Vertical Jump) 3,mid,0.5,0.5,-,LOW,-,-,-,-,10 (12),7,-25 ~ +2,-15 ~ +12,-15 ~ +12,-,-,-39,5,-
-Onikubigiri,(During Vertical Jump) 4,mid,0.5,0.5,-,LOW,-,-,-,-,15 (18),9,-18 ~ +7,-8 ~ +17,-8 ~ +17,-,-,-39,3,-
-Gokuken,(During Forward or Backward Jump) 1,mid,0.5,0,-,LOW,-,-,-,-,10 (12),9,-23 ~ +4,-13 ~ +14,-13 ~ +14,-,-,-37,6,-
-Gokugeki,(During Forward or Backward Jump) 2,mid,0.5,0.5,-,LOW,-,-,-,-,15 (18),9,-18 ~ +9,-8 ~ +19,-8 ~ +19,-,-,-39,3,-
-Rakusaishu,(During Forward or Backward Jump) 3,mid,0.25,0.25,-,LOW,-,-,-,-,10 (12),7,-26 ~ +2,-16 ~ +12,-16 ~ +12,-,-,-38,7,-
-Tobisokuto,(During Forward or Backward Jump) 4,mid,1,0.5,-,LOW,-,-,-,-,15 (18),7,-20 ~ +9,-10 ~ +19,-10 ~ +19,-,-,-41,3,-
-Tenmakujinkyaku,(During Forward Jump Peak) d+3,mid,1.5,1,-,LOW,-,-,-,-,14 (16),13,-6 ~ +1,+9 ~ +16,+9 ~ +16,-,-,-37,7,-
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1,0,SSL / SSR,HIGH,-,-,-,-,10 (12),22,-12,+5,LAUNCH,-,-,-29,1,-
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,0.25,SSL,-,-,-,-,-,18 / 21 (CH),22,-12,+5,KND,-,-,-29,1,-
-Recovery Kick*,"Face Up, Feet Towards, d+3 (or 4)",low,0.5,0,SSL / SSR,HIGH,-,-,-,-,6 (7),13,-20,-3,-3,-,-,-38,15,-
-Spring Attack*,"Face Up, Feet Towards+3+4",mid,1,0,-,-,-,-,WALL BREAK / SPLAT,-,20 (24),16,-12,KND,KND,-,-,-26,15,-
-*,"Face Up, Feet Towards, Roll Forward+1+2",mid,4,0,-,HIGH,-,-,WALL BREAK / SPLAT,-,15 (18),19,+2,KND,KND,-,-,-42,6,-
-*,"Face Down, Feet Away+3",low,1.5,0,-,HIGH,-,-,-,-,10 (12),21,-20,+1,LAUNCH,-,-,-35,1,-
-*,"Face Down, Feet Away+4",mid,1,0,-,HIGH,-,-,-,-,15 (18),21,-19,KND,KND,-,-,-29,1,-
-*,(Upon Landing) f,mid,0,0,-,LOW,-,-,-,-,4,33,-2,+3,+3,-,-,-13,4,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,CANCELLABLE,METER GAIN,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON WHIFF,ACTIVE,NOTES
+Sengeki,1 or BT 1 (or 2),high,1,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,2.083% (2.381%),7 (8),i10,+1,+8,+8,FLOAT,-13,1,-
+Kimon Rendan,"1, 1","high, high",1,0.25,-,-,NO,NCc,-,SPECIAL / EX / SUPER,-,"7 (8), 7",i10,-3,+4,-,FLOAT,-17,1,-
+*,"(1), 1",high,1,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,2.083% (2.381%),7 (8),i15,-3,+4,+4,FLOAT,-17,1,-
+Kimon Rentotsu,"1, 2","high, mid",1,0.25,"NONE, SSR",-,YES,NC,WALL BREAK / SPLAT,-,-,"7 (8), 20",i10,-17,KND,-,FLOAT,-33,2,-
+*,"(1), 2",mid,2.25,0.25,-,-,-,-,-,-,5.88%,20 (24),i13,-17,KND,KND,FLOAT,-33,2,-
+Roppu Tubushi,2,s. mid,1.5,0.25,-,-,-,-,-,SPECIAL / EX / SUPER,4.55%,15 (18),i15,-9,0,0,FLOAT,-26,2,-
+*,3,high,1.5,0.5,-,-,-,-,-,-,4.16%,14 (16),i15,-8,+3,+3,FLOAT,-23,1,-
+*,4 or BT 3 (or 4),high,2,0,HOMING,-,-,-,-,-,3.57%,12 (14),i14,-13,+2,+2,FLOAT,-26,2,-
+Kikoku Renzan,"4, 3","high, high",2,0.5,"HOMING, NONE",-,NO,NC,WALL BREAK / SPLAT,-,-,"12 (14), 17",i14,-5,+19,-,S!,-22,2,-
+*,"(4), 3",high,2,0.5,"HOMING, NONE",-,-,-,WALL BREAK / SPLAT,-,5%,17 (20),i16,-5,+19,S!,S!,-22,2,-
+Ryujinkyaku,f+3,mid,2.75,0.5,-,-,-,-,-,-,4.55%,16 (19),i17,-9,+1,+1,FLOAT,-24,1,-
+Onikubigari,f+4,high,1.75,1.25,HOMING,-,-,-,WALL BREAK / SPLAT,-,5.88%,20 (24),i16,-9,KND,S!,S!,-27,2,-
+Zugaihasatsu,f+1+2,"mid, mid",1.5,1,-,-,YES,NC,-,-,5.88%,"5 (6), 15",i20,-8,+5 (OC),+5 (OC),FLOOR BREAK,-28,"1, 1",-
+*,f+1+2 (second hit only),mid,1.75,1.5,SSR,-,-,-,-,-,2.94%,15 (18),i3,-8,+5 (OC),+5 (OC),FLOOR BREAK,-28,1,-
+Hisenkyaku,f+3+4,mid,2.25,1,HOMING,low,-,-,WALL BREAK,-,6.06%,20 (24),i22,-9,+2,+2,TAIL SPIN,-26,2,-
+*,"f, F+2",mid,2.5,0.5,SSL,-,-,-,-,-,4.17%,14 (16),i15,-14,-2,-2,FLOAT,-29,1,-
+Shakunetsu Messho,"f, F+2:1","mid, mid",-,0.5,SSL,-,YES,NC,WALL BOUNCE,-,10%,"14 (16), 20",i15,-13,KND,KND,FLOAT,-,1,-
+Ganretsuzan,"f, F+4",mid,3,2.5,-,-,-,-,WALL BREAK / SPLAT,-,-,23 (27),i20,0,+2 (OC),GROUND BOUNCE,FLOOR BREAK,-27,2,-
+Shunjinkaida,"f, f, f+1",high,3.5,3,-,-,-,-,WALL BREAK / SPLAT,-,-,30 (36),i16,+1,KND,KND,FLOAT,-33,2,-
+Tenmakuretsukyaku,"f, f, f+3 (or WR 3)",mid,4,0,-,low,-,-,-,-,-,30 (36),i26,+6,KND,KND,FLOOR BREAK,-22,6,-
+*,d/f+1,mid,1.5,1,SSR,-,-,-,-,-,-,10 (12),i13,-4,+7,+7,FLOAT,-17,2,-
+Gokumonsyo,"d/f+1, 1","mid, high",1.5,1,-,-,NO,NC,-,-,-,"10 (12), 7",i13,-3,+6,-,FLOAT,-18,"2, 1",-
+*,"(d/f+1), 1",high,1,1.5,-,-,-,-,-,-,-,7 (8),i20,-3,+6,+6,FLOAT,-18,1,-
+Zugaigohasatsu,"d/f+1, 2","mid, mid, mid",1.5,0.5,-,-,YES,NC,-,-,-,"10 (12), 5, 10",i13,-13 (OC),+5 (OC),-,FLOOR BREAK,-27,"2, 1, 1",-
+*,"(d/f+1), 2","mid, mid",1.5,1,-,-,YES,NC,-,-,-,"5 (6), 10",i21,-13 (OC),+5 (OC),+5 (OC),FLOOR BREAK,-27,"1, 1",-
+*,"(d/f+1), 2 (second hit only)",mid,1.75,1.5,-,-,-,-,-,-,-,15 (18),i3,-13,+5,+5,FLOOR BREAK,-27,1,-
+*,d/f+2,mid,1.5,0.5,SSR,-,-,-,-,-,-,10 (12),i16,-7,+3,+3,FLOOR BREAK,-21,2,-
+Dohatsu Tensho,"d/f+2, 1","mid, mid",1.5,0.5,"SSR, SSL / SSR",-,YES,NC,WALL SPLAT,-,-,"10 (12), 10",i16,-18,LAUNCH,-,BACK FLIP,-33,"2, 2",-
+*,"(d/f+2), 1",mid,2,1,"SSR, SSL / SSR",-,-,-,WALL SPLAT,-,-,10 (12),i20,-18,LAUNCH,LAUNCH,BACK FLIP,-33,2,-
+*,"d/f+2, 4","mid, mid",1.5,0.5,SSR,-,YES,NC,-,-,-,"10 (12), 10, 13",i16,-11,0,-,FLOAT,-29,"2, 1",-
+*,"(d/f+2), 4",mid,1,0.75,-,-,-,-,-,-,-,13 (15),i16,-11,0,0,FLOAT,-29,1,-
+Gokusatsu Gotenshu,"d/f+2, 4, 3","mid, mid, mid",1.5,1.5,"SSR, NONE, NONE",-,NO,NO,WALL BREAK / SPLAT,-,-,"10 (12), 13, 23",i16,-17,KND,-,FLOAT,-36,"2, 1, 2",-
+*,"(d/f+2), 4, 3","mid, mid",1,0.75,"SSR, NONE, NONE",-,NO,NO,WALL BREAK / SPLAT,-,-,"13 (15), 23",i16,-17,KND,-,FLOAT,-36,"1, 2",-
+*,"(d/f+2), (4), 3",mid,2,2.5,"SSR, NONE, NONE",-,-,-,WALL BREAK / SPLAT,-,-,23 (27),i21,-17,KND,KND,FLOAT,-36,2,-
+Yokogeri,d/f+3,mid,1.5,1,-,-,-,-,-,-,-,14 (16),i12,-12,+1,+1,FLOAT,-24,1,-
+Kitotsukyaku,d/f+4,mid,2.5,1.25,-,-,-,-,WALL BREAK / SPLAT,-,-,24 (28),i19,-16,KND,KND,FLOAT,-36,1,-
+Gaikaiken,b+1,high,1.5,1,-,-,-,-,WALL BREAK / SPLAT,SPECIAL / EX / SUPER,-,17 (20),i14,-14,KND,KND,TAIL SPIN,-30,2,-
+Danretto,b+2,mid,2.5,0.25,HOMING,-,-,-,WALL BREAK,-,-,21 (25),i23,-9,+8,CRUMPLE STUN,TAIL SPIN,-24,2,-
+Taizankyaku,b+4,low,2.5,1,SSL,-,-,-,-,-,-,15 (18),i20,-13,+1,+1,FLOAT,-27,2,-
+Fukusengeki,FC 1,s. mid,0.5,0,-,high,-,-,-,SPECIAL / EX / SUPER,-,5 (6),i10,-5,+6,+6,FLOAT,-20,1,-
+Fkusenshotei,"FC 1, 2","s. mid, s. mid",0.5,0.5,-,high,YES,NCc,-,SPECIAL / EX / SUPER,-,"5 (6), 8",i10,-13,-2,-,FLOAT,-28,"1, 1",-
+Fkusenshotei,"FC (1), 2",s. mid,0.5,0.5,-,high,-,-,-,SPECIAL / EX / SUPER,-,8 (9),i10,-13,-2,-2,FLOAT,-28,1,-
+Shotei,FC 2,s. mid,0.5,0.5,-,high,-,-,-,SPECIAL / EX / SUPER,-,6 (7),i12,-4,+7,+7,FLOAT,-19,1,-
+Kurubushi Kick,FC 3 (close),low,0,0.5,-,high,-,-,-,SPECIAL / EX / SUPER,-,10 (12),i15,-11,-2,-2,FLOAT,-26,2,-
+*,FC 3 (far),low,1.5,1.75,-,high,-,-,-,SPECIAL / EX / SUPER,-,7 (8),i15,-11,-2,-2,FLOAT,-26,2,-
+Ashibarai,FC 4,low,2,1.5,SWL / SWR,high,-,-,-,-,-,20 (24),i17,-27,KND,KND,FLOAT,-35,2,-
+Charging Tackle*,"WR f, f, F (Full Screen)",mid,0,0.25,-,-,-,-,WALL BREAK / SPLAT,-,-,30 (36),i8,+13,KND,KND,FLOAT,-35,13,-
+Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,0,0,-,-,-,-,-,-,-,10 (12),i12,-,KND,KND,FLOAT,-43,1,-
+Shunjingozan,WR 4 ,low,3,1,SSR,"high, mid",-,-,-,-,-,23 (27),i20,-24,KND,KND,FLOAT,-36,7,-
+*,WR 1+2,mid,3,0,-,high,-,-,WALL BREAK / SPLAT,-,-,24 (28),i18,0,KND,KND,FLOAT,-40,19,-
+Hijiuchi,WS 1,high,1.75,0.5,SSR,-,-,-,-,SPECIAL / EX / SUPER,-,12 (!4),i13,-5,+6,+6,FLOAT,-20,1,-
+Sotensho,WS 2,mid,1.5,0,-,-,-,-,WALL SPLAT,SPECIAL / EX / SUPER,-,17 (20),i15,-16,LAUNCH,LAUNCH,FLOAT,-32,2,-
+Totsuhizageri,WS 3,mid,1.5,0.5,SSR,-,-,-,-,SPECIAL / EX,-,17 (20),i13,-10,+2,CRUMPLE STUN,FLOAT,-27,1,-
+*,WS 4,mid,1.5,0.25,-,-,-,-,-,-,-,10 (12),i11,-9,+2,+2,FLOAT,-23,2,-
+Shizan,"WS 4, 4","mid, mid",1.5,1,-,-,YES,YES,-,-,-,"10 (12), 20",i11,-15,-5 (OC),-,FLOOR BREAK,-28,"2, 2",-
+*,"WS (4), 4",mid,2,2,-,-,-,-,-,-,-,20 (24),i15,-15,-5 (OC),KND,FLOOR BREAK,-28,2,-
+Hijitoshi,(During Vertical Jump) 1,mid,0,0.5,-,low,-,-,-,-,-,10 (12),i7,-25 ~ +2,-15 ~ +12,-15 ~ +12,FLOAT,-,7,-
+Gokusengeki,(During Vertical Jump) 2,mid,0,0.5,-,low,-,-,-,-,-,15 (18),i9,-18 ~ +7,-8 ~ +17,-8 ~ +17,FLOAT,-,3,-
+Maegeri,(During Vertical Jump) 3,mid,0.5,0.5,-,low,-,-,-,-,-,10 (12),i7,-25 ~ +2,-15 ~ +12,-15 ~ +12,FLOAT,-,5,-
+Onikubigiri,(During Vertical Jump) 4,mid,0.5,0.5,-,low,-,-,-,-,-,15 (18),i9,-18 ~ +7,-8 ~ +17,-8 ~ +17,TAIL SPIN,-,3,-
+Gokuken,(During Forward or Backward Jump) 1,mid,0.5,0,-,low,-,-,-,-,-,10 (12),i9,-23 ~ +4,-13 ~ +14,-13 ~ +14,FLOAT,-,6,-
+Gokugeki,(During Forward or Backward Jump) 2,mid,0.5,0.5,-,low,-,-,-,-,-,15 (18),i9,-18 ~ +9,-8 ~ +19,-8 ~ +19,FLOAT,-,3,-
+Rakusaishu,(During Forward or Backward Jump) 3,mid,0.25,0.25,-,low,-,-,-,-,-,10 (12),i7,-26 ~ +2,-16 ~ +12,-16 ~ +12,FLOAT,-,7,-
+Tobisokuto,(During Forward or Backward Jump) 4,mid,1,0.5,-,low,-,-,-,-,-,15 (18),i7,-20 ~ +9,-10 ~ +19,-10 ~ +19,FLOAT,-,3,-
+Tenmakujinkyaku,(During Forward Jump Peak) d+3,mid,1.5,1,-,low,-,-,-,-,-,14 (16),i13,-6 ~ +1,+9 ~ +16,+9 ~ +16,FLOAT,-16,8,-
+Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1,0,SSL / SSR,high,-,-,-,-,-,10 (12),i22,-12,+5,LAUNCH,FLOAT,-29,1,-
+Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,0.25,SSL,-,-,-,-,-,-,18 (21),i22,-12,+5,KND,FLOAT,-29,1,-
+Recovery Kick*,"Face Up, Feet Towards, d+3 (or 4)",low,0.5,0,SSL / SSR,"high, mid",-,-,-,-,-,6 (7),i13,-20,-3,-3,FLOAT,-38,1,-
+Spring Attack*,"Face Up, Feet Towards+3+4",mid,1,0,-,-,-,-,WALL BREAK / SPLAT,-,-,20 (24),i16,-12,KND,KND,FLOAT,-26,12,-
+*,"Face Up, Feet Towards, Roll Forward+1+2",mid,4,0,-,high,-,-,WALL BREAK / SPLAT,-,-,15 (18),i19,+2,KND,KND,FLOAT,-42,6,-
+*,"Face Down, Feet Away+3",low,1.5,0,-,high,-,-,-,-,-,10 (12),i21,-20,+1,LAUNCH,FLOAT,-35,1,-
+*,"Face Down, Feet Away+4",mid,1,0,-,-,-,-,-,-,-,15 (18),i21,-19,KND,KND,FLOAT,-37,1,-
+*,(Upon Landing) f,mid,0,0,-,low,-,-,-,-,-,4,i33,-2,+3,+3,FLOAT,-13,4,-
 SPECIAL MOVES,,,,,,,,,,,,,,,,,,,,
-Goshoryuken,"f, d, d/f+1",s. mid,1,0.25,-,LOW,-,-,WALL SPLAT,FADC,15 (18),10,-26 (+3),KND / LAUNCH (FADC),KND / LAUNCH (FADC),-,-,-37,11,-
-Goshoryuken,"f, d, d/f+2","s. mid, s. mid, s. mid",1,1,-,LOW,YES,-,WALL SPLAT,FADC,"6, 6, 14 / 7, 6, 14 (CH)",11,-34,KND,KND,-,-,-48,"1, 1, 7",-
-Goshoryuken (Second and Third Hits Only),"f, d, d/f+2","s. mid, s. mid",1.25,0,-,LOW,YES,-,WALL SPLAT,-,"6, 14 / 7, 14 (CH)",13,-36,KND,KND,-,-,-48,"1, 7",-
-Goshoryuken (Third Hit Only),"f, d, d/f+2",s. mid,1.5,0.25,-,LOW,-,-,WALL SPLAT,-,20 (24),13,-36,KND,KND,-,-,-48,8,-
-Goshoryuken (First Hit Only) FADC,"f, d, d/f+2, 1+2, f, f",s. mid,1,0.25,-,LOW,-,-,WALL SPLAT,-,6 (7),11,0,+14,+14,-,-,-48,1,-
-Goshoryuken (First and Second Hits Only) FADC,"f, d, d/f+2, 1+2, f, f","s. mid, s. mid",1,0.25,-,LOW,YES,-,WALL SPLAT,-,"6 (7), 6",11,0,LAUNCH (FADC),LAUNCH (FADC),-,-,-48,"1, 1",-
-Hyakkishu,"f, d, d/f+3 (or 4)",-,-,-,-,LOW,-,-,-,-,-,9,-,-,-,-,-,-,30,-
-Hyakkigozan,(During Hyakkishu) N,low,4,1,SSR,LOW,-,-,-,-,23 (27),11,-24,KND,KND,-,-,-36,7,-
-Hyakkigosho,(During Hyakkishu) 1,high,0.5,0.5,-,LOW,-,-,-,-,15 (18),7,-4 ~ +7,KND,KND,-,-,-16,4,-
-Hyakkigohasatsu,(During Hyakkishu) 2,mid,0.5,1,SSR,LOW,-,-,FLOOR BREAK,-,20 (24),16,-9 ~ -5,KND,KND,-,-,-25,4,-
-Hyakkigosen,(During Hyakkishu) 3,mid,1,0.25,HOMING,LOW,-,-,WALL BREAK / SPLAT,-,21 (25),14,-10 ~ +1,+23 ~ +33,S!,-,-,-26,2,-
-Hyakkigojin,(During Hyakkishu) 4,s. mid,0.5,1.25,-,LOW,-,-,-,-,15 (18),13,+4 ~ +6 (OC) ,+16 ~ +19 (OC),+16 ~ +19 (OC),-,-,-16,7,-
-Hyakkigosai,(During Hyakkishu) 1+3 (or 2+4),high throw,0.25,-,-,LOW,-,-,-,-,30,4,-,KND,KND,-,-,-36,2,-
-Ashura Senku,"f, d, d/f+3+4 (or b, d, d/b+3+4)",-,-,-,-,ALL,-,-,-,-,-,80,-,-,-,-,-,-80,-,-
-Shakunetsu Hadoken,hcb+1,s. mid,-,1,-,-,-,-,WALL BREAK / SPLAT,-,15 (18),28,-9,-1,-1,-,-,-30,1,-
-Shakunetsu Hadoken,hcb+2,"s. mid, s. mid, s. mid",-,1,-,-,YES,-,WALL SPLAT,-,"9 (10), 6, 4",31,-1,KND,KND,-,-,-40,1,-
-Gohadoken,qcf+1 (or 2),s. mid,-,1,-,-,-,-,-,-,14 (16),17,-13,-,-,-,-,-36,1,-
-Tatsumaki Zankukyaku,qcb+3,high,2,0.25,-,LOW,-,-,WALL SPLAT,-,10 (12),15,-15,KND,KND,-,-,-27,7,-
-Tatsumaki Zankukyaku,qcb+4,"s. mid, high, high",1.5,0.25,-,LOW,YES,-,WALL BREAK / SPLAT,-,"13 (15), 6, 4",10,-14,KND,KND,-,-,-30,"2, 3, 3",-
-Tatsumaki Zankukyaku (2nd and 3rd Hits Only),qcb+4,"high, high",2.5,0.25,-,LOW,YES,-,WALL SPLAT,-,"6 (7), 4",9,-14,KND,KND,-,-,-30,"3, 3",-
-Tatsumaki Zankukyaku (3rd Hit Only),qcb+4,high,4.5,0.25,-,LOW,-,-,WALL SPLAT,-,6 (7),16,-14,KND,KND,-,-,-30,3,-
-Zanku Hadoken,(During Jump) qcf+1 (or 2),s. mid,-,0.25,-,LOW,-,-,-,-,10 (12),18,-,KND,KND,-,-,-,1,-
-Airborne Tatsumaki Zankukyaku,(During Jump) qcb+3 (or 4),s. mid,-,0.25,-,LOW,-,-,WALL SPLAT,-,10 (12),12,-10 ~ +2,KND,KND,-,-,-,-,-
-EX MOVES,,,,,,,,,,,,,,,,,,,,-
-EX Goshoryuken,"f, d, d/f+1+2","s. mid, s. mid, s. mid",1,1.25,-,LOW,YES,-,WALL SPLAT,-,"6, 6, 16",11,-34,KND,KND,-,-,-48,"1, 9",-
-EX Goshoryuken (2nd and 3rd Hits Only),"f, d, d/f+1+2","s. mid, s. mid",1.25,0,-,LOW,YES,-,WALL SPLAT,-,"6, 16",11,-36,KND,KND,-,-,-48,"1, 9",-
-EX Goshoryuken (3rd Hit Only),"f, d, d/f+1+2",s. mid,1.5,0.25,-,LOW,-,-,WALL SPLAT,-,23 (27),13,-36,KND,KND,-,-,-48,"1, 9",-
-Messatsu Goshoryu,"(During Counter Hit) f, d, d/f+1+2",s. mid,1.25,-,-,LOW,-,-,-,-,"7, 8, 9, 9, 9",11,-,KND,KND,-,-,-136,1,-
-EX Shakunetsu Hadoken,hcb+1+2,"s. mid, s. mid, s. mid",-,2,-,-,YES,-,WALL SPLAT,-,"12 (14), 8, 6",27,+9,KND,KND,-,-,-30,1,-
-EX Gohadoken,qcf+1+2,"s. mid, s. mid",-,1.25,-,-,YES,-,WALL BREAK / SPLAT,-,"10 (12), 10",18,+1,KND,KND,-,-,-31,1,-
-EX Tatsumaki Zankukyaku,qcb+3+4,"s. mid, s. mid, s. mid, s. mid",1.5,2,-,LOW,YES,-,WALL BREAK / SPLAT,-,"6 (7), 6, 4, 10",10,-15,S!,S!,-,-,-30,"1, 1, 1, 3",-
-"EX Tatsumaki Zankukyaku (2nd, 3rd, and 4th Hits Only)",qcb+3+4,"s. mid, s. mid, s. mid",2,2,-,LOW,YES,-,WALL BREAK / SPLAT,-,"6 (7), 4, 10",18,-15,S!,S!,-,-,-30,"1, 1, 3",-
-EX Tatsumaki Zankukyaku (3rd Hit Only),qcb+3+4,s. mid,3.5,2,-,LOW,-,-,WALL SPLAT,-,6 (7),28,-15,KND,KND,-,-,-30,1,-
-Hisenkyaku to EX Zanku Hadoken,(During Hisenkyaku) qcf+1+2,"mid, s. mid, s. mid",2,2.5,-,LOW,YES,NC,-,-,"20 (24), 10, 10",22,+3,+20,+20,-,-,-45,"2, 1, 1",-
-Hisenkyaku to EX Airborne Tatsumaki Zankukyaku,(During Hisenkyaku) qcb+3+4,"mid, s. mid, s. mid, s. mid",2,0.25,-,LOW,NO,NC,WALL BREAK / SPLAT,-,"20 (24), 6, 4, 10",22,-25,S!,S!,-,-,-31,-,-
-EX Zanku Hadoken,(During Jump) qcf+1+2,"s. mid, s. mid",-,2,-,LOW,YES,-,-,-,"10 (12), 10",11,-,-,-,-,-,-,"1, 1",-
-EX Airborne Tatsumaki Zankukyaku,(During Jump) qcb+3+4,s. mid,-,0.25,-,LOW,-,-,WALL BREAK / SPLAT,-,10 (12),13,-4 ~ +11,KND,KND,-,-,-,-,-
+Goshoryuken,"f, d, d/f+1",s. mid,1,0.25,-,low,-,-,WALL SPLAT,FADC,-,15 (18),i10,-26 (+3),KND / LAUNCH (FADC),KND / LAUNCH (FADC),FLOAT,-37,9,-
+Goshoryuken,"f, d, d/f+2","s. mid, s. mid, s. mid",1,1,-,low,YES,-,WALL SPLAT,FADC,-,"6 (7), 6, 14",i11,-34,KND,KND,FLOAT,-48,"1, 9",-
+Goshoryuken (Second and Third Hits Only),"f, d, d/f+2","s. mid, s. mid",1.25,0,-,low,YES,-,WALL SPLAT,-,-,"6 (7), 14",i13,-36,KND,KND,FLOAT,-48,-,-
+Goshoryuken (Third Hit Only),"f, d, d/f+2",s. mid,1.5,0.25,-,low,-,-,WALL SPLAT,-,-,20 (24),i13,-36,KND,KND,FLOAT,-48,9,-
+Goshoryuken (First Hit Only) FADC,"f, d, d/f+2, 1+2, f, f",s. mid,1,0.25,-,low,-,-,WALL SPLAT,-,-,6 (7),i11,0,+14,+14,FLOAT,-48,1,-
+Goshoryuken (First and Second Hits Only) FADC,"f, d, d/f+2, 1+2, f, f","s. mid, s. mid",1,0.25,-,low,YES,-,WALL SPLAT,-,-,"6 (7), 6",i11,0,LAUNCH (FADC),LAUNCH (FADC),FLOAT,-48,-,-
+Hyakkishu,"f, d, d/f+3 (or 4)",-,-,-,-,low,-,-,-,-,-,-,51,-,-,-,FLOAT,-,-,-
+Hyakkigozan,(During Hyakkishu) N,low,4,1,SSR,low,-,-,-,-,-,23 (27),i4,-24,KND,KND,FLOAT,-36,7,-
+Hyakkigosho,(During Hyakkishu) 1,high,0.5,0.5,-,low,-,-,-,-,-,15 (18),i7,-4 ~ +7,KND,KND,FLOAT,-,4,-
+Hyakkigohasatsu,(During Hyakkishu) 2,mid,0.5,1,SSR,low,-,-,-,-,-,20 (24),i16,-9 ~ -5,KND,KND,FLOOR BREAK,-,4,-
+Hyakkigosen,(During Hyakkishu) 3,mid,1,0.25,HOMING,low,-,-,WALL BREAK / SPLAT,-,-,21 (25),i14,-10 ~ +1,+23 ~ +33,S!,S!,-,2,-
+Hyakkigojin,(During Hyakkishu) 4,s. mid,0.5,1.25,-,low,-,-,-,-,-,15 (18),i13,+4 ~ +6 (OC) ,+16 ~ +19 (OC),+16 ~ +19 (OC),FLOAT,-,7,-
+Hyakkigosai,(During Hyakkishu) 1+3 (or 2+4),high throw,0.25,-,-,low,-,-,-,-,-,30,i4,-,KND,KND,-,-,2,-
+Ashura Senku,"f, d, d/f+3+4 (or b, d, d/b+3+4)",-,-,-,-,"high, mid, low",-,-,-,-,-,-,56,-,-,-,-,-80,-,-
+Shakunetsu Hadoken,hcb+1,s. mid,-,1,-,-,-,-,WALL BREAK / SPLAT,-,-,15 (18),i28,-9,-1,-1,FLOAT,-36,1,-
+Shakunetsu Hadoken,hcb+2,"s. mid, s. mid, s. mid",-,1,-,-,YES,-,WALL SPLAT,-,-,"9 (10), 6, 4",i31,-1,KND,KND,FLOAT,-36,1,-
+Gohadoken,qcf+1 (or 2),s. mid,-,1,-,-,-,-,-,-,-,14 (16),i17,-13,-,-,FLOAT,-36,1,-
+Tatsumaki Zankukyaku,qcb+3,high,2,0.25,-,low,-,-,WALL SPLAT,-,-,10 (12),i15,-15,KND,KND,FLOAT,-27,7,-
+Tatsumaki Zankukyaku,qcb+4,"s. mid, high, high, (high)",1.5,0.25,-,low,YES,-,WALL BREAK / SPLAT,-,-,"13 (15), 6, 4",i10,-14,KND,KND,FLOAT,-30,"2, 3, 3, (3)",-
+Tatsumaki Zankukyaku (2nd and 3rd Hits Only),qcb+4,"high, high",2.5,0.25,-,low,YES,-,WALL SPLAT,-,-,"6 (7), 4",i9,-14,KND,KND,FLOAT,-30,"3, 3",-
+Tatsumaki Zankukyaku (3rd Hit Only),qcb+4,high,4.5,0.25,-,low,-,-,WALL SPLAT,-,-,6 (7),i16,-14,KND,KND,FLOAT,-30,3,-
+Zanku Hadoken,(During Jump) qcf+1 (or 2),s. mid,-,0.25,-,low,-,-,-,-,-,10 (12),i18,-,KND,KND,FLOAT,-,1,-
+Airborne Tatsumaki Zankukyaku,(During Jump) qcb+3 (or 4),s. mid,-,0.25,-,low,-,-,WALL SPLAT,-,-,10 (12),i12,-10 ~ +2,KND,KND,FLOAT,-,-,-
+EX MOVES,,,,,,,,,,,,,,,,,,,,
+EX Goshoryuken,"f, d, d/f+1+2","s. mid, s. mid, s. mid",1,1.25,-,low,YES,-,WALL SPLAT,-,-,"6, 6, 16",i11,-34,KND,KND,FLOAT,-48,"1, 9",-
+EX Goshoryuken (2nd and 3rd Hits Only),"f, d, d/f+1+2","s. mid, s. mid",1.25,0,-,low,YES,-,WALL SPLAT,-,-,"6, 16",i11,-36,KND,KND,FLOAT,-48,-,-
+EX Goshoryuken (3rd Hit Only),"f, d, d/f+1+2",s. mid,1.5,0.25,-,low,-,-,WALL SPLAT,-,-,23 (27),i13,-36,KND,KND,FLOAT,-48,9,-
+Messatsu Goshoryu,"(During Counter Hit) f, d, d/f+1+2",s. mid,1.25,-,-,low,-,-,-,-,-,"7, 8, 9, 9, 9",i11,-,KND,KND,FLOAT,-,1,-
+EX Shakunetsu Hadoken,hcb+1+2,"s. mid, s. mid, s. mid",-,2,-,-,YES,-,WALL SPLAT,-,-,"12 (14), 8, 6",i27,+9,KND,KND,FLOAT,-30,1,-
+EX Gohadoken,qcf+1+2,"s. mid, s. mid",-,1.25,-,-,YES,-,WALL BREAK / SPLAT,-,-,"10 (12), 10",i18,+1,KND,KND,FLOAT,-30,1,-
+EX Tatsumaki Zankukyaku,qcb+3+4,"s. mid, s. mid, s. mid, s. mid",1.5,2,-,low,YES,-,WALL BREAK / SPLAT,-,-,"6 (7), 6, 4, 10",i10,-15,S!,S!,FLOAT,-28,"1, 1, 1, 3",-
+"EX Tatsumaki Zankukyaku (2nd, 3rd, and 4th Hits Only)",qcb+3+4,"s. mid, s. mid, s. mid",2,2,-,low,YES,-,WALL BREAK / SPLAT,-,-,"6 (7), 4, 10",i18,-15,S!,S!,FLOAT,-28,"1, 1, 3",-
+EX Tatsumaki Zankukyaku (3rd Hit Only),qcb+3+4,s. mid,3.5,2,-,low,-,-,WALL SPLAT,-,-,6 (7),i28,-15,KND,KND,FLOAT,-28,1,-
+Hisenkyaku to EX Zanku Hadoken,(During Hisenkyaku) qcf+1+2,"mid, s. mid, s. mid",2,2.5,-,low,YES,NC,-,-,-,"20 (24), 10, 10",i22,+3,+20,+20,FLOAT,-,"2, 1, 1",-
+Hisenkyaku to EX Airborne Tatsumaki Zankukyaku,(During Hisenkyaku) qcb+3+4,"mid, s. mid, s. mid, s. mid",2,0.25,-,low,NO,NC,WALL BREAK / SPLAT,-,-,"20 (24), 6, 4, 10",i22,-25,S!,S!,FLOAT,-,"2, 1, 1, 3",-
+EX Zanku Hadoken,(During Jump) qcf+1+2,"s. mid, s. mid",-,2,-,low,YES,-,-,-,-,"10 (12), 10",i11,-,-,-,FLOAT,-,"1, 1",-
+EX Airborne Tatsumaki Zankukyaku,(During Jump) qcb+3+4,s. mid,-,0.25,-,low,-,-,WALL BREAK / SPLAT,-,-,10 (12),i13,-4 ~ +11,KND,KND,FLOAT,-,-,-
 SUPER MOVES,,,,,,,,,,,,,,,,,,,,
-Messatsu Gohado,"qcf, qcf+1+2","s. mid, s. mid, s. mid, s. mid, s. mid",-,2.5,-,-,YES,-,WALL SPLAT,-,"24, 14, 10, 8, 6",10,+2,KND,KND,-,-,-59,1,-
+Messatsu Gohado,"qcf, qcf+1+2","s. mid, s. mid, s. mid, s. mid, s. mid",-,2.5,-,-,YES,-,WALL SPLAT,-,-,"24, 14, 10, 8, 6",i10,+2,KND,KND,FLOAT,-59,1,-
 POWER CRUSHES,,,,,,,,,,,,,,,,,,,,
-Level 1 Focus Attack,1+2 (or WS 1+2),high,1.75,0.5,-,-,-,-,-,-,14 (16),31,-20,-8,-8,-,-,-34,1,-
-Level 1 Focus Attack Dash Cancel (Forward),"1+2, f, f",high,1.75,0.5,-,-,-,-,-,-,14 (16),31,-5,+7,+7,-,-,-31,1,-
-Level 1 Focus Attack Dash Cancel (Backwards),"1+2, b, b",high,1.75,0.5,-,-,-,-,-,-,14 (16),31,-15,-3,-3,-,-,-41,1,-
-Level 2 Focus Attack,1+2 (Hold for 40f),high,1.75,0.5,-,-,-,-,-,-,20 (24),40,-11,CRUMPLE STUN,CRUMPLE STUN,-,-,-50,1,-
-Level 2 Focus Attack Dash Cancel (Forward),"1+2 1+2 (Hold for 40f), f, f",high,1.75,0.5,-,-,-,-,-,-,20 (24),40,+4,CRUMPLE STUN,CRUMPLE STUN,-,-,-35,1,-
-Level 2 Focus Attack Dash Cancel (Backwards),"1+2 1+2 (Hold for 40f), b, b",high,1.75,0.5,-,-,-,-,-,-,20 (24),40,-6,CRUMPLE STUN,CRUMPLE STUN,-,-,-45,1,-
+Level 1 Focus Attack,1+2 (or WS 1+2),high,1.75,0.5,-,-,-,-,-,-,-,14 (16),i31,-20,-8,-8,FLOAT,-34,1,-
+Level 1 Focus Attack Dash Cancel (Forward),"1+2, f, f",high,1.75,0.5,-,-,-,-,-,-,-,14 (16),i31,-5,+7,+7,FLOAT,-14,1,-
+Level 1 Focus Attack Dash Cancel (Backwards),"1+2, b, b",high,1.75,0.5,-,-,-,-,-,-,-,14 (16),i31,-15,-3,-3,FLOAT,-24,1,-
+Level 2 Focus Attack,1+2 (Hold for 40f),high,1.75,0.5,-,-,-,-,-,-,-,20 (24),i40,-11,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-34,1,-
+Level 2 Focus Attack Dash Cancel (Forward),"1+2 (Hold for 40f), f, f",high,1.75,0.5,-,-,-,-,-,-,-,20 (24),i40,+4,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-14,1,-
+Level 2 Focus Attack Dash Cancel (Backwards),"1+2 (Hold for 40f), b, b",high,1.75,0.5,-,-,-,-,-,-,-,20 (24),i40,-6,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-24,1,-
 RAGE MOVES,,,,,,,,,,,,,,,,,,,,
-Wrath of the Raging Demon,"1, 1, f, 3, 2",high throw,4.5,-,-,-,-,-,-,-,55,12,,KND,KND,-,-,-27,17,-
+Wrath of the Raging Demon,"1, 1, f, 3, 2",high throw,4.5,-,-,-,-,-,-,-,-,55,i12,,KND,KND,-,-27,17,-
 UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,,
-Level 3 Focus Attack,1+2 (Hold for 65f),high,1.75,0.5,-,-,-,-,-,-,25 (30),65,-,CRUMPLE STUN,CRUMPLE STUN,-,-,-34,1,-
-Level 3 Focus Attack Dash Cancel (Forward),"1+2 (Hold for 65f), f, f",high,1.75,0.5,-,-,-,-,-,-,25 (30),65,-,CRUMPLE STUN,CRUMPLE STUN,-,-,-39,1,-
-Level 3 Focus Attack Dash Cancel (Backwards),"1+2 (Hold for 65f), b, b",high,1.75,0.5,-,-,-,-,-,-,25 (30),65,-,CRUMPLE STUN,CRUMPLE STUN,-,-,-49,1,-
+Level 3 Focus Attack,1+2 (Hold for 65f),high,1.75,0.5,-,-,-,-,-,-,-,25 (30),i65,-,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-34,1,-
+Level 3 Focus Attack Dash Cancel (Forward),"1+2 (Hold for 65f), f, f",high,1.75,0.5,-,-,-,-,-,-,-,25 (30),i65,-,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-,1,-
+Level 3 Focus Attack Dash Cancel (Backwards),"1+2 (Hold for 65f), b, b",high,1.75,0.5,-,-,-,-,-,-,-,25 (30),i65,-,CRUMPLE STUN,CRUMPLE STUN,FLOAT,-,1,-
 THROWS,,,,,,,,,,,,,,,,,,,,
-Goshoha,1+3,high throw,1.5,-,-,-,-,-,-,-,35,12,0,KND,KND,-,-,-24,3,1 BREAK
-Syuretto,2+4,high throw,1.5,-,-,-,-,-,-,-,35,12,0,KND,KND,-,-,-24,3,2 BREAK
-Goshoha,f+1+3,high throw,2,-,-,-,-,-,-,-,35,15,0,KND,KND,-,-,-32,3,1 BREAK
-Syuretto,f+2+4,high throw,2,-,-,-,-,-,-,-,35,15,0,KND,KND,-,-,-32,3,2 BREAK
-Syuretto,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,12,0,KND,KND,-,-,-24,3,1 BREAK
-Goshoha,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,12,0,KND,KND,-,-,-24,3,2 BREAK
-Goshoha,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,50,12,-,KND,KND,-,-,-24,3,-
-Running Tackle*,"WR f, f, F (Mid Screen)",mid throw,0,-,SWL / SWR,-,-,-,-,-,5,16,0,KND,KND,-,-,-32,1,2 BREAK
-*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,"5, 5",-,0,KND,KND,-,-,-32,"1, 1",1 BREAK
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5",-,0,KND,KND,-,-,-32,"1, 1, 1",2 BREAK
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5, 5",-,0,KND,KND,-,-,-32,"1, 1, 1, 1",1 BREAK
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5, 5, 15",-,0,KND,KND,-,-,-32,"1, 1, 1, 1, 1",2 BREAK
+Goshoha,1+3,high throw,1.5,-,-,-,-,-,-,-,-,35,i12,0,KND,-,-,-24,3,1 BREAK
+Syuretto,2+4,high throw,1.5,-,-,-,-,-,-,-,-,35,i12,0,KND,-,-,-24,3,2 BREAK
+Goshoha,f+1+3,high throw,2,-,-,-,-,-,-,-,-,35,i15,0,KND,-,-,-32,3,1 BREAK
+Syuretto,f+2+4,high throw,2,-,-,-,-,-,-,-,-,35,i15,0,KND,-,-,-32,3,2 BREAK
+Syuretto,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,-,40,i12,0,KND,-,-,-24,3,1 BREAK
+Goshoha,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,-,40,i12,0,KND,-,-,-24,3,2 BREAK
+Goshoha,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,-,50,i12,-,KND,-,-,-24,3,-
+Running Tackle*,"WR f, f, F (Mid Screen)",mid throw,0,-,SWL / SWR,high,-,-,-,-,-,5,i16,-5 (BT),KND,-,-,-32,1,2 BREAK
+*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,"5, 5",-,0,KND,-,-,-,"1, 1",1 BREAK
+*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,"5, 5, 5",-,0,KND,-,-,-,"1, 1, 1",2 BREAK
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,"5, 5, 5, 5",-,0,KND,-,-,-,"1, 1, 1, 1",1 BREAK
+*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,"5, 5, 5, 5, 15",-,0,KND,-,-,-,"1, 1, 1, 1, 1",2 BREAK
 SPECIAL,,,,,,,,,,,,,,,,,,,,
-Neutral Jump*,U,-,-,-,-,-,-,-,-,-,-,42,-,-,-,-,-,-9,42,-
-Forward / Backward Jump*,U/F or U/B,-,-,-,-,-,-,-,-,-,-,38,-,-,-,-,-,-9,38,-
+Neutral Jump*,U,-,-,-,-,low,-,-,-,-,-,-,51,-,-,-,-,-,-,-
+Forward / Backward Jump*,U/F or U/B,-,-,-,-,low,-,-,-,-,-,-,47,-,-,-,-,-,-,-
