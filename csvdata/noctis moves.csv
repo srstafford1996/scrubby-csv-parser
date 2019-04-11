@@ -1,188 +1,171 @@
-SPECIAL,COMMAND,HIT LEVEL,RANGE,PUSHBACK,TRACKING,CRUSH,JAIL,NC / NCc,OC / OCc,BREAK / SPLAT,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,RECOVERY,ACTIVE
-*,"U/F, U, U/B",-,-,-,-,-,-,-,-,-,-,57,-,-,-,-,-
-*,"u/b, b",-,-,-,-,-,-,-,-,-,-,44,-,-,-,-,-
-Taunt,1+3+4,-,-,-,-,-,-,-,-,-,-,50,-,-,-,-,-
-Parry,Time with enemy attack... b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,-,30,3,-,KND,-,-,15
-BEST MOVES & PUNISHERS,,,,,,,,,,,,,,,,,
-Left Right Slice,"1, 2, 2","high, high, high",1.5,0.5,-,-,NO,NC,-,-,"7, 8, 12 / 8, 8, 12 (CH)",10,-11,+1,+1,-30,"1, 1, 2"
-Dextra Edge,"4, 2","high, mid",1.5,1,"NONE, SWR",-,-,NC,-,-,"15, 15 / 18, 15 (CH)",12,-14,-1,-1,-36,"1, 2"
-Shadow Stab,"b+1, 2","high, high",2,1.5,-,-,-,NC,-,-,"10, 21 / 12, 21 (CH)",12,-9,+7,+7,-31,"1, 2"
-Night Fall,"b+3, 1","high, mid",1.75,0.25,-,-,-,NC,-,-,"14, 23 / 16, 23 (CH)",14,-14,KND,KND,-36,"2, 2"
-Blitz Rush,"2, 2, 2, 2, 2","mid, mid, high, high, mid",2.5,1,-,-,-,-,-,-,"9, 9, 7, 7, 15 / 10, 9, 7, 7, 15 (CH)",15,-14,KND,KND,-36,"1, 1, 2, 2, 2"
-Royal Edge,d/f+2,mid,3,0.25,-,-,-,-,-,WALL SPLAT,15 / 18 (CH),15,-20,LAUNCH,LAUNCH,-42,2
-Thunder Impact,b+2:1+2,mid,1.75,-,-,-,-,NC,-,-,"13, 6, 14 / 15, 6, 14 (CH)",15,-9,+4,+4,-,2
-Piercing Spear,f+1+2,mid,3.5,0.75,-,-,-,-,-,WALL BREAK / SPLAT,24 / 28 (CH),16,-25,KND,KND,-47,2
-Sweep Kick,d/b+3,low,1.5,0.5,SSL / SWR,-,-,-,-,-,13 / 15 (CH),16,-13,-2,-2,-30,2
-Circle Slash,"f+4, 2","mid, mid",2.5,0.5,-,-,-,NC,-,WALL BREAK / SPLAT,"13, 21 / 15, 21 (CH)",17,-11,+12 / S! (Air),+12 / S! (Air),-33,"1, 2"
-Ascension Storm,u/f+3,mid,2,0,-,LOW,-,-,-,WALL SPLAT,"11, 16 / 13, 16 (CH)",17,-13,LAUNCH,LAUNCH,-35,2
-WS PUNISHERS,,,,,,,,,,,,,,,,,
-*,WS 4,mid,1.5,1.5,-,-,-,-,-,-,15 / 18 (CH),11,-6,+5,+5,-23,2
-Tidal Slash,"WS 1, 2","mid, mid",2.5,0.25,"SSL / SSR, SWL",-,-,NC,OC (oH),-,"10, 20 / 12, 20 (CH)",13,-13,+2,+2,-36,"2, 1"
-Stinger Knee to Warp-Strike,"WS 3, 2","mid, s. mid",2,0,-,-,-,NC,-,WALL SPLAT,"12, 5, 20 / 14, 5, 20 (CH)",14,-11,KND,KND,-45,"1, 10"
-Regulus Cross,"WS 2, 2","mid, mid",2,0,"SWL / SWR, SWL / SWR",-,-,NC,-,WALL BREAK / SPLAT,"13, 16 / 15, 16 (CH)",15,-14,S!,S!,-36,"2, 2"
-Ascension Storm,u/f+3,mid,2,0,-,LOW,-,-,-,WALL SPLAT,"11, 16 / 13, 16 (CH)",17,-13,LAUNCH,LAUNCH,-35,2
-MOVELIST,,,,,,,,,,,,,,,,,
-*,1,high,1.5,0.25,-,-,-,-,-,-,7 / 8 (CH),10,+1,+8,+8,-16,1
-*,"1, 2","high, high",1.5,0.5,-,-,YES,NC,-,-,"7, 8 / 8, 8 (CH)",10,-2,+6,+6,-20,"1, 1"
-*,"whiff 1, 2",high,1.5,1.5,-,-,-,-,-,-,8 / 9 (CH),12,-2,+6,+6,-20,1
-Left Right Slice,"1, 2, 2","high, high, high",1.5,0.5,-,-,NO,NC,-,-,"7, 8, 12 / 8, 8, 12 (CH)",10,-11,+1,+1,-30,"1, 1, 2"
-*,"whiff 1, whiff 2, 2",high,2.5,2,-,-,-,-,-,-,12 / 14 (CH),17,-11,+1,+1,-30,2
-Left Right Side Dodge,"1, 2, 3","high, high",1.5,1,-,-,-,-,-,-,"7, 8 / 8, 8 (CH)",10,-26,-18,-18,-44,"1, 1"
-*,"whiff 1, whiff 2, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-44,-
-Left Right Side Dodge,"1, 2, 4","high, high",1.5,1,-,-,-,-,-,-,"7, 8 / 8, 8 (CH)",10,-26,-18,-18,-44,"1, 1"
-*,"whiff 1, whiff 2, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-44,-
-Left Right Heavy Slash,"1, 2, 1+2","high, high, mid",1.5,2.5,-,-,-,-,-,WALL BREAK / SPLAT,"7, 8, 23 / 8, 8, 27 (CH)",10,-9,KND,KND,-43,"1, 1, 2"
-*,"whiff 1, whiff 2, 1+2",mid,3.5,3,-,-,-,-,-,-,23 / 27 (CH),25,-9,KND,KND,-43,2
-*,2,mid,2.5,0.5,SSR,-,-,-,-,FLOOR BREAK,9 / 10 (CH),15,-12,-6,-6,-35,1
-*,"2, 2","mid, mid",2.5,0,"SSR, SSR",-,-,NC,-,-,"9, 9 / 10, 9 (CH)",15,-9,+6,+6,-28,"1, 1"
-*,"whiff 2, 2",mid,2.25,0.25,SSR,-,-,-,-,-,9 / 10 (CH),16,-9,+6,+6,-28,1
-*,"2, 2, 2","mid, mid, high",2.5,0,-,-,-,-,-,-,"9, 9, 7 / 10, 9, 7 (CH)",15,-8,-2,-2,-30,"1, 1, 2"
-*,"whiff 2, whiff 2, 2",high,2.5,0,-,-,-,-,-,-,7 / 8 (CH),23,-8,-2,-2,-30,2
-*,"2, 2, 2, 2","mid, mid, high, high",2.5,0,"SSR, SSR, NONE, SSR",-,-,-,-,-,"9, 9, 7, 7 / 10, 9, 7, 7 (CH)",15,-7,+7,+7,-29,"1, 1, 2, 2"
-*,"whiff 2, whiff 2, whiff 2, 2",high,2.75,0,SSR,-,-,-,-,-,7 / 8 (CH),20,-7,+7,+7,-29,2
-Blitz Rush,"2, 2, 2, 2, 2","mid, mid, high, high, mid",2.5,1,-,-,-,-,-,-,"9, 9, 7, 7, 15 / 10, 9, 7, 7, 15 (CH)",15,-14,KND,KND,-36,"1, 1, 2, 2, 2"
-*,"whiff 2, whiff 2, whiff 2, whiff 2, 2",mid,2.5,1.75,-,-,-,-,-,-,15 / 18 (CH),32,-14,KND,KND,-36,2
-Triple Assault,"2, 2, f+2","mid, mid, mid",2.5,0,"SSR, SSR, SSL / SSR",-,-,-,-,WALL BREAK / SPLAT,"9, 9, 23 / 10, 9, 23 (CH)",15,-14,+5,+5,-36,"1, 1, 2"
-*,"whiff 2, whiff 2, f+2",mid,2.5,0,SSL / SSR,-,-,-,-,-,23 / 27 (CH),26,-14,+5,+5,-36,2
-Double Assault to Warp-Strike,"2, 2, b+2","mid, mid, s. mid",2.5,0,"SSR, SSR",LOW,-,-,-,WALL SPLAT,"9, 9, 5, 20 / 10, 9, 6, 20 (CH)",15,-11,KND,KND,-46,"1, 1, 10"
-*,"whiff 2, whiff 2, b+2",s. mid,7.5,3,-,-,-,-,-,-,"5, 20 / 6, 20 (CH)",31,-11,KND,KND,-46,11
-*,3,high,1.5,1.25,-,-,-,-,-,-,15 / 18 (CH),14,-7,-1,-1,-29,2
-*,4,high,1.5,1,-,-,-,-,-,-,15 / 18 (CH),12,-8,+3,+3,-26,1
-Dextra Edge,"4, 2","high, mid",1.5,1,"NONE, SWR",-,-,NC,-,-,"15, 15 / 18, 15 (CH)",12,-14,-1,-1,-36,"1, 2"
-Dextra Edge Air,"4, 2","high, mid",1.5,1,"NONE, SWR",-,-,-,-,WALL SPLAT,-,12,-,AIRBORNE,AIRBORNE,-36,"1, 2"
-*,"whiff 4, 2",mid,2.25,1.75,SWR,-,-,-,-,-,15 / 18 (CH),26,-14,-1,-1,-36,2
-Cyclone Slash,1+2,"high, mid",3.5,0.25,HOMING,-,-,-,-,WALL BREAK / SPLAT,"17, 24 / 20, 24 (CH)",18,-14,KND,KND,-40,"2, 2"
-Cyclone Slash (2nd Hit Only),1+2,mid,5,2.25,HOMING,-,-,-,-,WALL BREAK / SPLAT,24 / 28 (CH),34,-14,KND,KND,-40,2
-Cyclone Slash Cancel,"1+2, b",high,3.5,1,HOMING,-,-,-,-,-,17 / 20 (CH),18,-9,-3,-3,-31,2
-Quick Stab,u/f+1,high,2,1,-,-,-,-,-,-,15 / 18 (CH),14,-4,+8,CRUMPLE STUN,-26,2
-Power Break,u/f+2,mid,4,0.5,-,LOW,-,-,-,FLOOR BREAK,21 / 25 (CH),30,-8,GROUND BOUNCE,GROUND BOUNCE,-41,2
-Ascension Storm,u/f+3,mid,2,0,-,LOW,-,-,-,WALL SPLAT,"11, 16 / 13, 16 (CH)",17,-13,LAUNCH,LAUNCH,-35,2
-Chaser Shoot,u/f+4,high,2.5,0.5,HOMING,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),19,-5,KND,KND,-27,2
-Warp Strike,f+2,s. mid,7.5,2.25,-,LOW,-,-,-,WALL SPLAT,"8, 25 / 9, 25 (CH)",20,-9,KND,KND,-45,10
-*,f+3,mid,2,0.25,-,-,-,-,-,-,14 / 16 (CH),16,-9,+9,+9,-27,1
-Stinger Knee to Warp-Strike,"f+3, 2","mid, s. mid",2,0,-,-,-,NC,-,WALL SPLAT,"14, 5, 20 / 16, 5, 20 (CH)",16,-11,KND,KND,-45,"1, 10"
-*,"whiff f+3, 2",s. mid,7.5,3,-,LOW,-,-,-,WALL SPLAT,"5, 20 / 6, 20 (CH)",29,-11,KND,KND,-45,10
-*,f+4,mid,2.5,0.25,-,-,-,-,-,-,13 / 15 (CH),17,-8,+8,+8,-26,1
-Circle Slash,"f+4, 2","mid, mid",2.5,0.5,-,-,-,NC,-,WALL BREAK / SPLAT,"13, 21 / 15, 21 (CH)",17,-11,+12 / S! (Air),+12 / S! (Air),-33,"1, 2"
-*,"whiff f+4, 2",mid,3,2,SWL / SWR,-,-,-,-,WALL BREAK / SPLAT,21 / 25 (CH),32,-11,+12,+12,-33,2
-Piercing Spear,f+1+2,mid,3.5,0.75,-,-,-,-,-,WALL BREAK / SPLAT,24 / 28 (CH),16,-25,KND,KND,-47,2
-Flare Drive,"f, f+4",mid,2,0.5,SSL,LOW,-,-,-,-,"15, 14, 21 / 18, 14, 21 (CH)",19,-14,KND,KND,-37,1
-*,"f, f+4 (Off-Axis)",mid,2,0,-,-,-,-,-,-,15 / 18 (CH),19,-,KND,KND,-37,1
-Shadow Scissors,"f, f+1+2",mid,3.5,0,HOMING,-,-,-,-,WALL BREAK / SPLAT,17 / 20 (CH),15,-9,+10,S!,-31,2
-Meteor Crush,"f, f, f+1+2 (or WR 1+2)",mid,5,2,-,LOW,-,-,-,FLOOR BREAK,25 / 30 (CH),23,+11,GROUND BOUNCE,GROUND BOUNCE,-41,2
-*,d/f+1,mid,2,1,-,-,-,-,-,-,10 / 12 (CH),13,-1,+7,+7,-18,2
-Head Spinner,"d/f+1, 4","mid, high",2,1,-,-,-,NCc,-,WALL BREAK / SPLAT,"10, 20 / 12, 20 (CH)",13,-5,KND / S! (Air),KND / S! (Air),-27,"2, 2"
-*,"whiff d/f+1, 4",high,2.5,1.5,SSL,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),19,-5,KND / S! (Air),KND / S! (Air),-27,2
-Royal Edge,d/f+2,mid,3,0.25,-,-,-,-,-,WALL SPLAT,15 / 18 (CH),15,-20,LAUNCH,LAUNCH,-42,2
-*,d/f+3,mid,2,1,-,-,-,-,-,-,9 / 10 (CH),16,-13,-2,-2,-31,1
-*,d/f+4,mid,2,0.5,SSL,-,-,-,-,-,12 / 14 (CH),14,-7,+4,+4,-25,1
-*,"d/f+4, 2","mid, high",2,0.25,"SSL, SWL / SWR",-,-,NC,-,-,"12, 17 / 14, 17 (CH)",14,-4,+7,+7,-21,"1, 2"
-*,"whiff d/f+4, 2",high,2.5,1.25,SWL / SWR,-,-,-,-,-,17 / 20 (CH),20,-4,+7,+7,-21,2
-Combination Raid,"d/f+4, 2, 2","mid, high, mid",2,0.5,"SSL, SWL / SWR",-,-,-,-,-,"12, 17, 21 / 14, 17, 21 (CH)",14,-8,GROUND BOUNCE,GROUND BOUNCE,-41,"1, 2, 2"
-*,"whiff d/f+4, whiff 2, 2",mid,3,1.25,-,-,-,-,-,-,21 / 25 (CH),35,-8,GROUND BOUNCE,GROUND BOUNCE,-41,2
-Combination Chaser,"d/f+4, 2, 4","mid, high, high",2,1,"SSL, SWL / SWR, SSL",-,-,"2, 4 (NCc)",-,WALL BREAK / SPLAT,"12, 17, 20 / 14, 17, 20 (CH)",14,-5,KND,KND,-27,"1, 2, 2"
-*,"whiff d/f+4, whiff 2, 4",high,2.5,1.25,SSL,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),25,-5,KND,KND,-27,2
-Heavy Slash,d/f+1+2,mid,4.5,2.5,-,-,-,-,-,WALL BREAK / SPLAT,27 / 32 (CH),25,-9,KND,KND,-43,2
-Whirlwind Dagger,d+1,"mid, mid",2,0.5,"SSR, SSL",-,-,-,OC (oH),-,"7, 10 / 8, 10 (CH)",17,-3,+4,+4,-32,"2, 1"
-Whirlwind Dagger (2nd Hit Only),d+1,mid,2.5,1.5,SSL,-,-,-,OC (oH),-,10 / 12 (CH),26,-3,+4,+4,-32,1
-*,d+2,low,2,0,SSR,-,-,-,-,-,12 / 14 (CH),20,-18,-3,-3,-35,2
-Hydra Slice,"d+2, 2","low, high",2,0,"SSR, SWL / SWR",-,-,NCc,-,WALL BREAK / SPLAT,"12, 23 / 14, 23 (CH)",20,-9,+10,+10,-31,"2, 2"
-*,"whiff d+2, 2",high,2.5,1.5,SWL / SWR,-,-,-,-,WALL BREAK / SPLAT,23 / 27 (CH),22,-9,+10,S!,-31,2
-*,d+4,low,1.5,1,SSL,-,-,-,-,-,9 / 10 (CH),19,-31,-9,-9,-38,1
-*,"d+4, 1 (Close)","low, high",1.5,1,-,-,-,NC,-,WALL SPLAT,"13, 14 / 16, 14 (CH)",19,-31,KND,KND,-34,"1, 2"
-*,"d+4, 1 (Far)","low, high",1,1,-,-,-,NC,-,-,"9, 20 / 10, 20 (CH)",19,-31,+4,+4,-34,"1, 2"
-*,"whiff d+4, 1",high,2.5,2.5,-,-,-,-,-,-,20 / 24 (CH),25,-12,+4,+4,-34,2
-Maelstrom,"d+4, 1, 1+2 (Close)","low, high, mid",1.5,1,-,-,-,NC,-,WALL BREAK / SPLAT,"13, 14, 11 / 16, 14, 11 (CH)",19,-31,KND,KND,-49,"1, 2, 3"
-*,"d+4, 1, 1+2 (Far)","low, high, mid",1.5,1,-,-,-,NC,-,WALL BREAK / SPLAT,"9, 20, 22 / 10, 20, 22 (CH)",19,-31,KND,KND,-49,"1, 2, 3"
-*,"whiff d+4, whiff 1, 1+2",mid,3.5,3,-,LOW,-,-,-,WALL BREAK / SPLAT,22 / 26 (CH),31,-18,KND,KND,-49,3
-*,d/b+1,mid,2,0.25,-,-,-,-,-,-,7 / 8 (CH),15,-6,0,0,-29,1
-Dancing Edge,"d/b+1, 1+2","mid, mid, mid",2,0.5,-,-,-,NC,-,-,"7, 7, 10 / 8, 7, 10 (CH)",15,-7,+4,+4,-29,"1, 1, 2"
-*,"whiff d/b+1, 1+2","mid, mid",2.5,2,-,-,-,-,-,-,"7, 10 / 8, 10 (CH)",16,-7,+4,+4,-29,"1, 2"
-(2nd Hit Only)*,"whiff d/b+1, 1+2",mid,1,2,-,-,-,-,-,-,10 / 12 (CH),24,-7,+4,+4,-29,2
-Wind Edge to Roll-Dodge,"d/b+1, f",mid,2,0,-,-,-,-,-,-,7 / 8 (CH),15,-24,-18,-18,-47,1
-Delta Thrust,d/b+2,s. low,2.75,0,-,-,-,-,OC (oH),-,23 / 27 (CH),24,-19,+4,KND,-37,1
-Sweep Kick,d/b+3,low,1.5,0.5,SSL / SWR,-,-,-,-,-,13 / 15 (CH),16,-13,-2,-2,-30,2
-Knee Crusher,d/b+4,low,1.5,0.5,SSR,-,-,-,-,-,9 / 10 (CH),17,-13,-2,-2,-31,1
-Royal Slash,d/b+1+2,mid,3.5,2.5,-,-,-,-,-,-,25 / 30 (CH),25,-16,LAUNCH,LAUNCH,-49,3
-Royal Slash Alternative,d/b+1+2 (Hold),mid,3.5,2.5,-,-,-,-,-,-,28 / 33 (CH),46,+2,LAUNCH,LAUNCH,-49,3
-*,b+1,high,2,0,-,-,-,-,-,-,10 / 12 (CH),12,-11,0,0,-29,1
-Shadow Stab,"b+1, 2","high, high",2,1.5,-,-,-,NC,-,-,"10, 21 / 12, 21 (CH)",12,-9,+7,+7,-31,"1, 2"
-*,"whiff b+1, 2",high,2.5,3,-,-,-,-,-,-,21 / 25 (CH),18,-9,+7,+7,-31,2
-Smash Blow,b+2,mid,1.75,0.5,SSL,HIGH,-,-,-,-,13 / 15 (CH),15,-9,+4,+4,-28,2
-Thunder Impact,b+2:1+2,mid,1.75,-,-,-,-,NC,-,-,"13, 6, 14 / 15, 6, 14 (CH)",15,-9,+4,+4,-,2
-*,b+3,high,1.75,0.25,-,-,-,-,-,-,14 / 16 (CH),14,-12,-1,-1,-34,2
-Night Fall,"b+3, 1","high, mid",1.75,0.25,-,-,-,NC,-,-,"14, 23 / 16, 23 (CH)",14,-14,KND,KND,-36,"2, 2"
-*,"whiff b+3, 1",mid,2.5,0.5,SSR,-,-,-,-,-,23 / 27 (CH),29,-14,KND,KND,-36,2
-Crescent Slash Combination,"b+4, 1+2","high, mid",2.5,2.5,-,-,-,NC,-,WALL BREAK / SPLAT,"17, 27 / 20, 27 (CH)",20,-13,KND,KND,-51,"1, 2"
-*,"whiff b+4, 1+2",mid,3.5,3.5,-,-,-,-,-,WALL BREAK / SPLAT,27 / 32 (CH),29,-13,KND,LAUNCH,-51,2
-Shield Smash,b+1+4,mid,2.5,0.25,-,-,-,-,-,FLOOR BREAK,20 / 24 (CH),26,-11,KND,KND,-33,2
-*,FC 1,s. mid,1,1,-,-,-,-,-,-,5 / 6 (CH),10,-5,+6,+6,-23,1
-*,FC 2,s. mid,1.5,1.25,-,-,-,-,-,-,8 / 9 (CH),11,-6,+5,+5,-24,1
-*,FC 3,low,1.5,1.5,SSL / SSR,-,-,-,-,-,12 / 14 (CH),16,-17,-3,-3,-32,1
-*,FC 4,low,1.5,1.5,SSL / SSR,-,-,-,-,-,10 / 12 (CH),12,-15,-4,-4,-33,1
-Shadow Slice,FC d/f+2,s. low,2.5,0.25,SSL,-,-,-,OC (oH),-,17 / 20 (CH),20,-13,+3,+13,-31,1
-Vortex Edge,SS 2,mid,2.5,0,-,-,-,-,OC (oH),-,21 / 25 (CH),18,0,+5,KND,-31,1
-Charging Tackle*,"WR f, f, F (Full Screen)",mid,0,0.25,SWL / SWR,-,-,-,-,WALL BREAK / SPLAT,30 / 36 (CH),8,+13,KND,KND,-,13
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,-,-,-,-,-,-,-,-,10 / 12 (CH),12,-,KND,KND,-,1
-*,WR 4,low,2,0,SSL / SSR,-,-,-,-,-,17 / 20 (CH),14,-40,KND,KND,-39,17
-*,WS 1,mid,2.5,0.25,SSL / SSR,-,-,-,-,-,10 / 12 (CH),13,-8,+6,+6,-27,2
-Tidal Slash,"WS 1, 2","mid, mid",2.5,0.25,"SSL / SSR, SWL",-,-,NC,OC (oH),-,"10, 20 / 12, 20 (CH)",13,-13,+2,+2,-36,"2, 1"
-*,"WS whiff 1, 2",mid,2.5,2,SWL,-,-,-,OC (oH),-,20 / 24 (CH),18,-13,+2,KND,-36,1
-*,WS 2,mid,2,0,SWL / SWR,-,-,-,-,-,13 / 15 (CH),15,-13,-7,-7,-35,2
-Regulus Cross,"WS 2, 2","mid, mid",2,0,"SWL / SWR, SWL / SWR",-,-,NC,-,WALL BREAK / SPLAT,"13, 16 / 15, 16 (CH)",15,-14,S!,S!,-36,"2, 2"
-*,"WS whiff 2, 2",mid,3,1.5,SWL / SWR,-,-,-,-,WALL BREAK / SPLAT,23 / 27 (CH),26,-14,+5,+5,-36,2
-*,WS 3,mid,2,0.25,-,-,-,-,-,-,12 / 14 (CH),14,-7,+9,+9,-25,1
-Stinger Knee to Warp-Strike,"WS 3, 2","mid, s. mid",2,0,-,-,-,NC,-,WALL SPLAT,"12, 5, 20 / 14, 5, 20 (CH)",14,-11,KND,KND,-45,"1, 10"
-*,"WS whiff 3, 2",s. mid,7.5,3,-,-,-,-,-,WALL SPLAT,"5, 20 / 6, 20 (CH)",29,-11,KND,KND,-45,10
-*,WS 4,mid,1.5,1.5,-,-,-,-,-,-,15 / 18 (CH),11,-6,+5,+5,-23,2
-Air Attack Claw,(While Jumping) 1,mid,0,0,-,-,-,-,-,-,7 / 8 (CH),9,-23~+1,-16~+8,-16~+8,~,2
-*,(While Jumping) 2,mid,1.5,1.75,-,-,-,-,-,-,14 / 16 (CH),10,-22~+1,-15~+8,-15~+8,~,3
-*,(While Jumping) 2:2,"mid, mid",-,-,-,-,-,-,-,-,"9, 7 / 11, 7 (CH)",12,-,KND,KND,~,"3, 2"
-Air Attack Blitz,(While Jumping) 2:2:2,"mid, mid, mid",-,-,-,-,-,-,-,-,"9, 7, 9 / 11, 7, 9 (CH)",14,-,KND,KND,~,"3, 2, 2"
-Air Attack Kick,(While Jumping) 3,mid,0.25,1,-,-,-,-,-,-,10 / 12 (CH),10,-22~+1,-15~+8,-15~+8,~,2
-Air Attack Shoot,(While Jumping) 4,mid,1,2,-,-,-,-,-,-,12 / 14 (CH),12,-21~+1,-14~+8,-14~+8,~,2
-Air Attack Crush,(During Forward Jump Peak [f23]) 1+2,mid,2.5,2,-,-,-,-,-,FLOOR / WALL BREAK / SPLAT,27 / 32 (CH),18,+5,KND,KND,~,4
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1,1.5,SSL / SSR,-,-,-,-,-,10 / 12 (CH),22,-12,+5,LAUNCH,-29,1
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,1.5,-,-,-,-,-,WALL BREAK / SPLAT (CH),18 / 21 (CH),22,-12,+5,KND,-29,1
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",low,0.5,1.5,SSR,-,-,-,-,-,6 / 7 (CH),13,-20,-3,-3,-38,1
-Spring Attack*,"Face Up, Feet Towards+3+4",mid,0.5,0,-,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),16,-10,KND,KND,-26,15
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",mid,4,0.25,-,-,-,-,-,WALL BREAK / SPLAT,15 / 18 (CH),19,+2,KND,KND,-42,6
-*,"Face Down, Feet Away+3",low,1,1.5,SSL / SSR,-,-,-,-,-,10 / 12 (CH),21,-20,+1,LAUNCH,-35,1
-*,"Face Down, Feet Away+4 (Close)",mid,-,-,-,-,-,-,-,WALL BREAK / SPLAT,15 / 18 (CH),21,-19,KND,KND,-37,1
-*,"Face Down, Feet Away+4 (Far)",mid,-,-,-,-,-,-,-,-,10 / 12 (CH),21,-19,-10,KND,-37,1
-Handspring Kickup,(Upon Landing) f,mid,0,0,-,LOW,-,-,-,-,4,33,-2,+3,+3,-13,4
-10 Hit Combo,"d/f+3, 1, 2, 2, 1, 1, 2, 1+2, 1, 2",-,-,-,-,-,-,-,-,-,80,16,-,KND,KND,-,-
-INTO BACK TURNED,,,,,,,,,,,,,,,,,
-Twilight Half Moon,"b+3, b",high,1.75,1,-,-,-,-,-,-,14 / 16 (CH),14,-8,+3,+3,-30,2
-*,b+4,high,2.5,1.5,-,-,-,-,-,-,17 / 20 (CH),20,-7,+9,+9,-30,1
-DURING BACK TURNED,,,,,,,,,,,,,,,,,
-*,1,high,1,1.5,-,-,-,-,-,-,15 / 18 (CH),8,-8,+3,+3,-26,1
-Blind Divide,2,mid,2.5,0.25,SSL,-,-,-,-,-,16 / 19 (CH),20,-9,KND,KND,-34,1
-*,3 (or 4),high,1.5,1.75,-,-,-,-,-,-,15 / 30 (CH),10,-8,KND,KND,-26,1
-INTO ROLL,,,,,,,,,,,,,,,,,
-Roll-Dodge,f+3+4,-,-,-,-,HIGH,-,-,-,-,-,38,-,-,-,-38,17
-Aerial Cannon,"f, f+3+4",high,4.5,1,-,LOW,-,-,-,WALL BREAK / SPLAT,50 / 60 (CH),30,-8,KND,KND,-29,3
-DURING ROLL,,,,,,,,,,,,,,,,,
-Rolling Bash,1,mid,2,0.5,SSL,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),18,-14,KND,KND,-37,1
-Tumble Slide,3+4,s. low,2,0.25,-,HIGH,-,-,-,-,17 / 20 (CH),20,-25,KND,KND,-40,5
-POWER CRUSHES,,,,,,,,,,,,,,,,,
-Shield Bash,f+1+4,mid,3,1,-,-,-,-,-,WALL BREAK / SPLAT,20 / 24 (CH),23,-14,KND,KND,-37,1
-RAGE MOVES,,,,,,,,,,,,,,,,,
-Warp-Drive,f+2+3,s. mid,8,4,-,-,-,-,-,WALL BREAK / SPLAT,"10, 30 / 12, 30 (CH)",18,+12,KND,KND,-43,10
-The Royal Arms,d+1+2,mid,3,0,-,-,-,-,-,-,55 / 57 (CH),20,-32,KND,KND,-55,1
-UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,
-Sword of the Father,b+2+3,mid,3.5,-,-,-,-,-,-,WALL BREAK / SPLAT,50 / 60 (CH),!,-,KND,KND,-52,1
-THROWS,,,,,,,,,,,,,,,,,
-Blizzard Spike,1+3,high throw,1.5,-,-,-,-,-,-,-,35,12,1 BREAK (-5),KND,KND,-24,3
-Thunder Strike,2+4,high throw,1.5,-,-,-,-,-,-,-,35,12,2 BREAK (-5),KND,KND,-24,3
-Blizzard Spike,f+1+3,high throw,2,-,-,-,-,-,-,-,35,15,1 BREAK (-5),KND,KND,-32,3
-Thunder Strike,f+2+4,high throw,2,-,-,-,-,-,-,-,35,15,2 BREAK (-5),KND,KND,-32,3
-Fire Blast,b+1+2,high,1,-,-,-,-,-,-,-,40,12,1+2 BREAK (-5),KND,KND,-26,1
-Fire Blast,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,12,1 BREAK (-5),KND,KND,-24,3
-Fire Blast,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,12,2 BREAK (-5),KND,KND,-24,3
-Dragoon Impulse,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,50,12,-,KND,KND,-24,3
-Running Tackle*,"WR f, f, F (Mid Screen)",mid throw,2,-,SSL / SSR,-,-,-,-,-,5,16,2 BREAK (-5),KND,KND,-32,1
-*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,"5, 5",-,1 BREAK,KND,KND,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5",-,2 BREAK,KND,KND,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5, 5",-,1 BREAK,KND,KND,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5, 5, 15",-,2 BREAK,KND,KND,-,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,RECOVERY,ACTIVE,NOTES
+-,1,high,1.5,0.25,-,-,-,-,-,7 (8),i10,+1,+8,+8,FLOAT,-16,1,-
+-,"1, 2","high, high",1.5,0.5,-,-,YES,NC,-,"7 [8], 8",i10,-2,+6,-,FLOAT,-20,"1, 1",-
+-,"(1), 2",high,1.5,1.5,-,-,-,-,-,8 [9],i12,-2,+6,+6,FLOAT,-20,1,-
+Left Right Slice,"1, 2, 2","high, high, high",1.5,0.5,-,-,NO,NC,-,"7 [8], 8, 12",i10,-11,+1,-,FLOAT,-30,"1, 1, 2",-
+-,"(1), (2), 2",high,2.5,2,-,-,-,-,-,12 [14],i17,-11,+1,+1,FLOAT,-30,2,-
+Left Right Side Dodge,"1, 2, 3","high, high",1.5,1,-,-,-,-,-,"7 [8], 8",i10,-26,-18,-,FLOAT,-44,"1, 1",-
+-,"(1), (2), 3",-,-,-,-,-,-,-,-,-,-,-,-,-,FLOAT,-44,-,-
+Left Right Side Dodge,"1, 2, 4","high, high",1.5,1,-,-,-,-,-,"7 [8], 8",i10,-26,-18,-,FLOAT,-44,"1, 1",-
+-,"(1), (2), 4",-,-,-,-,-,-,-,-,-,-,-,-,-,FLOAT,-44,-,-
+Left Right Heavy Slash,"1, 2, 1+2","high, high, mid",1.5,2.5,-,-,-,-,WALL BREAK / SPLAT,"7 [8], 8, 23",i10,-9,KND,-,S!,-43,"1, 1, 2",-
+-,"(1), (2), 1+2",mid,3.5,3,-,-,-,-,-,23 [27],i25,-9,KND,KND,S!,-43,2,-
+-,2,mid,2.5,0.5,SSR,-,-,-,-,9 [10],i15,-12,-6,-6,FLOOR BREAK,-35,1,-
+-,"2, 2","mid, mid",2.5,0,-,-,-,NC,-,"9 [10], 9",i15,-9,+6,-,FLOOR BREAK,-28,"1, 1",-
+-,"(2), 2",mid,2.25,0.25,SSR,-,-,-,-,9 [10],i16,-9,+6,+6,FLOAT,-28,1,-
+-,"2, 2, 2","mid, mid, high",2.5,0,-,-,-,-,-,"9 [10], 9, 7",i15,-8,-2,-,FLOOR BREAK,-30,"1, 1, 2",-
+-,"(2), (2), 2",high,2.5,0,-,-,-,-,-,7 [8],i23,-8,-2,-2,FLOAT,-30,2,-
+-,"2, 2, 2, 2","mid, mid, high, high",2.5,0,-,-,-,-,-,"9 [10], 9, 7, 7",i15,-7,+7,-,FLOOR BREAK,-29,"1, 1, 2, 2",-
+-,"(2), (2), (2), 2",high,2.75,0,SSR,-,-,-,-,7 [8],i20,-7,+7,+7,TAIL SPIN,-29,2,-
+Blitz Rush,"2, 2, 2, 2, 2","mid, mid, high, high, mid",2.5,1,-,-,-,-,-,"9 [10], 9, 7, 7, 15",i15,-14,KND,-,FLOOR BREAK,-36,"1, 1, 2, 2, 2",-
+-,"(2), (2), (2), (2), 2",mid,2.5,1.75,-,-,-,-,-,15 [18],i32,-14,KND,KND,FLOOR BREAK,-36,2,-
+Triple Assault,"2, 2, f+2","mid, mid, mid",2.5,0,-,-,-,-,WALL BREAK / SPLAT,"9 [10], 9, 23",i15,-14,+5,-,FLOOR BREAK,-36,"1, 1, 2",-
+-,"(2), (2), f+2",mid,2.5,0,SSL / SSR,-,-,-,-,23 [27],i26,-14,+5,+5,S!,-36,2,-
+Double Assault to Warp-Strike,"2, 2, b+2","mid, mid, s. mid",2.5,0,-,low,-,-,WALL SPLAT,"9 [10], 9, 5, 20",i15,-11,KND,-,FLOOR BREAK,-46,"1, 1, 10",-
+-,"(2), (2), b+2",s. mid,7.5,3,-,-,-,-,-,"5 [6], 20",i31,-11,KND,KND,ACTIVATE,-46,11,-
+-,3,high,1.5,1.25,-,-,-,-,-,15 [18],i14,-7,-1,-1,BACK FLIP,-29,2,-
+-,4,high,1.5,1,-,-,-,-,-,15 [18],i12,-8,+3,+3,FLOAT,-26,1,-
+Dextra Edge,"4, 2","high, mid",1.5,1,-,-,-,NC,-,"15 [18], 15",i12,-14,-1,-,ACTIVATE,-36,"1, 2",-
+Dextra Edge Air,"4, 2 (must hit midair)","high, mid",1.5,1,-,-,-,-,WALL SPLAT,-,i12,-,AIRBORNE,-,ACTIVATE,-36,"1, 2",-
+-,"(4), 2",mid,2.25,1.75,SWR,-,-,-,-,15 [18],i26,-14,-1,-1,ACTIVATE,-36,2,-
+Cyclone Slash,1+2,"high, mid",3.5,0.25,HOMING,-,-,-,WALL BREAK / SPLAT,"17 [20], 24",i18,-14,KND,KND,FLOAT,-40,"2, 2",-
+-,1+2 (second hit only),mid,5,2.25,HOMING,-,-,-,WALL BREAK / SPLAT,24 [28],i34,-14,KND,KND,S!,-40,2,-
+Cyclone Slash Cancel,"1+2, B",high,3.5,1,HOMING,-,-,-,-,17 [20],i18,-9,-3,-3,FLOAT,-30,2,-
+Quick Stab,u/f+1,high,2,1,-,-,-,-,-,15 [18],i14,-4,+8,STUN,FLOAT,-26,2,-
+Power Break,u/f+2,mid,4,0.5,-,low,-,-,FLOOR BREAK,21 [25],i30,-8,GROUND BOUNCE,GROUND BOUNCE,FLOOR BREAK,-41,2,-
+Ascension Storm,u/f+3,mid,2,0,-,low,-,-,WALL SPLAT,"11 [13], 16",i17,-13,LAUNCH,LAUNCH,ACTIVATE,-35,2,-
+Chaser Shoot,u/f+4,high,2.5,0.5,HOMING,-,-,-,WALL BREAK / SPLAT,20 [24],i19,-5,KND,KND,S!,-27,2,-
+Warp Strike,f+2,s. mid,7.5,2.25,-,low,-,-,WALL SPLAT,"8 [9], 25",i20,-9,KND,KND,ACTIVATE,-45,10,-
+-,f+3,mid,2,0.25,-,-,-,-,-,14 [16],i16,-9,+9,+9,FLOAT,-27,1,-
+Stinger Knee to Warp-Strike,"f+3, 2","mid, s. mid",2,0,-,-,-,NC,WALL SPLAT,"14 [16], 5, 20",i16,-11,KND,-,ACTIVATE,-45,"1, 10",-
+-,"(f+3), 2",s. mid,7.5,3,-,low,-,-,WALL SPLAT,"5 [6], 20",i29,-11,KND,KND,ACTIVATE,-45,10,-
+-,f+4,mid,2.5,0.25,-,-,-,-,-,13 [15],i17,-8,+8,+8,FLOAT,-26,1,-
+Circle Slash,"f+4, 2","mid, mid",2.5,0.5,-,-,-,NC,WALL BREAK / SPLAT,"13 [15], 21",i17,-11,+12,-,S!,-33,"1, 2",-
+-,"(f+4), 2",mid,3,2,SWL / SWR,-,-,-,WALL BREAK / SPLAT,21 [25],i32,-11,+12,+12,S!,-33,2,-
+Piercing Spear,f+1+2,mid,3.5,0.75,-,-,-,-,WALL BREAK / SPLAT,24 [28],i16,-19,KND,KND,FLOAT,-47,2,-
+Flare Drive,"f, f+4",mid,2,0.5,SSL,low,-,-,-,"15 [18], 14, 21",i19,-14,KND,KND,ACTIVATE,-37,1,-
+-,"f, f+4 (off-axis)",mid,2,0,-,-,-,-,-,15 [18],i19,-,KND,KND,S!,-37,1,-
+Shadow Scissors,"f, f+1+2",mid,3.5,0,HOMING,-,-,-,WALL BREAK / SPLAT,17 [20],i15,-9,+10,S!,S!,-31,2,-
+Meteor Crush,"f, f, f+1+2 (or WR 1+2)",mid,5,2,-,low,-,-,-,25 [30],i23,+11,GROUND BOUNCE,GROUND BOUNCE,FLOOR BREAK,-41,2,-
+-,d/f+1,mid,2,1,-,-,-,-,-,10 [12],i13,-1,+7,+7,FLOAT,-18,2,-
+Head Spinner,"d/f+1, 4","mid, high",2,1,-,-,-,NCc,WALL BREAK / SPLAT,"10 [12], 20",i13,-5,KND,-,S!,-27,"2, 2",-
+-,"(d/f+1), 4",high,2.5,1.5,SSL,-,-,-,WALL BREAK / SPLAT,20 [24],i19,-5,KND,KND,S!,-27,2,-
+Royal Edge,d/f+2,mid,3,0.25,-,-,-,-,WALL SPLAT,15 [18],i15,-20,LAUNCH,LAUNCH,BACK FLIP,-42,2,-
+-,d/f+3,mid,2,1,-,-,-,-,-,9 [10],i16,-13,-2,-2,FLOAT,-31,1,-
+-,d/f+4,mid,2,0.5,SSL,-,-,-,-,12 [14],i14,-7,+4,+4,FLOAT,-25,1,-
+-,"d/f+4, 2","mid, high",2,0.25,-,-,-,NC,-,"12 [14], 17",i14,-2,+8,-,TAIL SPIN,-19,"1, 2",-
+-,"(d/f+4), 2",high,2.5,1.25,SWL / SWR,-,-,-,-,17 [20],i20,-2,+8,+8,TAIL SPIN,-19,2,-
+Combination Raid,"d/f+4, 2, 2","mid, high, mid",2,0.5,-,-,-,-,-,"12 [14], 17, 21",i14,-8,GROUND BOUNCE,-,FLOOR BREAK,-41,"1, 2, 2",-
+-,"(d/f+4), (2), 2",mid,3,1.25,-,-,-,-,-,21 [25],i35,-8,GROUND BOUNCE,GROUND BOUNCE,FLOOR BREAK,-41,2,-
+Combination Chaser,"d/f+4, 2, 4","mid, high, high",2,1,-,-,-,"2, 4 (NCc)",WALL BREAK / SPLAT,"12 [14], 17, 20",i14,-5,KND,-,S!,-27,"1, 2, 2",-
+-,"(d/f+4), (2), 4",high,2.5,1.25,SSL,-,-,-,WALL BREAK / SPLAT,20 [24],i25,-5,KND,KND,S!,-27,2,-
+Heavy Slash,d/f+1+2,mid,4.5,2.5,-,-,-,-,WALL BREAK / SPLAT,27 [32],i25,-9,KND,KND,S!,-43,2,-
+Whirlwind Dagger,d+1,"mid, mid",2,0.5,"SSR, SSL",-,-,-,-,"7 [8], 10",i17,-3,+4,+4,FLOOR BREAK,-32,"2, 1",-
+-,d+1 (second hit only),mid,2.5,1.5,SSL,-,-,-,-,10 [12],i26,-3,+4,+4,FLOOR BREAK,-32,1,-
+-,d+2,low,2,0,SSR,-,-,-,-,12 [14],i20,-18,-3,-3,FLOAT,-35,2,-
+Hydra Slice,"d+2, 2","low, high",2,0,-,-,-,NCc,WALL BREAK / SPLAT,"12 [14], 23",i20,-9,+10,-,S!,-31,"2, 2",-
+-,"(d+2), 2",high,2.5,1.5,SWL / SWR,-,-,-,WALL BREAK / SPLAT,23 [27],i22,-9,+10,S!,S!,-31,2,-
+-,d+4,low,1.5,1,SSL,-,-,-,-,9 [10],i19,-31,-9,-9,FLOAT,-38,1,-
+-,"d+4, 1 (close)","low, high",1.5,1,-,-,-,NC,WALL SPLAT,"13 [16], 14",i19,-31,KND,-,BACK FLIP,-34,"1, 2",-
+-,"d+4, 1 (far)","low, high",1,1,-,-,-,NC,-,"9 [10], 20",i19,-31,+4,-,BACK FLIP,-34,"1, 2",-
+-,"(d+4), 1",high,2.5,2.5,-,-,-,-,-,20 [24],i25,-12,+4,+4,BACK FLIP,-34,2,-
+Maelstrom,"d+4, 1, 1+2 (close)","low, high, mid",1.5,1,-,-,-,NC,WALL BREAK / SPLAT,"13 [16], 14, 11",i19,-31,KND,-,FLOOR BREAK,-49,"1, 2, 3",-
+-,"d+4, 1, 1+2 (far)","low, high, mid",1.5,1,-,-,-,NC,WALL BREAK / SPLAT,"9 [10], 20, 22",i19,-31,KND,-,FLOOR BREAK,-49,"1, 2, 3",-
+-,"(d+4), (1), 1+2",mid,3.5,3,-,low,-,-,WALL BREAK / SPLAT,22 [26],i31,-18,KND,KND,FLOOR BREAK,-49,3,-
+-,d/b+1,mid,2,0.25,-,-,-,-,-,7 [8],i15,-6,+3,+3,FLOOR BREAK,-26,1,-
+Dancing Edge,"d/b+1, 1+2","mid, mid, mid",2,0.5,-,-,-,NC,-,"7 [8], 7, 10",i15,-7,+4,-,FLIP OVER,-27,"1, 1, 2",-
+-,"(d/b+1), 1+2","mid, mid",2.5,2,-,-,-,-,-,"7 [8], 10",i16,-5,+6,+6,FLIP OVER,-27,"1, 2",-
+-,"(d/b+1), 1+2 (second hit only)",mid,1,2,-,-,-,-,-,10 [12],i24,-5,+6,+6,FLIP OVER,-27,2,-
+Wind Edge to Roll-Dodge,"d/b+1, f",mid,2,0,-,-,-,-,-,7 [8],i15,-24,-18,-18,FLOOR BREAK,-40,1,-
+Delta Thrust,d/b+2,s. low,2.75,0,-,-,-,-,-,23 [27],i24,-19,+4,KND,FLOAT,-37,1,-
+Sweep Kick,d/b+3,low,1.5,0.5,SSL / SWR,-,-,-,-,13 [15],i16,-13,-2,-2,FLOAT,-30,2,-
+Knee Crusher,d/b+4,low,1.5,0.5,SSR,-,-,-,-,9 [10],i17,-12,-1,-1,FLOOR BREAK,-30,1,-
+Royal Slash,d/b+1+2,mid,3.5,2.5,-,-,-,-,-,25 [30],i25,-16,LAUNCH,LAUNCH,BACK FLIP,-49,3,-
+Royal Slash Alternative,d/b+1+2*,mid,3.5,2.5,-,-,-,-,-,28 [33],i46,+2,LAUNCH,LAUNCH,BACK FLIP,-49,3,-
+-,b+1,high,2,0,-,-,-,-,-,10 [12],i12,-11,0,0,FLOAT,-29,1,-
+Shadow Stab,"b+1, 2","high, high",2,1.5,-,-,-,NC,-,"10 [12], 21",i12,-9,+7,-,BACK FLIP,-31,"1, 2",-
+-,"(b+1), 2",high,2.5,3,-,-,-,-,-,21 [25],i18,-9,+7,+7,BACK FLIP,-31,2,-
+Smash Blow,b+2,mid,1.75,0.5,SSL,high,-,-,-,13 [15],i15,-9,+4,+4,FLOAT,-28,2,-
+Thunder Impact,b+2:1+2,mid,1.75,-,-,-,-,NC,-,"13 [15], 6, 14",i15,-9,+6,+6,-,-,2,-
+-,b+3,high,1.75,0.25,-,-,-,-,-,14 [16],i14,-12,-1,-1,TAIL SPIN,-34,2,-
+Night Fall,"b+3, 1","high, mid",1.75,0.25,-,-,-,NC,-,"14 [16], 23",i14,-14,KND,-,KND,-36,"2, 2",-
+-,"(b+3), 1",mid,2.5,0.5,SSR,-,-,-,-,23 [27],i29,-14,KND,KND,KND,-36,2,-
+Crescent Slash Combination,"b+4, 1+2","high, mid",2.5,2.5,-,-,-,NC,WALL BREAK / SPLAT,"17 [20], 27",i18,-13,KND,-,BACK FLIP,-51,"1, 2",-
+-,"(b+4), 1+2",mid,3.5,3.5,-,-,-,-,WALL BREAK / SPLAT,23 [27],i29,-13,KND,LAUNCH,BACK FLIP,-51,2,-
+Shield Smash,b+1+4,mid,2.5,0.25,-,-,-,-,-,20 [24],i26,-11,KND,KND,FLOOR BREAK,-33,2,7f parry window
+-,FC 1,s. mid,1,1,-,-,-,-,-,5 [6],i10,-5,+6,+6,FLOAT,-23,1,-
+-,FC 2,s. mid,1.5,1.25,-,-,-,-,-,8 [9],i11,-6,+5,+5,FLOAT,-24,1,-
+-,FC 3,low,1.5,1.5,SSL / SSR,-,-,-,-,12 [14],i16,-17,-3,-3,FLOAT,-32,1,-
+-,FC 4,low,1.5,1.5,SSL / SSR,-,-,-,-,10 [12],i12,-15,-4,-4,FLOAT,-33,1,-
+Shadow Slice,FC d/f+2,s. low,2.5,0.25,SSL,-,-,-,-,17 [20],i20,-13,+4,+13,FLOAT,-31,1,-
+Vortex Edge,SS 2,mid,2.5,0,-,-,-,-,-,21 [25],i18,0,+5,KND,FLOOR BREAK,-31,1,-
+-,"WR f, f, F (Full Screen)",mid,0,0.25,SWL / SWR,-,-,-,WALL BREAK / SPLAT,30 [36],i8,+13,KND,KND,FLOAT,-,13,-
+-,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,-,-,-,-,-,-,-,10 [12],i12,-,KND,KND,FLOAT,-,1,-
+-,WR 4,low,2,0,SSL / SSR,-,-,-,-,17 [20],i14,-40,KND,KND,FLOAT,-39,17,-
+-,WS 1,mid,2.5,0.25,SSL / SSR,-,-,-,-,10 [12],i13,-8,+6,+6,FLOAT,-27,2,-
+Tidal Slash,"WS 1, 2","mid, mid",2.5,0.25,-,-,-,NC,-,"10 [12], 20",i13,-13,+2,-,FLOOR BREAK,-36,"2, 1",-
+-,"WS (1), 2",mid,2.5,2,SWL,-,-,-,-,20 [24],i18,-13,+2,KND,FLOOR BREAK,-36,1,-
+-,WS 2,mid,2,0,SWL / SWR,-,-,-,-,13 [15],i15,-9,-3,-3,FLOAT,-31,2,-
+Regulus Cross,"WS 2, 2","mid, mid",2,0,-,-,-,NC,WALL BREAK / SPLAT,"13 [15], 16",i15,-14,S!,-,S!,-36,"2, 2",-
+-,"WS (2), 2",mid,3,1.5,SWL / SWR,-,-,-,WALL BREAK / SPLAT,23 [27],i26,-14,+5,+5,S!,-36,2,-
+-,WS 3,mid,2,0.25,-,-,-,-,-,12 [14],i14,-7,+9,+9,FLOAT,-25,1,-
+Stinger Knee to Warp-Strike,"WS 3, 2","mid, s. mid",2,0,-,-,-,NC,WALL SPLAT,"12 [14], 5, 20",i14,-11,KND,-,ACTIVATE,-45,"1, 10",-
+-,"WS (3), 2",s. mid,7.5,3,-,-,-,-,WALL SPLAT,"5 [6], 20",i29,-11,KND,KND,ACTIVATE,-45,10,-
+-,WS 4,mid,1.5,1.5,-,-,-,-,-,15 [18],i11,-6,+5,+5,FLOAT,-23,2,-
+Air Attack Claw,(While Jumping) 1,mid,0,0,-,-,-,-,-,7 [8],i9,-23 ~ +1,-16 ~ +8,-16 ~ +8,FLOAT,-,2,-
+-,(While Jumping) 2,mid,1.5,1.75,-,-,-,-,-,14 [16],i10,-22 ~ +1,-15 ~ +8,-15 ~ +8,FLOAT,-,3,-
+-,(While Jumping) 2:2,"mid, mid",-,-,-,-,-,-,-,"9 [11], 7",i12,-,KND,-,FLOAT,-,"3, 2",-
+Air Attack Blitz,(While Jumping) 2:2:2,"mid, mid, mid",-,-,-,-,-,-,-,"9 [11], 7, 9",i14,-,KND,-,S!,-,"3, 2, 2",-
+Air Attack Kick,(While Jumping) 3,mid,0.25,1,-,-,-,-,-,10 [12],i10,-22 ~ +1,-15 ~ +8,-15 ~ +8,FLOAT,-,2,-
+Air Attack Shoot,(While Jumping) 4,mid,1,2,-,-,-,-,-,12 [14],i12,-21~+1,-14 ~ +8,-14 ~ +8,TAIL SPIN,-,2,-
+Air Attack Crush,(During Forward Jump Peak) 1+2,mid,2.5,2,-,-,-,-,WALL BREAK / SPLAT,27 [32],i18,+5,KND,KND,FLOOR BREAK,-,4,occurs at frame 23
+10 Hit Combo,"d/f+3, 1, 2, 2, 1, 1, 2, 1+2, 1, 2",-,-,-,-,-,-,-,-,80,i16,-,KND,KND,-,-,-,-
+-,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1,1.5,SSL / SSR,-,-,-,-,10 [12],i22,-12,+5,LAUNCH,FLOAT,-29,1,-
+-,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,1.5,-,-,-,-,WALL BREAK / SPLAT (CH),18 [21],i22,-12,+5,KND,FLOAT,-29,1,-
+-,"Face Up, Feet Towards, d+3 (or 4)",low,0.5,1.5,SSR,-,-,-,-,6 [7],i13,-20,-3,-3,FLOAT,-38,1,-
+-,"Face Up, Feet Towards+3+4",mid,0.5,0,-,-,-,-,WALL BREAK / SPLAT,20 [24],i16,-10,KND,KND,FLOAT,-26,12,-
+-,"Face Up, Feet Towards, Roll Forward+1+2",mid,4,0.25,-,-,-,-,WALL BREAK / SPLAT,15 [18],i19,+2,KND,KND,FLOAT,-42,6,-
+-,"Face Down, Feet Away+3",low,1,1.5,SSL / SSR,-,-,-,-,10 [12],i21,-20,+1,LAUNCH,FLOAT,-35,1,-
+-,"Face Down, Feet Away+4 (close)",mid,-,-,-,-,-,-,WALL BREAK / SPLAT,15 [18],i21,-19,KND,KND,FLOAT,-37,1,-
+-,"Face Down, Feet Away+4 (far)",mid,-,-,-,-,-,-,-,10 [12],i21,-19,-10,KND,FLOAT,-37,1,-
+-,(Upon Landing) f,mid,0,0,-,low,-,-,-,4,i33,-2,+3,+3,FLOAT,-13,4,-
+INTO BACK TURNED,,,,,,,,,,,,,,,,,,
+Twilight Half Moon,"b+3, b",high,1.75,1,-,-,-,-,-,14 [16],i14,-8,+3,+3,FLOAT,-30,2,-
+-,b+4,high,2.5,1.5,-,-,-,-,-,17 [20],i20,-7,+7,+7,FLOAT,-27,1,-
+DURING BACK TURNED,,,,,,,,,,,,,,,,,,
+-,1,high,1,1.5,-,-,-,-,-,15 [18],i8,-8,+3,+3,FLOAT,-26,1,-
+Blind Divide,2,mid,2.5,0.25,SSL,-,-,-,-,16 [19],i20,-9,KND,KND,FLOOR BREAK,-34,1,-
+-,3 (or 4),high,1.5,1.75,-,-,-,-,-,15 [30],i10,-8,KND,KND,FLOAT,-26,1,-
+INTO ROLL-DODGE,,,,,,,,,,,,,,,,,,
+Roll-Dodge,f+3+4,-,-,-,-,high,-,-,-,-,38,-,-,-,-,-35,-,-
+Aerial Cannon,"f, f+3+4",high,4.5,1,-,low,-,-,WALL BREAK / SPLAT,50 [60],i30,-8,KND,KND,-,-29,3,-
+DURING ROLL,,,,,,,,,,,,,,,,,,
+Tumble Slide,(During Roll-Dodge) 3+4,s. low,2,0.25,-,high,-,-,-,17 [20],i20,-25,KND,KND,FLOAT,-40,5,
+POWER CRUSHES,,,,,,,,,,,,,,,,,,
+Rolling Bash,(During Roll-Dodge) 1,mid,2,0.5,SSL,-,-,-,WALL BREAK / SPLAT,20 [24],i18,-13,KND,KND,FLOAT,-36,1,-
+Shield Bash,f+1+4,mid,3,1,-,-,-,-,WALL BREAK / SPLAT,20 [24],i23,-13,KND,KND,FLOAT,-36,1,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,
+Warp-Drive,(During Rage) f+2+3,s. mid,8,4,-,-,-,-,WALL BREAK / SPLAT,"10 [12], 30",i18,+12,KND,KND,ACTIVATE,-43,11,-
+The Royal Arms,(During Rage) d+1+2,mid,3,0,-,-,-,-,-,55 [57],i20,-32,KND,KND,ACTIVATE,-55,1,-
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,
+Sword of the Father,b+2+3,mid,3.5,-,-,-,-,-,WALL BREAK / SPLAT,50 [60],!,-,KND,KND,FLOOR BREAK,-52,1,-
+THROWS,,,,,,,,,,,,,,,,,,
+Blizzard Spike,Approach enemy... 1+3,high throw,1.5,-,-,-,-,-,-,35,i12,-5,KND,-,-,-24,3,1 BREAK
+Thunder Strike,Approach enemy... 2+4,high throw,1.5,-,-,-,-,-,-,35,i12,-5,KND,-,-,-24,3,2 BREAK
+Blizzard Spike,Approach enemy... f+1+3,high throw,2,-,-,-,-,-,-,35,i15,-5,KND,-,-,-32,3,1 BREAK
+Thunder Strike,Approach enemy... f+2+4,high throw,2,-,-,-,-,-,-,35,i15,-5,KND,-,-,-32,3,2 BREAK
+Fire Blast,Approach enemy... b+1+2,high,1,-,-,-,-,-,-,40,i12,-5,KND,-,-,-26,1,1+2 BREAK
+Fire Blast,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-5,KND,-,-,-24,3,1 BREAK
+Fire Blast,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-5,KND,-,-,-24,3,2 BREAK
+Dragoon Impulse,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,50,i12,-,KND,-,-,-24,3,-
+-,"WR f, f, F (Mid Screen)",mid throw,2,-,SSL / SSR,-,-,-,-,5,i16,-5,KND,-,-,-32,1,2 BREAK
+DURING TACKLE,,,,,,,,,,,,,,,,,,
+-,(During Tackle) 1 (or 2),-,-,-,-,-,-,-,-,5,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5",-,2 BREAK,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5",-,1 BREAK,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5, 15",-,2 BREAK,KND,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,
+-,"U/F, U, U/B",-,-,-,-,-,-,-,-,-,57,-,-,-,-,-,-,-
+-,"u/b, b",-,-,-,-,-,-,-,-,-,44,-,-,-,-,-,-,-
+Taunt,1+3+4,-,-,-,-,-,-,-,-,-,50,-,-,-,-,-,-,-
+Parry,Time with enemy attack... b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,30,3,-,KND,-,-,-,15,-

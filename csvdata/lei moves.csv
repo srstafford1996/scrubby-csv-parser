@@ -1,549 +1,551 @@
-MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,RECOVERY,ACTIVE,NOTES
-*,1,high,1.5,0.5,-,-,-,-,-,7 (8),i10,+1,+8,+8,FLOAT,-,-16,1,-
-Serpent Strike,"1, 1","high, high",1.5,1,-,-,YES,NC,-,"7 (8), 12",i10,-6,+5,-,FLOAT,-,-24,"1, 1",-
-*,"(1), 1",high,1.5,1.5,-,-,-,-,-,12 (14),i12,-6,+5,+5,FLOAT,-,-24,1,-
-Left Right Punch,"1, 2","high, high",1.5,0.5,-,-,YES,NC,-,"7 (8), 12",i10,-1,+6,-,FLOAT,-,-18,"1, 1",-
-*,"(1), 2",high,1.5,1.5,-,-,-,-,-,12 (14),i12,-1,+6,+6,FLOAT,-,-18,1,-
-*,2,high,1.5,0.25,-,-,-,-,-,10 (12),i10,0,+6,+6,FLOAT,-,-18,1,-
-*,"2, 1","high, mid",1.5,1,-,-,YES,NC,-,"10 (12), 13",i10,-8,+3,-,FLOAT,-,-26,"1, 1",-
-*,"(2), 1",mid,1.25,1.5,-,-,-,-,-,13 (15),i15,-8,+3,+3,FLOAT,-,-26,1,-
-Yue Ya Lian Tui,"2, 1, 3+4","high, mid, mid, mid",1.5,0,-,-,YES,NO,-,"10 (12), 13, 12, 14",i10,-11,KND,-,FLOAT,-,-28,"1, 1, 2, 2",-
-*,"(2), 1, 3+4","mid, mid, mid",1.25,0,-,-,YES,NCc,-,"13 (15), 12, 14",i15,-11,KND,-,FLOAT,-,-28,"1, 2, 2",-
-*,"(2), (1), 3+4","mid, mid",1.75,0.25,-,-,-,-,-,"12 (14), 14",i18,-11,KND,KND,FLOAT,-,-28,"2, 2",-
-*,"(2), (1), 3+4 (second hit only)",mid,1,0.5,-,-,-,-,-,14 (16),i32,-11,KND,KND,FLOAT,-,-28,2,-
-*,3,high,1.75,1.5,-,-,-,-,-,30 (36),i14,-9,-4,-3,SCREW,-,-32,1,-
-High and Low Kicks,"3, 3","high, low",1.75,2,-,-,NO,NO,-,"30 (36), 17",i14,-13,KND,-,SCREW,-,-31,"1, 1",-
-*,"(3), 3",low,1.75,2,-,-,-,-,-,17 (20),i31,-13,KND,KND,FLOAT,-,-31,1,-
-,4,high,1.5,1.75,-,-,-,-,-,16 (19),i12,-9,+5,LAUNCH,FLOAT,-,-27,1,-
-Clean Sweep,"4~3, D",mid,3.75,-,-,-,-,-,-,-,i29,-,-,-,-,-,-,-,-
-*,"4~4, 3, D","low, low, mid",2,-,-,-,-,-,-,-,i15,-,-,-,-,-,-,-,-
-Lift Up Cannon,"4~4, 3, 3, D","low, low, mid",2,-,-,-,-,-,-,-,i15,-,-,-,-,-,-,-,-
-*,"4~4, D",low,2,0.5,-,-,-,-,-,7 (8),i15,-15,-4,-4,FLOAT,-,-34,1,-
-Hook Punch to Spiral Upper,"1+2, 2","high, mid",1.5,0.25,-,-,NO,NCc,-,"16 (19), 21",i14,-10,KND,-,BACK FLIP,-,-27,"1, 2",-
-*,"(1+2), 2",mid,2.5,1,-,-,-,-,-,21 (25),i30,-10,KND,LAUNCH,BACK FLIP,-,-27,2,-
-*,f+3,mid,2,0.5,-,-,-,-,-,20 (24),i16,-12,-1,-1,FLOAT,-,-30,1,-
-*,"f+3, 1","mid, high",2,0.25,-,-,NO,NC,-,"20 (24), 12",i16,-3,+8,-,FLOAT,-,-21,"1, 1",-
-,"(f+3), 1",high,3,1.5,-,-,-,-,-,12 (14),i20,-3,+8,+8,FLOAT,-,-21,1,-
-Howling Dog Rush,"f+3, 1, 2","mid, high, mid",2,1,-,-,NO,NO,-,"20 (24), 12, 12",i16,-12,LAUNCH,-,TURN OVER,-,-30,"1, 1, 1",-
-*,"(f+3), 1, 2","high, mid",3,1,-,-,NO,NCc,-,"12 (14), 12",i20,-12,LAUNCH,-,TURN OVER,-,-30,"1, 1",-
-*,"(f+3), (1), 2",mid,2.5,1.5,-,-,-,-,-,12 (14),i25,-12,LAUNCH,LAUNCH,TURN OVER,-,-30,1,-
-*,f+4,high,2.5,0.5,-,-,-,-,-,26 (31),i23,-12,+3,CRUMPLE STUN,TAIL SPIN,-,-32,5,-
-*,"f+4, 2","high, mid",2.5,0.5,-,-,NO,NCc,-,"26 (31), 12 (8)",i23,0,+6,-,TAIL SPIN,-,-18,"3, 1",-
-*,"(f+4), 2",mid,1.5,1.5,-,-,-,-,-,12 (14),i27,0,+6,+6,TAIL SPIN,-,-18,1,-
-*,"f+4, 2, 1","high, mid, mid",2.5,1,-,-,NO,NCc,-,"26 (31), 12 (8), 12 (6)",i23,-12,-1,-,TAIL SPIN,-,-30,"3, 1, 1",-
-*,"(f+4), 2, 1","mid, mid",1.5,1.5,-,-,YES,NC,-,"12 (14), 12",i27,-12,-1,-,TAIL SPIN,-,-30,"1, 1",-
-*,"(f+4), (2), 1",mid,1.5,1.5,-,-,-,-,-,12 (14),i9,-12,-1,-1,TAIL SPIN,-,-30,1,-
-*,"f+4, 2, 1, 2","high, mid, mid, mid",2.5,1,-,-,NO,NCc,-,"26 (31), 12 (8), 12 (6), 8 (3)",i23,-12,-1,-,FLOAT,-,-30,"3, 1, 1, 1",-
-*,"(f+4), 2, 1, 2","mid, mid, mid",1.5,1,-,-,YES,NO,-,"12 (14), 12, 8",i27,-12,-1,-,FLOAT,-,-30,"1, 1, 1",-
-*,"(f+4), (2), 1, 2","mid, mid",1.5,0.5,-,-,YES,NCc,-,"12 (14), 8",i9,-12,-1,-,FLOAT,-,-30,"1, 1",-
-*,"(f+4), (2), (1), 2",mid,1.5,0.5,-,-,-,-,-,8 (9),i15,-12,-1,-1,FLOAT,-,-30,1,-
-Beating Kick Low Combo,"f+4, 2, 1, 2, 3","high, mid, mid, mid, low",2.5,1.5,-,-,NO,NCc,-,"26 (31), 12 (8), 12 (6), 8 (3)",i23,-17,-6,-,FLOAT,-,-35,"3, 1, 1, 1, 1",-
-*,"(f+4), 2, 1, 2, 3","mid, mid, mid, low",1.5,1.5,-,-,NO,NO,-,"12 (14), 12, 8, 12",i27,-17,-6,-,FLOAT,-,-35,"1, 1, 1, 1",-
-*,"(f+4), (2), 1, 2, 3","mid, mid, low",1.5,1.5,-,-,NO,NO,-,"12 (14), 8, 12",i9,-17,-6,-,FLOAT,-,-35,"1, 1, 1",-
-*,"(f+4), (2), (1), 2, 3","mid, low",1.5,1.5,-,-,NO,NCc,-,"8 (9), 12",i15,-17,-6,-,FLOAT,-,-35,"1, 1",-
-*,"(f+4), (2), (1), (2), 3",low,1.5,1,-,-,-,-,-,12 (14),i21,-17,-6,KND,FLOAT,-,-35,1,-
-Beating Kick Mid Combo,"f+4, 2, 1, 2, 4","high, mid, mid, mid, mid",2.5,1.5,-,-,NO,NCc,-,"26 (31), 12 (8), 12 (6), 8 (3), 12 (3)",i23,-9,KND,-,FLOAT,-,-27,"3, 1, 1, 1, 1",-
-*,"(f+4), 2, 1, 2, 4","mid, mid, mid, mid",1.5,1.5,-,-,NO,NO,-,"12 (14), 12, 8, 12",i27,-9,KND,-,FLOAT,-,-27,"1, 1, 1, 1",-
-*,"(f+4), (2), 1, 2, 4","mid, mid, mid",1.5,1.5,-,-,NO,NO,-,"12 (14), 8, 12",i9,-9,KND,-,FLOAT,-,-27,"1, 1, 1",-
-*,"(f+4), (2), (1), 2, 4","mid, mid",1.5,1.5,-,-,NO,NCc,-,"8 (9), 12",i15,-9,KND,-,FLOAT,-,-27,"1, 1",-
-*,"(f+4), (2), (1), (2), 4",mid,2,2.5,-,-,-,-,-,12 (14),i21,-9,KND,KND,FLOAT,-,-27,1,-
-Twin Snake Strikes,f+1+2,"high, high",1.75,2,-,-,-,-,-,"13 (15), 10",i16,+4,+9,+9,FLOAT,-,-25,"1, 1",-
-*,f+1+2 (second hit only),high,2,2.5,-,-,-,-,-,10 (12),i25,+4,+9,+9,FLOAT,-,-25,1,-
-*,d/f+1,mid,1.5,0.25,-,-,-,-,-,13 (15),i13,-4,+7,+7,FLOAT,-,-21,2,-
-*,"d/f+1, 1","mid, high",1.25,0.5,-,-,NO,NC,-,"13 (15), 12",i13,-9,+2,-,FLOAT,-,-27,"1, 1",-
-*,"(d/f+1), 1",high,1.5,1.5,-,-,-,-,-,12 (14),i16,-9,+2,+2,FLOAT,-,-27,1,-
-Dancing Cobra,"d/f+1, 1, 1","mid, high, mid",1.25,0,-,-,NO,NO,-,"13 (15), 12, 21",i13,-10,KND,-,FLOAT,-,-27,"1, 1, 2",-
-*,"(d/f+1), 1, 1","high, mid",1.5,0,-,-,NO,NCc,-,"12 (14), 21",i16,-10,KND,-,FLOAT,-,-27,"1, 1",-
-*,"(d/f+1), (1), 1",mid,1,0,-,-,-,-,-,21 (25),i22,-10,KND,KND,FLOAT,-,-27,1,-
-Right Uppercut,d/f+2,mid,1.5,0,-,-,-,-,-,12 (14),i15,-7,LAUNCH,LAUNCH,FLOAT,-,-24,2,-
-Spinning Side Kick,d/f+3,mid,2.5,1.5,-,-,-,-,-,27 (32),i21,-10,KND,KND,KND,-,-28,1,-
-Tiger Fang,d/f+1+2,mid,1.5,0.25,-,-,-,-,-,21 (25),i17,-7 (OC),-4 (OC),-4 (OC),KND,-,-33,1,-
-*,d+2,mid,2,0,-,-,-,-,-,18 (21),i18,-3 (OC),+4 (OC),+4 (OC),KND,-,-29,1,-
-Lian Huan Tie Suo,"d+2, 2","mid, mid",2,0.25,-,-,NO,NCc,-,"18 (21), 21",i18,-10,KND,-,KND,-,-30,"1, 1",-
-*,"(d+2), 2",mid,2,0.5,-,-,-,-,-,21 (25),i23,-10,KND,KND,KND,-,-30,1,-
-*,d+4,low,1.5,1.5,-,-,-,-,-,10 (12),i12,-12,0,0,FLOAT,-,-33,1,-
-Double Stab,"d+4, 4","low, mid",1.5,2,-,-,NO,NCc,-,"10 (12), 15",i12,-15,-2,-,FLOAT,-,-33,"1, 1",-
-*,"(d+4), 4",mid,2,2,-,-,-,-,-,15 (18),i21,-15,-2,-2,FLOAT,-,-33,1,-
-*,d/b+3,low,1.5,1.5,-,-,-,-,-,12 (14),i16,-17,-3,-3,FLOAT,-,-32,1,-
-*,d/b+4 (clean hit),low,1.75,0.25,-,-,-,-,-,12 (14),i20,-26,KND,KND,FLOAT,-,-31,2,-
-*,d/b+4 (far),low,1.75,0.25,-,-,-,-,-,8 (9),i20,-26,-4,-4,FLOAT,-,-31,2,-
-Rave Spin,"d/b+4, 4","low, high",1.75,0.25,-,-,NO,NC,-,"8 (9), 21",i20,-26,KND,-,TAIL SPIN,-,-31,"2, 6",-
-*,"(d/b+4), 4",high,2.5,0,-,-,-,-,-,21 (36),i31,-8,KND,KND,TAIL SPIN,-,-31,6,-
-Orchid Palm,d/b+1+2,mid,0.75,0.25,-,-,-,-,-,26 (31),i28,-12,KND,KND,FLOAT,-,-30,1,-
-*,"d/b+3+4, D",mid,1.5,0.25,-,-,-,-,-,22 (26),i19,-21,KND,KND,FLOAT,-,-,-,-
-*,b+2,mid,1.5,0.25,-,-,-,-,-,15 (18),i17,-7,+4,+4,FLOAT,-,-25,1,-
-Deceiving Swallow,"b+2, 4","mid, high",1.5,0.5,-,-,NO,NC,-,"15 (18), 23",i24,-9,KND,-,SCREW,-,-32,"1, 2",-
-*,"(b+2), 4",high,3,0.5,-,-,-,-,-,23 (27),i24,-9,KND,SCREW,SCREW,-,-32,2,-
-*,b+3,high,0,2.5,-,-,-,-,-,25 (30),i14,-14,-4,-3,SCREW,-,-32,1,-
-*,b+4,low,1.75,0,-,-,-,-,-,17 (20),i23,-12,-1,+3,-,-,-30,1,-
-Lei Gong Elbow,"b+4, 1","low, high",1.75,2,-,-,NO,NCc,-,"17 (20), 23",i23,-10,KND,-,SCREW,-,-32,"1, 2",-
-*,"(b+4), 1",high,1.5,2,-,-,-,-,-,23 (27),i26,-10,KND,KND,SCREW,-,-32,2,-
-Cannonball,b+1+2,mid,1.5,0,-,-,-,-,-,25 (30),i26,-11,-3,+20,FLOAT,-,-21,5,-
-Scythe Kick,u/b+4,mid,1,3,-,-,-,-,-,20 (24),i15,-18,KND,KND,BACK FLIP,-,-34,1,-
-*,u+1+2,-,5.5,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Pouncing Tiger Sweep,"u+1+2, 4",low,1.5,0.25,-,-,-,-,-,20 (24),i27,-11,LAUNCH,LAUNCH,-,-,-29,1,-
-Sonic Strike,u/f+1,high,1.75,0.5,-,-,-,-,-,19 (22),i17,-3,+7,+7,FLOAT,-,-22,1,-
-Falling Tree,u/f+2,mid,2.5,0.25,-,-,-,-,-,25 (30),i35,-14,-3,-3,KND,-,-28,6,-
-Ostrich Kick,u/f+4,mid,1.5,0.5,-,-,-,-,-,13 (15),i15,-13,LAUNCH,LAUNCH,FLOAT,-,-30,3,-
-Comet Kick,u/f+3+4,"mid, mid",4,1,-,-,-,-,-,"10 (12), 16",i33,-1,LAUNCH,LAUNCH,KND,-,-17,"1, 1",-
-*,u/f+3+4 (second hit only),,4.5,1,-,-,-,-,-,16 (19),i38,-1,LAUNCH,LAUNCH,KND,-,-17,1,-
-Razor Rush Low Kick,"f, n, 1, 2, 1, 2, 3","mid, mid, mid, mid, low",2,1,-,-,NO,NO,-,"9 (10), 9, 9, 9, 12",i12,-17,KND,-,FLOAT,-,-35,"1, 1, 1, 1, 1",-
-*,"f, n, (1), 2, 1, 2, 3","mid, mid, mid, low",0.75,1.5,-,-,NO,NO,-,"9 (10), 9, 9, 12",i12,-17,KND,-,FLOAT,-,-35,"1, 1, 1, 1",-
-*,"f, n, (1), (2), 1, 2, 3","mid, mid, low",1,1.5,-,-,NO,NO,-,"9 (10), 9, 12",i15,-17,KND,-,FLOAT,-,-35,"1, 1, 1",-
-*,"f, n, (1), (2), (1), 2, 3","mid, low",1,1.5,-,-,NO,NO,-,"9 (10), 12",i15,-17,KND,-,FLOAT,-,-35,"1, 1",-
-*,"f, n, (1), (2), (1), (2), 3",low,1,1.5,-,-,-,-,-,12 (14),i21,-17,KND,KND,FLOAT,-,-35,1,-
-Razor Rush Mid Kick,"f, n, 1, 2, 1, 2, 4","mid, mid, mid, mid, mid",2,1,-,-,-,-,-,"9 (10), 9, 9, 9, 12",i12,-9,KND,-,FLOAT,-,-27,"1, 1, 1, 1, 1",-
-*,"f, n, (1), 2, 1, 2, 4","mid, mid, mid, mid",0.5,1,-,-,-,-,-,"9 (10), 9, 9, 12",i12,-9,KND,-,FLOAT,-,-27,"1, 1, 1, 1",-
-*,"f, n, (1), (2), 1, 2, 4","mid, mid, mid",1,1,-,-,-,-,-,"9 (10), 9, 12",i15,-9,KND,-,FLOAT,-,-27,"1, 1, 1",-
-*,"f, n, (1), (2), (1), 2, 4","mid, mid",1,1,-,-,-,-,-,"9 (10), 12",i15,-9,KND,-,FLOAT,-,-27,"1, 1",-
-*,"f, n, (1), (2), (1), (2), 4",mid,1,1,-,-,-,-,-,12 (14),i21,-9,KND,KND,FLOAT,-,-27,1,-
-*,"f, n, 2",high,1.5,0.5,-,-,-,-,-,10 (12),i12,+2,+7,+7,FLOAT,-,-17,1,-
-*,"f, n, 2, 1","high, mid",1.5,0,-,-,-,-,-,"10 (12), 12",i12,0,-1,-1,FLOAT,-,-30,"1, 1",-
-*,"f, n, (2), 1",mid,1,1,-,-,-,-,-,10 (12),i16,-12,-1,-1,FLOAT,-,-30,1,-
-*,"f, n, 2, 1, 2","high, mid, mid",1.5,0,-,-,-,-,-,"10 (12), 12, 8",i12,-17,-1,-1,FLOAT,-,-30,"1, 1, 1",-
-*,"f, n, (2), 1, 2","mid, mid",1,0.25,-,-,-,-,-,"10 (12), 8",i16,-12,-1,-1,FLOAT,-,-30,"1, 1",-
-*,"f, n, (2), (1), 2",mid,0.5,1,-,-,-,-,-,8 (9),i34,-12,-1,-1,FLOAT,-,-30,1,-
-Defense Breaker,"f, n, 2, 1, 2, 1 (While enemy is guarding)","high, mid, mid, mid",1.5,1.5,-,-,-,-,-,-,i12,-39,-,-,FLOAT,-,-42,1,-
-Spinning Lotus Kick,"f, n, 3",high,1.5,2,-,-,-,-,-,30 (36),i15,+3,KND,KND,SCREW,-,-34,2,-
-*,"f, n, 4",high,1.5,1.5,-,-,-,-,-,18 (21),i10,-11,0,0,FLOAT,-,-29,1,-
-*,"f, n, 4, 1","high, mid",1.5,0.5,-,-,-,-,-,"18 (21), 12",i10,-1,+5,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1",mid,1.5,1.5,-,-,-,-,-,12 (14),i23,-1,+5,+5,FLOAT,-,-,-,-
-*,"f, n, 4, 1, 2","high, mid, mid",1.5,1,-,-,-,-,-,"18 (21), 12, 8",i10,-10,-4,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2","mid, mid",1.5,2,-,-,-,-,-,"12 (14), 8",i23,-10,-4,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2",mid,1,1.5,-,-,-,-,-,8 (9),i10,-10,-4,-4,FLOAT,-,-,-,-
-*,"f, n, 4, 1, 2, 2","high, mid, mid, mid",1.5,0.5,-,-,-,-,-,"18 (21), 12, 8, 10",i10,-12,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2, 2","mid, mid, mid",1.5,0.25,-,-,-,-,-,"12 (14), 8, 10",i23,-12,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2, 2","mid, mid",1,0.25,-,-,-,-,-,"8 (9), 10",i10,-12,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), 2",mid,1,0.25,-,-,-,-,-,10 (12),i16,-12,-1,-1,FLOAT,-,-,-,-
-Wolf Strike,"f, n, 4, 1, 2, 2, 2","high, mid, mid, mid, low",1.5,0.25,-,-,-,-,-,"18 (21), 12, 8, 10, 15",i10,-17,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2, 2, 2","mid, mid, mid, low",1.5,0.25,-,-,-,-,-,"12 (14), 8, 10, 15",i23,-17,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2, 2, 2","mid, mid, low",1,0.25,-,-,-,-,-,"8 (9), 10, 15",i10,-17,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), 2, 2","mid, low",1,0.25,-,-,-,-,-,"10 (12), 15",i16,-17,-1,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), (2), 2",low,1.5,1,-,-,-,-,-,15 (18),i22,-17,-1,-1,FLOAT,-,-,-,-
-*,"f, n, 4, 1, 2, 3","high, mid, mid, high",1.5,2,-,-,-,-,-,"18 (21), 12, 8, 20",i10,-6,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2, 3","mid, mid, high",1.5,2,-,-,-,-,-,"12 (14), 8, 20",i23,-6,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2, 3","mid, high",1,2,-,-,-,-,-,"8 (9), 20",i10,-6,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), 3",high,1.5,2,-,-,-,-,-,20 (24),i25,-6,KND,KND,FLOAT,-,-,-,-
-Rush Combo Mid Kick,"f, n, 4, 1, 2, 3, 4","high, mid, mid, high, mid",1.5,1.5,-,-,-,-,-,"18 (21), 12, 8, 20",i10,-7,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2, 3, 4","mid, mid, high, mid",1.5,1.5,-,-,-,-,-,"12 (14), 8, 20",i23,-7,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2, 3, 4","mid, high, mid",1,1.5,-,-,-,-,-,"8 (9), 20",i10,-7,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), 3, 4","high, mid",1.5,1.5,-,-,-,-,-,20 (24),i25,-7,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), (3), 4",mid,1.5,1.5,-,-,-,-,-,20 (24),i22,-7,KND,KND,FLOAT,-,-,-,-
-Rush Combo Low Kick,"f, n, 4, 1, 2, 3, d+4","high, mid, mid, high, low",1.5,1.5,-,-,-,-,-,"18 (21), 12, 8, 20",i10,-12,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, 2, 3, d+4","mid, mid, high, low",1.5,1.5,-,-,-,-,-,"12 (14), 8, 20",i23,-12,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), 2, 3, d+4","mid, high, low",1,1.5,-,-,-,-,-,"8 (9), 20",i10,-12,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), 3, d+4","high, low",1.5,1.5,-,-,-,-,-,20 (24),i25,-12,KND,-,FLOAT,-,-,-,-
-*,"f, n, (4), (1), (2), (3), d+4",low,2,2,-,-,-,-,-,20 (24),i22,-12,KND,KND,FLOAT,-,-,-,-
-Reverse Lotus,"f, F+3",mid,2,0.25,-,-,-,-,-,15 (18),i16,-14,LAUNCH,-,-,-,-,-,-
-Floating Lotus,"f, F+3, 4 (or f, f, f+3, 4)","mid, high",2,1.5,-,-,-,-,-,15 (18),i16,-13,LAUNCH,LAUNCH,-,-,-,-,-
-*,"f, F+(3), 4 (or f, f, f+(3), 4)",high,2,2,-,-,-,-,-,24 (28),i23,-13,KND,KND,-,-,-,-,-
-*,"f, F+4",high,1.5,1.5,-,-,-,-,-,21 (25),i15,-6,+5,+5,-,-,-,-,-
-Turbulent Winds,"f, F+4, 3+4","high, high",1.5,1,-,-,-,-,-,"21 (25), 21",i15,-3,KND,-,-,-,-,-,-
-*,"(f, F+4), 3+4",high,2,1.5,-,-,-,-,-,21 (25),i28,-3,KND,KND,-,-,-,-,-
-*,"f, F+3+4, D",mid,3,0.5,-,-,-,-,-,25 (30),i24,+2,KND,KND,-,-,-,-,-
-Tiger Swat,"f, f, f+1",mid,3,1.5,-,-,-,-,-,30 (36),i24,+8,KND,KND,-,-,-,-,-
-*,WS 2,mid,1.5,0.5,-,-,-,-,-,12 (14),i14,-5,+6,+6,-,-,-,-,-
-Wild Upper,"WS 2, 1","mid, mid",1.5,0.25,-,-,-,-,-,"12 (14), 15",i14,-9,+4,-,-,-,-,-,-
-*,"(WS 2), 1",mid,1.75,0.5,-,-,-,-,-,15 (18),i26,-9,+4,+4,-,-,-,-,-
-Di Gong Jiao,WS 3+4,mid,2,1,-,-,-,-,-,14 (16),i16,-15,LAUNCH,LAUNCH,-,-,-,-,-
-*,FC d/f+2,low,2,0,-,-,-,-,-,10 (12),i18,-12,-1,-1,-,-,-,-,-
-*,"FC d/f+2, 1, 4, B","low, low, mid",2,0.5,-,-,-,-,-,"10 (12), 10, 18",i18,-15,-28,-,-,-,-,-,-
-Snake Palm Fist,SS 1,high,2,0,-,-,-,-,-,21 (25),i16,-5,+6,+6,-,-,-,-,-
-Crane Cannon,SS 4,mid,2,0.5,-,-,-,-,-,14 (16),i21,-8,LAUNCH,LAUNCH,-,-,-,-,-
-Spring Up,While down (facing up) 3+4,mid,0,0.25,-,-,-,-,-,20 (24),i30,-5,KND,KND,-,-,-,-,-
-10 Hit Combo,"b+1, 2, 1, 3+4, 2, 1, 4, 1, 4, 4",-,-,-,-,-,-,-,-,81,i10,-32,KND,KND,-,-,-,-,-
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,STUN,-,-,-,-,-
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,i22,-12,+5,KND,-,-,-,-,-
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,i13,-18,-3,-3,-,-,-,-,-
-Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,i48,+10,KND,KND,-,-,-,-,-
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,i19,+2,KND,KND,-,-,-,-,-
-*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,i22,-20,+1,STUN,-,-,-,-,-
-*,"Face Down, Feet Away+4 (close)",-,-,-,-,-,-,-,-,-,i21,-19,KND,KND,-,-,-,-,-
-*,"Face Down, Feet Away+4 (far)",-,-,-,-,-,-,-,-,-,i21,-19,-10,KND,-,-,-,-,-
-Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,i33,-2,+3,+3,-,-,-,-,-
-INTO BACK TURNED,,,,,,,,,,,,,,,,,,,
-Back Turn,b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,3~4,mid,3.5,2,-,-,-,-,-,25 (30),i39,+3,+6,+6,KND,-,-20,5,-
-*,"3~4, 4","mid, mid",2.5,2,-,-,NO,NO,-,"25 (30), 21",i39,+3,+6,-,KND,-,-20,"5, 5",-
-*,"(3~4), 4",mid,3,2.5,-,-,-,-,-,21 (25),i29,+3,+6,+6,KND,-,-20,5,-
-Tornado Kick,"3~4, 4, 4","mid, mid, mid",3.5,2,-,-,NO,NO,-,"25 (30), 21, 17",i39,+3,+6,-,KND,-,-26,"5, 5, 5",-
-*,"(3~4), 4, 4","mid, mid",2.5,2,-,-,NO,NO,-,"21 (25), 17",i29,+3,+6,-,KND,-,-26,"5, 5",-
-*,"(3~4), (4), 4",mid,2.5,2.5,-,-,-,-,-,17 (20),i29,+3,+6,+6,KND,-,-26,5,-
-*,1+2,high,1.5,0,-,-,-,-,-,16 (19),i14,-7,+2,LAUNCH,FLOAT,-,-25,1,-
-Hook Punch to Spinning Back Blow,"1+2, 1","high, high",1.5,0,-,-,NO,NC,-,"16 (19), 12",i14,-3,+8,-,FLOAT,-,-20,"1, 2",-
-*,"(1+2), 1",high,2.5,0.25,-,-,-,-,-,12 (14),i26,-3,+8,+8,FLOAT,-,-20,2,-
-*,"b+4, B",low,1.75,0,-,-,-,-,-,17 (20),i23,-6,+5,+9,-,-,-,1,-
-*,"FC d/f+2, 1","low, low",2,0.25,-,-,-,-,-,"10 (12), 10",i18,-13,0,-,-,-,-,-,-
-*,"FC (d/f+2), 1",low,1,0.5,-,-,-,-,-,10 (12),i16,-13,0,0,-,-,-,-,-
-Falling Blade,SS 3+4,mid,3,0,-,-,-,-,-,15 (18),i24,-4,+1,+1,-,-,-,-,-
-*,"(During Drunken Master Walk) 2, B (or SS 2, B)",mid,1.75,0.25,-,-,-,-,-,12 (14),i18,+1 (OC),-1 (OC),STUN,-,-,-,-,-
-STAY BACK TURNED,,,,,,,,,,,,,,,,,,,
-*,(During Back Turned) 1,high,1.5,0.5,-,-,-,-,-,-,i16,-5,+6,+6,-,-,-,-,-
-*,"(During Back Turned) 1, 1","high, mid",1.5,0.5,-,-,-,-,-,-,i16,-7,+4,-,-,-,-,-,-
-*,"(During Back Turned) (1), 1",mid,1,1,-,-,-,-,-,-,i20,-7,+4,+4,-,-,-,-,-
-*,(During Back Turned) 1+2,mid,1.5,0,-,-,-,-,-,-,i10,-6,+5,+5,-,-,-,-,-
-*,"(During Back Turned) 4, B",mid,2,1.5,-,-,-,-,-,-,i14,-7,+4,+4,-,-,-,-,-
-*,(During Back Turned) 3+4,mid,1.5,0.75,-,-,-,-,-,-,i32,-4,KND,KND,-,-,-,-,-
-*,"(During Back Turned) 3+4, 3+4","mid, mid",1.5,0.75,-,-,-,-,-,-,i32,-9,KND,-,-,-,-,-,-
-*,"(During Back Turned) (3+4), 3+4",mid,1.5,0.75,-,-,-,-,-,-,i37,-9,KND,KND,-,-,-,-,-
-Flit Flip Flop,"(During Back Turned) 3+4, 3+4, 3+4","mid, mid, mid",1.5,0.75,-,-,-,-,-,-,i32,-9,KND,-,-,-,-,-,-
-*,"(During Back Turned) (3+4), 3+4, 3+4","mid, mid",1.5,0.75,-,-,-,-,-,-,i37,-9,KND,-,-,-,-,-,-
-*,"(During Back Turned) (3+4), (3+4), 3+4",mid,1.5,0.75,-,-,-,-,-,-,i37,-9,KND,KND,-,-,-,-,-
-Low Back Spin,(During Back Turned) d+1,low,1,0,-,-,-,-,-,-,i12,-6,+5,LAUNCH,-,-,-,-,-
-EXIT BACK TURNED,,,,,,,,,,,,,,,,,,,
-*,"(During Back Turned) 1, 1, 3","high, mid, low",1.5,0,-,-,-,-,-,-,i16,-18,-7,-,-,-,-,-,-
-*,"(During Back Turned) (1), 1, 3","mid, low",1,0,-,-,-,-,-,-,i20,-18,-7,-,-,-,-,-,-
-*,"(During Back Turned) (1), (1), 3",low,1,0,-,-,-,-,-,-,i20,-18,-7,-7,-,-,-,-,-
-Dancing Spear,"(During Back Turned) 1, 1, 3, 2","high, mid, low, high",1.5,0.25,-,-,-,-,-,-,i16,-17,KND,-,-,-,-,-,-
-*,"(During Back Turned) (1), 1, 3, 2","mid, low, high",1,0.25,-,-,-,-,-,-,i20,-17,KND,-,-,-,-,-,-
-*,"(During Back Turned) (1), (1), 3, 2","low, high",1,0.25,-,-,-,-,-,-,i20,-17,KND,-,-,-,-,-,-
-*,"(During Back Turned) (1), (1), (3), 2",high,0.5,0.25,-,-,-,-,-,-,i11,-17,KND,KND,-,-,-,-,-
-Spinning Heavy Hand,(During Back Turned) 2,mid,1.5,0.25,-,-,-,-,-,-,i20,-10,+11,CRUMPLE STUN,-,-,-,-,-
-*,(During Back Turned) 3,high,1.5,1.5,-,-,-,-,-,-,i10,-8,KND,KND,-,-,-,-,-
-*,(During Back Turned) 4,mid,2,1.5,-,-,-,-,-,-,i14,-14,-3,-3,-,-,-,-,-
-Reverse Maul Strike,"(During Back Turned) 4, 1","mid, high",2,0.25,-,-,-,-,-,-,i14,-8,SCREW,-,-,-,-,-,-
-*,"(During Back Turned) (4), 1",high,2,0.5,-,-,-,-,-,-,i25,-8,SCREW,SCREW,-,-,-,-,-
-Reverse Double Kick,"(During Back Turned) 4, 3","mid, mid",2,1,-,-,-,-,-,-,i14,-15,LAUNCH,-,-,-,-,-,-
-*,"(During Back Turned) (4), 3",mid,1.5,1,-,-,-,-,-,-,i23,-15,LAUNCH,LAUNCH,-,-,-,-,-
-Reverse Watermill,"(During Back Turned) 4, 4","mid, mid",2,0.5,-,-,-,-,-,-,i14,-3,+1 (OC),-,-,-,-,-,-
-*,"(During Back Turned) (4), 4",mid,2,0.5,-,-,-,-,-,-,i37,-3,+1 (OC),LAUNCH,-,-,-,-,-
-*,"(During Back Turned) 3+4, F",mid,1.5,0.75,-,-,-,-,-,-,i32,-12,KND,KND,-,-,-,-,-
-*,"(During Back Turned) 3+4, 3+4, F","mid, mid",1.5,0.75,-,-,-,-,-,-,i32,-12,KND,-,-,-,-,-,-
-Flit Flip Flop,"(During Back Turned) 3+4, 3+4, 3+4, F","mid, mid, mid",1.5,0.75,-,-,-,-,-,-,i32,+16,KND,-,-,-,-,-,-
-*,(During Back Turned) d+4 (clean hit),low,2,0.25,-,-,-,-,-,-,i20,-26,LAUNCH,LAUNCH,-,-,-,-,-
-*,(During Back Turned) d+4 (far),low,2,0.25,-,-,-,-,-,-,i20,-26,+2,+2,-,-,-,-,-
-Reverse Double Slicer,"(During Back Turned) d+4, 4","low, high",2,0.25,-,-,-,-,-,-,i20,-26,KND,-,-,-,-,-,-
-*,"(During Back Turned) (d+4), 4",high,2,0,-,-,-,-,-,-,i31,-10,KND,KND,-,-,-,-,-
-INTO SNAKE,,,,,,,,,,,,,,,,,,,
-Five Gates Form - Snake,3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"1, 1, F","high, high",1.5,1,-,-,YES,NC,-,"7 (8), 12",i10,-5,+6,-,FLOAT,-,-,-,-
-Razor Rush Snake,"f, n, 1, u (or d)",mid,2,0.5,-,-,-,-,-,9 (10),i12,-2,+7,+7,FLOAT,-,-18,1,-
-*,d/f+2,mid,1.5,0,-,-,-,-,-,12 (14),i15,-9,LAUNCH,LAUNCH,FLOAT,-,-,2,-
-*,"d+4, D",low,1.5,1.5,-,-,-,-,-,10 (12),i12,-14,-2,-2,FLOAT,-,-,1,-
-*,"d/b+4 (clean hit), U (or D)",low,1.75,0.25,-,-,-,-,-,12 (14),i20,-26,KND,KND,FLOAT,-,-,2,-
-*,"d/b+4 (far), U (or D)",low,1.75,0.25,-,-,-,-,-,8 (9),i20,-26,+6,+6,FLOAT,-,-,2,-
-*,"(During Back Turned) d+4 (clean hit), U (or D)",low,2,0.25,-,-,-,-,-,-,i20,-26,STUN,STUN,-,-,-,-,-
-*,"(During Back Turned) d+4 (far), U (or D)",low,2,0.25,-,-,-,-,-,-,i20,-26,+6,+6,-,-,-,-,-
-*,"During Play Dead (Head first) 3 (clean hit), U (or D)",low,1.5,-,-,-,-,-,-,-,i20,-26,STUN,STUN,-,-,-,-,-
-*,"During Play Dead (Head first) 3 (far), U (or D)",low,1.5,-,-,-,-,-,-,-,i20,-26,+6,+6,-,-,-,-,-
-*,(During Phoenix Illusion) d (or u)+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"(During Snake) 1, 1, F","high, high",2,0.5,-,-,-,-,-,"10 (12), 9",i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1, 1, F","high, high, high",2,1,-,-,-,-,-,"10 (12), 9, 8",i11,-9,+2,-,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1, 1, 1, F","high, high, high, high",2,1,-,-,-,-,-,-,i11,-6,+2,-,FLOAT,-,-,-,-
-DURING SNAKE,,,,,,,,,,,,,,,,,,,
-*,(During Snake) 1,high,2,0.25,-,-,-,-,-,10 (12),i11,-6,+5,+5,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1","high, high",2,0.5,-,-,-,-,-,"10 (12), 9",i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 1",high,1,1,-,-,-,-,-,9 (10),i12,-6,+5,+5,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1, 1","high, high, high",2,1,-,-,-,-,-,"10 (12), 9, 8",i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 1, 1","high, high",1,1,-,-,-,-,-,"9 (10), 8",i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), 1",high,1,1,-,-,-,-,-,8 (9),i12,-6,+5,+5,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1, 1, 1","high, high, high, high",2,1,-,-,-,-,-,-,i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 1, 1, 1","high, high, high",1,1,-,-,-,-,-,-,i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), 1, 1","high, high",1,1,-,-,-,-,-,-,i12,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), (1), 1",high,1,1,-,-,-,-,-,-,i12,-6,+5,+5,FLOAT,-,-,-,-
-*,"(During Snake) 1, 1, 1, 1, 1","high, high, high, high, high",2,1,-,-,-,-,-,-,i11,-6,+5,-,FLOAT,-,-,-,-
-Rushing Snake,"(During Snake) (1), 1, 1, 1, 1","high, high, high, high",1,1,-,-,-,-,-,-,i11,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), 1, 1, 1","high, high, high",1,1,-,-,-,-,-,-,i12,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), (1), 1, 1","high, high",1,1,-,-,-,-,-,-,i12,-6,+5,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (1), (1), (1), 1",high,1,1,-,-,-,-,-,-,i12,-6,+5,+5,FLOAT,-,-,-,-
-*,"(During Snake) 1, 2","high, mid",2,0,-,-,-,-,-,-,i11,-13,-2,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 2",mid,0.5,0.25,-,-,-,-,-,-,i13,-13,-2,-2,FLOAT,-,-,-,-
-*,"(During Snake) 1, 2, 1","high, mid, mid",2,0.25,-,-,-,-,-,-,i11,-10,+1,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 2, 1","mid, mid",0.5,0.5,-,-,-,-,-,-,i13,-10,+1,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (2), 1",mid,0.5,0.5,-,-,-,-,-,-,i10,-10,+1,+1,FLOAT,-,-,-,-
-Snapping Snake,"(During Snake) 1, 2, 1, 2","high, mid, mid, high",2,2.5,-,-,-,-,-,-,i11,-8,KND,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), 2, 1, 2","mid, mid, high",0.5,2.5,-,-,-,-,-,-,i13,-8,KND,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (2), 1, 2","mid, high",0.5,2.5,-,-,-,-,-,-,i10,-8,KND,-,FLOAT,-,-,-,-
-*,"(During Snake) (1), (2), (1), 2",high,1,2.5,-,-,-,-,-,-,i23,-8,KND,KND,FLOAT,-,-,-,-
-*,(During Snake) 2,mid,2,1,-,-,-,-,-,-,i15,-10,+1,+1,FLOAT,-,-,-,-
-*,"(During Snake) 2, 2","mid, mid",2,0.25,-,-,-,-,-,-,i15,-12,-1,-,FLOAT,-,-,-,-
-*,"(During Snake) (2), 2",mid,1.5,0.5,-,-,-,-,-,-,i16,-12,-1,-1,FLOAT,-,-,-,-
-*,"(During Snake) 2, 2, 2","mid, mid, mid",2,0.5,-,-,-,-,-,-,i15,-17,-1,-,FLOAT,-,-,-,-
-*,"(During Snake) (2), 2, 2","mid, mid",1.5,0.25,-,-,-,-,-,-,i16,-17,-1,-,FLOAT,-,-,-,-
-Snake Bites,"(During Snake) (2), (2), 2",mid,1,1.5,-,-,-,-,-,-,i22,-17,-1,-1,FLOAT,-,-,-,-
-Rattlesnake,(During Snake) 3,mid,2,0.25,-,-,-,-,-,-,i28,-7,LAUNCH,LAUNCH,FLOAT,-,-,-,-
-Snake Low Kick,(During Snake) 4,low,1.75,0.25,-,-,-,-,-,-,i15,-13,-2,-2,FLOAT,-,-,-,-
-Angry Viper,(During Snake) 1+2,mid,1.75,1,-,-,-,-,-,-,i21,-10,KND,KND,FLOAT,-,-,-,-
-INTO DRAGON,,,,,,,,,,,,,,,,,,,
-Five Gates Form - Dragon,"3+4, 1",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Razor Rush Dragon,"f, n, 1, 2, (u or d)","mid, mid",2,1.5,-,-,YES,NC,-,"9 (10), 9",i12,-12,+1,+1,FLOAT,-,-28,"1, 1",-
-*,"f, n, (1), 2, (u or d)",mid,0.75,2,-,-,-,-,-,9 (10),i12,-12,+1,+1,FLOAT,-,-28,1,-
-*,"b+2, F",mid,1.5,0.25,-,-,-,-,-,15 (18),i17,-9,+2,+2,FLOAT,-,-,1,-
-Snake Palm Fist,"SS 1, U (or D)",high,2,0,-,-,-,-,-,21 (25),i16,-2,+9,+9,-,-,-,-,-
-DURING DRAGON,,,,,,,,,,,,,,,,,,,
-Dragon Neck Snap,(During Dragon) 1,high throw,1.5,-,-,-,-,-,-,-,i25,-,KND,KND,-,-,-,-,-
-Dragon Roar,(During Dragon) 2,mid,1.5,1.5,-,-,-,-,-,-,i17,+4,KND,LAUNCH,-,-,-,-,-
-Cuju Kick,(During Dragon) 3,low,1.5,1,-,-,-,-,-,-,i16,-15,+2,+2,-,-,-,-,-
-*,(During Dragon) 4,high,1.75,1.75,-,-,-,-,-,-,i10,-11,0,0,-,-,-,-,-
-*,"(During Dragon) 4, 1","high, mid",1.75,0.5,-,-,-,-,-,-,i10,-1,+5,-,-,-,-,-,-
-*,"(During Dragon) (4), 1",mid,1,1.5,-,-,-,-,-,-,i23,-1,+5,+5,-,-,-,-,-
-*,"(During Dragon) 4, 1, 2","high, mid, mid",1.75,1,-,-,-,-,-,-,i10,-10,-4,-,-,-,-,-,-
-*,"(During Dragon) (4), 1, 2","mid, mid",1,1.5,-,-,-,-,-,-,i23,-10,-4,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), 2",mid,1,1.5,-,-,-,-,-,-,i10,-10,-4,-4,-,-,-,-,-
-*,"(During Dragon) 4, 1, 2, 2","high, mid, mid, mid",1.75,0.5,-,-,-,-,-,-,i10,-12,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), 1, 2, 2","mid, mid, mid",1,0.5,-,-,-,-,-,-,i23,-12,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), 2, 2","mid, mid",1,0.5,-,-,-,-,-,-,i10,-12,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), 2",mid,1,1,-,-,-,-,-,-,i16,-12,-1,-1,-,-,-,-,-
-Wolf Strike,"(During Dragon) 4, 1, 2, 2, 2","high, mid, mid, mid, low",1.75,0.5,-,-,-,-,-,-,i10,-17,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), 1, 2, 2, 2","mid, mid, mid, low",1,0.5,-,-,-,-,-,-,i23,-17,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), 2, 2, 2","mid, mid, low",1,0.5,-,-,-,-,-,-,i10,-17,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), 2, 2","mid, low",1,0.5,-,-,-,-,-,-,i16,-17,-1,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), (2), 2",low,1,0.5,-,-,-,-,-,-,i22,-17,-1,-1,-,-,-,-,-
-Rush Combo Mid Kick,"(During Dragon) 4, 1, 2, 3, 4","high, mid, mid, high, mid",1.75,1.5,-,-,-,-,-,-,i10,-7,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), 1, 2, 3, 4","mid, mid, high, mid",1,1.5,-,-,-,-,-,-,i23,-7,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), 2, 3, 4","mid, high, mid",1,1.5,-,-,-,-,-,-,i10,-7,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), 3, 4","high, mid",1,1.5,-,-,-,-,-,-,i25,-7,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), (3), 4",mid,1.5,1.5,-,-,-,-,-,-,i22,-7,KND,KND,-,-,-,-,-
-Rush Combo Low Kick,"(During Dragon) 4, 1, 2, 3, d+4","high, mid, mid, high, low",1.75,1.5,-,-,-,-,-,-,i10,-12,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), 1, 2, 3, d+4","mid, mid, high, low",1,1.5,-,-,-,-,-,-,i23,-12,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), 2, 3, d+4","mid, high, low",1,1.5,-,-,-,-,-,-,i10,-12,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), 3, d+4","high, low",1,1.5,-,-,-,-,-,-,i25,-12,KND,-,-,-,-,-,-
-*,"(During Dragon) (4), (1), (2), (3), d+4",low,2,2,-,-,-,-,-,-,i22,-12,KND,KND,-,-,-,-,-
-Dragon's Spite,(During Dragon) 1+2,"high, high",2.5,0.5,-,-,-,-,-,-,i18,-2,LAUNCH,LAUNCH,-,-,-,-,-
-*,(During Dragon) 1+2 (second hit only),,2.75,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dragon Spark,(During Dragon) f+1+2,mid,2.5,2,-,-,-,-,-,-,i17,-5,KND,KND,-,-,-,-,-
-INTO PANTHER,,,,,,,,,,,,,,,,,,,
-Five Gates Form - Panther,"3+4, 2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Razor Rush Panther,"f, n, 1, 2, 1, (u or d)","mid, mid, mid",2,0.5,-,-,NO,NCc,-,"9 (10), 9, 9",i12,-12,+1,-,FLOAT,-,-28,"1, 1, 1",-
-*,"f, n, (1), 2, 1, (u or d)","mid, mid",0.75,1,-,-,NO,NCc,-,"9 (10), 9",i12,-12,+1,-,FLOAT,-,-28,"1, 1",-
-*,"f, n, (1), (2), 1, (u or d)",mid,1,1,-,-,-,-,-,9 (10),i15,-12,+1,+1,FLOAT,-,-28,1,-
-*,"f+1+2, F","high, high",1.75,2,-,-,-,-,-,"13 (15), 10",i16,-7,-2,-2,FLOAT,-,-25,"1, 1",-
-DURING PANTHER,,,,,,,,,,,,,,,,,,,
-*,(During Panther) 1,low,2.5,0.25,-,-,-,-,-,-,i12,-12,+3,+3,-,-,-,-,-
-Panther's Scratch,(During Panther) 1~2,"low, high",2,1.75,-,-,-,-,-,-,i6,-32,KND,KND,-,-,-,-,-
-Panther's Paw,(During Panther) 2,mid,2.5,0,-,-,-,-,-,-,i15,-10,LAUNCH,LAUNCH,-,-,-,-,-
-Panther Pounce,(During Panther) 3,low,2,0,-,-,-,-,-,-,i20,-12,-1,+14,-,-,-,-,-
-*,(During Panther) 4,high,2.5,0.5,-,-,-,-,-,-,i23,-13,+2,LAUNCH,-,-,-,-,-
-*,"(During Panther) 4, 2","high, mid",2.5,1.5,-,-,-,-,-,-,i23,0,+6,-,-,-,-,-,-
-*,"(During Panther) (4), 2",mid,1.5,1.5,-,-,-,-,-,-,i14,0,+6,+6,-,-,-,-,-
-*,"(During Panther) 4, 2, 1","high, mid, mid",2.5,1.5,-,-,-,-,-,-,i23,-12,-1,-,-,-,-,-,-
-*,"(During Panther) (4), 2, 1","mid, mid",1.5,1.75,-,-,-,-,-,-,i14,-12,-1,-,-,-,-,-,-
-*,"(During Panther) (4), (2), 1",mid,0.5,1.25,-,-,-,-,-,-,i9,-12,-1,-,-,-,-,-,-
-*,"(During Panther) 4, 2, 1, 2","high, mid, mid, mid",2.5,1,-,-,-,-,-,-,i23,-12,-1,-,-,-,-,-,-
-*,"(During Panther) (4), 2, 1, 2","mid, mid, mid",1.5,0.25,-,-,-,-,-,-,i14,-12,-1,-,-,-,-,-,-
-*,"(During Panther) (4), (2), 1, 2","mid, mid",0.5,0.25,-,-,-,-,-,-,i9,-12,-1,-,-,-,-,-,-
-*,"(During Panther) (4), (2), (1), 2",mid,0.5,1.5,-,-,-,-,-,-,i15,-12,-1,-1,-,-,-,-,-
-Beating Kick Low Combo,"(During Panther) 4, 2, 1, 2, 3","high, mid, mid, mid, low",2.5,1.5,-,-,-,-,-,-,i23,-17,-6,-,-,-,-,-,-
-*,"(During Panther) (4), 2, 1, 2, 3","mid, mid, mid, low",1.5,1.75,-,-,-,-,-,-,i14,-17,-6,-,-,-,-,-,-
-*,"(During Panther) (4), (2), 1, 2, 3","mid, mid, low",0.5,1.75,-,-,-,-,-,-,i9,-17,-6,-,-,-,-,-,-
-*,"(During Panther) (4), (2), (1), 2, 3","mid, low",0.5,1.75,-,-,-,-,-,-,i15,-17,-6,-,-,-,-,-,-
-*,"(During Panther) (4), (2), (1), (2), 3",low,1.5,1.5,-,-,-,-,-,-,i21,-17,-6,KND,-,-,-,-,-
-Beating Kick Mid Combo,"(During Panther) 4, 2, 1, 2, 4","high, mid, mid, mid, mid",2.5,1.5,-,-,-,-,-,-,i23,-9,KND,-,-,-,-,-,-
-*,"(During Panther) (4), 2, 1, 2, 4","mid, mid, mid, mid",1.5,0.5,-,-,-,-,-,-,i14,-9,KND,-,-,-,-,-,-
-*,"(During Panther) (4), (2), 1, 2, 4","mid, mid, mid",0.5,1,-,-,-,-,-,-,i9,-9,KND,-,-,-,-,-,-
-*,"(During Panther) (4), (2), (1), 2, 4","mid, mid",0.5,1,-,-,-,-,-,-,i15,-9,KND,-,-,-,-,-,-
-*,"(During Panther) (4), (2), (1), (2), 4",mid,1.5,0.5,-,-,-,-,-,-,i21,-9,KND,KND,-,-,-,-,-
-INTO TIGER,,,,,,,,,,,,,,,,,,,
-Five Gates Form - Tiger,"3+4, 3",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Razor Rush Tiger,"f, n, 1, 2, 1, 2, (u or d)","mid, mid, mid, mid",2,0.5,-,-,NO,NCc,-,"9 (10), 9, 9, 9",i12,-12,+1,-,FLOAT,-,-28,"1, 1, 1, 1",-
-*,"f, n, (1), 2, 1, 2, (u or d)","mid, mid, mid",0.75,1,-,-,NO,NO,-,"9 (10), 9, 9",i12,-12,+1,-,FLOAT,-,-28,"1, 1, 1",-
-*,"f, n, (1), (2), 1, 2, (u or d)","mid, mid",1,1,-,-,NO,NCc,-,"9 (10), 9",i15,-12,+1,-,FLOAT,-,-28,"1, 1",-
-*,"f, n, (1), (2), (1), 2, (u or d)",mid,1,0.5,-,-,-,-,-,9 (10),i15,-14,+1,+1,FLOAT,-,-28,1,-
-*,"f, n, (1), (2), (1), (2), u or d",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"f, n, 4, 1, F","high, mid",1.5,0.5,-,-,-,-,-,"18 (21), 12",i10,-16,-10,-,FLOAT,-,-,-,-
-*,"f, n, (4), 1, F",mid,1.5,1.5,-,-,-,-,-,12 (14),i23,-16,-10,-10,FLOAT,-,-,-,-
-*,"d/f+1+2, F",mid,1.5,0.25,-,-,-,-,-,21 (25),i17,-1,+2 (OC),+2 (OC),KND,-,-,-,-
-Snake Palm Fist,"SS 1, F",high,2,0,-,-,-,-,-,21 (25),i16,-11,0,0,-,-,-,-,-
-DURING TIGER,,,,,,,,,,,,,,,,,,,
-Tiger's Strike,(During Tiger) 1,mid,1.5,1,-,-,-,-,-,-,i16,+2,+2,LAUNCH,-,-,-,-,-
-*,(During Tiger) 2,mid,2,0.5,-,-,-,-,-,-,i15,-14,-3,-3,-,-,-,-,-
-Double Tiger Claw,"(During Tiger) 2, 2","mid, high",2,0.25,-,-,-,-,-,-,i18,-8,SCREW,-,-,-,-,-,-
-*,"(During Tiger) (2), 2",high,1.5,0.25,-,-,-,-,-,-,i18,-8,KND,SCREW,-,-,-,-,-
-Leaping Tiger,(During Tiger) 3,mid,2,0,-,-,-,-,-,-,i17,-12,KND,KND,-,-,-,-,-
-Leaping Tiger to Crouching Snake,"(During Tiger) 3, f+1","mid, mid",2,0.75,-,-,-,-,-,-,i17,-10,KND,-,-,-,-,-,-
-*,"(During Tiger) (3), f+1",mid,2,0.75,-,-,-,-,-,-,i21,-10,KND,KND,-,-,-,-,-
-Leaping Tiger to Coiled Snake,"(During Tiger) 3, f+4","mid, low",2,0,-,-,-,-,-,-,i17,-29,KND,-,-,-,-,-,-
-*,"(During Tiger) (3), f+4",low,1.5,0.5,-,-,-,-,-,-,i24,-29,KND,KND,-,-,-,-,-
-Tiger's Tail,(During Tiger) 4,low,2,0.75,-,-,-,-,-,-,i15,-26,LAUNCH,LAUNCH,-,-,-,-,-
-Double Tiger Palm,(During Tiger) 1+2,mid,2.5,2,-,-,-,-,-,-,i25,-7,KND,KND,-,-,-,-,-
-INTO CRANE,,,,,,,,,,,,,,,,,,,
-Five Gates Form - Crane,"3+4, 4",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Hopping Crane Kick,u/f+3,mid,1.5,1,-,-,-,-,-,23 (27),i16,-5,+8,LAUNCH,FLOAT,-,-,1,-
-Razor Rush Mid Kick Crane,"f, n, (1), (2), (1), (2), (4), u or d",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Beating Kick Mid Combo Crane,"(f+4), (2), (1), (2), (4), u or d",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Turbulent Winds,"f, F+4, 3+4, F","high, high",1.5,1,-,-,-,-,-,"21 (25), 21",i15,-28,-17,-17,-,-,-,-,-
-Scythe Kick,"u/b+4, F",mid,1,3,-,-,-,-,-,20 (24),i15,-28,KND,KND,BACK FLIP,-,-,1,-
-*,"(During Drunken Master Walk) 3, 2, 4, F","low, mid, mid",1.5,3,-,-,-,-,-,-,i17,-28,KND,-,-,-,-,-,-
-DURING CRANE,,,,,,,,,,,,,,,,,,,
-Crane's Bill,(During Crane) 1,mid,2.5,1.5,-,-,-,-,-,-,i22,-,KND,KND,-,-,-,-,-
-Spinning Crane Swipe,(During Crane) 2,high,2.5,0.5,-,-,-,-,-,-,i16,-9,+10,SCREW,-,-,-,-,-
-*,(During Crane) 3,mid,2,0,-,-,-,-,-,-,i14,-5,+6,+6,-,-,-,-,-
-*,"(During Crane) 3, 4","mid, low",2,0.5,-,-,-,-,-,-,i14,-13,0,-,-,-,-,-,-
-*,"(During Crane) (3), 4",low,1,0.5,-,-,-,-,-,-,i25,-13,0,0,-,-,-,-,-
-*,"(During Crane) 3, 4, 2","mid, low, mid",2,0.5,-,-,-,-,-,-,i14,-16,-5,-,-,-,-,-,-
-*,"(During Crane) (3), 4, 2","low, mid",1,0.75,-,-,-,-,-,-,i25,-16,-5,-,-,-,-,-,-
-*,"(During Crane) (3), (4), 2",mid,1.5,0.5,-,-,-,-,-,-,i17,-16,-5,-5,-,-,-,-,-
-Crane Dance,"(During Crane) 3, 4, 2, 3","mid, low, mid, mid",2,0.25,-,-,-,-,-,-,i14,-12,LAUNCH,-,-,-,-,-,-
-*,"(During Crane) (3), 4, 2, 3","low, mid, mid",1,0.5,-,-,-,-,-,-,i25,-12,LAUNCH,-,-,-,-,-,-
-*,"(During Crane) (3), (4), 2, 3","mid, mid",1.5,0.5,-,-,-,-,-,-,i17,-12,LAUNCH,-,-,-,-,-,-
-*,"(During Crane) (3), (4), (2), 3",mid,1.5,0.5,-,-,-,-,-,-,i16,-12,LAUNCH,LAUNCH,-,-,-,-,-
-Crane Kick,(During Crane) 4,low,2.5,1.5,-,-,-,-,-,-,i21,-19,KND,KND,-,-,-,-,-
-Crane Smash,(During Crane) 1+2,high,2,1.75,-,-,-,-,-,-,i13,-2,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
-Leaping Crane,(During Crane) u/f+4,mid,2,0.5,-,-,-,-,-,-,i17,-22,LAUNCH,LAUNCH,-,-,-,-,-
-INTO DRUNKEN MASTER WALK,,,,,,,,,,,,,,,,,,,
-Taunt 1,1+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Taunt 2,2+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Drunken Master Walk,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"2, 1, F","high, mid",1.5,1,-,-,YES,NC,-,"10 (12), 13",i10,-11,0,-,FLOAT,-,-,"1, 1",-
-*,"d+4, 4, F","low, mid",1.5,2,-,-,NO,NCc,-,"10 (12), 15",i12,-29,-16,-,FLOAT,-,-,"1, 1",-
-*,"d/b+4 (clean hit), F",low,1.75,0.25,-,-,-,-,-,12 (14),i20,-26,KND,KND,FLOAT,-,-,2,-
-*,"d/b+4 (far), F",low,1.75,0.25,-,-,-,-,-,8 (9),i20,-26,-,-,FLOAT,-,-,2,-
-Dancing Spear,"(During Back Turned) 1, 1, 3, 2, F","high, mid, low, high",1.5,0.25,-,-,-,-,-,-,i16,-77,KND,-,-,-,-,-,-
-*,"(During Back Turned) d+4 (clean hit), F",low,2,0.25,-,-,-,-,-,-,i20,-32,STUN,STUN,-,-,-,-,-
-*,"(During Back Turned) d+4 (far), F",low,2,0.25,-,-,-,-,-,-,i20,-32,+6,+6,-,-,-,-,-
-*,"(During Drunken Master Walk) 1, F",mid,2.5,2,-,-,-,-,-,-,i18,-21,KND,KND,-,-,-,-,-
-*,"(During Drunken Master Walk) 2, F  (or SS 2, F)",mid,1.75,0.25,-,-,-,-,-,-,i18,-42,-44,STUN,-,-,-,-,-
-*,"(During Drunken Master Walk) 2, 2, F (or SS 2, 2, F)","mid, high",1.75,1,-,-,-,-,-,-,i18,+2,+2,+2,-,-,-,-,-
-*,"(During Drunken Master Walk) 3, F",low,1.5,0.5,-,-,-,-,-,-,i17,-22,-9,-9,-,-,-,-,-
-*,"(During Drunken Master Walk) 3, 2, F","low, mid",1.5,0.5,-,-,-,-,-,-,i17,-8,,KND,-,-,-,-,-
-*,"(During Drunken Master Walk) 4, F",mid,1.5,1.5,-,-,-,-,-,-,i18,-18,,KND,-,-,-,-,-
-*,"(During Phoenix Illusion) 1, F",high,2,-,-,-,-,-,-,-,i30,-20,KND,KND,-,-,-,-,-
-Phoenix Illusion to Drunken Master Walk,(During Phoenix Illusion) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,(During Phoenix Illusion) f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Startled Drunk,(During Play Dead) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"During Play Dead (Head first) 3 (clean hit), F",low,1.5,-,-,-,-,-,-,-,i20,-26,STUN,STUN,-,-,-,-,-
-*,"During Play Dead (Head first) 3 (far), F",low,1.5,-,-,-,-,-,-,-,i20,-26,-32,-32,-,-,-,-,-
-Startled Drunk,(During Sidewind) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-DURING DRUNKEN MASTER WALK,,,,,,,,,,,,,,,,,,,
-*,(During Drunken Master Walk) f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"(During Drunken Master Walk) f, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,(During Drunken Master Walk) b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Drunken Tiger Lash,(During Drunken Master Walk) 1,mid,2.5,2,-,-,-,-,-,-,i18,-11,KND,KND,-,-,-,-,-
-*,(During Drunken Master Walk) 2 (or SS 2),mid,1.75,0.25,-,-,-,-,-,-,i18,-7 (OC),-9 (OC),STUN,-,-,-,-,-
-Drunken Rapid Fists,"(During Drunken Master Walk) 2, 2 (or SS 2, 2)","mid, high",1.75,1,-,-,-,-,-,-,i18,+5,+5,-,-,-,-,-,-
-*,"(During Drunken Master Walk) (2), 2 (or SS 2, 2)",high,1.75,1,-,-,-,-,-,-,i15,+5,+5,+5,-,-,-,-,-
-*,"(During Drunken Master Walk) 2, f+4 (or SS 2, f+4)",-,-,-,-,-,-,-,-,-,i18,-12,LAUNCH,-,-,-,-,-,-
-,"(During Drunken Master Walk) (2), f+4 (or SS (2), f+4)",-,-,-,-,-,-,-,-,-,i18,-12,LAUNCH,LAUNCH,-,-,-,-,-
-*,(During Drunken Master Walk) 3,low,1.5,0.5,-,-,-,-,-,-,i17,-19,+1,+1,-,-,-,-,-
-*,"(During Drunken Master Walk) 3, 2","low, mid",1.5,0.5,-,-,-,-,-,-,i17,-1,STUN,-,-,-,-,-,-
-*,"(During Drunken Master Walk) (3), 2",mid,2.5,0.5,-,-,-,-,-,-,i25,-1,STUN,STUN,-,-,-,-,-
-Drunken Fox Combination,"(During Drunken Master Walk) 3, 2, 4","low, mid, mid",1.5,3,-,-,-,-,-,-,i17,-21,KND,-,-,-,-,-,-
-*,"(During Drunken Master Walk) (3), 2, 4","mid, mid",2.5,3,-,-,-,-,-,-,i25,-21,KND,-,-,-,-,-,-
-*,"(During Drunken Master Walk) (3), (2), 4",mid,1,3,-,-,-,-,-,-,i25,-21,KND,KND,-,-,-,-,-
-Drunken Tiger Kick,(During Drunken Master Walk) 4,mid,1.5,1.5,-,-,-,-,-,-,i18,-12,LAUNCH,LAUNCH,-,-,-,-,-
-*,(During Drunken Master Walk) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"(During Drunken Master Walk) 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Staggering Slide,(During Drunken Master Walk) 3+4,low,1.75,0,-,-,-,-,-,-,i29,-12,KND,KND,-,-,-,-,-
-Out of Control,(During Drunken Master Walk) 1+3 (or 2+4),high throw,2.5,-,-,-,-,-,-,-,i15,0,KND,KND,-,-,-,-,-
-Spinning Headbutt,(During Drunken Master Walk) b+1+2,mid,2.5,0,-,-,-,-,-,-,i33,-18,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
-Drunken Stupor,(During Drunken Master Walk) u/b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Drunken Fake to Jab,"(During Drunken Master Walk) u/b+1+2, 1",mid,2.5,2.5,-,-,-,-,-,-,i23,-11,KND,KND,-,-,-,-,-
-Drunken Fall,(During Drunken Master Walk) u/f+1+2,mid,2.5,0,-,-,-,-,-,-,i30,-9,-6,KND,-,-,-,-,-
-INTO PHOENIX ILLUSION,,,,,,,,,,,,,,,,,,,
-Phoenix Illusion,b+1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"3, B",high,1.75,1.5,-,-,-,-,-,30 (36),i14,-42,-37,-36,SCREW,-,-,1,-
-Turbulent Winds,"f, F+4, 3+4, B","high, high",1.5,1,-,-,-,-,-,"21 (25), 21",i15,-,-,-,-,-,-,-,-
-Scythe Kick,"u/b+4, B",mid,1,3,-,-,-,-,-,20 (24),i15,-,KND,KND,BACK FLIP,-,-,1,-
-Ballroom Dance,"FC d/f+2, 1, 4","low, low, mid",2,0.5,-,-,-,-,-,"10 (12), 10, 18",i18,-46,-35,-,-,-,-,-,-
-*,"FC (d/f+2), 1, 4","low, mid",1,0.5,-,-,-,-,-,"10 (12), 18",i16,-46,-35,-,-,-,-,-,-
-*,"FC (d/f+2), (1), 4",mid,1.5,1.5,-,-,-,-,-,18 (21),i29,-46,-35,-35,-,-,-,-,-
-*,"(During Phoenix Illusion) 3, B",high,1.75,1.5,-,-,-,-,-,30 (36),i14,-36,-37,-36,SCREW,-,-,1,-
-*,"(During Drunken Master Walk) 3, 2, 4","low, mid, mid",1.5,3,-,-,-,-,-,-,i17,-,KND,-,-,-,-,-,-
-DURING PHOENIX ILLUSION,,,,,,,,,,,,,,,,,,,
-*,(During Phoenix Illusion) d/b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,(During Phoenix Illusion) 1,high,2,-,-,-,-,-,-,-,i30,-10,KND,KND,-,-,-,-,-
-Phoenix Drunken Tiger Stumble,"(During Phoenix Illusion) 1, D+2","high, low",2,-,-,-,-,-,-,-,i30,-21,KND,KND,-,-,-,-,-
-*,"(During Phoenix Illusion) (1), D+2",low,1.25,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,(During Phoenix Illusion) 3,high,1.5,-,-,-,-,-,-,-,i14,-14,-4,-4,-,-,-,-,-
-Phoenix Sunder,"(During Phoenix Illusion) 3, 3","high, low",1.5,-,-,-,-,-,-,-,i14,-13,KND,-,-,-,-,-,-
-*,"(During Phoenix Illusion) (3), 3",low,1.5,-,-,-,-,-,-,-,i31,-13,KND,KND,-,-,-,-,-
-Phoenix Cutter,(During Phoenix Illusion) 4,low,2.5,-,-,-,-,-,-,-,i25,-14,+2,+12,-,-,-,-,-
-Hopping Phoenix,(During Phoenix Illusion) b+3,mid,1.5,-,-,-,-,-,-,-,i14,-36,-5,CRUMPLE STUN,-,-,-,-,-
-*,(During Phoenix Illusion) b+4,mid,3.5,2,-,-,-,-,-,-,i39,+4 (OC),+7 (OC),+7 (OC),-,-,-,-,-
-*,"(During Phoenix Illusion) b+4, 4","mid, mid",2.5,2,-,-,-,-,-,-,i39,+3 (OC),+6 (OC),-,-,-,-,-,-
-*,"(During Phoenix Illusion) (b+4), 4",mid,2.5,2.5,-,-,-,-,-,-,i29,+3 (OC),+6 (OC),+6 (OC),-,-,-,-,-
-Tornado Kick,"(During Phoenix Illusion) b+4, 4, 4","mid, mid, mid",3.5,2,-,-,-,-,-,-,i39,+3 (OC),+6 (OC),-,-,-,-,-,-
-*,"(During Phoenix Illusion) (b+4), 4, 4","mid, mid",2.5,2,-,-,-,-,-,-,i29,+3 (OC),+6 (OC),-,-,-,-,-,-
-*,"(During Phoenix Illusion) (b+4), (4), 4",mid,2.5,2.5,-,-,-,-,-,-,i29,+3 (OC),+6 (OC),+6 (OC),-,-,-,-,-
-INTO PLAY DEAD (FEET FIRST),,,,,,,,,,,,,,,,,,,
-Play Dead (Feet first),d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"4~4, 3","low, low, mid",2,0.25,-,-,-,-,-,-,i15,-2,+9,-,-,-,-,"1, 1",-
-*,"(4~4), 3","low, low, mid",2,0.25,-,-,-,-,-,-,i23,-2,+9,+9,-,-,-,1,-
-Lift Up Cannon,"4~4, 3, 3","low, low, mid",2,0.25,-,-,NO,NO,-,"7 (8), 7, 24",i15,-7,LAUNCH,-,BACK FLIP,-,-35,"1, 1, 2",-
-*,"(4~4), 3, 3","low, mid",1,0.25,-,-,NO,NCc,-,"7 (8), 24",i23,-7,LAUNCH,-,BACK FLIP,-,-35,"1, 2",-
-*,"(4~4), (3), 3",mid,1,0.25,-,-,-,-,-,24 (28),i29,-7,LAUNCH,LAUNCH,BACK FLIP,-,-35,2,-
-*,4~4,low,2,0.5,-,-,-,-,-,7 (8),i15,-15,-4,-4,FLOAT,-,-34,1,-
-*,"4~4, 3","low, low",2,0.25,-,-,NO,NCc,-,"7 (8), 7",i15,-2,+9,-,FLOAT,-,-21,"1, 1",-
-*,"(4~4), 3",low,1,0.25,-,-,-,-,-,7 (8),i23,-2,+9,+9,FLOAT,-,-21,1,-
-*,"u+1+2, D",-,5.5,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dragon's Whip,"f, F+3+4",mid,3,0.5,-,-,-,-,-,25 (30),i24,+2,KND,KND,-,-,-,-,-
-She Juan Rui Ya,d/b+1,low,1.5,0,-,-,-,-,-,14 (16),i22,-54,-43,-39,FLOAT,-,-47,2,-
-Falling Blade,"SS 3+4, D",mid,3,0,-,-,-,-,-,15 (18),i24,-46,-41,-41,-,-,-,-,-
-Tiger Sip,"(During Drunken Master Walk) 1+2, 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-DURING PLAY DEAD (FEET FIRST),,,,,,,,,,,,,,,,,,,
-*,During Play Dead (Feet first) 2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Lotus Cutter,During Play Dead (Feet first) 3,low,1.5,-,-,-,-,-,-,-,i19,-37,KND,KND,-,-,-,-,-
-Dan Jiao,During Play Dead (Feet first) 4,mid,2,-,-,-,-,-,-,-,i25,-13,+11,+11,-,-,-,-,-
-Kai She Shen,During Play Dead (Feet first) 3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,During Play Dead (Feet first) b+3+4,mid,-,-,-,-,-,-,-,-,i30,-5,KND,KND,-,-,-,-,-
-INTO PLAY DEAD (HEAD FIRST),,,,,,,,,,,,,,,,,,,
-Play Dead (Head first),d+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Low Kick to Play Dead,During Sidewind (Feet first) 3~4 (clean hit),low,3,0.25,-,-,-,-,-,-,i24,-26,KND,KND,-,-,-,-,-
-Low Kick to Play Dead,During Sidewind (Feet first) 3~4 (far),low,3,0.25,-,-,-,-,-,-,i24,-26,-10,-10,-,-,-,-,-
-DURING PLAY DEAD (HEAD FIRST),,,,,,,,,,,,,,,,,,,
-Falling Tree,(During Back Turned) u/f+2,mid,1.5,0.25,-,-,-,-,-,-,i32,-14,-3,-3,-,-,-,-,-
-*,During Play Dead (Head first) 3 (clean hit),low,1.5,-,-,-,-,-,-,-,i20,-26,LAUNCH,LAUNCH,-,-,-,-,-
-*,During Play Dead (Head first) 3 (far),low,1.5,-,-,-,-,-,-,-,i20,-26,+2,+2,-,-,-,-,-
-Leaping Double Slicer,"During Play Dead (Head first) 3, 4","low, high",1.5,-,-,-,-,-,-,-,i20,-26,KND,-,-,-,-,-,-
-*,"During Play Dead (Head first) (3), 4",high,2,-,-,-,-,-,-,-,i31,-10,KND,KND,-,-,-,-,-
-Spring Kick,During Play Dead (Head first) 4,mid,1.5,-,-,-,-,-,-,-,i22,-12,LAUNCH,LAUNCH,-,-,-,-,-
-Po Long Sheng Tui,During Play Dead (Head first) 3+4,"low, s.mid",1.5,-,-,-,-,-,-,-,i20,-26,KND,KND,-,-,-,-,-
-DURING PLAY DEAD,,,,,,,,,,,,,,,,,,,
-Turn Over,(During Play Dead) 1 (or d+1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Meng Xian,(During Play Dead) 2 (or While facing down... 2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Hangover,(During Play Dead) 1+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-INTO SIDEWIND (FEET FIRST),,,,,,,,,,,,,,,,,,,
-Sidewind (Feet first),d+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Mule Kick,d/b+3+4,mid,1.5,0.25,-,-,-,-,-,22 (26),i19,-21,KND,KND,FLOAT,-,-38,2,-
-Clean Sweep,4~3,mid,3.75,1,-,-,-,-,-,25 (30),i29,-16,+4,+4,SCREW,-,-36,4,-
-*,(During Back Turned) d+1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Clean Sweep,During Sidewind (Feet first) 4~3,mid,2.5,0.75,-,-,-,-,-,-,i21,-16,+4,+4,-,-,-,-,-
-DURING SIDEWIND (FEET FIRST),,,,,,,,,,,,,,,,,,,
-*,During Play Dead (Feet first) 1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Maelstrom Sweep,During Sidewind (Feet first) 3,low,2.5,0.25,-,-,-,-,-,-,i24,-37,KND,KND,-,-,-,-,-
-*,"During Sidewind (Feet first) 3~4, D (clean hit)",low,3,0.25,-,-,-,-,-,-,i24,-26,KND (FUFA),KND (FUFA),-,-,-,-,-
-*,"During Sidewind (Feet first) 3~4, D (far)",low,3,0.25,-,-,-,-,-,-,i24,-26,-10 (FUFA),-10 (FUFA),-,-,-,-,-
-*,"During Sidewind (Feet first) 4~3, D",mid,2.5,0.75,-,-,-,-,-,-,i21,-16,+4  (FDFT),+4  (FDFT),-,-,-,-,-
-Fu Qin Tian Jiao,During Sidewind (Feet first) 3+4,"mid, mid",1,0.25,-,-,-,-,-,-,i22,-7,KND,KND,-,-,-,-,-
-INTO SIDEWIND (HEAD FIRST),,,,,,,,,,,,,,,,,,,
-Sidewind (Head first),d+1+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-DURING SIDEWIND (HEAD FIRST),,,,,,,,,,,,,,,,,,,
-Backfist Elbow Drop,"(During Back Turned) 1+2, 2","high, mid",1.5,0,-,-,-,-,-,-,10,-19,-3 (OC),-,-,-,-,-,-
-*,"(During Back Turned) (1+2), 2",mid,2,0,-,-,-,-,-,-,i37,-19,-3 (OC),+5 (OC),-,-,-,-,-
-*,"(During Phoenix Illusion) 1, D",high,2,-,-,-,-,-,-,-,i30,-21,KND,KND,-,-,-,-,-
-*,"(During Phoenix Illusion) (1), D+2",low,1.25,-,-,-,-,-,-,-,i6,-15,0,0,-,-,-,-,-
-Sliding Kick,During Sidewind (Head first) 4~3,low,2.5,0,-,-,-,-,-,-,i24,-24,KND,KND,-,-,-,-,-
-*,"During Sidewind (Head first) 4~3, D",low,2.5,0,-,-,-,-,-,-,i24,-24,KND,KND,-,-,-,-,-
-Bicycle Kicks,During Sidewind (Head first) 3+4,"mid, mid",1.5,0,-,-,-,-,-,-,i18,-20,KND,KND,-,-,-,-,-
-*,"During Sidewind (Head first) 3+4, D","mid, mid",1.5,0,-,-,-,-,-,-,i18,-20,KND,KND,-,-,-,-,-
-Deadly Current,During Sidewind (Head first) d+3+4,low,1.5,2.5,-,-,-,-,-,-,i29,-42,KND,KND,-,-,-,-,-
-DURING SIDEWIND,,,,,,,,,,,,,,,,,,,
-Turn Over,(During Sidewind) 1 (or d+1),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Meng Xian,(During Sidewind) 2 (or While facing down... 2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-POWER CRUSHES,,,,,,,,,,,,,,,,,,,
-Mauling Dragon,"f, F+2",mid,2,0.25,-,-,-,-,-,-,i18,-12,+7,+7,-,-,-,-,-
-Phoenix Wrath,(During Phoenix Illusion) 2,mid,2,0.25,-,-,-,-,-,-,i18,-12,SCREW,SCREW,-,-,-,-,-
-RAGE MOVES,,,,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) d/f+3+4,mid,3,0,-,-,-,-,-,-,i20,-22,KND,KND,-,-,-,-,-
-Rage Drive 1,(During Rage) (During Snake) 1+4,mid,2,4.5,-,-,-,-,-,-,i20,+8,KND,KND,-,-,-,-,-
-Rage Drive 1,(During Rage) (During Dragon) 1+4,mid,2.5,3,-,-,-,-,-,-,i17,+11,KND,KND,-,-,-,-,-
-Rage Drive 1,(During Rage) (During Panther) 1+4,mid,2.5,1,-,-,-,-,-,-,i12,-14,SCREW,SCREW,-,-,-,-,-
-Rage Drive 1,(During Rage) (During Tiger) 1+4,mid,2.5,1,-,-,-,-,-,-,i16,+14,LAUNCH,LAUNCH,-,-,-,-,-
-Rage Drive 1,(During Rage) (During Crane) 1+4,mid,2,2,-,-,-,-,-,-,i17,-8,LAUNCH,LAUNCH,-,-,-,-,-
-UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,,
-Phoenix Strike,(During Phoenix Illusion) f+4,!,3,-,-,-,-,-,-,-,i65,!,KND,KND,-,-,-,-,-
-THROWS,,,,,,,,,,,,,,,,,,,
-Double Foot Stomp,Approach enemy... 1+3,high throw,1.5,-,-,-,-,-,-,35,i12,-6,KND,-,-,-,-,-,-
-Sleeper Hold,Approach enemy... 2+4,high throw,1.5,-,-,-,-,-,-,35,i12,-3,KND,-,-,-,-,-,-
-Double Foot Stomp,Approach enemy... f+1+3,high throw,2,-,-,-,-,-,-,35,i15,-6,KND,-,-,-,-,-,-
-Sleeper Hold,Approach enemy... f+2+4,high throw,2,-,-,-,-,-,-,35,i15,-3,KND,-,-,-,-,-,-
-Sailboat Stretch,Approach from left side... 1+3 or 2+4,high throw,1.5,-,-,-,-,-,-,40,i12,-3,KND,-,-,-,-,-,-
-Closing Fan,Approach from right side...  1+3 or 2+4,high throw,1.5,-,-,-,-,-,-,40,i12,-3,KND,-,-,-,-,-,-
-Windmill,Approach from behind... 1+3 or 2+4,high throw,1.5,-,-,-,-,-,-,50,i12,-,KND,-,-,-,-,-,-
-Dragon Falls,Approach enemy... u/f+1+2,high throw,1,-,-,-,-,-,-,40,i12,-6,KND,-,-,-,-,-,-
-Tripping,"Approach enemy... f, F+1+2",high throw,1,-,-,-,-,-,-,38,i12,0,KND,-,-,-,-,-,-
-*,"WR f, f, F (Mid Screen)",mid,1,-,-,-,-,-,-,5,i16,-5 (BT),KND,-,-,-,-,-,-
-*,(During Tackle) 1 or 2,-,-,-,-,-,-,-,-,5,-,-,KND,-,-,-,-,-,-
-*,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5",-,-,KND,-,-,-,-,-,-
-*,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5",-,-,KND,-,-,-,-,-,-
-*,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 15",-,-,KND,-,-,-,-,-,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,RECOVERY,ACTIVE,NOTES
+-,1,high,1.5,0.5,-,-,-,-,-,7 [8],i10,+1,+8,+8,FLOAT,-16,1,-
+Serpent Strike,"1, 1","high, high",1.5,1,-,-,YES,NC,-,"7 [8], 12",i10,-6,+5,-,FLOAT,-24,"1, 1",-
+-,"(1), 1",high,1.5,1.5, ,-,-,-,-,12 [14],i12,-6,+5,+5,FLOAT,-24,1,-
+Left Right Punch,"1, 2","high, high",1.5,0.5,-,-,YES,NC,-,"7 [8], 12",i10,-1,+6,-,FLOAT,-18,"1, 1",-
+-,"(1), 2",high,1.5,1.5,-,-,-,-,-,12 [14],i12,-1,+6,+6,FLOAT,-18,1,-
+-,2,high,1.5,0.25,-,-,-,-,-,10 [12],i10,0,+6,+6,FLOAT,-18,1,-
+-,"2, 1","high, mid",1.5,1,-,-,YES,NC,-,"10 [12], 13",i10,-8,+3,-,FLOAT,-26,"1, 1",-
+-,"(2), 1",mid,1.25,1.5,SSR,-,-,-,-,13 [15],i15,-8,+3,+3,FLOAT,-26,1,-
+Yue Ya Lian Tui,"2, 1, 3+4","high, mid, mid, mid",1.5,0,-,-,YES,NO,WALL BREAK / SPLAT,"10 [12], 13, 12, 14",i10,-11,KND,-,FLOAT,-28,"1, 1, 2, 2",-
+-,"(2), 1, 3+4","mid, mid, mid",1.25,0,-,-,YES,NCc,WALL BREAK / SPLAT,"13 [15], 12, 14",i15,-11,KND,-,FLOAT,-28,"1, 2, 2",-
+-,"(2), (1), 3+4","mid, mid",1.75,0.25,SSL / SSR,low,-,-,WALL BREAK / SPLAT,"12 [14], 14",i18,-11,KND,KND,FLOAT,-28,"2, 2",-
+-,"(2), (1), 3+4 (second hit only)",mid,1,0.5,-,low,-,-,WALL BREAK / SPLAT,14 [16],i32,-11,KND,KND,FLOAT,-28,2,-
+-,3,high,1.75,1.5,SWL,-,-,-,-,30 [36],i14,-9,-4,-3,S!,-32,1,-
+High and Low Kicks,"3, 3","high, low",1.75,2,-,-,NO,NC,-,"30 [36], 17",i14,-13,KND,-,S!,-31,"1, 1",-
+-,"(3), 3",low,1.75,2,SWL / SWR,-,-,-,-,17 [20],i31,-13,KND,KND,FLOAT,-31,1,-
+-,4,high,1.5,1.75,-,-,-,-,-,16 [19],i12,-9,+5,LAUNCH,FLOAT,-27,1,-
+Clean Sweep,"4~3, D",mid,3.75,-,SSR,"high, low",-,-,WALL BREAK / SPLAT,25 [30],i29,-16,+4,-,S!,-36,4,-
+-,"4~4, D",low,2,0.5,-,"high, mid",-,-,-,7 [8],i15,-15,-4,-4,FLOAT,-34,1,-
+-,"4~4, 3, D","low, low, mid",2,-,-,"high, mid",NO,NCc,-,"7 [8], 7",i15,-2,+9,-,FLOAT,-21,"1, 1",-
+Lift Up Cannon,"4~4, 3, 3, D","low, low, mid",2,-,-,-,NO,NO,WALL SPLAT,"7 [8], 7, 24",i15,-7,LAUNCH,-,BACK FLIP,-35,"1, 1, 2",-
+Hook Punch to Spiral Upper,"1+2, 2","high, mid",1.5,0.25,-,-,NO,NCc,WALL BREAK / SPLAT,"16 [19], 21",i14,-10,KND,-,BACK FLIP,-27,"1, 2",-
+-,"(1+2), 2",mid,2.5,1,-,-,-,-,WALL BREAK / SPLAT,21 [25],i30,-10,KND,LAUNCH,BACK FLIP,-27,2,-
+-,f+3,mid,2,0.5,-,-,-,-,-,20 [24],i16,-12,-1,-1,FLOAT,-30,1,-
+-,"f+3, 1","mid, high",2,0.25,-,-,NO,NC,-,"20 [24], 12",i16,-3,+8,-,FLOAT,-21,"1, 1",-
+-,"(f+3), 1",high,3,1.5,-,-,-,-,-,12 [14],i20,-3,+8,+8,FLOAT,-21,1,-
+Howling Dog Rush,"f+3, 1, 2","mid, high, mid",2,1,-,-,NO,NO,WALL SPLAT,"20 [24], 12, 12",i16,-12,LAUNCH,-,TURN OVER,-30,"1, 1, 1",-
+-,"(f+3), 1, 2","high, mid",3,1,-,-,NO,NCc,WALL SPLAT,"12 [14], 12",i20,-12,LAUNCH,-,TURN OVER,-30,"1, 1",-
+-,"(f+3), (1), 2",mid,2.5,1.5,SSL,-,-,-,WALL SPLAT,12 [14],i25,-12,LAUNCH,LAUNCH,TURN OVER,-30,1,-
+-,f+4,high,2.5,0.5,SWR,-,-,-,-,26 [31],i23,-12,+3,STUN,TAIL SPIN,-32,5,-
+-,"f+4, 2","high, mid",2.5,0.5,-,-,NO,NCc,-,"26 [31], 12 [8]",i23,0,+6,-,TAIL SPIN,-18,"3, 1",-
+-,"(f+4), 2",mid,1.5,1.5,SSR,-,-,-,-,12 [14],i27,0,+6,+6,TAIL SPIN,-18,1,-
+-,"f+4, 2, 1","high, mid, mid",2.5,1,-,-,NO,NCc,-,"26 [31], 12 [8], 12 [6]",i23,-12,-1,-,TAIL SPIN,-30,"3, 1, 1",-
+-,"(f+4), 2, 1","mid, mid",1.5,1.5,-,-,YES,NC,-,"12 [14], 12",i27,-12,-1,-,TAIL SPIN,-30,"1, 1",-
+-,"(f+4), (2), 1",mid,1.5,1.5,-,-,-,-,-,12 [14],i9,-12,-1,-1,TAIL SPIN,-30,1,-
+-,"f+4, 2, 1, 2","high, mid, mid, mid",2.5,1,-,-,NO,NCc,-,"26 [31], 12 [8], 12 [6], 8 [3]",i23,-12,-1,-,FLOAT,-30,"3, 1, 1, 1",-
+-,"(f+4), 2, 1, 2","mid, mid, mid",1.5,1,-,-,YES,NO,-,"12 [14], 12, 8",i27,-12,-1,-,FLOAT,-30,"1, 1, 1",-
+-,"(f+4), (2), 1, 2","mid, mid",1.5,0.5,-,-,YES,NCc,-,"12 [14], 8",i9,-12,-1,-,FLOAT,-30,"1, 1",-
+-,"(f+4), (2), (1), 2",mid,1.5,0.5,SSL,-,-,-,-,8 [9],i15,-12,-1,-1,FLOAT,-30,1,-
+Beating Kick Low Combo,"f+4, 2, 1, 2, 3","high, mid, mid, mid, low",2.5,1.5,-,-,NO,NCc,-,"26 [31], 12 [8], 12 [6], 8 [3]",i23,-17,-6,-,FLOAT,-35,"3, 1, 1, 1, 1",-
+-,"(f+4), 2, 1, 2, 3","mid, mid, mid, low",1.5,1.5,-,-,NO,NO,-,"12 [14], 12, 8, 12",i27,-17,-6,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"(f+4), (2), 1, 2, 3","mid, mid, low",1.5,1.5,-,-,NO,NO,-,"12 [14], 8, 12",i9,-17,-6,-,FLOAT,-35,"1, 1, 1",-
+-,"(f+4), (2), (1), 2, 3","mid, low",1.5,1.5,-,-,NO,NCc,-,"8 [9], 12",i15,-17,-6,-,FLOAT,-35,"1, 1",-
+-,"(f+4), (2), (1), (2), 3",low,1.5,1,SSL / SSR,-,-,-,-,12 [14],i21,-17,-6,KND,FLOAT,-35,1,-
+Beating Kick Mid Combo,"f+4, 2, 1, 2, 4","high, mid, mid, mid, mid",2.5,1.5,-,-,NO,NCc,WALL BREAK / SPLAT,"26 [31], 12 [8], 12 [6], 8 [3], 12 [3]",i23,-9,KND,-,FLOAT,-27,"3, 1, 1, 1, 1",-
+-,"(f+4), 2, 1, 2, 4","mid, mid, mid, mid",1.5,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 12, 8, 12",i27,-9,KND,-,FLOAT,-27,"1, 1, 1, 1",-
+-,"(f+4), (2), 1, 2, 4","mid, mid, mid",1.5,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 12",i9,-9,KND,-,FLOAT,-27,"1, 1, 1",-
+-,"(f+4), (2), (1), 2, 4","mid, mid",1.5,1.5,-,-,NO,NCc,WALL BREAK / SPLAT,"8 [9], 12",i15,-9,KND,-,FLOAT,-27,"1, 1",-
+-,"(f+4), (2), (1), (2), 4",mid,2,2.5,-,-,-,-,WALL BREAK / SPLAT,12 [14],i21,-9,KND,KND,FLOAT,-27,1,-
+Twin Snake Strikes,f+1+2,"high, high",1.75,2,-,-,-,-,-,"13 [15], 10",i16,+4,+9,+9,FLOAT,-25,"1, 1",-
+-,f+1+2 (second hit only),high,2,2.5,SSL / SSR,-,-,-,-,10 [12],i25,+4,+9,+9,FLOAT,-25,1,-
+-,d/f+1,mid,1.5,0.25,SWL / SWR,-,-,-,-,13 [15],i13,-4,+7,+7,FLOAT,-21,2,-
+-,"d/f+1, 1","mid, high",1.25,0.5,-,-,NO,NC,-,"13 [15], 12",i13,-9,+2,-,FLOAT,-27,"1, 1",-
+-,"(d/f+1), 1",high,1.5,1.5,-,-,-,-,-,12 [14],i16,-9,+2,+2,FLOAT,-27,1,-
+Dancing Cobra,"d/f+1, 1, 1","mid, high, mid",1.25,0,-,-,NO,NO,WALL BREAK / SPLAT,"13 [15], 12, 21",i13,-10,KND,-,FLOAT,-27,"1, 1, 2",-
+-,"(d/f+1), 1, 1","high, mid",1.5,0,-,-,NO,NCc,WALL BREAK / SPLAT,"12 [14], 21",i16,-10,KND,-,FLOAT,-27,"1, 1",-
+-,"(d/f+1), (1), 1",mid,1,0,-,-,-,-,WALL BREAK / SPLAT,21 [25],i22,-10,KND,KND,FLOAT,-27,1,-
+Right Uppercut,d/f+2,mid,1.5,0,SSL / SSR,-,-,-,WALL SPLAT,12 [14],i15,-7,LAUNCH,LAUNCH,FLOAT,-24,2,-
+Spinning Side Kick,d/f+3,mid,2.5,1.5,SWL / SWR,-,-,-,WALL BREAK / SPLAT,27 (32),i21,-10,KND,KND,KND,-28,1,-
+Tiger Fang,d/f+1+2,mid,1.5,0.25,-,-,-,-,-,21 [25],i17,-7 (OC),-4 (OC),-4 (OC),KND,-33,1,-
+-,d+2,mid,2,0,-,-,-,-,-,18 [21],i18,-3 (OC),+4 (OC),+4 (OC),KND,-29,1,-
+Lian Huan Tie Suo,"d+2, 2","mid, mid",2,0.25,-,-,NO,NCc,WALL BREAK / SPLAT,"18 [21], 21",i18,-10,KND,-,KND,-30,"1, 1",-
+-,"(d+2), 2",mid,2,0.5,SSL,-,-,-,WALL BREAK / SPLAT,21 [25],i23,-10,KND,KND,KND,-30,1,-
+-,d+4,low,1.5,1.5,SSL / SSR,-,-,-,-,10 [12],i12,-12,0,0,FLOAT,-33,1,-
+Double Stab,"d+4, 4","low, mid",1.5,2,-,-,NO,NCc,-,"10 [12], 15",i12,-15,-2,-,FLOAT,-33,"1, 1",-
+-,"(d+4), 4",mid,2,2,-,-,-,-,-,15 [18],i21,-15,-2,-2,FLOAT,-33,1,-
+-,d/b+3,low,1.5,1.5,SSL / SSR,high,-,-,-,12 [14],i16,-17,-3,-3,FLOAT,-32,1,-
+-,d/b+4 (clean hit),low,1.75,0.25,SSL,"high, mid",-,-,WALL BREAK / SPLAT,12 [14],i20,-26,KND,KND,FLOAT,-31,2,-
+-,d/b+4 (far),low,1.75,0.25,SSL,"high, mid",-,-,WALL BREAK / SPLAT,8 [9],i20,-26,-4,-4,FLOAT,-31,2,-
+Rave Spin,"d/b+4, 4","low, high",1.75,0.25,-,-,NO,NC,-,"8 [9], 21",i20,-26,KND,-,TAIL SPIN,-31,"2, 6",-
+-,"(d/b+4), 4",high,2.5,0,-,-,-,-,-,21 [36],i31,-8,KND,KND,TAIL SPIN,-31,6,-
+Orchid Palm,d/b+1+2,mid,0.75,0.25,-,-,-,-,-,26 [31],i28,-12,KND,KND,FLOAT,-30,1,-
+-,"d/b+3+4, D",mid,1.5,0.25,-,"high, low",-,-,-,22 [26],i19,-21,KND,KND,FLOAT,-40,2,-
+-,b+2,mid,1.5,0.25,SSL,high,-,-,-,15 [18],i17,-7,+4,+4,FLOAT,-25,1,-
+Deceiving Swallow,"b+2, 4","mid, high",1.5,0.5,-,-,NO,NC,WALL BREAK / SPLAT,"15 [18], 23",i24,-9,KND,-,S!,-32,"1, 2",-
+-,"(b+2), 4",high,3,0.5,SWR,-,-,-,WALL BREAK / SPLAT,23 [27],i24,-9,KND,S!,S!,-32,2,-
+-,b+3,high,0,2.5,-,-,-,-,-,25 [30],i14,-14,-4,-3,S!,-32,1,-
+-,b+4,low,1.75,0,-,-,-,-,-,17 [20],i23,-12,-1,+3,-,-30,1,-
+Lei Gong Elbow,"b+4, 1","low, high",1.75,2,-,-,NO,NCc,WALL BREAK / SPLAT,"17 [20], 23",i23,-10,KND,-,S!,-32,"1, 2",-
+-,"(b+4), 1",high,1.5,2,-,-,-,-,WALL BREAK / SPLAT,23 [27],i26,-10,KND,KND,S!,-32,2,-
+Cannonball,b+1+2,mid,1.5,0,SSL / SSR,high,-,-,-,25 [30],i26,-11,-3,+20,FLOAT,-21,5,-
+Scythe Kick,u/b+4,mid,1,3,SSL / SSR,-,-,-,WALL BREAK / SPLAT,20 [24],i15,-18,KND,KND,BACK FLIP,-34,1,-
+-,u+1+2,-,5.5,0,-,low,-,-,-,-,-,-,-,-,-,-49,-,-
+Pouncing Tiger Sweep,"u+1+2, 4",low,1.5,0.25,-,low,-,-,-,20 [24],i27,-11,LAUNCH,LAUNCH,-,-29,1,-
+Sonic Strike,u/f+1,high,1.75,0.5,-,-,-,-,-,19 [22],i17,-3,+7,+7,FLOAT,-22,1,-
+Falling Tree,u/f+2,mid,2.5,0.25,-,low,-,-,-,25 [30],i35,-14,-3,-3,KND,-28,6,-
+Ostrich Kick,u/f+4,mid,1.5,0.5,SSL,low,-,-,WALL SPLAT,13 [15],i15,-13,LAUNCH,LAUNCH,FLOAT,-30,3,-
+Comet Kick,u/f+3+4,"mid, mid",4,1,-,low,-,-,-,"10 [12], 16",i33,-1,LAUNCH,LAUNCH,KND,-17,"1, 1",-
+-,u/f+3+4 (second hit only),mid,4.5,1,-,low,-,-,-,16 [19],i38,-1,LAUNCH,LAUNCH,KND,-17,1,-
+Razor Rush Low Kick,"f, n, 1, 2, 1, 2, 3","mid, mid, mid, mid, low",2,1,-,-,NO,NO,-,"9 [10], 9, 9, 9, 12",i12,-17,KND,-,FLOAT,-35,"1, 1, 1, 1, 1",-
+-,"f, n, (1), 2, 1, 2, 3","mid, mid, mid, low",0.75,1.5,SSR,-,NO,NO,-,"9 [10], 9, 9, 12",i12,-17,KND,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"f, n, (1), (2), 1, 2, 3","mid, mid, low",1,1.5,-,-,NO,NO,-,"9 [10], 9, 12",i15,-17,KND,-,FLOAT,-35,"1, 1, 1",-
+-,"f, n, (1), (2), (1), 2, 3","mid, low",1,1.5,-,-,NO,NO,-,"9 [10], 12",i15,-17,KND,-,FLOAT,-35,"1, 1",-
+-,"f, n, (1), (2), (1), (2), 3",low,1,1.5,SSL / SSR,-,-,-,-,12 [14],i21,-17,KND,KND,FLOAT,-35,1,-
+Razor Rush Mid Kick,"f, n, 1, 2, 1, 2, 4","mid, mid, mid, mid, mid",2,1,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 9, 9, 9, 12",i12,-9,KND,-,FLOAT,-27,"1, 1, 1, 1, 1",-
+-,"f, n, (1), 2, 1, 2, 4","mid, mid, mid, mid",0.5,1,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 9, 9, 12",i12,-9,KND,-,FLOAT,-27,"1, 1, 1, 1",-
+-,"f, n, (1), (2), 1, 2, 4","mid, mid, mid",1,1,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 9, 12",i15,-9,KND,-,FLOAT,-27,"1, 1, 1",-
+-,"f, n, (1), (2), (1), 2, 4","mid, mid",1,1,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 12",i15,-9,KND,-,FLOAT,-27,"1, 1",-
+-,"f, n, (1), (2), (1), (2), 4",mid,1,1,-,-,-,-,WALL BREAK / SPLAT,12 [14],i21,-9,KND,KND,FLOAT,-27,1,-
+-,"f, n, 2",high,1.5,0.5,-,-,-,-,-,10 [12],i12,+2,+7,+7,FLOAT,-17,1,-
+-,"f, n, 2, 1","high, mid",1.5,0,-,-,YES,NC,-,"10 [12], 12",i12,0,-1,-1,FLOAT,-30,"1, 1",-
+-,"f, n, (2), 1",mid,1,1,-,-,-,-,-,10 [12],i16,-12,-1,-1,FLOAT,-30,1,-
+-,"f, n, 2, 1, 2","high, mid, mid",1.5,0,-,-,NO,NO,-,"10 [12], 12, 8",i12,-17,-1,-1,FLOAT,-30,"1, 1, 1",-
+-,"f, n, (2), 1, 2","mid, mid",1,0.25,-,-,YES,NCc,-,"10 [12], 8",i16,-12,-1,-1,FLOAT,-30,"1, 1",-
+-,"f, n, (2), (1), 2",mid,0.5,1,SSL,-,-,-,-,8 [9],i34,-12,-1,-1,FLOAT,-30,1,-
+Defense Breaker,"f, n, 2, 1, 2, 1 (While enemy is guarding)","high, mid, mid, mid",1.5,1.5,-,-,NO,NO,-,-,i12,-39,-,-,FLOAT,-42,1,-
+Spinning Lotus Kick,"f, n, 3",high,1.5,2,SWR,-,-,-,-,30 [36],i15,+3,KND,KND,S!,-34,2,-
+-,"f, n, 4",high,1.5,1.5,-,-,-,-,-,18 [21],i10,-11,0,0,FLOAT,-29,1,-
+-,"f, n, 4, 1","high, mid",1.5,0.5,-,-,NO,NC,-,"18 [21], 12",i10,-1,+5,-,FLOAT,-19,1,-
+-,"f, n, (4), 1",mid,1.5,1.5,SSR,-,-,-,-,12 [14],i23,-1,+5,+5,FLOAT,-19,1,-
+-,"f, n, 4, 1, 2","high, mid, mid",1.5,1,-,-,NO,NC,-,"18 [21], 12, 8",i10,-10,-4,-,FLOAT,-28,"1, 1, 1",-
+-,"f, n, (4), 1, 2","mid, mid",1.5,2,-,-,YES,NC,-,"12 [14], 8",i23,-10,-4,-,FLOAT,-28,"1, 1",-
+-,"f, n, (4), (1), 2",mid,1,1.5,-,-,-,-,-,8 [9],i10,-10,-4,-4,FLOAT,-28,1,-
+-,"f, n, 4, 1, 2, 2","high, mid, mid, mid",1.5,0.5,-,-,NO,NO,-,"18 [21], 12, 8, 10",i10,-12,-1,-,FLOAT,-28,"1, 1, 1, 1",-
+-,"f, n, (4), 1, 2, 2","mid, mid, mid",1.5,0.25,-,-,YES,NO,-,"12 [14], 8, 10",i23,-12,-1,-,FLOAT,-28,"1, 1, 1",-
+-,"f, n, (4), (1), 2, 2","mid, mid",1,0.25,-,-,YES,NO,-,"8 [9], 10",i10,-12,-1,-,FLOAT,-28,"1, 1",-
+-,"f, n, (4), (1), (2), 2",mid,1,0.25,SSL / SSR,-,-,-,-,10 [12],i16,-12,-1,-1,FLOAT,-28,1,-
+Wolf Strike,"f, n, 4, 1, 2, 2, 2","high, mid, mid, mid, low",1.5,0.25,-,-,NO,NO,-,"18 [21], 12, 8, 10, 15",i10,-17,-1,-,FLOAT,-35,"1, 1, 1, 1, 1",-
+-,"f, n, (4), 1, 2, 2, 2","mid, mid, mid, low",1.5,0.25,-,-,NO,NO,-,"12 [14], 8, 10, 15",i23,-17,-1,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"f, n, (4), (1), 2, 2, 2","mid, mid, low",1,0.25,-,-,NO,NO,-,"8 [9], 10, 15",i10,-17,-1,-,FLOAT,-35,"1, 1, 1",-
+-,"f, n, (4), (1), (2), 2, 2","mid, low",1,0.25,-,-,NO,NCc,-,"10 [12], 15",i16,-17,-1,-,FLOAT,-35,"1, 1",-
+-,"f, n, (4), (1), (2), (2), 2",low,1.5,1,SSL / SSR,-,-,-,-,15 [18],i22,-17,-1,-1,FLOAT,-35,1,-
+-,"f, n, 4, 1, 2, 3","high, mid, mid, high",1.5,2,-,-,NO,NO,WALL BREAK / SPLAT,"18 [21], 12, 8, 20",i10,-6,KND,-,FLOAT,-43,"1, 1, 1, 2",-
+-,"f, n, (4), 1, 2, 3","mid, mid, high",1.5,2,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 20",i23,-6,KND,-,FLOAT,-43,"1, 1, 2",-
+-,"f, n, (4), (1), 2, 3","mid, high",1,2,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 20",i10,-6,KND,-,FLOAT,-43,"1, 2",-
+-,"f, n, (4), (1), (2), 3",high,1.5,2,SSL / SSR,-,-,-,WALL BREAK / SPLAT,20 [24],i25,-6,KND,KND,FLOAT,-43,2,-
+Rush Combo Mid Kick,"f, n, 4, 1, 2, 3, 4","high, mid, mid, high, mid",1.5,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"18 [21], 12, 8, 20",i10,-7,KND,-,FLOAT,-29,"1, 1, 1, 2, 1",-
+-,"f, n, (4), 1, 2, 3, 4","mid, mid, high, mid",1.5,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 20",i23,-7,KND,-,FLOAT,-29,"1, 1, 2, 1",-
+-,"f, n, (4), (1), 2, 3, 4","mid, high, mid",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 20",i10,-7,KND,-,FLOAT,-29,"1, 2, 1",-
+-,"f, n, (4), (1), (2), 3, 4","high, mid",1.5,1.5,-,-,NO,NO,WALL BREAK / SPLAT,20 [24],i25,-7,KND,-,FLOAT,-29,"2, 1",-
+-,"f, n, (4), (1), (2), (3), 4",mid,1.5,1.5,-,-,-,-,WALL BREAK / SPLAT,20 [24],i22,-7,KND,KND,FLOAT,-29,1,-
+Rush Combo Low Kick,"f, n, 4, 1, 2, 3, d+4","high, mid, mid, high, low",1.5,1.5,-,-,NO,NO,-,"18 [21], 12, 8, 20",i10,-12,KND,-,FLOAT,-30,"1, 1, 1, 2, 1",-
+-,"f, n, (4), 1, 2, 3, d+4","mid, mid, high, low",1.5,1.5,-,-,NO,NO,-,"12 [14], 8, 20",i23,-12,KND,-,FLOAT,-30,"1, 1, 2, 1",-
+-,"f, n, (4), (1), 2, 3, d+4","mid, high, low",1,1.5,-,-,NO,NO,-,"8 [9], 20",i10,-12,KND,-,FLOAT,-30,"1, 2, 1",-
+-,"f, n, (4), (1), (2), 3, d+4","high, low",1.5,1.5,SSL / SSR,-,NO,NO,-,20 [24],i25,-12,KND,-,FLOAT,-30,"2, 1",-
+-,"f, n, (4), (1), (2), (3), d+4",low,2,2,-,high,-,-,-,20 [24],i22,-12,KND,KND,FLOAT,-30,1,-
+Reverse Lotus,"f, F+3",mid,2,0.25,SSR,low,-,-,WALL SPLAT,15 [18],i16,-14,LAUNCH,LAUNCH,TURN OVER,-30,3,-
+Floating Lotus,"f, F+3, 4 (or f, f, f+3, 4)","mid, high",2,1.5,-,low,NO,NC,WALL BREAK / SPLAT,15 [18],i16,-13,LAUNCH,LAUNCH,TURN OVER,-35,"3, 2",-
+-,"f, F+(3), 4 (or f, f, f+(3), 4)",high,2,2,-,low,-,-,WALL BREAK / SPLAT,24 [28],i23,-13,KND,KND,FLOAT,-35,2,-
+-,"f, F+4",high,1.5,1.5,SWL / SWR,-,-,-,-,21 [25],i15,-6,+5,+5,FLOAT,-25,5,-
+Turbulent Winds,"f, F+4, 3+4","high, high",1.5,1,-,-,-,-,WALL BREAK / SPLAT,"21 [25], 21",i15,-3,KND,-,S!,-31,"5, 3",-
+-,"(f, F+4), 3+4",high,2,1.5,-,low,-,-,WALL BREAK / SPLAT,21 [25],i28,-3,KND,KND,S!,-31,3,-
+-,"f, F+3+4, D",mid,3,0.5,-,low,-,-,WALL BREAK / SPLAT,25 [30],i24,+2,KND,KND,FLOAT,-25,3,-
+Tiger Swat,"f, f, f+1",mid,3,1.5,-,low,-,-,WALL BREAK / SPLAT,30 [36],i24,+8,KND,KND,FLOOR BREAK,-36,2,-
+-,WS 1,mid,0.5,1,SSR,-,-,-,-,12 [14],i10,-3,+8,+8,FLOAT,-21,2,-
+-,WS 2,mid,1.5,0.5,SSL,-,-,-,-,12 [14],i14,-5,+6,+6,FLOAT,-22,2,-
+Wild Upper,"WS 2, 1","mid, mid",1.5,0.25,-,-,NO,NC,-,"12 [14], 15",i14,-9,+4,-,TURN OVER,-26,"2, 2",-
+-,"(WS 2), 1",mid,1.75,0.5,SSL / SSR,-,-,-,-,15 [18],i26,-9,+4,+4,TURN OVER,-26,2,-
+-,WS 3,mid,1.5,0.25,SWL / SWR,-,-,-,-,25 [30],i10,-16,-5,-5,FLOAT,-32,3,-
+-,WS 4,mid,1.5,1.5,SSL,-,-,-,-,15 [18],i11,-4,+7,+7,FLOAT,-21,2,-
+Di Gong Jiao,WS 3+4,mid,2,1,SSL,-,-,-,WALL SPLAT,14 [16],i16,-15,LAUNCH,LAUNCH,FLOAT,-32,2,-
+-,FC d/f+2,low,2,0,SSL / SSR,high,-,-,-,10 [12],i18,-12,-1,-1,FLOAT,-29,2,-
+-,"FC d/f+2, 1, 4, B","low, low, mid",2,0.5,-,high,NO,NCc,-,"10 [12], 10, 18",i18,-15,-28,-,FLOAT,-44,"2, 1",-
+Snake Palm Fist,SS 1,high,2,0,SSR,-,-,-,-,21 [25],i16,-5,+6,+6,FLOAT,-28,1,-
+Crane Cannon,SS 4,mid,2,0.5,-,-,-,-,WALL SPLAT,14 [16],i21,-8,LAUNCH,LAUNCH,BACK FLIP,-25,2,-
+Spring Up,While down (facing up) 3+4,mid,0,0.25,-,low,-,-,-,20 [24],i30,-5,KND,KND,FLOAT,-22,2,-
+10 Hit Combo,"b+1, 2, 1, 3+4, 2, 1, 4, 1, 4, 4",-,-,-,-,-,-,-,-,81,i10,-32,KND,KND,-,-,-,-
+-,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1.5,1,SSL / SSR,"high, mid",-,-,-,10 [12],i22,-12,+5,STUN,FLOAT,-29,1,-
+-,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,1,SSL,-,-,-,WALL BREAK / SPLAT,18 [21],i22,-12,+5,KND,FLOAT,-29,1,-
+-,"Face Up, Feet Towards, d+3 (or 4)",low,0,1,SSR,"high, mid",-,-,-,5 [6],i13,-18,-3,-3,FLOAT,-36,1,-
+-,"Face Up, Feet Towards, Roll Forward+1+2",mid,3,0,-,-,-,-,WALL BREAK / SPLAT,15 [18],i19,+2,KND,KND,FLOAT,-42,6,-
+-,"Face Down, Feet Away+3",low,0.5,0.5,SSL / SSR,"high, mid",-,-,-,10 [12],i22,-20,+1,STUN,FLOAT,-35,1,-
+-,"Face Down, Feet Away+4 (close)",mid,1,1,-,-,-,-,WALL BREAK / SPLAT,15 [18],i21,-19,KND,KND,FLOAT,-37,1,-
+-,"Face Down, Feet Away+4 (far)",mid,1,1,-,-,-,-,-,10 [12],i21,-19,-10,KND,FLOAT,-37,1,-
+-,(Upon Landing) f,mid,0,0,-,-,-,-,-,4,i33,-2,+3,+3,FLOAT,-13,4,-
+INTO BACK TURNED,,,,,,,,,,,,,,,,,,
+Back Turn,b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,3~4,mid,3.5,2,-,low,-,-,-,25 [30],i39,+3,+6,+6,FLOOR BREAK,-20,5,-
+-,"3~4, 4","mid, mid",2.5,2,-,low,NO,NO,-,"25 [30], 21",i39,+3,+6,-,FLOOR BREAK,-20,"5, 5",-
+-,"(3~4), 4",mid,3,2.5,-,low,-,-,-,21 [25],i29,+3,+6,+6,FLOOR BREAK,-20,5,-
+Tornado Kick,"3~4, 4, 4","mid, mid, mid",3.5,2,-,low,NO,NO,-,"25 [30], 21, 17",i39,+3,+6,-,FLOOR BREAK,-26,"5, 5, 5",-
+-,"(3~4), 4, 4","mid, mid",2.5,2,-,low,NO,NO,-,"21 [25], 17",i29,+3,+6,-,FLOOR BREAK,-26,"5, 5",-
+-,"(3~4), (4), 4",mid,2.5,2.5,-,low,-,-,-,17 [20],i29,+3,+6,+6,FLOOR BREAK,-26,5,-
+-,1+2,high,1.5,0,SSL,-,-,-,[WALL BREAK / SPLAT],16 [19],i14,-7,+2,LAUNCH,FLOAT,-25,1,-
+Hook Punch to Spinning Back Blow,"1+2, 1","high, high",1.5,0,-,-,NO,NC,-,"16 [19], 12",i14,-3,+8,-,FLOAT,-20,"1, 2",-
+-,"(1+2), 1",high,2.5,0.25,-,-,-,-,-,12 [14],i26,-3,+8,+8,FLOAT,-20,2,-
+-,"b+4, B",low,1.75,0,-,-,-,-,-,17 [20],i23,-6,+5,+9,-,-24,1,-
+-,"FC d/f+2, 1","low, low",2,0.25,-,high,NO,NCc,-,"10 [12], 10",i18,-13,0,-,FLOAT,-28,"2, 2",-
+-,"FC (d/f+2), 1",low,1,0.5,SWL / SWR,high,-,-,-,10 [12],i16,-13,0,0,FLOAT,-28,2,-
+Falling Blade,SS 3+4,mid,3,0,-,-,-,-,-,15 [18],i24,-4,+1,+1,FLOOR BREAK,-26,3,-
+-,"DRU 2, B (or SS 2, B)",mid,1.75,0.25,-,-,-,-,-,12 [14],i18,+1 (OC),-1 (OC),STUN,FLOAT,-29,2,-
+Phoenix Sunder,"PHX 3, 3","high, low",1.5,-,-,-,NO,NCc,-,"28 [33], 17",i14,-13,KND,-,S!,-31,"1, 1",-
+-,"PHX (3), 3",low,1.5,-,-,-,-,-,-,17 [20],i31,-13,KND,KND,FLOAT,-31,1,-
+-,PHX b+4,mid,3.5,2,-,low,-,-,-,25 [30],i39,+4 (OC),+7 (OC),+7 (OC),FLOOR BREAK,-25,5,-
+-,"PHX b+4, 4","mid, mid",2.5,2,-,low,YES,NO,-,"25 [30], 21",i39,+3 (OC),+6 (OC),-,FLOOR BREAK,-25,"5, 5",-
+-,"PHX (b+4), 4",mid,2.5,2.5,-,low,-,-,-,21 [25],i29,+3 (OC),+6 (OC),+6 (OC),FLOOR BREAK,-25,5,-
+Tornado Kick,"PHX b+4, 4, 4","mid, mid, mid",3.5,2,-,low,NO,NO,-,"25 [30], 21, 17",i39,+3 (OC),+6 (OC),-,FLOOR BREAK,-25,"5, 5, 5",-
+-,"PHX (b+4), 4, 4","mid, mid",2.5,2,-,low,NO,NO,-,21 [25]. 17,i29,+3 (OC),+6 (OC),-,FLOOR BREAK,-25,"5, 5",-
+-,"PHX (b+4), (4), 4",mid,2.5,2.5,-,low,-,-,-,17 [20],i29,+3 (OC),+6 (OC),+6 (OC),FLOOR BREAK,-25,5,-
+STAY BACK TURNED,,,,,,,,,,,,,,,,,,
+-,BT 1,high,1.5,0.5,-,-,-,-,-,12 [14],i16,-5,+6,+6,FLOAT,-23,1,-
+-,"BT 1, 1","high, mid",1.5,0.5,-,-,NO,YES,-,"12 [14], 10",i16,-7,+4,-,FLOAT,-25,"1, 1",-
+-,"BT (1), 1",mid,1,1,-,high,-,-,-,10 [12],i20,-7,+4,+4,FLOAT,-25,1,-
+-,BT 1+2,mid,1.5,0,-,-,-,-,-,12 [14],i10,-6,+5,+5,FLOAT,-22,3,-
+-,"BT 4, B",mid,2,1.5,-,-,-,-,-,15 [18],i14,-7,+4,+4,FLOAT,-25,1,-
+-,BT 3+4,mid,1.5,0.75,-,-,-,-,-,15 [18],i32,-4,KND,KND,FLOOR BREAK,-19,4,-
+-,"BT 3+4, 3+4","mid, mid",1.5,0.75,-,-,NO,-,-,"15 [18], 15",i32,-9,KND,-,FLOOR BREAK,-24,"4, 4",-
+-,"BT (3+4), 3+4",mid,1.5,0.75,-,-,-,-,-,15 [18],i37,-9,KND,KND,FLOOR BREAK,-24,4,-
+Flit Flip Flop,"BT 3+4, 3+4, 3+4","mid, mid, mid",1.5,0.75,-,-,NO,-,-,"15 [18], 15, 15",i32,-9,KND,-,FLOOR BREAK,-24,"4, 4, 4",-
+-,"BT (3+4), 3+4, 3+4","mid, mid",1.5,0.75,-,-,NO,-,-,"15 [18], 15",i37,-9,KND,-,FLOOR BREAK,-24,"4, 4",-
+-,"BT (3+4), (3+4), 3+4",mid,1.5,0.75,-,-,-,-,-,15 [18],i37,-9,KND,KND,FLOOR BREAK,-24,4,-
+Low Back Spin,BT d+1,low,1,0,SWL / SWR,high,-,-,-,12 [14],i12,-6,+5,LAUNCH,-,-22,3,-
+EXIT BACK TURNED,,,,,,,,,,,,,,,,,,
+-,"BT 1, 1, 3","high, mid, low",1.5,0,-,-,NO,NO,-,"12 [14], 10, 7",i16,-18,-7,-,FLOAT,-36,"1, 1, 1",-
+-,"BT (1), 1, 3","mid, low",1,0,-,-,NO,NC,-,"10 [12], 7",i20,-18,-7,-,FLOAT,-36,"1, 1",-
+-,"BT (1), (1), 3",low,1,0,SSL / SSR,-,-,-,-,7 [8],i20,-18,-7,-7,FLOAT,-36,1,-
+Dancing Spear,"BT 1, 1, 3, 2","high, mid, low, high",1.5,0.25,-,-,NO,NO,-,"12 [14], 10, 7, 16",i16,-17,KND,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"BT (1), 1, 3, 2","mid, low, high",1,0.25,-,-,NO,NCc,-,"10 [12], 7, 16",i20,-17,KND,-,FLOAT,-35,"1, 1, 1",-
+-,"BT (1), (1), 3, 2","low, high",1,0.25,-,-,NO,NCc,-,"7 [8], 16",i20,-17,KND,-,FLOAT,-35,"1, 1",-
+-,"BT (1), (1), (3), 2",high,0.5,0.25,-,-,-,-,-,16 [19],i11,-17,KND,KND,FLOAT,-35,1,-
+Spinning Heavy Hand,BT 2,mid,1.5,0.25,HOMING,-,-,-,WALL BREAK / SPLAT,20 [24],i20,-10,+11,STUN,S!,-32,2,-
+-,BT 3,high,1.5,1.5,-,-,-,-,WALL BREAK / SPLAT,18 [21],i10,-8,KND,KND,FLOAT,-26,1,-
+-,BT 4,mid,2,1.5,-,-,-,-,-,15 [18],i14,-14,-3,-3,FLOAT,-32,1,-
+Reverse Maul Strike,"BT 4, 1","mid, high",2,0.25,-,-,NO,NCc,WALL BREAK / SPLAT,"15 [18], 21",i14,-8,S!,-,S!,-31,"1, 2",-
+-,"BT (4), 1",high,2,0.5,SSL,-,-,-,WALL BREAK / SPLAT,21 [25],i25,-8,S!,S!,S!,-31,2,-
+Reverse Double Kick,"BT 4, 3","mid, mid",2,1,-,-,NO,NCc,WALL SPLAT,"15 [18], 17",i14,-15,LAUNCH,-,BACK FLIP,-35,"1, 2",-
+-,"BT (4), 3",mid,1.5,1,SSL / SSR,"high, mid",-,-,WALL SPLAT,17 [20],i23,-15,LAUNCH,LAUNCH,BACK FLIP,-35,2,-
+Reverse Watermill,"BT 4, 4","mid, mid",2,0.5,-,-,NO,NO,-,"15 [18], 20",i14,-3,+1 (OC),-,FLOOR BREAK,-29,"1, 4",-
+-,"BT (4), 4",mid,2,0.5,-,low,-,-,-,20 [24],i37,-3,+1 (OC),LAUNCH,FLOOR BREAK,-29,4,-
+-,"BT 3+4, F",mid,1.5,0.75,-,-,-,-,-,15 [18],i32,-12,KND,KND,FLOOR BREAK,-27,4,-
+-,"BT 3+4, 3+4, F","mid, mid",1.5,0.75,-,-,NO,NO,-,"15 [18], 15",i32,-12,KND,-,FLOOR BREAK,-27,"4, 4",-
+Flit Flip Flop,"BT 3+4, 3+4, 3+4, F","mid, mid, mid",1.5,0.75,-,-,NO,NO,-,"15 [18], 15, 15",i32,+16,KND,-,FLOOR BREAK,-32,"4, 4, 4",-
+-,BT d+4 (clean hit),low,2,0.25,SSL / SWR,"high, mid",-,-,-,12 [14],i20,-26,LAUNCH,LAUNCH,FLOAT,-32,2,-
+-,BT d+4 (far),low,2,0.25,SSL / SWR,"high, mid",-,-,-,8 [9],i20,-26,+2,+2,FLOAT,-32,2,-
+Reverse Double Slicer,"BT d+4, 4","low, high",2,0.25,-,-,NO,NC,WALL BREAK / SPLAT,"8 [9], 21",i20,-26,KND,-,TAIL SPIN,-31,"2, 6",-
+-,"BT (d+4), 4",high,2,0,-,-,-,-,WALL BREAK / SPLAT,30 [36],i31,-10,KND,KND,TAIL SPIN,-31,6,-
+INTO CRANE,,,,,,,,,,,,,,,,,,
+Five Gates Form - Crane,"3+4, 4",-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,-
+Hopping Crane Kick,u/f+3,mid,1.5,1,-,low,-,-,-,23 [27],i16,-5,+8,LAUNCH,FLOAT,-13,1,-
+Razor Rush Mid Kick Crane,"f, n, 1, 2, 1, 2, 4, u (or d)",-,-,-,-,-,-,-,-,-,14,-,-,-,-,-,-,-
+Beating Kick Mid Combo Crane,"f+4, 2, 1, 2, 4, u (or d)",-,-,-,-,-,-,-,-,-,14,-,-,-,-,-,-,-
+Turbulent Winds,"f, F+4, 3+4, F","high, high",1.5,1,-,low,-,-,-,"21 [25], 21",i15,-28,-17,-17,FLOAT,-37,5,-
+Scythe Kick,"u/b+4, F",mid,1,3,-,-,-,-,-,20 [24],i15,-28,KND,KND,BACK FLIP,-34,1,-
+-,"DRU 3, 2, 4, F","low, mid, mid",1.5,3,-,-,NO,NO,-,"13 [15], 20, 12",i17,-28,KND,-,FLOOR BREAK,-34,"1, 2, 1",-
+DURING CRANE,,,,,,,,,,,,,,,,,,
+Crane's Bill,CRA 1,mid,2.5,1.5,-,-,-,-,WALL BREAK / SPLAT,23 [27],i22,-,KND,KND,FLOAT,-29,2,-
+Spinning Crane Swipe,CRA 2,high,2.5,0.5,HOMING,-,-,-,WALL BREAK / SPLAT,21 [25],i16,-9,+10,S!,S!,-31,2,-
+-,CRA 3,mid,2,0,-,-,-,-,-,21 [25],i14,-5,+6,+6,FLOAT,-22,2,-
+-,"CRA 3, 4","mid, low",2,0.5,-,-,NO,YES,-,"21 [25], 10",i14,-13,0,-,FLOAT,-28,"2, 2",-
+-,"CRA (3), 4",low,1,0.5,SSL / SSR,-,-,-,-,10 [12],i25,-13,0,0,FLOAT,-28,2,-
+-,"CRA 3, 4, 2","mid, low, mid",2,0.5,-,-,NO,YES,-,"21 [25], 10, 10",i14,-16,-5,-,FLOAT,-33,"2, 2, 2",-
+-,"CRA (3), 4, 2","low, mid",1,0.75,-,-,NO,YES,-,"10 [12], 10",i25,-16,-5,-,FLOAT,-33,"2, 2",-
+-,"CRA (3), (4), 2",mid,1.5,0.5,SSR,-,-,-,-,10 [12],i17,-16,-5,-5,FLOAT,-33,2,-
+Crane Dance,"CRA 3, 4, 2, 3","mid, low, mid, mid",2,0.25,-,-,NO,NO,WALL SPLAT,"21 [25], 10, 10, 15",i14,-12,LAUNCH,-,BACK FLIP,-28,"2, 2, 2, 3",-
+-,"CRA (3), 4, 2, 3","low, mid, mid",1,0.5,-,-,NO,NO,WALL SPLAT,"10 [12], 10, 15",i25,-12,LAUNCH,-,BACK FLIP,-28,"2, 2, 3",-
+-,"CRA (3), (4), 2, 3","mid, mid",1.5,0.5,-,-,YES,NCc,WALL SPLAT,"10 [12], 15",i17,-12,LAUNCH,-,BACK FLIP,-28,"2, 3",-
+-,"CRA (3), (4), (2), 3",mid,1.5,0.5,-,-,-,-,WALL SPLAT,15 [18],i16,-12,LAUNCH,LAUNCH,BACK FLIP,-28,3,-
+Crane Kick,CRA 4,low,2.5,1.5,SSR,-,-,-,-,20 [24],i21,-19,KND,KND,FLOAT,-37,1,-
+Crane Smash,CRA 1+2,high,2,1.75,-,-,-,-,-,25 [30],i13,-2,STUN,STUN,FLOAT,-25,1,-
+Leaping Crane,CRA u/f+4,mid,2,0.5,-,low,-,-,WALL SPLAT,21 [25],i17,-22,LAUNCH,LAUNCH,BACK FLIP,-23,3,-
+INTO DRAGON,,,,,,,,,,,,,,,,,,
+Five Gates Form - Dragon,"3+4, 1",-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,-
+Razor Rush Dragon,"f, n, 1, 2, u (or d)","mid, mid",2,1.5,-,-,YES,NC,-,"9 [10], 9",i12,-12,+1,+1,FLOAT,-28,"1, 1",-
+-,"f, n, (1), 2, u (or d)",mid,0.75,2,-,-,-,-,-,9 [10],i12,-12,+1,+1,FLOAT,-28,1,-
+-,"b+2, F",mid,1.5,0.25,-,high,-,-,-,15 [18],i17,-9,+2,+2,FLOAT,-27,1,-
+Snake Palm Fist,"SS 1, U or D",high,2,0,-,-,-,-,-,21 [25],i16,-2,+9,+9,FLOAT,-25,1,-
+DURING DRAGON,,,,,,,,,,,,,,,,,,
+Dragon Neck Snap,DRG 1,high throw,1.5,-,-,-,-,-,-,35,i25,-,KND,KND,-,-41,1,-
+Dragon Roar,DRG 2,mid,1.5,1.5,SSL,-,-,-,-,18 [21],i17,+4,KND,LAUNCH,FLOAT,-25,3,-
+Cuju Kick,DRG 3,low,1.5,1,SSL / SWR,-,-,-,-,11 [13],i16,-15,+2,+2,FLOAT,-32,2,-
+-,DRG 4,high,1.75,1.75,SWL / SWR,-,-,-,-,18 [21],i10,-11,0,0,FLOAT,-29,1,-
+-,"DRG 4, 1","high, mid",1.75,0.5,-,-,NO,NC,-,"18 [21], 12",i10,-1,+5,-,FLOAT,-19,"1, 1",-
+-,"DRG (4), 1",mid,1,1.5,SSR,-,-,-,-,12 [14],i23,-1,+5,+5,FLOAT,-19,1,-
+-,"DRG 4, 1, 2","high, mid, mid",1.75,1,-,-,NO,NC,-,"18 [21], 12, 8",i10,-10,-4,-,FLOAT,-28,"1, 1, 1",-
+-,"DRG (4), 1, 2","mid, mid",1,1.5,-,-,YES,NC,-,"12 [14], 8",i23,-10,-4,-,FLOAT,-28,"1, 1",-
+-,"DRG (4), (1), 2",mid,1,1.5,-,-,-,-,-,8 [9],i10,-10,-4,-4,FLOAT,-28,1,-
+-,"DRG 4, 1, 2, 2","high, mid, mid, mid",1.75,0.5,-,-,NO,NO,-,"18 [21], 12, 8, 10",i10,-12,-1,-,FLOAT,-30,"1, 1, 1, 1",-
+-,"DRG (4), 1, 2, 2","mid, mid, mid",1,0.5,-,-,YES,NO,-,"12 [14], 8, 10",i23,-12,-1,-,FLOAT,-30,"1, 1, 1",-
+-,"DRG (4), (1), 2, 2","mid, mid",1,0.5,-,-,YES,NO,-,"8 [9], 10",i10,-12,-1,-,FLOAT,-30,"1, 1",-
+-,"DRG (4), (1), (2), 2",mid,1,1,SSL / SSR,-,-,-,-,10 [12],i16,-12,-1,-1,FLOAT,-30,1,-
+Wolf Strike,"DRG 4, 1, 2, 2, 2","high, mid, mid, mid, low",1.75,0.5,-,-,NO,NO,-,"18 [21], 12, 8, 10, 15",i10,-17,-1,-,FLOAT,-35,"1, 1, 1, 1, 1",-
+-,"DRG (4), 1, 2, 2, 2","mid, mid, mid, low",1,0.5,-,-,NO,NO,-,"12 [14], 8, 10, 15",i23,-17,-1,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"DRG (4), (1), 2, 2, 2","mid, mid, low",1,0.5,-,-,NO,NO,-,"8 [9], 10, 15",i10,-17,-1,-,FLOAT,-35,"1, 1, 1",-
+-,"DRG (4), (1), (2), 2, 2","mid, low",1,0.5,-,-,NO,NCc,-,"10 [12], 15",i16,-17,-1,-,FLOAT,-35,"1, 1",-
+-,"DRG (4), (1), (2), (2), 2",low,1,0.5,SSL / SSR,-,-,-,-,15 [18],i22,-17,-1,-1,FLOAT,-35,1,-
+-,"DRG 4, 1, 2, 3","high, mid, mid, high",1.75,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"18 [21], 12, 8, 20",i10,-6,KND,-,TAIL SPIN,-43,"1, 1, 1, 2",-
+-,"DRG (4), 1, 2, 3","mid, mid, high",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 20",i23,-6,KND,-,TAIL SPIN,-43,"1, 1, 2",-
+-,"DRG (4), (1), 2, 3","mid, high",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 20",i10,-6,KND,-,TAIL SPIN,-43,"1, 2",-
+-,"DRG (4), (1), (2), 3",high,1,1.5,SSL / SSR,-,-,-,WALL BREAK / SPLAT,20 [24],i25,-6,KND,-,TAIL SPIN,-43,2,-
+Rush Combo Mid Kick,"DRG 4, 1, 2, 3, 4","high, mid, mid, high, mid",1.75,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"18 [21], 12, 8, 20",i10,-7,KND,-,TAIL SPIN,-29,"1, 1, 1, 2, 1",-
+-,"DRG (4), 1, 2, 3, 4","mid, mid, high, mid",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 20",i23,-7,KND,-,TAIL SPIN,-29,"1, 1, 2, 1",-
+-,"DRG (4), (1), 2, 3, 4","mid, high, mid",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 20",i10,-7,KND,-,TAIL SPIN,-29,"1, 2, 1",-
+-,"DRG (4), (1), (2), 3, 4","high, mid",1,1.5,-,-,NO,NO,WALL BREAK / SPLAT,20 [24],i25,-7,KND,-,TAIL SPIN,-29,"2, 1",-
+-,"DRG (4), (1), (2), (3), 4",mid,1.5,1.5,-,-,-,-,WALL BREAK / SPLAT,20 [24],i22,-7,KND,KND,TAIL SPIN,-29,1,-
+Rush Combo Low Kick,"DRG 4, 1, 2, 3, d+4","high, mid, mid, high, low",1.75,1.5,-,-,NO,NO,-,"18 [21], 12, 8, 20",i10,-12,KND,-,TAIL SPIN,-30,"1, 1, 1, 2, 1",-
+-,"DRG (4), 1, 2, 3, d+4","mid, mid, high, low",1,1.5,-,-,NO,NO,-,"12 [14], 8, 20",i23,-12,KND,-,TAIL SPIN,-30,"1, 1, 2, 1",-
+-,"DRG (4), (1), 2, 3, d+4","mid, high, low",1,1.5,-,-,NO,NO,-,"8 [9], 20",i10,-12,KND,-,TAIL SPIN,-30,"1, 2, 1",-
+-,"DRG (4), (1), (2), 3, d+4","high, low",1,1.5,-,-,NO,NO,-,20 [24],i25,-12,KND,-,TAIL SPIN,-30,"2, 1",-
+-,"DRG (4), (1), (2), (3), d+4",low,2,2,SSL / SSR,high,-,-,-,20 [24],i22,-12,KND,KND,FLOAT,-30,1,-
+Dragon's Spite,DRG 1+2,"high, high",2.5,0.5,SSL,-,-,-,-,"5 [6], 20",i18,-2,LAUNCH,LAUNCH,S!,-25,"2, 2",-
+-,DRG 1+2 (second hit only),high,2.75,1,SSR,-,-,-,-,20 [24],-,-,-,-,S!,-25,2,-
+Dragon Spark,DRG f+1+2,mid,2.5,2,SSL / SSR,-,-,-,WALL BREAK / SPLAT,32 [38],i17,-5,KND,KND,FLOAT,-30,1,-
+INTO DRUNKEN MASTER WALK,,,,,,,,,,,,,,,,,,
+Taunt 1,1+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Taunt 2,2+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Drunken Master Walk,f+3+4,-,-,-,-,-,-,-,-,-,15,-,-,-,-,-,-,-
+-,"2, 1, F","high, mid",1.5,1,-,-,YES,NC,-,"10 [12], 13",i10,-11,0,-,FLOAT,-24,"1, 1",-
+-,"d+4, 4, F","low, mid",1.5,2,-,-,NO,NCc,-,"10 [12], 15",i12,-29,-16,-,FLOAT,-47,"1, 1",-
+-,"d/b+4 (clean hit), F",low,1.75,0.25,-,"high, mid",-,-,-,12 [14],i20,-26,KND,KND,FLOAT,-24,2,-
+-,"d/b+4 (far), F",low,1.75,0.25,-,"high, mid",-,-,-,8 [9],i20,-26,-,-,FLOAT,-24,2,-
+Dancing Spear,"BT 1, 1, 3, 2, F","high, mid, low, high",1.5,0.25,-,-,NO,NO,-,"12 [14], 10, 7, 16",i16,-77,KND,-,FLOAT,-,-,-
+-,"BT d+4 (clean hit), F",low,2,0.25,-,-,-,-,-,12 [14],i20,-32,STUN,STUN,FLOAT,-24,1,-
+-,"BT d+4 (far), F",low,2,0.25,-,"high, mid",-,-,-,8 [9],i20,-32,+6,+6,FLOAT,-24,1,-
+Startled Drunk,FCD or SLD 1+2,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+-,"DRU 1, F",mid,2.5,2,-,-,-,-,WALL BREAK / SPLAT,25 [30],i18,-21,KND,KND,FLOAT,-27,3,-
+-,"DRU 2, F (or SS 2, F)",mid,1.75,0.25,-,-,-,-,-,12 [14],i18,-42,-44,STUN,FLOAT,-,-,-
+-,"DRU 2, 2, F (or SS 2, 2, F)","mid, high",1.75,1,-,-,NO,NC,-,"12 [14], 20",i18,+2,+2,+2,TAIL SPIN,-38,"2, 2",-
+-,"DRU 3, F",low,1.5,0.5,-,-,-,-,-,13 [15],i17,-22,-9,-9,FLOAT,-30,1,-
+-,"DRU 3, 2, F","low, mid",1.5,0.5,-,-,NO,NO,-,"13 [15], 20",i17,-8,-,KND,FLOOR BREAK,-39,"1, 1",-
+-,"DRU 4, F",mid,1.5,1.5,-,-,-,-,WALL SPLAT,17 [20],i18,-18,-,KND,FLOAT,-31,1,-
+-,"KND 3 (clean hit), F",low,1.5,0.25,-,"high, mid",-,-,-,12 [14],i20,-26,STUN,STUN,FLOAT,-24,1,-
+-,"KND 3 (far), F",low,1.5,0.25,-,"high, mid",-,-,-,8 [9],i20,-26,-32,-32,FLOAT,-24,1,-
+Startled Drunk,KND or PLD 1+2,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+-,"PHX 1, F",high,2,2.5,-,-,-,-,WALL BREAK / SPLAT,24 [28],i30,-20,KND,KND,FLOAT,-28,1,-
+Phoenix Illusion to Drunken Master Walk,PHX 1+2,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
+-,PHX f,-,-,-,-,-,-,-,-,-,28,-,-,-,-,-,-,-
+DURING DRUNKEN MASTER WALK,,,,,,,,,,,,,,,,,,
+-,DRU f,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,"DRU f, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,DRU b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Drunken Tiger Lash,DRU 1,mid,2.5,2,-,-,-,-,-,25 [30],i18,-11,KND,KND,FLOAT,-27,3,-
+-,DRU 2 (or SS 2),mid,1.75,0.25,-,-,-,-,-,12 [14],i18,-7 (OC),-9 (OC),STUN,FLOAT,-37,2,-
+Drunken Rapid Fists,"DRU 2, 2 (or SS 2, 2)","mid, high",1.75,1,-,-,NO,NC,-,"12 [14], 20",i18,+5,+5,-,TAIL SPIN,-35,"2, 1",-
+-,"DRU (2), 2 (or SS 2, 2)",high,1.75,1,-,-,-,-,-,20 [24],i15,+5,+5,+5,TAIL SPIN,-35,1,-
+-,DRU 3,low,1.5,0.5,SSR,-,-,-,-,13 [15],i17,-19,+1,+1,FLOAT,-30,1,-
+-,"DRU 3, 2","low, mid",1.5,0.5,-,-,NO,-,-,"13 [15], 20",i17,-1,STUN,-,FLOOR BREAK,-31,"1, 2",-
+-,"DRU (3), 2",mid,2.5,0.5,-,-,-,-,-,20 [24],i25,-1,STUN,STUN,FLOOR BREAK,-31,2,-
+Drunken Fox Combination,"DRU 3, 2, 4","low, mid, mid",1.5,3,-,-,NO,NC,-,"13 [15], 20, 12",i17,-21,KND,-,FLOOR BREAK,-24,"1, 2, 1, 3",-
+-,"DRU (3), 2, 4","mid, mid",2.5,3,-,-,YES,NCc,-,"20 [24], 12",i25,-21,KND,-,FLOOR BREAK,-24,"2, 1, 3",-
+-,"DRU (3), (2), 4",mid,1,3,SSL / SSR,-,-,-,-,18 [21],i25,-21,KND,KND,BACK FLIP,-24,"1, 3",-
+Drunken Tiger Kick,DRU 4,mid,1.5,1.5,-,-,-,-,WALL SPLAT,17 [20],i18,-12,LAUNCH,LAUNCH,FLOAT,-35,1,-
+-,DRU 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,"DRU 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Staggering Slide,DRU 3+4,low,1.75,0,SSL,-,-,-,-,23 [27],i29,-12,KND,KND,FLOAT,-29,2,-
+Out of Control,DRU 1+3 (or 2+4),high throw,2.5,-,-,-,-,-,-,33,i15,0,KND,KND,-,-36,"2, 2",-
+Spinning Headbutt,DRU b+1+2,mid,2.5,0,-,"high, low",-,-,-,25 [30],i33,-18,STUN,STUN,FLOAT,-31,11,-
+Drunken Fake to Jab,"DRU u/b+1+2, 1",mid,2.5,2.5,-,high,-,-,WALL BREAK / SPLAT,25 [30],i23,-11,KND,KND,FLOAT,-28,2,-
+INTO KAI SHE SHEN,,,,,,,,,,,,,,,,,,
+She Juan Rui Ya,d/b+1,low,1.5,0,SSL,"high, mid",-,-,-,14 [16],i22,-54,-43,-39,FLOAT,-47,2,-
+Kai She Shen,PLD 3+4,-,-,-,-,"high, mid",-,-,-,-,-,-,-,-,-,-,-,-
+Leaping Tiger to Crouching Snake,"TGR 3, f+1","mid, mid",2,0.75,SWR,low,-,-,WALL BREAK / SPLAT,28 [33],i17,-10,KND,-,S!,-52,3,-
+-,"TGR [3], f+1",mid,2,0.75,-,"high, mid",-,-,-,-,i21,-10,KND,KND,-,-52,3,-
+INTO PANTHER,,,,,,,,,,,,,,,,,,
+Five Gates Form - Panther,"3+4, 2",-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,-
+Razor Rush Panther,"f, n, 1, 2, 1, u (or d)","mid, mid, mid",2,0.5,-,-,NO,NCc,-,"9 [10], 9, 9",i12,-12,+1,-,FLOAT,-28,"1, 1, 1",-
+-,"f, n, (1), 2, 1, u (or d)","mid, mid",0.75,1,-,-,NO,NCc,-,"9 [10], 9",i12,-12,+1,-,FLOAT,-28,"1, 1",-
+-,"f, n, (1), (2), 1, u (or d)",mid,1,1,-,-,-,-,-,9 [10],i15,-12,+1,+1,FLOAT,-28,1,-
+-,"f+1+2, F","high, high",1.75,2,-,-,-,-,-,"13 [15], 10",i16,-7,-2,-2,FLOAT,-25,"1, 1",-
+DURING PANTHER,,,,,,,,,,,,,,,,,,
+-,PAN 1,low,2.5,0.25,SWL / SWR,-,-,-,-,12 [14],i12,-12,+3,+3,TURN OVER,-29,2,-
+Panther's Scratch,PAN 1~2,"low, high",2,1.75,-,-,-,-,WALL BREAK / SPLAT,"12 [14], 21",i6,-32,KND,KND,TAIL SPIN,-40,"2, 4",-
+Panther's Paw,PAN 2,mid,2.5,0,SSL / SSR,-,-,-,WALL SPLAT,21 [25],i15,-10,LAUNCH,LAUNCH,TURN OVER,-27,2,-
+Panther Pounce,PAN 3,low,2,0,SSL / SSR,-,-,-,-,18 [21],i20,-12,-1,+14,-,-29,2,-
+-,PAN 4,high,2.5,0.5,SWR,-,-,-,-,26 [31],i23,-13,+2,LAUNCH,TAIL SPIN,-33,5,-
+-,"PAN 4, 2","high, mid",2.5,1.5,-,-,NO,-,-,"26 [31], 12",i23,0,+6,-,TAIL SPIN,-18,"5, 1",-
+-,"PAN (4), 2",mid,1.5,1.5,SSR,-,-,-,-,12 [14],i14,0,+6,+6,FLOAT,-18,1,-
+-,"PAN 4, 2, 1","high, mid, mid",2.5,1.5,-,-,NO,NCc,-,"26 [31], 12, 12",i23,-12,-1,-,TAIL SPIN,-30,"5, 1, 1",-
+-,"PAN (4), 2, 1","mid, mid",1.5,1.75,-,-,YES,NC,-,"12 [14], 12",i14,-12,-1,-,FLOAT,-30,"1, 1",-
+-,"PAN (4), (2), 1",mid,0.5,1.25,-,-,-,-,-,12 [14],i9,-12,-1,-,FLOAT,-30,1,-
+-,"PAN 4, 2, 1, 2","high, mid, mid, mid",2.5,1,-,-,NO,NCc,-,"26 [31], 12, 12, 8",i23,-12,-1,-,TAIL SPIN,-30,"5, 1, 1, 1",-
+-,"PAN (4), 2, 1, 2","mid, mid, mid",1.5,0.25,-,-,YES,NO,-,"12 [14], 12, 8",i14,-12,-1,-,FLOAT,-30,"1, 1, 1",-
+-,"PAN (4), (2), 1, 2","mid, mid",0.5,0.25,-,-,YES,NCc,-,"12 [14], 8",i9,-12,-1,-,FLOAT,-30,"1, 1",-
+-,"PAN (4), (2), (1), 2",mid,0.5,1.5,SSL,-,-,-,-,8 [9],i15,-12,-1,-1,FLOAT,-30,1,-
+Beating Kick Low Combo,"PAN 4, 2, 1, 2, 3","high, mid, mid, mid, low",2.5,1.5,-,-,NO,NCc,-,"26 [31], 12, 12, 8, 12",i23,-17,-6,-,TAIL SPIN,-35,"5, 1, 1, 1, 1",-
+-,"PAN (4), 2, 1, 2, 3","mid, mid, mid, low",1.5,1.75,-,-,NO,NO,-,"12 [14], 12, 8, 12",i14,-17,-6,-,FLOAT,-35,"1, 1, 1, 1",-
+-,"PAN (4), (2), 1, 2, 3","mid, mid, low",0.5,1.75,-,-,NO,NO,-,"12 [14], 8, 12",i9,-17,-6,-,FLOAT,-35,"1, 1, 1",-
+-,"PAN (4), (2), (1), 2, 3","mid, low",0.5,1.75,-,-,NO,NCc,-,"8 [9], 12",i15,-17,-6,-,FLOAT,-35,"1, 1",-
+-,"PAN (4), (2), (1), (2), 3",low,1.5,1.5,SSL / SSR,-,-,-,-,12 [14],i21,-17,-6,KND,FLOAT,-35,1,-
+Beating Kick Mid Combo,"PAN 4, 2, 1, 2, 4","high, mid, mid, mid, mid",2.5,1.5,-,-,NO,NCc,WALL BREAK / SPLAT,"26 [31], 12, 12, 8, 12",i23,-9,KND,-,TAIL SPIN,-27,"5, 1, 1, 1, 1",-
+-,"PAN (4), 2, 1, 2, 4","mid, mid, mid, mid",1.5,0.5,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 12, 8, 12",i14,-9,KND,-,FLOAT,-27,"1, 1, 1, 1",-
+-,"PAN (4), (2), 1, 2, 4","mid, mid, mid",0.5,1,-,-,NO,NO,WALL BREAK / SPLAT,"12 [14], 8, 12",i9,-9,KND,-,FLOAT,-27,"1, 1, 1",-
+-,"PAN (4), (2), (1), 2, 4","mid, mid",0.5,1,-,-,NO,NCc,WALL BREAK / SPLAT,"8 [9], 12",i15,-9,KND,-,FLOAT,-27,"1, 1",-
+-,"PAN (4), (2), (1), (2), 4",mid,1.5,0.5,-,-,-,-,WALL BREAK / SPLAT,12 [14],i21,-9,KND,KND,FLOAT,-27,1,-
+INTO PHOENIX ILLUSION,,,,,,,,,,,,,,,,,,
+Phoenix Illusion,b+1+4,-,-,-,-,-,-,-,-,-,8,-,-,-,-,-,-,-
+-,"3, B",high,1.75,1.5,-,-,-,-,-,30 [36],i14,-42,-37,-36,S!,-14,1,-
+Turbulent Winds,"f, F+4, 3+4, B","high, high",1.5,1,-,low,-,-,-,"21 [25], 21",i15,-73,-62,-,FLOAT,-32,5,-
+Scythe Kick,"u/b+4, B",mid,1,3,-,-,-,-,-,20 [24],i15,-73,KND,KND,BACK FLIP,-,1,-
+Ballroom Dance,"FC d/f+2, 1, 4","low, low, mid",2,0.5,-,high,NO,NCc,-,"10 [12], 10, 18",i18,-46,-35,-,FLOAT,-,"2, 1, 1",-
+-,"FC (d/f+2), 1, 4","low, mid",1,0.5,-,high,NO,NCc,-,"10 [12], 18",i16,-46,-35,-,FLOAT,-,"1, 1",-
+-,"FC (d/f+2), (1), 4",mid,1.5,1.5,SSL / SSR,high,-,-,-,18 [21],i29,-46,-35,-35,FLOAT,-,1,-
+-,"PHX 3, B",high,1.75,1.5,-,-,-,-,-,30 [36],i14,-36,-37,-36,S!,-,1,-
+-,"DRU 3, 2, 4, B","low, mid, mid",1.5,3,-,-,NO,NC,-,"13 [15], 20, 12",i17,-21,KND,-,FLOOR BREAK,-,"1, 2, 1, 3",-
+DURING PHOENIX ILLUSION,,,,,,,,,,,,,,,,,,
+-,PHX d/b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-37,-,-
+-,PHX 1,high,2,2.5,SSL / SSR,-,-,-,WALL BREAK / SPLAT,24 [28],i30,-10,KND,KND,FLOAT,-28,1,-
+-,PHX 3,high,1.5,2,SWL,-,-,-,-,28 [33],i14,-14,-4,-4,S!,-32,1,-
+Hopping Phoenix,PHX b+3,mid,1.5,0.25,-,-,-,-,WALL BREAK / SPLAT,17 [20],i14,-36,-5,STUN,FLOAT,-15,1,-
+INTO PLAY DEAD (FEET FIRST),,,,,,,,,,,,,,,,,,
+Play Dead (Feet first),d+3+4,-,-,-,-,"high, mid",-,-,-,-,24,-,-,-,-,-,-,-
+-,4~4,low,2,0.5,-,"high, mid",-,-,-,7 [8],i15,-15,-4,-4,FLOAT,-34,1,-
+-,"4~4, 3","low, low",2,0.25,-,"high, mid",NO,NCc,-,"7 [8], 7",i15,-2,+9,-,FLOAT,-21,"1, 1",-
+-,"(4~4), 3",low,1,0.25,SSR,"high, mid",-,-,-,7 [8],i23,-2,+9,+9,FLOAT,-21,1,-
+Lift Up Cannon,"4~4, 3, 3","low, low, mid",2,0.25,-,-,NO,NO,-,"7 [8], 7, 24",i15,-7,LAUNCH,-,BACK FLIP,-35,"1, 1, 2",-
+-,"(4~4), 3, 3","low, mid",1,0.25,-,-,NO,NCc,-,"7 [8], 24",i23,-7,LAUNCH,-,BACK FLIP,-35,"1, 2",-
+-,"(4~4), (3), 3",mid,1,0.25,-,-,-,-,-,24 [28],i29,-7,LAUNCH,LAUNCH,BACK FLIP,-35,2,-
+-,"u+1+2, D",-,5.5,0,-,low,-,-,-,-,55,-,-,-,-,-,-,-
+Dragon's Whip,"f, F+3+4",mid,3,0.5,-,low,-,-,WALL BREAK / SPLAT,25 [30],i24,+2,KND,KND,FLOAT,-25,3,-
+Falling Blade,"SS 3+4, D",mid,3,0,-,-,-,-,-,15 [18],i24,-46,-41,-41,FLOOR BREAK,-,3,-
+Tiger Sip,"DRU 1+2, 1+2, 1+2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Drunken Stupor,DRU u/b+1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+DURING INTO PLAY DEAD (FEET FIRST),,,,,,,,,,,,,,,,,,
+-,PLD 2,-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-,-
+Lotus Cutter,PLD 3,low,1.5,0.25,SWL / SWR,"high, mid",-,-,-,14 [16],i19,-37,KND,KND,FLOAT,-48,5,-
+Dan Jiao,PLD 4,mid,2,0,HOMING,high,-,-,WALL BREAK / SPLAT,17 [20],i25,-13,+11,+11,S!,-30,2,-
+-,PLD b+3+4,mid,0,0,-,-,-,-,-,20 [24],i30,-5,KND,KND,FLOAT,-22,2,-
+INTO PLAY DEAD (HEAD FIRST),,,,,,,,,,,,,,,,,,
+Play Dead (Head first),d+2+3,-,-,-,-,"high, mid",-,-,-,-,25,-,-,-,-,-,-,-
+Falling Tree,BT u/f+2,mid,1.5,0.25,-,low,-,-,-,25 [30],i32,-14,-3,-3,FLOOR BREAK,-33,6,-
+Low Kick to Play Dead,FCD 3~4 (clean hit),low,3,0.25,-,"high, mid",-,-,-,12 [14],i24,-26,KND,KND,FLOAT,-34,2,-
+Low Kick to Play Dead,FCD 3~4 (far),low,3,1,-,"high, mid",-,-,-,8 [9],i24,-26,-10,-10,FLOAT,-34,2,-
+DURING INTO PLAY DEAD (HEAD FIRST),,,,,,,,,,,,,,,,,,
+-,KND 3 (clean hit),low,1.5,0.25,SWL / SSR,"high, mid",-,-,-,12 [14],i20,-26,LAUNCH,LAUNCH,FLOAT,-32,2,-
+-,KND 3 (far),low,1.5,1,SWL / SSR,"high, mid",-,-,-,8 [9],i20,-26,+2,+2,FLOAT,-32,2,-
+Leaping Double Slicer,"KND 3, 4","low, high",1.5,0.25,-,-,NO,NC,WALL BREAK / SPLAT,"8 [9], 21",i20,-26,KND,-,TAIL SPIN,-31,"2, 6",-
+-,"KND (3), 4",high,2,0,-,low,-,-,WALL BREAK / SPLAT,30 [36],i31,-10,KND,KND,TAIL SPIN,-31,6,-
+Spring Kick,KND 4,mid,1.5,1,SSL / SSR,-,-,-,WALL SPLAT,20 [24],i22,-12,LAUNCH,LAUNCH,BACK FLIP,-29,2,-
+Po Long Sheng Tui,KND 3+4,"low, s.mid",1.5,1,SSL / SSR,high,-,-,-,"12 [14], 9",i20,-26,KND,KND,TAIL SPIN,-43,"5, 2",-
+DURING PLAY DEAD / SIDEWIND,,,,,,,,,,,,,,,,,,
+Turn Over,FCD or SLD 1 (or d+1),-,-,-,-,-,-,-,-,-,24,-,-,-,-,-,-,-
+Meng Xian,FCD or SLD 2 (or While facing down... 2),-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-,-
+Turn Over,KND or PLD 1 (or d+1),-,-,-,-,-,-,-,-,-,24,-,-,-,-,-,-,-
+Meng Xian,KND or PLD 2 (or While facing down... 2),-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-,-
+Hangover,KND or PLD 1+2+3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+INTO SIDEWIND (FEET FIRST),,,,,,,,,,,,,,,,,,
+Sidewind (Feet first),d+1+2,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+Mule Kick,d/b+3+4,mid,1.5,0.25,-,-,-,-,-,22 [26],i19,-21,KND,KND,FLOAT,-38,2,-
+Clean Sweep,4~3,mid,3.75,1,SSR,high,-,-,WALL BREAK / SPLAT,25 [30],i29,-16,+4,+4,S!,-36,4,-
+-,BT d+1+4,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+-,PLD 1,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+Clean Sweep,FCD 4~3,mid,2.5,0.75,-,high,-,-,WALL BREAK / SPLAT,20 [24],i21,-16,+4,+4,S!,-36,4,-
+DURING SIDEWIND (FEET FIRST),,,,,,,,,,,,,,,,,,
+Maelstrom Sweep,FCD 3,low,2.5,0.25,-,"high, mid",-,-,-,21 [25],i24,-37,KND,KND,FLOAT,-,-,-
+-,"FCD 3~4, D (clean hit)",low,3,0.25,SSR,"high, mid",-,-,-,12 [14],i24,-26,KND (FUFA),KND (FUFA),FLOAT,-,-,-
+-,"FCD 3~4, D (far)",low,3,0.25,SSR,"high, mid",-,-,-,8 [9],i24,-26,-10 (FUFA),-10 (FUFA),FLOAT,-,-,-
+-,"FCD 4~3, D",mid,2.5,0.75,-,"high, mid",-,-,WALL BREAK / SPLAT,20 [24],i21,-16,+4  (FDFT),+4  (FDFT),S!,-,-,-
+Fu Qin Tian Jiao,FCD 3+4,"mid, mid",1,0.25,SSR,high,-,-,WALL BREAK / SPLAT,"5 [6], 20",i22,-7,KND,KND,TAIL SPIN,-,-,-
+INTO SIDEWIND (HEAD FIRST),,,,,,,,,,,,,,,,,,
+Sidewind (Head first),d+1+4,-,-,-,-,"high, mid",-,-,-,-,25,-,-,-,-,-,-,-
+Backfist Elbow Drop,"BT 1+2, 2","high, mid",1.5,0,-,-,NO,NO,-,"12 [14], 18",10,-19,-3 (OC),-,FLOOR BREAK,-33,"3, 5",-
+-,"BT (1+2), 2",mid,2,0,-,-,-,-,-,18 [21],i37,-19,-3 (OC),+5 (OC),FLOOR BREAK,-33,5,-
+Drunken Fall,DRU u/f+1+2,mid,2.5,0,-,low,-,-,-,21 [25],i30,-9,-6,KND,FLOOR BREAK,-36,4,-
+Phoenix Drunken Tiger Stumble,"PHX 1, D",high,2,0.25,-,-,-,-,WALL BREAK / SPLAT,24 [28],i30,-21,KND,KND,FLOAT,-39,1,-
+-,"PHX (1), D+2",low,1.25,0.25,-,"high, mid",-,-,-,14 [16],i6,-15,0,0,FLOAT,-33,"1, 1",-
+DURING SIDEWIND (HEAD FIRST),,,,,,,,,,,,,,,,,,
+Sliding Kick,SLD 4~3,low,2.5,0,SSL,"high, mid",-,-,-,15 [18],i24,-24,KND,KND,FLOAT,-38,5,-
+-,"SLD 4~3, D",low,2.5,0,-,"high, mid",-,-,-,15 [18],i24,-24,KND,KND,FLOAT,-39,5,-
+Bicycle Kicks,SLD 3+4,"mid, mid",1.5,0,SSL / SSR,-,-,-,WALL BREAK / SPLAT,"5 [6], 21",i18,-20,KND,KND,FLOAT,-36,"1, 1, 1",-
+-,"SLD 3+4, D","mid, mid",1.5,0,-,-,-,-,WALL BREAK / SPLAT,"5 [6], 21",i18,-20,KND,KND,FLOAT,-37,"1, 1, 1",-
+Deadly Current,SLD d+3+4,low,1.5,2.5,SSL,"high, mid",-,-,-,23 [27],i29,-42,KND,KND,FLOAT,-,2,-
+INTO SNAKE,,,,,,,,,,,,,,,,,,
+Five Gates Form - Snake,3+4,-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,-
+-,"1, 1, F","high, high",1.5,1,-,-,YES,NC,-,"7 [8], 12",i10,-5,+6,-,FLOAT,-,-,-
+Razor Rush Snake,"f, n, 1, u (or d)",mid,2,0.5,-,-,-,-,-,9 [10],i12,-2,+7,+7,FLOAT,-18,1,-
+-,"d/f+2, F",mid,1.5,0,-,-,-,-,WALL SPLAT,12 [14],i15,-9,LAUNCH,LAUNCH,FLOAT,-13,1,-
+-,"d+4, D",low,1.5,1.5,-,-,-,-,-,10 [12],i12,-14,-2,-2,FLOAT,-26,2,-
+-,"d/b+4 (clean hit), U (or D)",low,1.75,0.25,-,"high, mid",-,-,-,12 [14],i20,-26,KND,KND,FLOAT,-19,1,-
+-,"d/b+4 (far), U (or D)",low,1.75,0.25,-,"high, mid",-,-,-,8 [9],i20,-26,+6,+6,FLOAT,-19,1,-
+-,"BT d+4 (clean hit), U (or D)",low,2,0.25,-,"high, mid",-,-,-,12 [14],i20,-26,STUN,STUN,FLOAT,-19,1,-
+-,"BT d+4 (far), U (or D)",low,2,0.25,-,"high, mid",-,-,-,8 [9],i20,-26,+6,+6,FLOAT,-19,1,-
+Phoenix Cutter,PHX 4,low,2.5,0.25,-,-,-,-,-,19 [22],i25,-14,+2,+12,FLOAT,-30,3,-
+-,PHX d (or u)+2+3,-,-,-,-,-,-,-,-,-,27,-,-,-,-,-,-,-
+-,"KND 3 (clean hit), U (or D)",low,1.5,0.25,-,"high, mid",-,-,-,12 [14],i20,-26,STUN,STUN,FLOAT,-19,1,-
+-,"KND 3 (far), U (or D)",low,1.5,1,-,"high, mid",-,-,-,8 [9],i20,-26,+6,+6,FLOAT,-19,1,-
+-,"SNA 1, 1, F","high, high",2,0.5,-,-,YES,NC,-,"10 [12], 9",i11,-6,+5,-,FLOAT,-17,"1, 1",-
+-,"SNA 1, 1, 1, F","high, high, high",2,1,-,-,YES,NC,-,"10 [12], 9, 8",i11,-9,+2,-,FLOAT,-17,"1, 1, 1",-
+-,"SNA 1, 1, 1, 1, F","high, high, high, high",2,1,-,-,YES,NO,-,"10 [12], 9, 8, 7",i11,-6,+2,-,FLOAT,-17,"1, 1, 1, 1",-
+-,"SNA 1, 1, 1, 1, 1, F","high, high, high, high, high",2,1,-,-,YES,NO,-,"10 [12], 9, 8, 7, 6",i11,-9,+2,-,FLOAT,-17,"1, 1, 1, 1, 1",-
+DURING SNAKE,,,,,,,,,,,,,,,,,,
+-,SNA 1,high,2,0.25,-,-,-,-,-,10 [12],i11,-6,+5,+5,FLOAT,-24,1,-
+-,"SNA 1, 1","high, high",2,0.5,-,-,YES,NC,-,"10 [12], 9",i11,-6,+5,-,FLOAT,-24,"1, 1",-
+-,"SNA (1), 1",high,1,1,-,-,-,-,-,9 [10],i12,-6,+5,+5,FLOAT,-24,1,-
+-,"SNA 1, 1, 1","high, high, high",2,1,-,-,YES,NC,-,"10 [12], 9, 8",i11,-6,+5,-,FLOAT,-24,"1, 1, 1",-
+-,"SNA (1), 1, 1","high, high",1,1,-,-,YES,NC,-,"9 [10], 8",i11,-6,+5,-,FLOAT,-24,"1, 1",-
+-,"SNA (1), (1), 1",high,1,1,-,-,-,-,-,8 [9],i12,-6,+5,+5,FLOAT,-24,1,-
+-,"SNA 1, 1, 1, 1","high, high, high, high",2,1,-,-,YES,NO,-,"10 [12], 9, 8, 7",i11,-6,+5,-,FLOAT,-24,"1, 1, 1, 1",-
+-,"SNA (1), 1, 1, 1","high, high, high",1,1,-,-,YES,NO,-,"9 [10], 8, 7",i11,-6,+5,-,FLOAT,-24,"1, 1, 1",-
+-,"SNA (1), (1), 1, 1","high, high",1,1,-,-,YES,NCc,-,"8 [9], 7",i12,-6,+5,-,FLOAT,-24,"1, 1",-
+-,"SNA (1), (1), (1), 1",high,1,1,-,-,-,-,-,7 [8],i12,-6,+5,+5,FLOAT,-24,1,-
+-,"SNA 1, 1, 1, 1, 1","high, high, high, high, high",2,1,-,-,YES,NO,-,"10 [12], 9, 8, 7, 6",i11,-6,+5,-,FLOAT,-24,"1, 1, 1, 1, 1",-
+Rushing Snake,"SNA (1), 1, 1, 1, 1","high, high, high, high",1,1,-,-,YES,NO,-,"9 [10], 8, 7, 6",i11,-6,+5,-,FLOAT,-24,"1, 1, 1, 1",-
+-,"SNA (1), (1), 1, 1, 1","high, high, high",1,1,-,-,YES,NO,-,"8 [9], 7, 6",i12,-6,+5,-,FLOAT,-24,"1, 1, 1",-
+-,"SNA (1), (1), (1), 1, 1","high, high",1,1,-,-,YES,NCc,-,"7 [8], 6",i12,-6,+5,-,FLOAT,-24,"1, 1",-
+-,"SNA (1), (1), (1), (1), 1",high,1,1,-,-,-,-,-,6 [7],i12,-6,+5,+5,FLOAT,-24,1,-
+-,"SNA 1, 2","high, mid",2,0,-,-,YES,NC,-,"10 [12], 13",i11,-13,-2,-,FLOAT,-31,"1, 1",-
+-,"SNA (1), 2",mid,0.5,0.25,-,-,-,-,-,13 [15],i13,-13,-2,-2,FLOAT,-31,1,-
+-,"SNA 1, 2, 1","high, mid, mid",2,0.25,-,-,YES,NC,-,"10 [12], 13, 10",i11,-10,+1,-,FLOAT,-28,"1, 1, 1",-
+-,"SNA (1), 2, 1","mid, mid",0.5,0.5,-,-,YES,NC,-,"13 [15], 10",i13,-10,+1,-,FLOAT,-28,"1, 1",-
+-,"SNA (1), (2), 1",mid,0.5,0.5,-,-,-,-,-,10 [12],i10,-10,+1,+1,FLOAT,-28,1,-
+Snapping Snake,"SNA 1, 2, 1, 2","high, mid, mid, high",2,2.5,-,-,NO,NO,WALL BREAK / SPLAT,"10 [12], 13, 10, 20",i11,-8,KND,-,FLOAT,-31,"1, 1, 1, 1",-
+-,"SNA (1), 2, 1, 2","mid, mid, high",0.5,2.5,-,-,NO,NO,-,"13 [15], 10, 20",i13,-8,KND,-,FLOAT,-31,"1, 1, 1",-
+-,"SNA (1), (2), 1, 2","mid, high",0.5,2.5,-,-,NO,NCc,-,"10 [12], 20",i10,-8,KND,-,FLOAT,-31,"1, 1",-
+-,"SNA (1), (2), (1), 2",high,1,2.5,SSR,-,-,-,-,20 [24],i23,-8,KND,KND,FLOAT,-31,1,-
+-,SNA 2,mid,2,1,SSL,-,-,-,-,15 [18],i15,-10,+1,+1,FLOAT,-28,1,-
+-,"SNA 2, 2","mid, mid",2,0.25,-,-,YES,-,-,"15 [18], 10",i15,-12,-1,-,FLOAT,-23,"1, 1",-
+-,"SNA (2), 2",mid,1.5,0.5,SSL,-,-,-,-,10 [12],i16,-12,-1,-1,FLOAT,-23,1,-
+-,"SNA 2, 2, 2","mid, mid, mid",2,0.5,-,-,NO,NC,-,"15 [18], 10, 15",i15,-17,-1,-,FLOAT,-35,"1, 1, 1",-
+-,"SNA (2), 2, 2","mid, mid",1.5,0.25,-,-,NO,NC,-,"10 [12], 15",i16,-17,-1,-,FLOAT,-35,"1, 1",-
+Snake Bites,"SNA (2), (2), 2",mid,1,1.5,SSL / SSR,-,-,-,-,15 [18],i22,-17,-1,-1,FLOAT,-35,1,-
+Rattlesnake,SNA 3,mid,2,0.25,-,-,-,-,WALL SPLAT,30 [36],i28,-7,LAUNCH,LAUNCH,FLOAT,-30,1,-
+Snake Low Kick,SNA 4,low,1.75,0.25,SSL / SSR,-,-,-,-,11 [13],i15,-13,-2,-2,FLOAT,-31,1,-
+Angry Viper,SNA 1+2,mid,1.75,1,SSR,-,-,-,WALL BREAK / SPLAT,25 [30],i21,-10,KND,KND,FLOAT,-32,2,-
+INTO TIGER,,,,,,,,,,,,,,,,,,
+Five Gates Form - Tiger,"3+4, 3",-,-,-,-,-,-,-,-,-,49,-,-,-,-,-,-,-
+Razor Rush Tiger,"f, n, 1, 2, 1, 2, u (or d)","mid, mid, mid, mid",2,0.5,-,-,NO,NCc,-,"9 [10], 9, 9, 9",i12,-12,+1,-,FLOAT,-28,"1, 1, 1, 1",-
+-,"f, n, (1), 2, 1, 2, u (or d)","mid, mid, mid",0.75,1,-,-,NO,NO,-,"9 [10], 9, 9",i12,-12,+1,-,FLOAT,-28,"1, 1, 1",-
+-,"f, n, (1), (2), 1, 2, u (or d)","mid, mid",1,1,-,-,NO,NCc,-,"9 [10], 9",i15,-12,+1,-,FLOAT,-28,"1, 1",-
+-,"f, n, (1), (2), (1), 2, u (or d)",mid,1,0.5,-,-,-,-,-,9 [10],i15,-14,+1,+1,FLOAT,-28,1,-
+-,"f, n, (1), (2), (1), (2), u (or d)",-,-,-,-,-,-,-,-,-,14,-,-,-,-,-,-,-
+-,"f, n, 4, 1, F","high, mid",1.5,0.5,-,-,NO,NC,-,"18 [21], 12",i10,-16,-10,-,FLOAT,-17,"1, 1",-
+-,"f, n, (4), 1, F",mid,1.5,1.5,-,-,-,-,-,12 [14],i23,-16,-10,-10,FLOAT,-17,1,-
+-,"d/f+1+2, F",mid,1.5,0.25,-,-,-,-,-,21 [25],i17,-1,+2 (OC),+2 (OC),FLOOR BREAK,-19,1,-
+Snake Palm Fist,"SS 1, F",high,2,0,-,-,-,-,-,21 [25],i16,-11,0,0,FLOAT,-17,1,-
+DURING TIGER,,,,,,,,,,,,,,,,,,
+Tiger's Strike,TGR 1,mid,1.5,1,-,-,-,-,-,22 [26],i16,+2,+2,LAUNCH,FLOOR BREAK,-26,2,-
+-,TGR 2,mid,2,0.5,SSL,high,-,-,-,12 [14],i15,-14,-3,-3,FLOAT,-32,1,-
+Double Tiger Claw,"TGR 2, 2","mid, high",2,0.25,-,-,NO,NC,WALL BREAK / SPLAT,"12 [14], 14",i18,-8,S!,-,S!,-31,"1, 2",-
+-,"TGR (2), 2",high,1.5,0.25,SWL / SWR,-,-,-,WALL BREAK / SPLAT,21 [25],i18,-8,KND,S!,S!,-31,2,-
+Leaping Tiger,TGR 3,mid,2,0,SWR,low,-,-,WALL BREAK / SPLAT,28 [33],i17,-12,KND,KND,S!,-34,3,-
+Leaping Tiger to Coiled Snake,"TGR 3, f+4","mid, low",2,0,-,-,-,-,-,28 [33],i17,-29,KND,-,S!,-46,"3, 2",-
+-,"TGR [3], f+4",low,1.5,0.5,SWL / SWR,"high, mid",-,-,-,14 [16],i24,-29,KND,KND,FLOAT,-46,2,-
+Tiger's Tail,TGR 4,low,2,0.75,SSR,-,-,-,-,12 [14],i15,-26,LAUNCH,LAUNCH,FLOAT,-34,1,-
+Double Tiger Palm,TGR 1+2,mid,2.5,2,-,-,-,-,WALL BOUNCE,25 [30],i25,-7,KND,KND,FLOAT,-30,2,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,
+Mauling Dragon,"f, F+2",mid,2,0.25,SSL,-,-,-,WALL BREAK / SPLAT,24 [28],i18,-12,+7,+7,S!,-34,2,-
+Phoenix Wrath,PHX 2,mid,2,0.25,SSL,-,-,-,WALL BREAK / SPLAT,23 [27],i18,-12,S!,S!,S!,-34,2,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) d/f+3+4,mid,3,0,-,-,-,-,-,55 [57],i20,-22,KND,KND,ACTIVATE,-44,2,-
+Rage Drive 1,(During Rage) SNA 1+4,mid,2,4.5,-,-,-,-,WALL BREAK / SPLAT,40 [48],i20,+8,KND,KND,FLOAT,-32,2,-
+Rage Drive 2,(During Rage) DRG 1+4,mid,2.5,3,-,-,-,-,WALL BREAK / SPLAT,40 [48],i17,+11,KND,KND,FLOAT,-30,1,-
+Rage Drive 3,(During Rage) PAN 1+4,mid,2.5,1,SWL / SWR,-,-,-,WALL BREAK / SPLAT,"10 [12], 15",i12,-14,S!,S!,S!,-38,"2, 4",-
+Rage Drive 4,(During Rage) TGR 1+4,mid,2.5,1,-,-,-,-,-,30 [36],i16,+14,LAUNCH,LAUNCH,FLOOR BREAK,-26,2,-
+Rage Drive 5,(During Rage) CRA 1+4,mid,2,2,-,-,-,-,-,24 [28],i17,-8,LAUNCH,LAUNCH,BACK FLIP,-23,3,-
+UNBLOCKABLE ATTACKS,,,,,,,,,,,,,,,,,,
+Phoenix Strike,PHX f+4,!,3,-,-,low,-,-,-,45 [54],i65,!,KND,KND,FLOOR BREAK,-38,4,-
+THROWS,,,,,,,,,,,,,,,,,,
+Double Foot Stomp,Approach enemy... 1+3,high throw,1.5,-,-,-,-,-,-,35,i12,-6,KND,-,-,-24,3,-
+Sleeper Hold,Approach enemy... 2+4,high throw,1.5,-,-,-,-,-,-,35,i12,-3,KND,-,-,-24,3,-
+Double Foot Stomp,Approach enemy... f+1+3,high throw,2,-,-,-,-,-,-,35,i15,-6,KND,-,-,-32,3,-
+Sleeper Hold,Approach enemy... f+2+4,high throw,2,-,-,-,-,-,-,35,i15,-3,KND,-,-,-32,3,-
+Sailboat Stretch,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-3,KND,-,-,-24,3,-
+Closing Fan,Approach from right side...  1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-3,KND,-,-,-24,3,-
+Windmill,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,50,i12,-,KND,-,-,-24,3,-
+Dragon Falls,Approach enemy... u/f+1+2,high throw,1,-,-,-,-,-,-,40,i12,-6,KND,-,-,-26,1,-
+Tripping,"Approach enemy... f, F+1+2",high throw,1,-,-,-,-,-,-,38,i12,0,KND,-,-,-26,1,-
+-,"WR f, f, F (Mid Screen)",mid,0,-,SSL / SSR,high,-,-,-,5,i16,-5 (BT),KND,-,-,-32,1,-
+DURING TACKLE,,,,,,,,,,,,,,,,,,
+-,(During Tackle) 1 (or 2),-,-,-,-,-,-,-,-,5,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5, 15",-,-,KND,-,-,-,-,-

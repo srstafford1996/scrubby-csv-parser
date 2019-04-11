@@ -1,157 +1,168 @@
-MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,RECOVERY,ACTIVE,NOTES
-*,"Back towards wall... b, b, u/b",-,-,-,-,-,-,-,-,-,23,0,KND,KND,-,-,-,-,-
-*,1,-,-,-,-,-,-,-,-,-,10,+1,+8,+8,-,-,-,-,-
-Iron Breaker,"1, 2",-,-,-,-,-,-,-,-,-,10,-17,KND,KND,-,-,-,-,-
-*,"(1), 2",-,-,-,-,-,-,-,-,-,16,-17,KND,KND,-,-,-,-,-
-*,2,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
-Double Gimlet,"2, 1",-,-,-,-,-,-,-,-,-,10,-7,+4,+4,-,-,-,-,-
-*,"(2), 1",-,-,-,-,-,-,-,-,-,18,-7,+4,+4,-,-,-,-,-
-Left Wrench Kick,3,-,-,-,-,-,-,-,-,-,14,-9,+2,+2,-,-,-,-,-
-Right Wrench Kick,4,-,-,-,-,-,-,-,-,-,16,-9,+2,KND,-,-,-,-,-
-*,u+3,-,-,-,-,-,-,-,-,-,20,-9,+5,+3,-,-,-,-,-
-Jumping Elbow,u/f+1,-,-,-,-,-,-,-,-,-,23,-9,KND,KND,-,-,-,-,-
-Staple Knee,u/f+3,-,-,-,-,-,-,-,-,-,20,-3,+6,LAUNCH,-,-,-,-,-
-Giant Press,u/f+1+2,-,-,-,-,-,-,-,-,-,35,-7,KND,KND,-,-,-,-,-
-Crushing Stomp,u/f+3+4,-,-,-,-,-,-,-,-,-,31,-3,KND,KND,-,-,-,-,-
-*,f+2,-,-,-,-,-,-,-,-,-,16,-9,+7,STUN,-,-,-,-,-
-*,"f+2, 1",-,-,-,-,-,-,-,-,-,19,-3,+5,KND,-,-,-,-,-
-*,"(f+2), 1",-,-,-,-,-,-,-,-,-,19,-3,+5,+5,-,-,-,-,-
-Mad Rampage,"f+2, 1, 1",-,-,-,-,-,-,-,-,-,16,-12,KND,KND,-,-,-,-,-
-*,"(f+2), 1, 1",-,-,-,-,-,-,-,-,-,19,-12,KND,KND,-,-,-,-,-
-*,"(f+2), (1), 1",-,-,-,-,-,-,-,-,-,28,-12,KND,KND,-,-,-,-,-
-Double Monster Hook,"f+2, f+1",-,-,-,-,-,-,-,-,-,16,-9,+5,KND,-,-,-,-,-
-*,"(f+2), f+1",-,-,-,-,-,-,-,-,-,19,-9,+5,+5,-,-,-,-,-
-Monster Axe,"f+2, d+1",-,-,-,-,-,-,-,-,-,16,-13,+2 (OC),KND,-,-,-,-,-
-*,"(f+2), d+1",-,-,-,-,-,-,-,-,-,21,-13,+2 (OC),+2 (OC),-,-,-,-,-
-*,f+3,-,-,-,-,-,-,-,-,-,23,-9,+9,+9,-,-,-,-,-
-Crazy Knuckle Combo,"f+3, 2",-,-,-,-,-,-,-,-,-,23,-13,KND,KND,-,-,-,-,-
-*,"(f+3), 2",-,-,-,-,-,-,-,-,-,7,-13,KND,KND,-,-,-,-,-
-*,"f+3, 2 (Hold)",-,-,-,-,-,-,-,-,-,23,+15,KND,KND,-,-,-,-,-
-*,"(f+3), 2 (Hold)",-,-,-,-,-,-,-,-,-,52,+15,KND,KND,-,-,-,-,-
-Burring Reamer,f+4,-,-,-,-,-,-,-,-,-,6,-14,KND,KND,-,-,-,-,-
-*,f+4 (Hold),-,-,-,-,-,-,-,-,-,43,+26,KND,KND,-,-,-,-,-
-Quick Head-Butt,f+1+2,-,-,-,-,-,-,-,-,-,13,-9,+6,GRAB,-,-,-,-,-
-Unchained Upper,"f, F+2",-,-,-,-,-,-,-,-,-,16,-8,KND,KND,-,-,-,-,-
-Dashing Knee,"f, F+3",-,-,-,-,-,-,-,-,-,17,-9,+3,STUN,-,-,-,-,-
-*,"f, F+4",-,-,-,-,-,-,-,-,-,17,-8,+3,+3,-,-,-,-,-
-Gorefoot Impact,"f, F+4, 2",-,-,-,-,-,-,-,-,-,17,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Gorefoot Impact,"(f, F+4), 2",-,-,-,-,-,-,-,-,-,32,-13,LAUNCH,LAUNCH,-,-,-,-,-
-*,"f, F+1+2",-,-,-,-,-,-,-,-,-,17,-16,STUN,STUN,-,-,-,-,-
-Vice Grip Hammer,"f, F+1+2, 1+2",-,-,-,-,-,-,-,-,-,17,-1,KND,KND,-,-,-,-,-
-*,"(f, F+1+2), 1+2",-,-,-,-,-,-,-,-,-,25,-1,KND,KND,-,-,-,-,-
-Charging Tackle,"f, f, f+2",-,-,-,-,-,-,-,-,-,21,+7,KND,KND,-,-,-,-,-
-Hazardous Hook,d/f+1,-,-,-,-,-,-,-,-,-,14,-6,+7,+7,-,-,-,-,-
-*,d/f+2,-,-,-,-,-,-,-,-,-,15,-7,+6,+6,-,-,-,-,-
-Double Hook Reactor,"d/f+2, 1",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"(d/f+2), 1",-,-,-,-,-,-,-,-,-,18,-13,KND,KND,-,-,-,-,-
-*,d/f+3,-,-,-,-,-,-,-,-,-,13,-9,+4,+4,-,-,-,-,-
-Nail Gun Punch,"d/f+3, 1",-,-,-,-,-,-,-,-,-,13,-4,+4,+4,-,-,-,-,-
-*,"(d/f+3), 1",-,-,-,-,-,-,-,-,-,23,-4,+4,+10,-,-,-,-,-
-*,"d/f+3, 1+2",-,-,-,-,-,-,-,-,-,13,-16,STUN,STUN,-,-,-,-,-
-*,"(d/f+3), 1+2",-,-,-,-,-,-,-,-,-,27,-16,STUN,STUN,-,-,-,-,-
-Vice Grip Hammer Rush,"d/f+3, 1+2, 1+2",-,-,-,-,-,-,-,-,-,13,-1,KND,KND,-,-,-,-,-
-Vice Grip Hammer Rush,"(d/f+3), 1+2, 1+2",-,-,-,-,-,-,-,-,-,27,-1,KND,KND,-,-,-,-,-
-Vice Grip Hammer Rush,"(d/f+3), (1+2), 1+2",-,-,-,-,-,-,-,-,-,25,-1,KND,KND,-,-,-,-,-
-*,d/f+4,-,-,-,-,-,-,-,-,-,14,-3,+3,+8,-,-,-,-,-
-Nail Gun,"d/f+4, 1+2",-,-,-,-,-,-,-,-,-,14,+1 (OC),+5 (OC),+5 (OC),-,-,-,-,-
-*,"(d/f+4), 1+2",-,-,-,-,-,-,-,-,-,36,+1 (OC),+5 (OC),+5 (OC),-,-,-,-,-
-*,d/f+1+2,-,-,-,-,-,-,-,-,-,25,-20,-9 (OC),KND,-,-,-,-,-
-*,d/f+1+2 (second hit only),-,-,-,-,-,-,-,-,-,47,-20,-9 (OC),KND,-,-,-,-,-
-Excavator,"d/f+1+2, 1+2",-,-,-,-,-,-,-,-,-,25,-18,KND,KND,-,-,-,-,-
-*,"d/f+1+2 (second hit only), 1+2",-,-,-,-,-,-,-,-,-,47,-18,KND,KND,-,-,-,-,-
-*,"(d/f+1+2), 1+2",-,-,-,-,-,-,-,-,-,28,-18,KND,KND,-,-,-,-,-
-Sledgehammer,d+2,-,-,-,-,-,-,-,-,-,15,-14,LAUNCH,LAUNCH,-,-,-,-,-
-*,d+3,-,-,-,-,-,-,-,-,-,16,-12,-1,-1,-,-,-,-,-
-Ignition Coil,"d+3, 2",-,-,-,-,-,-,-,-,-,16,-12 (OC),0 (OC),KND,-,-,-,-,-
-Ignition Coil,"(d+3), 2",-,-,-,-,-,-,-,-,-,22,-12 (OC),0 (OC),KND,-,-,-,-,-
-End Mill,d/b+2,-,-,-,-,-,-,-,-,-,23,-14,+3 (OC),KND,-,-,-,-,-
-Shin Breaker,d/b+3,-,-,-,-,-,-,-,-,-,21,-28,+6,+6,-,-,-,-,-
-Chisel Kick,d/b+4,-,-,-,-,-,-,-,-,-,14,-13,-2,+3,-,-,-,-,-
-Fork Lift,d/b+1+2,-,-,-,-,-,-,-,-,-,29,-8,KND,KND,-,-,-,-,-
-Fracturing Upper,b+1,-,-,-,-,-,-,-,-,-,20,-15,LAUNCH,LAUNCH,-,-,-,-,-
-Crazy Knuckle,b+2,-,-,-,-,-,-,-,-,-,7,-13,KND,KND,-,-,-,-,-
-*,b+2 (Hold),-,-,-,-,-,-,-,-,-,41,+15,KND,KND,-,-,-,-,-
-Deadly Cannon,b+3,-,-,-,-,-,-,-,-,-,21,-9,KND,KND,-,-,-,-,-
-Heavy Stomp,b+4,-,-,-,-,-,-,-,-,-,20,-9,+1,KND,-,-,-,-,-
-Rusty Nail,b+1+2,-,-,-,-,-,-,-,-,-,25,+1,+5,+5,-,-,-,-,-
-*,BT 1 (or 2),-,-,-,-,-,-,-,-,-,8,-8,+3,+3,-,-,-,-,-
-*,BT 3 (or 4),-,-,-,-,-,-,-,-,-,10,-8,KND,KND,-,-,-,-,-
-*,FC 1,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
-*,FC 2,-,-,-,-,-,-,-,-,-,11,-4,+7,+7,-,-,-,-,-
-*,FC 3,-,-,-,-,-,-,-,-,-,16,-17,-3,-3,-,-,-,-,-
-*,FC 4,-,-,-,-,-,-,-,-,-,12,-15,-4,-4,-,-,-,-,-
-Brush Cutter,FC d/f+2,-,-,-,-,-,-,-,-,-,28,-19,KND,LAUNCH,-,-,-,-,-
-Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,8,+13,KND,KND,-,-,-,-,-
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,12,!,KND,KND,-,-,-,-,-
-*,WR 4,-,-,-,-,-,-,-,-,-,14,-40,KND,KND,-,-,-,-,-
-*,WR+1+2,-,-,-,-,-,-,-,-,-,18,0,KND,KND,-,-,-,-,-
-Knocking Shoulder,WS 1,-,-,-,-,-,-,-,-,-,11,-7,+3,+3,-,-,-,-,-
-*,WS 2,-,-,-,-,-,-,-,-,-,15,-5,+4,+4,-,-,-,-,-
-Savage Knee,"WS 2, 3",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"WS (2), 3",-,-,-,-,-,-,-,-,-,19,-13,KND,KND,-,-,-,-,-
-Savage Reamer,"WS 2, 4",-,-,-,-,-,-,-,-,-,15,-14,KND,KND,-,-,-,-,-
-*,"WS (2), 4",-,-,-,-,-,-,-,-,-,6,-14,KND,KND,-,-,-,-,-
-*,"WS 2, 4 (Hold)",-,-,-,-,-,-,-,-,-,15,+27,KND,KND,-,-,-,-,-
-*,"WS (2), 4 (Hold)",-,-,-,-,-,-,-,-,-,56,+27,KND,KND,-,-,-,-,-
-Goliath Toss,WS 3,-,-,-,-,-,-,-,-,-,18,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Spike Knee,WS 4,-,-,-,-,-,-,-,-,-,13,-12,KND,STUN,-,-,-,-,-
-*,"WS 4, 2",-,-,-,-,-,-,-,-,-,13,-14,KND,KND,-,-,-,-,-
-*,"WS (4), 2",-,-,-,-,-,-,-,-,-,20,-14,KND,KND,-,-,-,-,-
-Flying Gauntlet,SS 2,-,-,-,HOMING,-,-,-,-,-,28,-12,S!,S!,-,-,-,-,-
-Ground Sweeper,While down (facing down) 2,-,-,-,-,-,-,-,-,-,22,-16,+1 (OC),KND,-,-,-,-,-
-Ground Striker,While down (facing down) 1+2,-,-,-,-,-,-,-,-,-,35,0,KND,KND,-,-,-,-,-
-10 Hit Combo,"d/f+1, 4, 1, 2, 2, 2, 1+2, 1+2, 1+2",-,-,-,-,-,-,-,-,-,14,-,KND,KND,-,-,-,-,-
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,LAUNCH,-,-,-,-,-
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND,-,-,-,-,-
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,13,-18,-3,-3,-,-,-,-,-
-Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,48,+10,KND,KND,-,-,-,-,-
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
-*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,21,-20,+1,LAUNCH,-,-,-,-,-
-*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,21,-19,-10,KND,-,-,-,-,-
-Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
-INTO GOLIATH,,,,,,,,,,,,,,,,,,,
-Goliath,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Crazy Knuckle Combo to Goliath,"f+3, 2, F",-,-,-,-,-,-,-,-,-,23,-53,KND,KND,-,-,-,-,-
-*,"f+3, 2 (Hold), F",-,-,-,-,-,-,-,-,-,23,-53,KND,KND,-,-,-,-,-
-Burring Reamer to Goliath,"f+4, F",-,-,-,-,-,-,-,-,-,6,-53,KND,KND,-,-,-,-,-
-*,"f+4 (Hold), F",-,-,-,-,-,-,-,-,-,6,-8,KND,KND,-,-,-,-,-
-Crazy Knuckle to Goliath,"b+2, F",-,-,-,-,-,-,-,-,-,7,-53,KND,KND,-,-,-,-,-
-*,"b+2 (Hold), F",-,-,-,-,-,-,-,-,-,7,-8,KND,KND,-,-,-,-,-
-Savage Reamer to Goliath,"WS 2, 4, F",-,-,-,-,-,-,-,-,-,15,-53,KND,KND,-,-,-,-,-
-*,"WS 2, 4 (Hold), F",-,-,-,-,-,-,-,-,-,15,-8,KND,KND,-,-,-,-,-
-DURING GOLIATH,,,,,,,,,,,,,,,,,,,
-Metal Crusher,"(During Goliath, After Two Steps) 1",-,-,-,-,-,-,-,-,-,26,-2,KND,KND,-,-,-,-,-
-Advancing Giant Press,"(During Goliath, After Two Steps) 1+2",-,-,-,-,-,-,-,-,-,49,+4,KND,KND,-,-,-,-,-
-INTO GOLEM SET UP,,,,,,,,,,,,,,,,,,,
-Golem Step Up,d/b+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-DURING GOLEM SET UP,,,,,,,,,,,,,,,,,,,
-Double Gimlet to Golem Set Up,"2, 1, 3+4",-,-,-,-,-,-,-,-,-,10,-15,-4,-4,-,-,-,-,-
-*,"(2), 1, 3+4",-,-,-,-,-,-,-,-,-,10,-15,-4,-4,-,-,-,-,-
-Monster Axe to Golem Set Up,"f+2, d+1, 3+4",-,-,-,-,-,-,-,-,-,16,-12,+3,KND,-,-,-,-,-
-*,"(f+2), d+1, 3+4",-,-,-,-,-,-,-,-,-,16,-12,+3,+3,-,-,-,-,-
-Killer Impact,(During Golem Set Up) 1,-,-,-,-,-,-,-,-,-,15,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Blast Charge,(During Golem Set Up) 2,-,-,-,-,-,-,-,-,-,20,-8,KND,KND,-,-,-,-,-
-Disarming Golem,(During Golem Set Up) u/b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-POWER CRUSHES,,,,,,,,,,,,,,,,,,,
-Repelling Blast,d+1+2,-,-,-,-,-,-,-,-,-,30,-13,KND,KND,-,-,-,-,-
-Enraged Howl,d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-RAGE MOVES,,,,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) 1+2,-,-,-,-,-,-,-,-,-,20,-42,KND,KND,-,-,-,-,-
-Rage Drive,(During Rage) f+3+4 (Hold),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
-Hell Crusher,"(During Goliath, After Two Steps) 2",-,-,-,-,-,-,-,-,-,24,!,KND,KND,-,-,-,-,-
-THROWS,,,,,,,,,,,,,,,,,,,
-Hydraulic Lift,1+3,-,-,-,-,-,-,-,-,-,12,-6,KND,KND,-,-,-,-,-
-Hydraulic Lift,f+1+3,-,-,-,-,-,-,-,-,-,15,-6,KND,KND,-,-,-,-,-
-Trash Compactor,2+4,-,-,-,-,-,-,-,-,-,12,-3,KND,KND,-,-,-,-,-
-Trash Compactor,f+2+4,-,-,-,-,-,-,-,-,-,15,-3,KND,KND,-,-,-,-,-
-Outrage,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-3,KND,KND,-,-,-,-,-
-Amazing Impact,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-3,KND,KND,-,-,-,-,-
-Skull Smasher,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
-Overkill,"Approach enemy... hcb, f+1+2",-,-,-,-,-,-,-,-,-,11,-6,KND,KND,-,-,-,-,-
-Claw Hammer,Approach mid-air enemy... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,16,-5 (BT),KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON WHIFF,ACTIVE,NOTES
+-,"Back towards wall... b, b, u/b",mid,-,-,-,low,-,-,-,21 [25],i23,0,KND,KND,-,-,-,-
+-,1,high,-,-,-,-,-,-,-,7 [8],i10,+1,+8,+8,-,-,-,-
+Iron Breaker,"1, 2","high, high",-,-,-,-,-,-,-,"7 [8], 24",i10,-17,KND,-,-,-,-,-
+-,"(1), 2",high,-,-,-,-,-,-,-,24 [28],i16,-17,KND,KND,-,-,-,-
+-,2,high,-,-,-,-,-,-,-,10 [12],i10,-5,+6,+6,-,-,-,-
+Double Gimlet,"2, 1","high, high",-,-,-,-,-,-,-,"10 [12], 12",i10,-7,+4,-,-,-,-,-
+-,"(2), 1",high,-,-,-,-,-,-,-,12 [14],i18,-7,+4,+4,-,-,-,-
+Left Wrench Kick,3,mid,-,-,-,-,-,-,-,17 [20],i14,-9,+2,+2,-,-,-,-
+Right Wrench Kick,4,mid,-,-,-,-,-,-,-,20 [24],i16,-9,+2,KND,-,-,-,-
+Jumping Elbow,u/f+1,mid,-,-,-,-,-,-,-,25 [30],i23,-9,KND,KND,-,-,-,-
+Staple Knee,u/f+3,mid,-,-,-,-,-,-,-,17 [20],i20,-3,+6,LAUNCH,-,-,-,-
+Giant Press,u/f+1+2,mid,-,-,-,low,-,-,-,35 [42],i35,-7,KND,KND,-,-,-,-
+Crushing Stomp,u/f+3+4,mid,-,-,-,low,-,-,-,25 [30],i31,-3,+7 (OC),KND,-,-,-,-
+-,f+2,high,-,-,-,-,-,-,-,20 [24],i16,-9,+7,STUN,-,-,-,-
+-,"f+2, 1","high, high",-,-,-,-,-,-,-,"20 [24], 17",i19,-3,+5,-,-,-,-,-
+-,"(f+2), 1",high,-,-,-,-,-,-,-,17 [20],i19,-3,+5,+5,-,-,-,-
+Mad Rampage,"f+2, 1, 1","high, high, mid",-,-,-,-,-,-,-,"20 [24], 17, 25",i16,-12,KND,-,-,-,-,-
+-,"(f+2), 1, 1","high, mid",-,-,-,-,-,-,-,"17 [20], 25",i19,-12,KND,-,-,-,-,-
+-,"(f+2), (1), 1",mid,-,-,-,-,-,-,-,25 [30],i28,-12,KND,KND,-,-,-,-
+Double Monster Hook,"f+2, f+1","high, high",-,-,-,-,-,-,-,"20 [24], 20",i16,-9,+5,-,-,-,-,-
+-,"(f+2), f+1",high,-,-,-,-,-,-,-,20 [24],i19,-9,+5,+5,-,-,-,-
+Monster Axe,"f+2, d+1","high, mid",-,-,-,-,-,-,-,"20 [24], 17",i16,-13,+2 (OC),-,-,-,-,-
+-,"(f+2), d+1",mid,-,-,-,-,-,-,-,17 [20],i21,-13,+2 (OC),+2 (OC),-,-,-,-
+-,f+3,mid,-,-,-,-,-,-,-,17 [20],i23,-9,+9,+9,-,-,-,-
+Crazy Knuckle Combo,"f+3, 2","mid, mid",-,-,-,-,-,-,-,"17 [20], 20",i23,-13,KND,-,-,-,-,-
+-,"(f+3), 2",mid,-,-,-,-,-,-,-,20 [24],i7,-13,KND,KND,-,-,-,-
+-,"f+3, 2*","mid, mid",-,-,-,-,-,-,-,"17 [20], 40",i23,+15,KND,-,-,-,-,-
+-,"(f+3), 2*",mid,-,-,-,-,-,-,-,40 [48],i52,+15,KND,KND,-,-,-,-
+Burring Reamer,f+4,mid,-,-,-,-,-,-,-,20 [24],i6,-14,KND,KND,-,-,-,-
+-,f+4*,mid,-,-,-,-,-,-,-,40 [48],i43,+26,KND,KND,-,-,-,-
+Quick Head-Butt,f+1+2,high,-,-,-,-,-,-,-,20,i13,-9,+6,-,-,-,-,-
+Bulldozer Charge,CH f+1+2,high,-,-,-,-,-,-,-,64,i13,-9,-,0,-,-,-,-
+Unchained Upper,"f, F+2",mid,-,-,-,-,-,-,-,20 [24],i16,-8,KND,KND,-,-,-,-
+Dashing Knee,"f, F+3",mid,-,-,-,-,-,-,-,23 [27],i17,-9,+3,STUN,-,-,-,-
+-,"f, F+4",mid,-,-,-,-,-,-,-,17 [20],i17,-8,+3,+3,-,-,-,-
+Gorefoot Impact,"f, F+4, 2","mid, mid",-,-,-,-,-,-,-,"17 [20], 25",i17,-13,LAUNCH,-,-,-,-,-
+-,"(f, F+4), 2",mid,-,-,-,-,-,-,-,25 [30],32,-13,LAUNCH,LAUNCH,-,-,-,-
+-,"f, F+1+2",mid,-,-,-,-,-,-,-,20 [24],i17,-16,STUN,STUN,-,-,-,-
+Vice Grip Hammer,"f, F+1+2, 1+2","mid, mid",-,-,-,-,-,-,-,"20 [24], 14",i17,-1,KND,-,-,-,-,-
+-,"(f, F+1+2), 1+2",mid,-,-,-,-,-,-,-,20 [24],i25,-1,KND,KND,-,-,-,-
+Charging Tackle,"f, f, f+2 (or WR 2)",mid,-,-,-,-,-,-,-,30 [36],i21,+7,KND,KND,-,-,-,-
+Hazardous Hook,d/f+1,mid,-,-,-,-,-,-,-,14 [16],i14,-6,+7,+7,-,-,-,-
+-,d/f+2,mid,-,-,-,-,-,-,-,15 [18],i15,-7,+6,+6,-,-,-,-
+Double Hook Reactor,"d/f+2, 1","mid, mid",-,-,-,-,-,-,-,"15 [18], 21",i15,-13,KND,-,-,-,-,-
+-,"(d/f+2), 1",mid,-,-,-,-,-,-,-,21 [25],i18,-13,KND,KND,-,-,-,-
+-,d/f+3,mid,-,-,-,-,-,-,-,11 [13],i13,-9,+4,+4,-,-,-,-
+Nail Gun Punch,"d/f+3, 1","mid, high",-,-,-,-,-,-,-,"11 [13], 12",i13,-4,+4,-,-,-,-,-
+-,"(d/f+3), 1",high,-,-,-,-,-,-,-,12 [14],i23,-4,+4,+10,-,-,-,-
+-,"d/f+3, 1+2","mid, mid",-,-,-,-,-,-,-,"11 [13], 20",i13,-16,STUN,-,-,-,-,-
+-,"(d/f+3), 1+2",mid,-,-,-,-,-,-,-,20 [24],i27,-16,STUN,STUN,-,-,-,-
+Vice Grip Hammer Rush,"d/f+3, 1+2, 1+2","mid, mid, mid",-,-,-,-,-,-,-,"11 [13], 20, 14",i13,-1,KND,-,-,-,-,-
+-,"(d/f+3), 1+2, 1+2","mid, mid",-,-,-,-,-,-,-,"20 [24], 14",i27,-1,KND,-,-,-,-,-
+-,"(d/f+3), (1+2), 1+2",mid,-,-,-,-,-,-,-,20 [24],i25,-1,KND,KND,-,-,-,-
+-,d/f+4,mid,-,-,-,-,-,-,-,12 [14],i14,-3,+3,+8,-,-,-,-
+Nail Gun,"d/f+4, 1+2","mid, mid",-,-,-,-,-,-,-,"12 [14], 30",i14,+1 (OC),+5 (OC),-,-,-,-,-
+-,"(d/f+4), 1+2",mid,-,-,-,-,-,-,-,30 [36],i36,+1 (OC),+5 (OC),+5 (OC),-,-,-,-
+-,d/f+1+2,"mid, mid",-,-,-,-,-,-,-,"13 [15], 13 [9]",i25,-20,-9 (OC),-,-,-,-,-
+-,d/f+1+2 (second hit only),mid,-,-,-,-,-,-,-,13 [15],i47,-20,-9 (OC),KND,-,-,-,-
+Excavator,"d/f+1+2, 1+2","mid, mid, mid",-,-,-,-,-,-,-,"13 [15], 13 [9], 20 [19]",i25,-18,KND,-,-,-,-,-
+-,"d/f+1+2 (second hit only), 1+2","mid, mid",-,-,-,-,-,-,-,"13 [15], 20 [14]",i47,-18,KND,-,-,-,-,-
+-,"(d/f+1+2), 1+2",mid,-,-,-,-,-,-,-,20 [24],i28,-18,KND,KND,-,-,-,-
+Sledgehammer,d+2,mid,-,-,-,-,-,-,-,13 [15],i15,-14,LAUNCH,LAUNCH,-,-,-,-
+-,d+3,low,-,-,-,-,-,-,-,15 [18],i16,-12,-1,-1,-,-,-,-
+Ignition Coil,"d+3, 2","low, mid",-,-,-,-,-,-,-,"15 [18], 20",i16,-12 (OC),0 (OC),-,-,-,-,-
+-,"(d+3), 2",mid,-,-,-,-,-,-,-,20 [24],i22,-12 (OC),0 (OC),KND,-,-,-,-
+End Mill,d/b+2,low,-,-,-,high,-,-,-,20 [24],i23,-14,+3 (OC),KND,-,-,-,-
+Shin Breaker,d/b+3,low,-,-,-,high,-,-,-,16 [19],i21,-28,+6,+6,-,-,-,-
+Chisel Kick,d/b+4,low,-,-,-,high,-,-,-,8 [9],i14,-13,-2,+3,-,-,-,-
+Fork Lift,d/b+1+2,mid,-,-,-,-,-,-,-,35 [42],i29,-8,KND,KND,-,-,-,-
+Fracturing Upper,b+1,mid,-,-,-,-,-,-,-,20 [24],i20,-15,LAUNCH,LAUNCH,-,-,-,-
+Crazy Knuckle,b+2,mid,-,-,-,-,-,-,-,20 [24],i7,-13,KND,KND,-,-,-,-
+-,b+2*,mid,-,-,-,-,-,-,-,40 [48],i41,+15,KND,KND,-,-,-,-
+Deadly Cannon,b+3,mid,-,-,-,-,-,-,-,26 [31],i21,-9,KND,KND,-,-,-,-
+Heavy Stomp,b+4,mid,-,-,-,-,-,-,-,20 [24],i20,-9,+1,KND,-,-,-,-
+Rusty Nail,b+1+2,mid,-,-,-,-,-,-,-,30 [36],i25,+1,+5,+5,-,-,-,-
+-,BT 1 (or 2),high,-,-,-,-,-,-,-,15 [18],i8,-8,+3,+3,-,-,-,-
+-,BT 3 (or 4),high,-,-,-,-,-,-,-,18 [21],i10,-8,KND,KND,-,-,-,-
+-,FC 1,s. mid,-,-,-,high,-,-,-,5 [6],i10,-5,+6,+6,-,-,-,-
+-,FC 2,s. mid,-,-,-,high,-,-,-,8 [9],i11,-4,+7,+7,-,-,-,-
+-,FC 3,low,-,-,-,high,-,-,-,12 [14],i16,-17,-3,-3,-,-,-,-
+-,FC 4,low,-,-,-,high,-,-,-,10 [12],i12,-15,-4,-4,-,-,-,-
+Brush Cutter,FC d/f+2,low,-,-,-,high,-,-,-,20 [24],i28,-19,KND,LAUNCH,-,-,-,-
+-,"WR f, f, F (Full Screen)",mid,-,-,-,-,-,-,-,35 [42],i8,+13,KND,KND,-,-,-,-
+-,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,-,-,-,-,-,-,-,8 [9],i12,!,KND,KND,-,-,-,-
+-,WR 4,low,-,-,-,high,-,-,-,17 [20],i14,-40,KND,KND,-,-,-,-
+-,WR+1+2,mid,-,-,-,"high, low",-,-,-,24 [28],i18,0,KND,KND,-,-,-,-
+Knocking Shoulder,WS 1,mid,-,-,-,-,-,-,-,17 [20],i11,-7,+3,+3,-,-,-,-
+-,WS 2,mid,-,-,-,-,-,-,-,19 [22],i15,-5,+4,+4,-,-,-,-
+Savage Knee,"WS 2, 3","mid, mid",-,-,-,-,-,-,-,"19 [22], 24",i15,-13,KND,-,-,-,-,-
+-,"WS (2), 3",mid,-,-,-,-,-,-,-,24 [28],i19,-13,KND,KND,-,-,-,-
+Savage Reamer,"WS 2, 4","mid, mid",-,-,-,-,-,-,-,"19 [22], 20",i15,-14,KND,-,-,-,-,-
+-,"WS (2), 4",mid,-,-,-,-,-,-,-,20 [24],i6,-14,KND,KND,-,-,-,-
+-,"WS 2, 4*","mid, mid",-,-,-,-,-,-,-,"19 [22], 40",i15,+27,KND,-,-,-,-,-
+-,"WS (2), 4*",mid,-,-,-,-,-,-,-,40 [48],i56,+27,KND,KND,-,-,-,-
+Goliath Toss,WS 3,mid,-,-,-,-,-,-,-,25 [30],i18,-13,LAUNCH,LAUNCH,-,-,-,-
+Spike Knee,WS 4,mid,-,-,-,-,-,-,-,21 [25],i13,-12,KND,STUN,-,-,-,-
+-,"WS 4, 2","mid, mid",-,-,-,-,-,-,-,"21 [25], 14",i13,-14,KND,-,-,-,-,-
+-,"WS (4), 2",mid,-,-,-,-,-,-,-,20 [24],i20,-14,KND,KND,-,-,-,-
+Flying Gauntlet,SS 2,high,-,-,HOMING,-,-,-,-,25 [30],i28,-12,S!,S!,-,-,-,-
+Ground Sweeper,While down (facing down) 2,low,-,-,-,-,-,-,-,20 [24],i22,-16,+1 (OC),KND,-,-,-,-
+Ground Striker,While down (facing down) 1+2,mid,-,-,-,-,-,-,-,30 [36],i35,0,KND,KND,-,-,-,-
+10 Hit Combo,"d/f+1, 4, 1, 2, 2, 2, 1+2, 1+2, 1+2",-,-,-,-,-,-,-,-,-,i14,-,KND,KND,-,-,-,-
+-,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,-,-,-,high,-,-,-,10 [12],i22,-12,+5,LAUNCH,-,-,-,-
+-,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,-,-,-,-,-,-,-,18 [21],i22,-12,+5,KND,-,-,-,-
+-,"Face Up, Feet Towards, d+3 (or 4)",low,-,-,-,"high, mid",-,-,-,5 [6],i13,-18,-3,-3,-,-,-,-
+-,"Face Up, Feet Towards+3+4",mid,-,-,-,high,-,-,-,20 [24],i48,+10,KND,KND,-,-,-,-
+-,"Face Up, Feet Towards, Roll Forward+1+2",mid,-,-,-,high,-,-,-,15 [18],i19,+2,KND,KND,-,-,-,-
+-,"Face Down, Feet Away+3",low,-,-,-,high,-,-,-,10 [12],i21,-20,+1,LAUNCH,-,-,-,-
+-,"Face Down, Feet Away+4 (close)",mid,-,-,-,-,-,-,-,15 [18],i21,-19,KND,KND,-,-,-,-
+-,"Face Down, Feet Away+4 (far)",mid,-,-,-,-,-,-,-,10 [12],i21,-19,-10,KND,-,-,-,-
+-,(Upon Landing) f,mid,-,-,-,low,-,-,-,4,i33,-2,+3,+3,-,-,-,-
+INTO GOLIATH,,,,,,,,,,,,,,,,,,
+Goliath,f+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Crazy Knuckle Combo to Goliath,"f+3, 2, F","mid, mid",-,-,-,-,-,-,-,"17 [20], 20",i23,-53,KND,-,-,-,-,-
+-,"f+3, 2*, F","mid, mid",-,-,-,-,-,-,-,"17 [20], 40",i23,-53,KND,KND,-,-,-,-
+Burring Reamer to Goliath,"f+4, F",mid,-,-,-,-,-,-,-,20 [24],i6,-53,KND,KND,-,-,-,-
+-,"f+4*, F",mid,-,-,-,-,-,-,-,40 [48],i6,-8,KND,KND,-,-,-,-
+Crazy Knuckle to Goliath,"b+2, F",mid,-,-,-,-,-,-,-,20 [24],i7,-53,KND,KND,-,-,-,-
+-,"b+2*, F",mid,-,-,-,-,-,-,-,40 [48],i7,-8,KND,KND,-,-,-,-
+Savage Reamer to Goliath,"WS 2, 4, F","mid, mid",-,-,-,-,-,-,-,"19 [22], 20",i15,-53,KND,-,-,-,-,-
+-,"WS 2, 4*, F","mid, mid",-,-,-,-,-,-,-,"19 [22], 40",i15,-8,KND,KND,-,-,-,-
+DURING GOLIATH,,,,,,,,,,,,,,,,,,
+Metal Crusher,GOL (After Two Steps) 1,mid,-,-,-,-,-,-,-,20 [24],i26,-2,KND,KND,-,-,-,-
+-,GOL (After Three Steps) 1,mid,-,-,-,-,-,-,-,30 [42],i26,-2,KND,KND,-,-,-,-
+Advancing Giant Press,GOL (After Two Steps) 1+2,mid,-,-,-,low,-,-,-,20 [24],i49,+4,KND,KND,-,-,-,-
+-,GOL (After Three Steps) 1+2,mid,-,-,-,low,-,-,-,30 [36],i26,-2,KND,KND,-,-,-,-
+INTO GOLEM SET UP,,,,,,,,,,,,,,,,,,
+Golem Step Up,d/b+3+4,-,-,-,-,high,-,-,-,-,-,-,-,-,-,-,-,-
+Double Gimlet to Golem Set Up,"2, 1, 3+4","high, high",-,-,-,-,-,-,-,"10 [12], 12",i10,-15,-4,-,-,-,-,-
+-,"(2), 1, 3+4",high,-,-,-,-,-,-,-,12 [14],i10,-15,-4,-4,-,-,-,-
+Monster Axe to Golem Set Up,"f+2, d+1, 3+4","high, mid",-,-,-,-,-,-,-,"20 [24], 17",i16,-12,+3,-,-,-,-,-
+-,"(f+2), d+1, 3+4",mid,-,-,-,-,-,-,-,17 [20],i16,-12,+3,+3,-,-,-,-
+DURING GOLEM SET UP,,,,,,,,,,,,,,,,,,
+Disarming Golem,SG u/b,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Killer Impact,SG 1,mid,-,-,-,-,-,-,-,25 [30],i15,-13,LAUNCH,LAUNCH,-,-,-,-
+Blast Charge,SG 2,mid,-,-,-,-,-,-,-,30 [36],i20,-8,KND,KND,-,-,-,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,
+Repelling Blast,d+1+2,mid,-,-,-,-,-,-,-,30 [36],i30,-13,KND,KND,-,-,-,-
+Enraged Howl,d+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) 1+2,mid,-,-,-,-,-,-,-,55 [57],i20,-42,KND,KND,-,-,-,-
+Rage Drive,(During Rage) GOL*,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,"(During Rage) GOL* (After Two Steps), 1",mid,-,-,-,-,-,-,-,25 [30],i26,+7,KND,KND,-,-,-,-
+-,"(During Rage) GOL* (After Three Steps), 1",mid,-,-,-,-,-,-,-,40 [48],i26,+7,KND,KND,-,-,-,-
+-,"(During Rage) GOL* (After Two Steps), 1+2",mid,-,-,-,low,-,-,-,30 [36],i49,+4,KND,KND,-,-,-,-
+-,"(During Rage) GOL* (After Three Steps), 1+2",mid,-,-,-,low,-,-,-,60 [72],i49,+4,KND,KND,-,-,-,-
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,
+Hell Crusher,GOL (After Two Steps) 2,high,-,-,-,-,-,-,-,40 [48],i24,!,KND,KND,-,-,-,-
+-,GOL (After Three Steps) 2,high,-,-,-,-,-,-,-,55 [66],i24,!,KND,KND,-,-,-,-
+-,"(During Rage) GOL* (After Two Steps), 2",high,-,-,-,-,-,-,-,45 [54],i24,!,KND,KND,-,-,-,-
+-,"(During Rage) GOL* (After Three Steps), 2",high,-,-,-,-,-,-,-,60 [72],i24,!,KND,KND,-,-,-,-
+THROWS,,,,,,,,,,,,,,,,,,
+Hydraulic Lift,Approach enemy... 1+3,high throw,-,-,-,-,-,-,-,35,i12,-6,KND,-,-,-,-,-
+Trash Compactor,Approach enemy... 2+4,high throw,-,-,-,-,-,-,-,35,i12,-3,KND,-,-,-,-,-
+Hydraulic Lift,Approach enemy... f+1+3,high throw,-,-,-,-,-,-,-,35,i15,-6,KND,-,-,-,-,-
+Trash Compactor,Approach enemy... f+2+4,high throw,-,-,-,-,-,-,-,35,i15,-3,KND,-,-,-,-,-
+Overkill,"Approach enemy... hcb, f+1+2",high throw,-,-,-,-,-,-,-,55,i11,-6,KND,-,-,-,-,-
+Outrage,Approach from left side... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,40,i12,-3,KND,-,-,-,-,-
+Amazing Impact,Approach from right side... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,40,i12,-3,KND,-,-,-,-,-
+Skull Smasher,Approach from behind... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,60,i12,-,KND,-,-,-,-,-
+Claw Hammer,Approach mid-air enemy... 1+3 (or 2+4),high throw,-,-,-,-,-,-,-,42,i12,-,KND,-,-,-,-,-
+-,"WR f, f, F (Mid Screen)",mid throw,-,-,-,-,-,-,-,5,i16,-5 (BT),KND,-,-,-,-,-
+DURING TACKLE,,,,,,,,,,,,,,,,,,
+-,(During Tackle) 1 (or 2),-,-,-,-,-,-,-,-,5,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5, 15",-,-,KND,-,-,-,-,-

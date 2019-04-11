@@ -1,154 +1,161 @@
-MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
-Needle Jab,1 or BT 1 (or 2),high,1.5,0.5,-,-,-,-,-,7 (8),10,+1,+8,+8,-,-,-14,1,-
-Double Needle,"1, 1","high, high",-,-,-,-,-,-,-,-,10,-3,+4,+4,-,-,-18,"1, 1",-
-*,"(1), 1",high,-,-,-,-,-,-,-,-,15,-3,+4,+4,-,-,-,-,-
-Left Right Slap,"1, 2","high, high",-,-,-,-,-,-,-,-,10,-1,+5,+5,-,-,-,-,-
-*,"(1), 2",high,-,-,-,-,-,-,-,-,12,-1,+5,+5,-,-,-,-,-
-Left Right Moonrise,"1, 2, 3","high, high, mid",-,-,-,-,-,-,-,-,10,-22,LAUNCH,LAUNCH,-,-,-,-,-
-*,"(1), 2, 3","high, mid",-,-,-,-,-,-,-,-,12,-22,LAUNCH,LAUNCH,-,-,-,-,-
-*,"(1), (2), 3",mid,-,-,-,-,-,-,-,-,19,-22,LAUNCH,LAUNCH,-,-,-,-,-
-Left Right Arc Kick,"1, 2, 4","high, high, high",-,-,-,-,-,-,-,-,10,-4,KND,KND,-,-,-,-,-
-*,"(1), 2, 4","high, high",-,-,-,-,-,-,-,-,12,-4,KND,KND,-,-,-,-,-
-*,"(1), (2), 4",high,-,-,-,-,-,-,-,-,20,-4,KND,KND,-,-,-,-,-
-*,2,high,-,-,-,-,-,-,-,-,14,-3,+2,+2,-,-,-,-,-
-Binary Star,"2, 2","high, mid",-,-,-,-,-,-,-,-,14,-,+2,+2,-,-,-,-,-
-*,"(2), 2",mid,-,-,-,-,-,-,-,-,15,-,+2,+2,-,-,-,-,-
-*,3,-,-,-,-,-,-,-,-,-,13,-8,-8,-8,-,-,-,-,-
-Arc Kick,4 or BT 3 (or 4),-,-,-,-,-,-,-,-,-,13,-5,KND,SCREW,-,-,-,-,-
-Meteor Burst,1+2,-,-,-,-,-,-,-,-,26 (31),13,-17,KND,KND,-,-,-,-,-
-Shadow Ring,3+4,-,-,-,-,-,-,-,-,-,33,-27,STUN,STUN,-,-,-,-,-
-Fierce Sting,f+3,-,-,-,-,-,-,-,-,-,18,-9,0,STUN,-,-,-,-,-
-*,"f, F+2 (must hit), B",-,-,-,-,-,-,-,-,-,14,-9,KND,KND,-,-,-,-,-
-*,"f, F+4",-,-,-,-,-,-,-,-,-,15,-16,-5,-5,-,-,-,-,-
-Splendid Edge,"f, F+4, 2",-,-,-,-,-,-,-,-,-,15,-14,-6,-6,-,-,-,-,-
-*,"(f, F+4), 2",-,-,-,-,-,-,-,-,-,23,-14,-6,-6,-,-,-,-,-
-Assault Barrage,"f, F+1+2",-,-,-,-,-,-,-,-,-,18,-14,KND,KND,-,-,-,-,-
-*,"f, F+1+2 (second and third hits only)",-,-,-,-,-,-,-,-,-,31,-14,KND,KND,-,-,-,-,-
-*,"f, F+1+2 (third hit only)",-,-,-,-,-,-,-,-,-,47,-14,KND,KND,-,-,-,-,-
-Noble Execution,"f, f, f+1 (or WR+1)",-,-,-,-,-,-,-,-,-,18,+2,KND,KND,-,-,-,-,-
-Noble Slash,"f, f, f+3 (or WR+3)",-,-,-,-,-,-,-,-,-,24,0,KND,KND,-,-,-,-,-
-*,d/f+1,-,-,-,-,-,-,-,-,-,13,-3,+3,+3,-,-,-,-,-
-Moonlight,"d/f+1, 2",-,-,-,-,-,-,-,-,-,13,-13,-2,-2,-,-,-,-,-
-*,"(d/f+1), 2",-,-,-,-,-,-,-,-,-,20,-13,-2,-2,-,-,-,-,-
-Daylight,"d/f+1, 4",-,-,-,-,-,-,-,-,-,13,-9,+2,+2,-,-,-,-,-
-*,"(d/f+1), 4",-,-,-,-,-,-,-,-,-,18,-9,+2,+2,-,-,-,-,-
-*,d/f+2,-,-,-,-,-,-,-,-,-,16,-9,+2,+2,-,-,-,-,-
-Rending Claw,"(d/f+2), 3",-,-,-,-,-,-,-,-,-,22,-18,LAUNCH,LAUNCH,-,-,-,-,-
-Astral Shot,d/f+3,-,-,-,-,-,-,-,-,-,25,-8,KND,KND,-,-,-,-,-
-*,b+1,-,-,-,-,-,-,-,-,-,14,-8,+3,+3,-,-,-,-,-
-*,"b+1, 2",-,-,-,-,-,-,-,-,-,14,-13,LAUNCH,LAUNCH,-,-,-,-,-
-*,"(b+1), 2",-,-,-,-,-,-,-,-,-,15,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Rising Chaos,"b+1, 2, 4",-,-,-,-,-,-,-,-,-,14,-13,KND,KND,-,-,-,-,-
-*,"(b+1), 2, 4",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"(b+1), (2), 4",-,-,-,-,-,-,-,-,-,25,-13,KND,KND,-,-,-,-,-
-*,b+2,-,-,-,-,-,-,-,-,-,11,-4,+2,+2,-,-,-,-,-
-Leading Knee,"b+2, 3",-,-,-,-,-,-,-,-,-,11,-9,+3,+3,-,-,-,-,-
-*,"(b+2), 3",-,-,-,-,-,-,-,-,-,18,-9,+3,STUN,-,-,-,-,-
-*,b+3,-,-,-,-,-,-,-,-,12 (14),16,-9,+2,+2,-,-,-,-,-
-Dust Tail,"b+3, 1",-,-,-,-,-,-,-,-,-,16,-4,STUN,STUN,-,-,-,-,-
-*,"(b+3), 1",-,-,-,-,-,-,-,-,-,20,-4,STUN,STUN,-,-,-,-,-
-Ion Tail,"b+3, 4",-,-,-,-,-,-,-,-,-,16,-14,KND,KND,-,-,-,-,-
-*,"(b+3), 4",-,-,-,-,-,-,-,-,-,23,-14,KND,KND,-,-,-,-,-
-Flare Knee,b+4,-,-,-,-,-,-,-,-,-,15,-14,-2,-2,-,-,-,-,-
-Burst Claw,b+1+2,-,-,-,-,-,-,-,-,-,27,-13,+4 (OC),+4 (OC),-,-,-,"4, 2",-
-*,b+1+2 (second hit only),-,-,-,-,-,-,-,-,-,37,-13,+4 (OC),+4 (OC),-,-,-,2,-
-Sitting Jab,FC 1,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
-Sitting Claw,FC 2,-,-,-,-,-,-,-,-,-,12,-7,+4,+4,-,-,-,-,-
-Sweeping Scarlet,FC 3,-,-,-,-,-,-,-,-,-,15,-16,-5,-5,-,-,-,-,-
-*,FC 3 (Close),-,-,-,-,-,-,-,-,-,15,-16,-5,-5,-,-,-,-,-
-Horizon Ring,FC 4,-,-,-,-,-,-,-,-,17 (20),20,-27,+5,STUN,-,-,-,-,-
-Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,8,+13,KND,KND,-,-,-,-,-
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,12,!,KND,KND,-,-,-,-,-
-Shunjingozan,WR 4 ,-,-,-,-,-,-,-,-,-,14,-40,KND,KND,-,-,-,-,-
-*,WR 1+2,-,-,-,-,-,-,-,-,-,18,0,KND,KND,-,-,-,-,-
-Stabbing Scarlet,WS 1,-,-,-,-,-,-,-,-,-,14,-7,+4,+4,-,-,-,-,-
-Rising Shadow,WS 2,-,-,-,-,-,-,-,-,-,15,-9,KND,LAUNCH,-,-,-,-,-
-Rose Thorn,WS 3,-,-,-,-,-,-,-,-,-,15,-22,LAUNCH,LAUNCH,-,-,-,-,-
-*,WS 4,-,-,-,-,-,-,-,-,-,11,-5,+6,+6,-,-,-,-,-
-Vampire Needle,(During Jump) 1,-,-,-,-,-,-,-,-,-,7,-25 ~ +1,-15 ~ +11,-15 ~ +11,-,-,-,-,-
-Vampire Claw,(During Jump) 2,-,-,-,-,-,-,-,-,-,9,-17 ~ +7,-7 ~ +17,-7 ~ +17,-,-,-,-,-
-Swan Shot,(During Jump) 3,-,-,-,-,-,-,-,-,-,7,-25 ~ +1,-15 ~ +11,-15 ~ +11,-,-,-,-,-
-Poison Orbit,(During Jump) 4,-,-,-,-,-,-,-,-,-,9,-18 ~ +7,-8 ~ +17,-8 ~ +17,-,-,-,-,-
-Endless Sleep,While down (facing up) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-10 Hit Combo,"3, 1, 4, 1, 2, 2, 4, 2, 1, 2",-,-,-,-,-,-,-,-,-,13,-,-,-,-,-,-,-,-
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,STUN,-,-,-,-,-
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND,-,-,-,-,-
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,13,-16,-3,-3,-,-,-,-,-
-Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,19,-21,KND,KND,-,-,-,-,-
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
-*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,21,-20,+1,STUN,-,-,-,-,-
-*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,21,-19,-8,KND,-,-,-,-,-
-*,"Face Down, Feet Away+4 (close)",-,-,-,-,-,-,-,-,-,21,-19,KND,KND,-,-,-,-,-
-Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
-SPECIAL MOVES,,,,,,,,,,,,,,,,,,,
-Dazzling Wave,"f, F+4, 2, qcf+1 (or 2)",-,-,-,-,-,-,-,-,-,15,-9,KND,KND,-,-,-,-,-
-*,"(f, F+4), 2, qcf+1 (or 2)",-,-,-,-,-,-,-,-,-,23,-9,KND,KND,-,-,-,-,-
-Dark Blade,"f, d, d/f+1",-,-,-,-,-,-,-,-,-,16,-23,LAUNCH,LAUNCH,-,-,-,-,-
-Dark Blade,"f, d, d/f+2",-,-,-,-,-,-,-,-,-,13,-34,KND,KND,-,-,-,-,-
-Dark Wave,qcf+1,-,-,-,-,-,-,-,-,-,28,-9,KND,KND,-,-,-,-,-
-Dark Wave,qcf+2,-,-,-,-,-,-,-,-,-,25,-13,-5,-5,-,-,-,-,-
-Dark Storm,qcb+1,-,-,-,-,-,-,-,-,-,20,-11,+11,S!,-,-,-,-,-
-Dark Tempest,qcb+2,-,-,-,-,-,-,-,-,22 (26),20,-14,-2,STUN,-,-,-,-,-
-Dark Cannon,qcb+3,-,-,-,-,-,-,-,-,-,27,-19,KND,KND,-,-,-,-,-
-Dark Cannon,qcb+4,-,-,-,-,-,-,-,-,-,26,-1,+9,+9,-,-,-,-,-
-Airborne Dark Cannon,(During Jump) qcb+3,-,-,-,-,-,-,-,-,-,13,-20 ~ '-13,KND,KND,-,-,-,-,-
-Airborne Dark Cannon,(During Jump) qcb+4,-,-,-,-,-,-,-,-,-,13,-1 ~ +5,+9 ~ +15,+9 ~ +15,-,-,-,-,-
-EX MOVES,,,,,,,,,,,,,,,,,,,
-Dazzling Wave Chaos,"f, F+4, 2, qcf+1+2",-,-,-,-,-,-,-,-,-,15,-8,+10,+10,-,-,-,-,-
-*,"(f, F+4), 2, qcf+1+2 (or 2)",-,-,-,-,-,-,-,-,-,23,-8,+10,+10,-,-,-,-,-
-*,"(f, F+4), (2), qcf+1+2 (or 2)",-,-,-,-,-,-,-,-,-,21,-8,+10,+10,-,-,-,-,-
-Dark Blade Chaos,"f, d, d/f+1+2",-,-,-,-,-,-,-,-,-,11,-34,KND,KND,-,-,-,-,-
-Dark Tempest Chaos,qcb+1+2,-,-,-,-,-,-,-,-,-,15,-14,S!,S!,-,-,-,-,-
-Dark Cannon Chaos,qcb+3+4,-,-,-,-,-,-,-,-,"5 (6), 15",25,-13,S!,S!,-,-,-,-,-
-*,qcb+3+4 (second hit only),-,-,-,-,-,-,-,-,-,44,-13,S!,S!,-,-,-,-,-
-Airborne Dark Cannon Chaos,(During Jump) qcb+3+4,-,-,-,-,-,-,-,-,-,10,-13,S!,S!,-,-,-,-,-
-*,(During Jump) qcb+3+4 (second hit only),-,-,-,-,-,-,-,-,-,11,-13,S!,S!,-,-,-,-,-
-SUPER MOVES,,,,,,,,,,,,,,,,,,,
-Bloody Horn,"qcf, qcf+1+2",-,-,-,-,-,-,-,-,-,14,-7,KND,KND,-,-,-,,
-POWER CRUSHES,,,,,,,,,,,,,,,,,,,
-Broken Dream,f+1+2,-,-,-,-,-,-,-,-,-,25,-13,KND,KND,-,-,-,,
-RAGE MOVES,,,,,,,,,,,,,,,,,,,
-Rage Art,(During Rage) b+3+4,-,-,-,-,-,-,-,-,-,20,-22,KND,KND,-,-,-,,
-UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
-Death Impact*,d/b+1+2,-,-,-,-,-,-,-,-,-,51,!,KND,KND,-,-,-,-,-
-Death Impact,(During Moon Glide) 1+2,-,-,-,-,-,-,-,-,-,51,!,KND,KND,-,-,-,-,-
-INTO MOON GLIDE,,,,,,,,,,,,,,,,,,,
-Moon Glide,f+4,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-8,-,-
-Dark Wave to Moon Glide,"qcf+1 (or 2), f+3+4",-,-,-,-,-,-,-,,-,28,-16,+10,+10,-,-,-,-,-
-Dark Wave Chaos,qcf+1+2,-,-,-,-,-,-,-,-,"10 (12), 7",24,-45,+13,+12,-,-,-,-,-
-Dazzling Wave to Moon Glide,"f, F+4, 2, qcf+1 (or 2), f+3+4",-,-,-,-,-,-,-,-,-,15,-16,+27,+27,-,-,-,-,-
-*,"(f, F+4), 2, qcf+1 (or 2), f+3+4",-,-,-,-,-,-,-,-,-,23,-16,+27,+27,-,-,-,-,-
-DURING MOON GLIDE,,,,,,,,,,,,,,,,,,,
-*,(During Moon Glide) 1,-,-,-,-,-,-,-,-,-,10,-4,+2,+2,-,-,-,-,-
-Stardust,"(During Moon Glide) 1, 2",-,-,-,-,-,-,-,-,-,10,-8,+1,+1,-,-,-,-,-
-*,"(During Moon Glide) (1), 2",-,-,-,-,-,-,-,-,-,15,-8,+1,+1,-,-,-,-,-
-Stardust Break,"(During Moon Glide) 1, 2, 1+2",-,-,-,-,-,-,-,-,-,10,-13,KND,KND,-,-,-,-,-
-*,"(During Moon Glide) (1), 2, 1+2",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"(During Moon Glide) (1), (2), 1+2",-,-,-,-,-,-,-,-,-,23,-13,KND,KND,-,-,-,-,-
-*,(During Moon Glide) 2,-,-,-,-,-,-,-,WALL BOUNCE*,-,14,-9,KND,KND,-,-,-,-,-
-Bloody Claw to Standing,"(During Moon Glide) 2, B",-,-,-,-,-,-,-,WALL BOUNCE*,-,14,-9,KND,KND,-,-,-,-,-
-*,(During Moon Glide) 3,-,-,-,-,-,-,-,-,-,16,-10,KND,KND,-,-,-,-,-
-Helical Flow,"(During Moon Glide) 3, 4",-,-,-,-,-,-,-,-,-,16,-7,S!,S!,-,-,-,-,-
-*,"(During Moon Glide) (3), 4",-,-,-,-,-,-,-,-,-,20,-7,S!,S!,-,-,-,-,-
-Queen Needle,(During Moon Glide) 4,-,-,-,-,-,-,-,-,-,18,-23,KND,KND,-,-,-,-,-
-INTO SLEEP,,,,,,,,,,,,,,,,,,,
-Endless Sleep, d+1+2 or While down (facing up) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Deadly Slumber,FC D (Hold for 60f~),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-*,"f, F+2 (must hit)",-,-,-,-,-,-,-,-,-,14,-,KND,KND,-,-,-,-,-
-Bloody Claw to Deadly Slumber,(During Moon Glide) 2 (must hit),-,-,-,-,-,-,-,-,-,14,-,KND,KND,-,-,-,-,-
-THROWS,,,,,,,,,,,,,,,,,,,
-Grave Digger,1+3,-,-,-,-,-,-,-,-,-,12,-6,KND,KND,-,-,-,-,-
-Grave Digger,f+1+3,-,-,-,-,-,-,-,-,-,15,-6,KND,KND,-,-,-,-,-
-Salamander,2+4,-,-,-,-,-,-,-,-,-,12,-3,KND,KND,-,-,-,-,-
-Salamander,f+2+4,-,-,-,-,-,-,-,-,-,15,-3,KND,KND,-,-,-,-,-
-Phantom Rave,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-6,KND,KND,-,-,-,-,-
-Phantom Rave,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-6,KND,KND,-,-,-,-,-
-Deep Shadow,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
-Phantom Rave,Approach enemy d/f+1+2,-,-,-,-,-,-,-,-,-,11,-6,KND,KND,-,-,-,-,-
-Running Tackle*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,15,-5,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-SPECIAL,,,,,,,,,,,,,,,,,,,
-*,2+3+4,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,CANCELABLE,DAMAGE,METER GAIN,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON WHIFF,ACTIVE,NOTES
+Needle Jab,1,high,1.5,0.5,-,-,-,-,-,EX / SPECIAL / SUPER,7 [8],-,i10,+1,+8,+8,FLOAT,-13,1,-
+Double Needle,"1, 1","high, high",1.5,0.75,-,-,NO,NCc,-,EX / SPECIAL / SUPER,"7 [8], 7",-,i10,-3,+4,-,FLOAT,-17,"1, 1",-
+-,"(1), 1",high,1.5,0.75,-,-,-,-,-,-,7 [8],-,i15,-3,+4,+4,FLOAT,-17,1,-
+Left Right Slap,"1, 2","high, high",1.5,1,-,-,YES,NC,-,-,"7 [8], 10",-,i10,-1,+5,-,FLOAT,-19,"1, 1",-
+-,"(1), 2",high,1.5,1,-,-,-,-,-,-,10 [12],-,i12,-1,+5,+5,FLOAT,-19,1,-
+Left Right Moonrise,"1, 2, 3","high, high, mid",1.5,1.5,-,-,NO,NO,WALL SPLAT,-,"7 [8], 10, 20",-,i10,-22,LAUNCH,-,BACK FLIP,-44,"1, 1, 2",-
+-,"(1), 2, 3","high, mid",1.5,1.5,-,-,NO,NCc,WALL SPLAT,-,"10 [12], 20",-,i12,-22,LAUNCH,-,BACK FLIP,-44,"1, 2",-
+-,"(1), (2), 3",mid,2.5,1.5,SSR,low,-,-,WALL SPLAT,-,20 [24],-,i19,-22,LAUNCH,LAUNCH,BACK FLIP,-44,2,-
+Left Right Arc Kick,"1, 2, 4","high, high, high",1.5,0.5,-,-,NO,NO,WALL BREAK / SPLAT,-,"7 [8], 10, 20",-,i10,-4,KND,-,S!,-29,"1, 1, 2",-
+-,"(1), 2, 4","high, high",1.5,0.5,-,-,NO,NCc,WALL BREAK / SPLAT,-,"10 [12], 20",-,i12,-4,KND,-,S!,-29,"1, 2",-
+-,"(1), (2), 4",high,1.5,0.5,SWL,-,-,-,WALL BREAK / SPLAT,-,20 [24],-,i20,-4,KND,KND,S!,-29,2,-
+-,2,high,2,0.5,SSL,-,-,-,-,-,9 [10],-,i14,-3,+2,+2,FLOAT,-21,1,-
+Binary Star,"2, 2","high, mid",2,0.5,-,-,YES,NC,-,EX / SPECIAL / SUPER,"9 [10], 15",-,i14,-,+2,-,FLOAT,-27,"1, 1",-
+-,"(2), 2",mid,1.25,0.5,SSR,-,-,-,-,EX / SPECIAL / SUPER,15 [18],-,i15,-,+2,+2,FLOAT,-27,1,-
+-,3,high,1.5,0,-,-,-,-,-,-,12 [14],-,i13,-8,-8,-8,BACK FLIP,-26,1,-
+Arc Kick,4,high,1.75,1,HOMING,-,-,-,WALL BREAK / SPLAT,-,21 [25],-,i13,-5,KND,S!,S!,-27,2,-
+Meteor Burst,1+2,mid,2,0,-,-,-,-,WALL BREAK / SPLAT,-,26 [31],-,i13,-17,KND,KND,FLOAT,-35,2,-
+Shadow Ring,3+4,low,2.75,0.25,HOMING,high,-,-,-,-,20 [24],-,i33,-27,STUN,STUN,FLOAT,-29,2,-
+Fierce Sting,f+3,mid,1.5,0.25,SSR,-,-,-,-,-,17 [20],-,i18,-9,0,STUN,FLOAT,-28,2,-
+-,"f, F+2:B",mid,2,1.5,-,high,-,-,WALL BREAK / SPLAT,-,25 [30],-,i14,-9,KND,KND,FLOAT,-30,1,-
+-,"f, F+4",mid,2,0,SWL / SSR,low,-,-,-,-,10 [12],-,i15,-16,-5,-5,FLOAT,-33,2,-
+Splendid Edge,"f, F+4, 2","mid, mid",2,0,-,-,NO,NC,-,EX / SPECIAL,"10 [12], 10",-,i15,-14,-6,-,FLOOR BREAK,-34,"2, 2",-
+-,"(f, F+4), 2",mid,2.5,0,-,low,-,-,-,EX / SPECIAL,10 [12],-,i23,-14,-6,-6,FLOOR BREAK,-34,2,-
+Assault Barrage,"f, F+1+2","mid, high, low",2,0.5,SSL / SSR,-,"mid, high",NO,-,-,"5 [6], 6, 20",-,i18,-14,KND,-,FLOAT,-32,"2, 2, 1",-
+-,"f, F+1+2 (second and third hits only)","high, low",0,0.5,-,-,NO,NCc,-,-,"6 [7], 20",-,i31,-14,KND,-,FLOAT,-32,"2, 1",-
+-,"f, F+1+2 (third hit only)",low,0,0.5,-,high,-,-,-,-,20 [24],-,i47,-14,KND,KND,FLOAT,-32,1,-
+Noble Execution,"f, f, f+1 (or WR 1)",high,2.5,2.5,SSL / SSR,-,-,-,WALL BREAK / SPLAT,-,30 [36],-,i18,+2,KND,KND,FLOAT,-29,3,-
+Noble Slash,"f, f, f+3 (or WR 3)",mid,3.5,1,-,-,-,-,WALL BREAK / SPLAT,-,27 [32],-,i24,0,KND,KND,FLOAT,-23,5,-
+-,d/f+1,mid,1.5,1,SSR,-,-,-,-,-,12 [14],-,i13,-3,+3,+3,FLOAT,-21,1,-
+Moonlight,"d/f+1, 2","mid, mid",1.5,1,-,-,NO,NC,-,-,"12 [14], 17",-,i13,-13,-2,-,FLOAT,-31,"1, 1",-
+-,"(d/f+1), 2",mid,1.5,0.5,SSR,-,-,-,-,-,17 [20],-,i20,-13,-2,-2,FLOAT,-31,1,-
+Daylight,"d/f+1, 4","mid, high",1.5,1.5,-,-,NO,NC,-,-,"12 [14], 14",-,i13,-9,+2,-,FLOAT,-27,"1, 1",-
+-,"(d/f+1), 4",high,1.5,1.5,-,-,-,-,-,-,14 [16],-,i18,-9,+2,+2,FLOAT,-27,1,-
+-,d/f+2,mid,2,0.25,SSR,-,-,-,-,-,10 [12],-,i16,-9,+2,+2,FLOAT,-26,2,-
+Rending Claw,"d/f+2, 3","mid, mid",2,0.5,-,-,NO,NC,WALL SPLAT,-,"10 [12], 10",-,i16,-18,LAUNCH,-,TURN OVER,-39,"2, 2",-
+-,"(d/f+2), 3",mid,2,0.5,SSR,low,-,-,WALL SPLAT,-,10 [12],-,-,-18,LAUNCH,LAUNCH,TURN OVER,-39,2,-
+Astral Shot,d/f+3,mid,2.75,2,HOMING,-,-,-,WALL BREAK / SPLAT,-,24 [28],-,i25,-8,KND,KND,SPIRAL,-38,2,-
+-,b+1,mid,1.5,0,-,-,-,-,-,-,13 [15],-,i14,-8,+3,+3,FLOAT,-29,1,-
+-,"b+1, 2","mid, mid",1.5,1,-,-,YES,NCc,WALL SPLAT,-,"13 [15], 13",-,i14,-13,LAUNCH,-,FLOAT,-33,"1, 3",-
+-,"(b+1), 2",mid,2,1,SSL,-,-,-,WALL SPLAT,-,13 [15],-,i15,-13,LAUNCH,LAUNCH,FLOAT,-33,3,-
+Rising Chaos,"b+1, 2, 4","mid, mid, mid",1.5,1,-,-,NO,NC,-,-,"13 [15], 13, 16",-,i14,-13,KND,-,FLOOR BREAK,-35,"1, 3, 2",-
+-,"(b+1), 2, 4","mid, mid",2,1,-,low,NO,NC,-,-,"13 [15], 16",-,i15,-13,KND,-,FLOOR BREAK,-35,"3, 2",-
+-,"(b+1), (2), 4",mid,2.5,1,-,low,-,-,-,-,13 [15],-,i25,-13,KND,KND,FLOOR BREAK,-35,2,-
+-,b+2,high,1.5,0,-,-,-,-,-,-,23 [27],-,i11,-4,+2,+2,FLOAT,-22,1,-
+Leading Knee,"b+2, 3","high, mid",1.5,0,-,-,NO,NC,-,-,10 [12],-,i11,-9,+3,-,FLOAT,-25,"1, 2",-
+-,"(b+2), 3",mid,1.5,0,SSL / SWR,-,-,-,-,-,"10 [12], 15",-,i18,-9,+3,STUN,FLOAT,-25,2,-
+-,b+3,high,2,0.25,SSR,-,-,-,-,-,12 [14],-,i16,-9,+2,+2,FLOAT,-47,1,-
+Dust Tail,"b+3, 1","high, high",2,0.5,-,-,NO,NC,WALL BREAK / SPLAT,-,"12 [14], 20",-,i16,-4,STUN,-,S!,-26,"1, 2",-
+-,"(b+3), 1",high,2.5,0.5,SSL / SWR,-,-,-,WALL BREAK / SPLAT,-,20 [24],-,i20,-4,STUN,STUN,S!,-26,2,-
+Ion Tail,"b+3, 4","high, mid",2,1,-,-,NO,NC,WALL BREAK / SPLAT,-,"12 [14], 20",-,i16,-14,KND,-,BACK FLIP,-35,"1, 2",-
+-,"(b+3), 4",mid,2.5,1,-,-,-,-,WALL BREAK / SPLAT,-,20 [24],-,i23,-14,KND,KND,BACK FLIP,-35,2,-
+Flare Knee,b+4,s. mid,1.75,0.25,-,-,-,-,-,EX / SPECIAL / SUPER,12 [14],-,i15,-14,-2,-2,FLOAT,-29,1,-
+Burst Claw,b+1+2,"high, mid",1.5,0,-,high,YES,NC,-,-,"5 [6], 20",-,i27,-13,+4 (OC),-,FLOOR BREAK,-35,"4, 2",-
+-,b+1+2 (second hit only),mid,2.75,0,SSL,-,-,-,-,-,20 [24],-,i37,-13,+4 (OC),+4 (OC),FLOOR BREAK,-35,2,-
+Sitting Jab,FC 1,s. mid,1,0.25,-,high,-,-,-,EX / SPECIAL / SUPER,5 [6],-,i10,-5,+6,+6,FLOAT,-20,1,-
+Sitting Claw,FC 2,s. mid,1,0.25,-,high,-,-,-,-,8 [9],-,i12,-7,+4,+4,FLOAT,-25,1,-
+Sweeping Scarlet,FC 3 (close),low,1,0,SWR,high,-,-,-,EX / SPECIAL / SUPER,10 [12],-,i15,-16,-5,-5,FLOAT,-32,1,-
+-,FC 3 (far),low,1.5,1,SWR,high,-,-,-,EX / SPECIAL / SUPER,7 [8],-,i15,-16,-5,-5,FLOAT,-32,1,-
+Horizon Ring,FC 4,low,1.75,0.5,SSL / SWR,high,-,-,-,-,17 [20],-,i20,-27,+5,STUN,FLOAT,-29,2,-
+-,"WR f, f, F (Full Screen)",mid,0,0,SWL / SWR,-,-,-,WALL BREAK / SPLAT,-,30 [36],-,i8,+13,KND,KND,FLOAT,-35,13,-
+-,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,0,0,-,-,-,-,-,-,8 [9],-,i12,-,KND,KND,-,-13,1,-
+-,WR 4 ,low,4,0,SSL / SSR,"mid, high",-,-,-,-,17 [20],-,i14,-40,KND,KND,FLOAT,-39,17,-
+-,WR 1+2,mid,4,0,-,high,-,-,WALL BREAK / SPLAT,-,24 [28],-,i18,0,KND,KND,FLOAT,-40,19,-
+Stabbing Scarlet,WS 1,mid,1.5,0.5,-,-,-,-,-,EX / SPECIAL / SUPER,10 [12],-,i14,-7,+4,+4,FLOAT,-22,1,-
+Rising Shadow,WS 2,mid,2,0.5,SSL / SSR,low,-,-,WALL SPLAT,-,18 [21],-,i15,-9,KND,LAUNCH,TURN OVER,-34,2,-
+Rose Thorn,WS 3,mid,2,1.5,SWR,low,-,-,WALL SPLAT,-,20 [24],-,i15,-22,LAUNCH,LAUNCH,BACK FLIP,-44,2,-
+-,WS 4,mid,1.5,1.5,-,-,-,-,-,-,15 [18],-,i11,-5,+6,+6,FLOAT,-22,2,-
+Vampire Needle,(During Jump) 1,mid,0.25,0,-,low,-,-,-,-,10 [12],-,i7,-25 ~ +1,-15 ~ +11,-15 ~ +11,FLOAT,-,-,-
+Vampire Claw,(During Jump) 2,mid,0.25,0.25,-,low,-,-,-,-,15 [18],-,i9,-17 ~ +7,-7 ~ +17,-7 ~ +17,FLOAT,-,-,-
+Swan Shot,(During Jump) 3,mid,1,0,-,low,-,-,-,-,10 [12],-,i7,-25 ~ +1,-15 ~ +11,-15 ~ +11,FLOAT,-,-,-
+Poison Orbit,(During Jump) 4,mid,0.75,0.25,-,low,-,-,-,-,15 [18],-,i9,-18 ~ +7,-8 ~ +17,-8 ~ +17,TAIL SPIN,-,-,-
+Endless Sleep,While down (facing up) 1+2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,FLOAT,-,-,-
+10 Hit Combo,"3, 1, 4, 1, 2, 2, 4, 2, 1, 2",-,-,-,-,-,-,-,-,-,93,-,i13,-,-,-,FLOAT,-,-,-
+-,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1.5,1.5,SSL / SSR,high,-,-,-,-,10 [12],-,i22,-12,+5,STUN,FLOAT,-29,1,-
+-,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,2,SSL,-,-,-,WALL BREAK / SPLAT,-,18 [21],-,i22,-12,+5,KND,FLOAT,-29,1,-
+-,"Face Up, Feet Towards, d+3 (or 4)",low,0.25,1,SSR,"mid, high",-,-,-,-,4,-,i13,-16,-3,-3,FLOAT,-34,1,-
+-,"Face Up, Feet Towards+3+4",mid,0.5,0,-,low,-,-,WALL BREAK / SPLAT,-,20 [24],-,i19,-21,KND,KND,FLOAT,-26,12,-
+-,"Face Up, Feet Towards, Roll Forward+1+2",mid,4,0,-,high,-,-,WALL BREAK / SPLAT,-,15 [18],-,i19,+2,KND,KND,FLOAT,-42,6,-
+-,"Face Down, Feet Away+3",low,1,0.5,SSL / SSR,high,-,-,-,-,10 [12],-,i21,-20,+1,STUN,FLOAT,-35,1,-
+-,"Face Down, Feet Away+4 (close)",mid,1,2,-,-,-,-,WALL BREAK / SPLAT,-,15 [18],-,i21,-19,KND,KND,FLOAT,-37,1,-
+-,"Face Down, Feet Away+4 (far)",mid,1,2,-,-,-,-,[WALL SPLAT],-,10 [12],-,i21,-19,-8,KND,FLOAT,-37,1,-
+-,(Upon Landing) f,mid,0,0,-,-,-,-,-,-,4,-,ii33,-2,+3,+3,FLOAT,-13,4,-
+SPECIAL MOVES,,,,,,,,,,,,,,,,,,,,
+Dazzling Wave,"f, F+4, 2, qcf+1","mid, mid, s. mid",2,1,-,-,NO,NC,-,-,"10 [12], 10, 14",-,i15,-9,KND,KND,FLOOR BREAK,-,-,-
+-,"(f, F+4), 2, qcf+1","mid, s. mid",2.5,1,-,-,NO,NC,-,-,"10 [12], 14",-,i23,-9,KND,KND,FLOOR BREAK,-,-,-
+-,"f, F+4, 2, qcf+2","mid, mid, s. mid",2,1,-,-,NO,NC,-,-,"10 [12], 10, 14",-,i15,-13,KND,KND,FLOOR BREAK,-,-,-
+Dark Blade,"f, d, d/f+1",s. mid,2,0,SSL / SWR,high,-,-,WALL SPLAT,-,12 [14],-,i16,-23,LAUNCH,LAUNCH,FLOAT,-37,6,-
+Dark Blade,"f, d, d/f+2","s. mid, s. mid, s. mid",2,0,SWL / SWR,high,-,-,WALL SPLAT,-,"9 [10], 9, 5",-,i13,-34,KND,KND,FLOAT,-54,"1, 1, 1",-
+Dark Wave,qcf+1,s. mid,-,1,-,-,-,-,-,-,20 [24],-,i28,-9,KND,KND,BACK FLIP,-32,1,-
+Dark Wave,qcf+2,s. mid,-,1,-,-,-,-,-,-,20 [24],-,i25,-13,-5,-5,FLOAT,-36,1,-
+Dark Storm,qcb+1,s. mid,2.5,0,SWL / SWR,high,-,-,WALL BREAK / SPLAT,-,20 [24],-,i20,-11,+11,S!,S!,-40,2,-
+Dark Tempest,qcb+2,s. mid,2,1,SSL / SSR,-,-,-,-,-,22 [26],-,i20,-14,-2,STUN,BACK FLIP,-40,2,-
+Dark Cannon,qcb+3,mid,2,0,-,low,-,-,WALL BREAK / SPLAT,-,20 [24],-,i27,-19,KND,KND,FLOOR BREAK,-23,10,-
+Dark Cannon,qcb+4,mid,0.5,0,SSR,low,-,-,-,-,14 [16],-,i26,-1,+9,+9,FLOAT,-16,8,-
+Airborne Dark Cannon,(During Jump) qcb+3,mid,2,0,-,low,-,-,-,-,20 [24],-,i13,-20 ~ '-13,KND,KND,FLOOR BREAK,-,-,-
+Airborne Dark Cannon,(During Jump) qcb+4,mid,1,0,-,low,-,-,-,-,14 [16],-,i13,-1 ~ +5,+9 ~ +15,+9 ~ +15,FLOAT,-,-,-
+EX MOVES,,,,,,,,,,,,,,,,,,,,
+Dazzling Wave Chaos,"f, F+4, 2, qcf+1+2","mid, mid, s. mid, s. mid",2,0,-,-,NO,NC,-,-,"10 [12], 10, 7, 5",-,i15,-8,+10,-,FLOOR BREAK,-,-,-
+-,"(f, F+4), 2, qcf+1+2 (or 2)","mid, s. mid, s. mid",2.5,0,-,-,NO,NC,-,-,"10 [12], 7, 5",-,i23,-8,+10,-,FLOOR BREAK,-,-,-
+Dark Blade Chaos,"f, d, d/f+1+2",s. mid - x5,2,0,SWL / SWR,high,-,-,WALL SPLAT,-,"5 [6], 5, 9, 9, 6",-,i11,-34,KND,KND,FLOAT,-54,"2, 2, 1, 1, 1",-
+Dark Tempest Chaos,qcb+1+2,"s. mid, s. mid",2.5,0.5,SWR,-,NO,NC,WALL BREAK / SPLAT,-,"10 [12], 20 [14]",-,i15,-14,S!,S!,S!,-40,"2, 2",-
+-,qcb+1+2 (second hit only),s. mid,2,0.5,SSL / SSR,high,-,-,WALL BREAK / SPLAT,-,20 [24],-,-,-,-,-,S!,-40,2,-
+Dark Cannon Chaos,qcb+3+4,"mid, mid",2,2.5,SSR,low,YES,NC,WALL BREAK / SPLAT,-,"5 [6], 15",-,i25,-13,S!,-,FLOOR BREAK,-34,"8, 2",-
+-,qcb+3+4 (second hit only),mid,1.5,2.5,SSL / SSR,low,-,-,WALL BREAK / SPLAT,-,15 [18],-,i44,-13,S!,S!,S!,-34,2,-
+Airborne Dark Cannon Chaos,(During Jump) qcb+3+4,"mid, mid",2.5,2.5,-,low,YES,NC,WALL BREAK / SPLAT,-,"5 [6], 15",-,i10,-13,S!,S!,FLOOR BREAK,-,-,-
+-,(During Jump) qcb+3+4 (second hit only),mid,1.5,2.5,SWL / SWR,low,-,-,WALL BREAK / SPLAT,-,15 [18],-,i11,-13,S!,S!,S!,-,-,-
+SUPER MOVES,,,,,,,,,,,,,,,,,,,,
+Bloody Horn,"qcf, qcf+1+2",s. mid,-,3,SWL / SWR,-,-,-,-,-,15 [18],-,i14,-7,KND,KND,FLOAT,-38,1,
+POWER CRUSHES,,,,,,,,,,,,,,,,,,,,
+Broken Dream,f+1+2,mid,3,0,HOMING,high,-,-,WALL BREAK / SPLAT,-,21 [25],-,i25,-13,KND,KND,FLOAT,-33,1,
+RAGE MOVES,,,,,,,,,,,,,,,,,,,,
+Rage Art,(During Rage) b+3+4,mid,2.5,0,-,low,-,-,-,-,55 [57],-,i20,-22,KND,KND,ACTIVATE,-45,1,
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,,
+-,d/b+1+2,-,2,-,-,low,-,-,-,-,30 [36],-,i51,!,KND,KND,FLOOR BREAK,-50,2,-
+Death Impact,MG 1+2,-,2,-,-,low,-,-,-,-,30 [36],-,i51,!,KND,KND,FLOOR BREAK,-50,2,-
+INTO MOON GLIDE,,,,,,,,,,,,,,,,,,,,
+Moon Glide,f+4,-,3.5,0,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-,-
+Dark Wave to Moon Glide,"qcf+1, f+3+4",s. mid,-,0,-,-,-,-,-,-,20 [24],-,i28,-16,LAUNCH,LAUNCH,FLOAT,-39,1,-
+Dark Wave to Moon Glide,"qcf+2, f+3+4",s. mid,-,0,-,-,-,-,-,-,20 [24],-,i28,-16,-8,-8,FLOAT,-39,1,-
+Dark Wave Chaos,qcf+1+2,"s. mid, s. mid",-,0,-,-,-,-,-,-,"10 [12], 7",-,i24,-45,+13,+13,FLOAT,-,-,-
+Dazzling Wave to Moon Glide,"f, F+4, 2, qcf+1, f+3+4","mid, mid, s. mid",2,0,-,-,NO,NC,-,-,"10 [12], 10, 14",-,i15,-16,LAUNCH,LAUNCH,FLOOR BREAK,-,-,-
+-,"(f, F+4), 2, qcf+1, f+3+4","mid, s. mid",2.5,0,-,-,NO,NC,-,-,"10 [12], 14",-,i23,-16,LAUNCH,LAUNCH,FLOOR BREAK,-,-,-
+Dazzling Wave to Moon Glide,"f, F+4, 2, qcf+2, f+3+4","mid, mid, s. mid",2,0,-,-,NO,NC,-,-,"10 [12], 10, 14",-,i15,-16,LAUNCH,LAUNCH,FLOOR BREAK,-,-,-
+DURING MOON GLIDE,,,,,,,,,,,,,,,,,,,,
+-,MG 1,high,1,0,-,high,-,-,-,-,11 [13],-,i10,-4,+2,+2,FLOAT,-22,1,-
+Stardust,"MG 1, 2","high, high",1,0.75,-,-,YES,NC,-,-,"11 [13], 12",-,i10,-8,+1,-,FLOAT,-28,"1, 1",-
+-,"MG (1), 2",high,1.5,0.75,SSL,-,-,-,-,-,12 [14],-,i15,-8,+1,+1,FLOAT,-28,1,-
+Stardust Break,"MG 1, 2, 1+2","high, high, mid",1,0,-,-,NO,NO,WALL BREAK / SPLAT,-,"11 [13], 12, 21",-,i10,-13,KND,-,SPIRAL,-33,"1, 1, 2",-
+-,"MG (1), 2, 1+2","high, mid",1.5,0,-,-,NO,NCc,WALL BREAK / SPLAT,-,"12 [14], 21",-,i15,-13,KND,-,SPIRAL,-33,"1, 2",-
+-,"MG (1), (2), 1+2",mid,2.5,0,SSL,high,-,-,WALL BREAK / SPLAT,-,21 [25],-,i23,-13,KND,KND,SPIRAL,-33,2,-
+-,MG 2,mid,2,1.5,-,high,-,-,WALL BREAK / SPLAT,-,25 [30],-,i14,-9,KND,KND,SPIRAL,-30,1,Wall bounces when canceled into.
+Bloody Claw to Standing,"MG 2, B",mid,2,1.5,-,-,-,-,WALL BREAK / SPLAT,-,25 [30],-,i14,-9,KND,KND,SPIRAL,-30,1,-
+-,MG 3,high,2,0,HOMING,-,-,-,-,-,12 [14],-,i16,-10,KND,KND,TAIL SPIN,-32,2,-
+Helical Flow,"MG 3, 4","high, high",2,0.5,-,-,YES,NC,WALL BREAK / SPLAT,-,"12 [14], 14",-,i16,-7,S!,-,S!,-28,"2, 2",-
+-,"MG (3), 4",high,2.5,0.5,-,low,-,-,WALL BREAK / SPLAT,-,21 [25],-,i20,-7,S!,S!,S!,-28,2,-
+Queen Needle,MG 4,low,3,0.25,SSL,high,-,-,-,-,20 [24],-,i18,-23,KND,KND,FLOAT,-34,8,-
+INTO SLEEP,,,,,,,,,,,,,,,,,,,,
+Endless Sleep,d+1+2 (or FC d+1+2),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Deadly Slumber,FC D* (60f),-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+-,"f, F+2 (must hit)",mid,2,-,-,high,-,-,WALL BREAK / SPLAT,-,25 [30],-,i14,-,KND,KND,SPIRAL,-30,1,-
+Bloody Claw to Deadly Slumber,MG 2 (must hit),mid,2,-,-,high,-,-,WALL BREAK / SPLAT,-,25 [30],-,i14,-,KND,KND,SPIRAL,-30,1,-
+THROWS,,,,,,,,,,,,,,,,,,,,
+Grave Digger,Approach enemy... 1+3,high throw,1.5,-,-,-,-,-,-,-,35,-,i12,-6,KND,-,-,-24,3,-
+Salamander,Approach enemy... 2+4,high throw,1.5,-,-,-,-,-,-,-,35,-,i12,-3,KND,-,-,-24,3,-
+Grave Digger,Approach enemy... f+1+3,high throw,2,-,-,-,-,-,-,-,35,-,i15,-6,KND,-,-,-32,3,-
+Salamander,Approach enemy... f+2+4,high throw,2,-,-,-,-,-,-,-,35,-,i15,-3,KND,-,-,-32,3,-
+Phantom Rave,Approach enemy d/f+1+2,high throw,1,-,-,-,-,-,-,-,40,-,i11,-6,KND,-,-,-26,2,-
+Phantom Rave,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,-,i12,-6,KND,-,-,-24,3,-
+Phantom Rave,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,40,-,i12,-6,KND,-,-,-24,3,-
+Deep Shadow,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,-,45,-,i12,-,KND,-,-,-24,3,-
+-,"WR f, f, F (Mid Screen)",mid throw,0,-,SWL / SWR,high,-,-,-,-,5,-,i15,-5,KND,-,-,-32,1,-
+DURING TACKLE,,,,,,,,,,,,,,,,,,,,
+-,(During Tackle) 1 (or 2),-,-,-,-,-,-,-,-,-,5,-,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5",-,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5, 5, 5",-,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,"5 ,5, 5, 15",-,-,-,KND,-,-,-,-,-
+SPECIAL,,,,,,,,,,,,,,,,,,,,
+-,U,-,-,-,-,-,-,-,-,-,-,-,50,-,-,-,-,-,-,-
+-,"U/F, U/B",-,-,-,-,-,-,-,-,-,-,-,46,-,-,-,-,-,-,-
+-,2+3+4,-,-,-,-,-,-,-,-,-,-,-,54,-,-,-,-,-,-,-
