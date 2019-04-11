@@ -1,221 +1,225 @@
-MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON CROUCHING,ON WHIFF,ACTIVE,NOTES
-*,"Back towards wall... b, b, u/b",mid,1,0.5,-,-,-,-,-,21 / 25 (CH),26,+4,KND,KND,-,-,-25,3,-
-*,1,high,1.5,0,-,-,-,-,-,8 / 9 (CH),10,-2,+9,+9,-,-,-20,1,-
-Whiplash,"1, 1","high, mid",1.5,0,-,-,-,-,-,"8, 15 / 9, 15 (CH)",10,-7,+4,+4,-,-,-25,"1, 1",-
-*,"(1), 1",mid,1,0,-,-,-,-,-,15 / 18 (CH),24,-7,+4,+4,-,-,-25,1,-
-Jab Uppercut,"1, 2","high, mid",1.5,1,-,-,-,-,-,"8, 9 / 9, 9 (CH)",10,-8,+3,+3,-,-,-25,"1, 2",-
-*,"(1), 2",mid,1,1.25,-,-,-,-,-,9 / 10 (CH),24,-8,+3,+3,-,-,-25,2,-
-Jab Uppercut to Spinning Heel Drop,"1, 2, 3","high, mid, mid",-,-,-,-,-,-,-,-,10,-2,SCREW,SCREW,-,-,-,-,-
-*,"(1), 2, 3","mid, mid",-,-,-,-,-,-,-,-,24,-2,SCREW,SCREW,-,-,-,-,-
-*,"(1), (2), 3",mid,-,-,-,-,-,-,-,-,14,-2,KND,KND,-,-,-,-,-
-(Two Spins)*,"1, 2, 3 (Hold)",-,-,-,-,-,-,-,-,-,12,+6,KND,KND,-,-,-,-,-
-Cancel*,"1, 2, 3 (Hold), B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Jab Uppercut to Front Kick,"1, 2, 4",-,-,-,-,-,-,-,-,-,10,-12,KND,KND,-,-,-,-,-
-*,"(1), 2, 4",-,-,-,-,-,-,-,-,-,24,-12,KND,KND,-,-,-,-,-
-*,"(1), (2), 4",-,-,-,-,-,-,-,-,-,18,-12,KND,KND,-,-,-,-,-
-Jab Low Kick,"1, 3",-,-,-,-,-,-,-,-,-,10,-11,0,0,-,-,-,-,-
-*,"(1), 3",-,-,-,-,-,-,-,-,-,21,-11,0,0,-,-,-,-,-
-Jab Leg Cutter,"1, 4",-,-,-,-,-,-,-,-,-,10,-11,0,+3,-,-,-,-,-
-*,"(1), 4",-,-,-,-,-,-,-,-,-,26,-11,0,+3,-,-,-,-,-
-*,2,-,-,-,-,-,-,-,-,-,12,-11,0,0,-,-,-,-,-
-*,"2, 1",-,-,-,-,-,-,-,-,-,12,-3,+8,+8,-,-,-,-,-
-*,"(2), 1",-,-,-,-,-,-,-,-,-,18,-3,+8,+8,-,-,-,-,-
-Basho's Dance,"2, 1, 1+2",-,-,-,-,-,-,-,-,-,12,-10,SCREW,SCREW,-,-,-,-,-
-*,"(2), 1, 1+2",-,-,-,-,-,-,-,-,-,18,-10,SCREW,SCREW,-,-,-,-,-
-*,"(2), (1), 1+2",-,-,-,-,-,-,-,-,-,24,-10,SCREW,SCREW,-,-,-,-,-
-Mizu Basho,"2, 3",-,-,-,-,-,-,-,-,-,12,-19,KND,KND,-,-,-,-,-
-*,"(2), 3",-,-,-,-,-,-,-,-,-,22,-19,KND,KND,-,-,-,-,-
-*,3,-,-,-,-,-,-,-,-,-,14,-7,+8,+8,-,-,-,-,-
-Hyakujitsuko,"3, 1",-,-,-,-,-,-,-,-,-,18,-11,+8,+8,-,-,-,-,-
-*,"(3), 1",-,-,-,-,-,-,-,-,-,14,-11,+8,+8,-,-,-,-,-
-Sacred Blade,3~4,-,-,-,-,-,-,-,-,-,26,-26,STUN,STUN,-,-,-,-,-
-*,4,-,-,-,-,-,-,-,-,-,11,-7,+7,LAUNCH,-,-,-,-,-
-Inner Strength,1+2,-,-,-,-,-,-,-,-,-,16,-9,CRUMPLE STUN,CRUMPLE STUN,-,-,-,-,-
-*,1+4,-,-,-,-,-,-,-,-,-,14,-19,+9,+9,-,-,-,-,-
-*,1+4 (second hit only),-,-,-,-,-,-,-,-,-,17,-3,+9,+9,-,-,-,-,-
-*,"1+4, 2",-,-,-,-,-,-,-,-,-,14,-19,+9,+9,-,-,-,-,-
-*,"1+4 (second hit only), 2",-,-,-,-,-,-,-,-,-,17,-2,+9,+9,-,-,-,-,-
-*,"(1+4), 2",-,-,-,-,-,-,-,-,-,19,-2,+9,+9,-,-,-,-,-
-Blizzard Combo,"1+4, 2, 1",-,-,-,-,-,-,-,-,-,14,-19,+9,+9,-,-,-,-,-
-*,"1+4 (second hit only), 2, 1",-,-,-,-,-,-,-,-,-,17,-2,+9,+9,-,-,-,-,-
-*,"(1+4), 2, 1",-,-,-,-,-,-,-,-,-,19,-2,+9,+9,-,-,-,-,-
-*,"(1+4), (2), 1",-,-,-,-,-,-,-,-,-,21,-2,+9,+9,-,-,-,-,-
-White Heron Dance,"1+4, 2, 4",-,-,-,-,-,-,-,-,-,14,-19,+4,+4,-,-,-,-,-
-*,"1+4 (second hit only), 2, 4",-,-,-,-,-,-,-,-,-,17,-9,+4,+4,-,-,-,-,-
-*,"(1+4), 2, 4",-,-,-,-,-,-,-,-,-,19,-9,+4,+4,-,-,-,-,-
-*,"(1+4), (2), 4",-,-,-,-,-,-,-,-,-,24,-9,+4,KND,-,-,-,-,-
-White Heron Lower Dance,"1+4, 2, d+4",-,-,-,-,-,-,-,-,-,14,-19,STUN,STUN,-,-,-,-,-
-*,"1+4 (second hit only), 2, d+4",-,-,-,-,-,-,-,-,-,17,-23,STUN,STUN,-,-,-,-,-
-*,"(1+4), 2, d+4",-,-,-,-,-,-,-,-,-,19,-23,STUN,STUN,-,-,-,-,-
-*,"(1+4), (2), d+4",-,-,-,-,-,-,-,-,-,24,-23,STUN,STUN,-,-,-,-,-
-White Heron Spinning Heel Drop,"1+4, 3",-,-,-,-,-,-,-,-,-,14,-19,KND,KND,-,-,-,-,-
-*,"1+4 (second hit only), 3",-,-,-,-,-,-,-,-,-,17,-2,KND,KND,-,-,-,-,-
-*,"(1+4), 3",-,-,-,-,-,-,-,-,-,14,-2,KND,KND,-,-,-,-,-
-*,"1+4, 3, B",-,-,-,-,-,-,-,-,-,14,-37,-9,-9,-,-,-,-,-
-*,"1+4 (second hit only), 3, B",-,-,-,-,-,-,-,-,-,17,-21,-9,-9,-,-,-,-,-
-Wheel Kick,2+3,-,-,-,-,-,-,-,-,-,28,0,KND,KND,-,-,-,-,-
-Thunder Fall Kick,3+4,-,-,-,-,-,-,-,-,-,23,-6,KND,KND,-,-,-,-,-
-*,3+4 (second hit only),,-,-,-,-,-,-,-,-,30,-6,KND,KND,-,-,-,-,-
-Rangetsu,u/f+2 (close),-,-,-,-,-,-,-,-,-,14,-7,KND,KND,-,-,-,-,-
-*,u/f+2 (far),-,-,-,-,-,-,-,-,-,14,-7,+7,+7,-,-,-,-,-
-Iwato,u/f+3,-,-,-,-,-,-,-,-,-,20,-3,+8,KND,-,-,-,-,-
-Night Sky,u/f+4,-,-,-,-,-,-,-,-,-,20,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Lunging Mist Thrust,f+1,-,-,-,-,-,-,-,-,-,20,-7,+4,+4,-,-,-,-,-
-Whiplash to Toe Kick,"f+1, 3",-,-,-,-,-,-,-,-,-,20,-5,+6,+6,-,-,-,-,-
-*,"(f+1), 3",-,-,-,-,-,-,-,-,-,21,-5,+6,CRUMPLE STUN,-,-,-,-,-
-Whiplash Combo,"f+1, 3, 1",-,-,-,-,-,-,-,-,-,28,-8,+3,+3,-,-,-,-,-
-Whiplash Double Lift Upper,"f+1, 4",-,-,-,-,-,-,-,-,-,20,-6,LAUNCH,LAUNCH,-,-,-,-,-
-*,"(f+1), 4",-,-,-,-,-,-,-,-,-,18,-6,LAUNCH,LAUNCH,-,-,-,-,-
-*,"(f+1), 4 (second hit only)",-,-,-,-,-,-,-,-,-,28,-6,LAUNCH,LAUNCH,-,-,-,-,-
-Whiplash Sacred Blade,"f+1, d+4",-,-,-,-,-,-,-,-,-,20,-26,STUN,STUN,-,-,-,-,-
-*,"(f+1), d+4",-,-,-,-,-,-,-,-,-,25,-26,STUN,STUN,-,-,-,-,-
-*,"f+1, d+4, D/B",-,-,-,-,-,-,-,-,-,20,-45,-34,-34,-,-,-,-,-
-Demon Slayer,f+2,-,-,-,-,-,-,-,-,-,17,-18,LAUNCH,LAUNCH,-,-,-,-,-
-Spinning Heel Drop,f+3,-,-,-,-,-,-,-,-,-,14,-2,KND,KND,-,-,-,-,-
-Two Spins*,f+3 (Hold),-,-,-,-,-,-,-,-,-,12,+6,KND,KND,-,-,-,-,-
-Cancel*,"f+3 (Hold), B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Back Spin Kick,f+4,-,-,-,-,-,-,-,-,-,19,+3,KND,KND,-,-,-,-,-
-Burning Lantern,"f, F+1",-,-,-,-,-,-,-,-,-,23,+4,KND,GROUND BOUNCE,-,-,-,-,-
-*,"f, F+2",-,-,-,-,-,-,-,-,-,15,-13,-3,-3,-,-,-,-,-
-Hiboko no Kagami,"f, F+2, 1",-,-,-,-,-,-,-,-,-,15,-5,KND,KND,-,-,-,-,-
-*,"(f, F+2), 1",-,-,-,-,-,-,-,-,-,21,-5,KND,KND,-,-,-,-,-
-Yata Kagami,"f, F+2, 3",-,-,-,-,-,-,-,-,-,15,-8,KND,KND,-,-,-,-,-
-*,"(f, F+2), 3",-,-,-,-,-,-,-,-,-,27,-8,KND,KND,-,-,-,-,-
-Higata no Kagami,"f, F+2, 1+2",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"(f, F+2), 1+2",-,-,-,-,-,-,-,-,-,25,-13,KND,KND,-,-,-,-,-
-Matoi Hiragi,"f, F+3",-,-,-,-,-,-,-,-,-,20,-9,KND,SCREW,-,-,-,-,-
-Leaping Spin Kick,"f, F+4",-,-,-,-,-,-,-,-,-,20,-3,SCREW,SCREW,-,-,-,-,-
-Spinning Jump Kick,"f, f, f+3 (or u/b, b, 3)",-,-,-,-,-,-,-,-,-,24,0,KND,KND,-,-,-,-,-
-*,d/f+1,-,-,-,-,-,-,-,-,-,13,-3,+8,+8,-,-,-,-,-
-Falling Tower,"d/f+1, 2",-,-,-,-,-,-,-,-,-,13,-1,KND,KND,-,-,-,-,-
-*,"(d/f+1), 2",-,-,-,-,-,-,-,-,-,22,-1,KND,KND,-,-,-,-,-
-Kyara Boku,"d/f+1, 4",-,-,-,-,-,-,-,-,-,13,-12,KND,KND,-,-,-,-,-
-*,"(d/f+1), 4",-,-,-,-,-,-,-,-,-,23,-12,KND,CRUMPLE STUN,-,-,-,-,-
-Rising Palm,d/f+2,-,-,-,-,-,-,-,-,-,15,-6,LAUNCH,LAUNCH,-,-,-,-,-
-Kagamino,d/f+3,-,-,-,-,-,-,-,-,-,20,-8,KND,KND,-,-,-,-,-
-Heaven's Hammer,d+2,-,-,-,-,-,-,-,-,-,18,-4,+9 (OC),STUN,-,-,-,-,-
-Sashiro,d+1+2,-,-,-,-,-,-,-,-,-,20,-18,KND,KND,-,-,-,-,-
-Double Lift Kicks,d+3+4,-,-,-,-,-,-,-,-,-,14,-25,LAUNCH,LAUNCH,-,-,-,-,-
-*,d+3+4 (second hit only),-,-,-,-,-,-,-,-,-,24,-6,LAUNCH,LAUNCH,-,-,-,-,-
-Swallow Slice,d/b+1,-,-,-,-,-,-,-,-,-,14,-9,+4,+9,-,-,-,-,-
-Returning Swallow,"d/b+1, 2",-,-,-,-,-,-,-,-,-,14,-13,+3,+3,-,-,-,-,-
-*,"(d/b+1), 2",-,-,-,-,-,-,-,-,-,19,-13,+3,KND,-,-,-,-,-
-Funeral Palm,d/b+2,-,-,-,-,-,-,-,-,-,23,-13,LAUNCH,LAUNCH,-,-,-,-,-
-Enchanted Circle,d/b+3,-,-,-,-,-,-,-,-,-,21,-12,+4,+14,-,-,-,-,-
-*,d/b+4,-,-,-,-,-,-,-,-,-,22,-11,0,+3,-,-,-,-,-
-*,"d/b+4, D",-,-,-,-,-,-,-,-,-,22,-11,0,+3,-,-,-,-,-
-*,"d/b+4, 4",-,-,-,-,-,-,-,-,-,22,-7,+4,+4,-,-,-,-,-
-*,"(d/b+4), 4",-,-,-,-,-,-,-,-,-,31,-7,+4,STUN,-,-,-,-,-
-*,"d/b+4, 4, D",-,-,-,-,-,-,-,-,-,22,-11,0,0,-,-,-,-,-
-*,"(d/b+4), 4, D",-,-,-,-,-,-,-,-,-,31,-11,0,STUN,-,-,-,-,-
-Leg Cutter,"d/b+4, 4, 4",-,-,-,-,-,-,-,-,-,22,-7,+4,STUN,-,-,-,-,-
-*,"(d/b+4), 4, 4",-,-,-,-,-,-,-,-,-,31,-7,+4,STUN,-,-,-,-,-
-*,"(d/b+4), (4), 4",-,-,-,-,-,-,-,-,-,31,-7,+4,STUN,-,-,-,-,-
-Leg Cutter,"d/b+4, 4, 4, D",-,-,-,-,-,-,-,-,-,22,-11,0,STUN,-,-,-,-,-
-*,"(d/b+4), 4, 4, D",-,-,-,-,-,-,-,-,-,31,-11,0,STUN,-,-,-,-,-
-*,"(d/b+4), (4), 4, D",-,-,-,-,-,-,-,-,-,31,-11,0,STUN,-,-,-,-,-
-Kariashi Shiranui,(During Leg Cutter) 3,-,-,-,-,-,-,-,-,-,17,-3,LAUNCH,LAUNCH,-,-,-,-,-
-Kariashi Hakuro,(During Leg Cutter) 1+4,-,-,-,-,-,-,-,-,-,22,-19,+9,+9,-,-,-,-,-
-*,(During Leg Cutter) 1+4 (second hit only),-,-,-,-,-,-,-,-,-,17,-3,+9,+9,-,-,-,-,-
-Violet,b+1,-,-,-,-,-,-,-,-,-,29,-10,+6,KND,-,-,-,-,-
-Sumiregari,(During Counter Hit) b+1,-,-,-,-,-,-,-,-,-,29,-10,KND,KND,-,-,-,-,-
-*,b+2,-,-,-,-,-,-,-,-,-,15,-4,+1,+1,-,-,-,-,-
-Swallow Mallet to Lunging Mist Thrust,"b+2, 1",-,-,-,-,-,-,-,-,-,15,-7,+4,+4,-,-,-,-,-
-*,"(b+2), 1",-,-,-,-,-,-,-,-,-,28,-7,+4,+4,-,-,-,-,-
-Swallow Mallet to Leg Cutter,"b+2, 4",-,-,-,-,-,-,-,-,-,15,-11,0,0,-,-,-,-,-
-*,"(b+2), 4",-,-,-,-,-,-,-,-,-,33,-11,0,+3,-,-,-,-,-
-Swallow Mallet Elbow,"b+2, 1+2",-,-,-,-,-,-,-,-,-,15,-9,+2,+2,-,-,-,-,-
-*,"(b+2), 1+2",-,-,-,-,-,-,-,-,-,21,-9,+2,+2,-,-,-,-,-
-*,"b+2, 1+2, D",-,-,-,-,-,-,-,-,-,15,-6,-1,-1,-,-,-,-,-
-Swallow Mallet Combo,"b+2, 1+2, 4",-,-,-,-,-,-,-,-,-,15,-13,KND,KND,-,-,-,-,-
-*,"(b+2), 1+2, 4",-,-,-,-,-,-,-,-,-,21,-13,KND,KND,-,-,-,-,-
-*,"(b+2), (1+2), 4",-,-,-,-,-,-,-,-,-,23,-13,KND,KND,-,-,-,-,-
-Dragon Wheel Kick,b+3,-,-,-,-,-,-,-,-,-,16,-19,LAUNCH,LAUNCH,-,-,-,-,-
-Dragon Wheel Kick Demon Slayer,"b+3, 2",-,-,-,-,-,-,-,-,-,16,-20,KND,KND,-,-,-,-,-
-*,"(b+3), 2",-,-,-,-,-,-,-,-,-,17,-20,LAUNCH,LAUNCH,-,-,-,-,-
-*,"b+3, 2, D/F or D or D/B",-,-,-,-,-,-,-,-,-,16,-33,KND,KND,-,-,-,-,-
-Dragon Wheel Kick Leg Cutter,"b+3, 4",-,-,-,-,-,-,-,-,-,16,-11,KND,KND,-,-,-,-,-
-*,"(b+3), 4",-,-,-,-,-,-,-,-,-,20,-11,0,+3,-,-,-,-,-
-Heart Stopper,b+4,-,-,-,-,-,-,-,-,-,15,-8,+8,CRUMPLE STUN,-,-,-,-,-
-*,"b+4, 2",-,-,-,-,-,-,-,-,-,18,-12,+4 (OC),KND,-,-,-,-,-
-*,"(b+4), 2",-,-,-,-,-,-,-,-,-,18,-12,+4 (OC),+4 (OC),-,-,-,-,-
-Tsuyababuki,"b+4, 2, 3",-,-,-,-,-,-,-,-,-,15,-16,KND,KND,-,-,-,-,-
-*,"(b+4), 2, 3",-,-,-,-,-,-,-,-,-,18,-16,KND,KND,-,-,-,-,-
-*,"(b+4), (2), 3",-,-,-,-,-,-,-,-,-,20,-16,KND,KND,-,-,-,-,-
-*,b+1+4,-,-,-,-,-,-,-,-,-,12,-8,+5,+5,-,-,-,-,-
-*,b+1+4 (second hit only),-,-,-,-,-,-,-,-,-,29,-8,+5,+8,-,-,-,-,-
-Reverse Narcissus,"b+1+4, 3",-,-,-,-,-,-,-,-,-,12,-13,-2,KND,-,-,-,-,-
-*,"b+1+4 (second hit only), 3",-,-,-,-,-,-,-,-,-,29,-13,-2,KND,-,-,-,-,-
-*,"(b+1+4), 3",-,-,-,-,-,-,-,-,-,32,-13,-2,KND,-,-,-,-,-
-Narcissus,"b+1+4, 4",-,-,-,-,-,-,-,-,-,12,-14,-15 (BT),-15 (BT),-,-,-,-,-
-*,"b+1+4 (second hit only), 4",-,-,-,-,-,-,-,-,-,29,-14,-15 (BT),-15 (BT),-,-,-,-,-
-*,"(b+1+4), 4",-,-,-,-,-,-,-,-,-,25,-14,-15 (BT),-15 (BT),-,-,-,-,-
-*,BT 1 (or 2),-,-,-,-,-,-,-,-,-,8,-8,+3,+3,-,-,-,-,-
-*,BT 3 (or 4),-,-,-,-,-,-,-,-,-,10,-8,KND,KND,-,-,-,-,-
-*,FC 1,-,-,-,-,-,-,-,-,-,10,-5,+6,+6,-,-,-,-,-
-*,FC 2,-,-,-,-,-,-,-,-,-,11,-4,+7,+7,-,-,-,-,-
-*,FC 3,-,-,-,-,-,-,-,-,-,16,-17,-3,-3,-,-,-,-,-
-*,FC 4,-,-,-,-,-,-,-,-,-,12,-15,-4,-4,-,-,-,-,-
-*,FC 3+4,-,-,-,-,-,-,-,-,-,13,-6,+5,+5,-,-,-,-,-
-*,FC 3+4 (second hit only),-,-,-,-,-,-,-,-,-,23,-6,+5,+5,-,-,-,-,-
-*,"FC 3+4, D",-,-,-,-,-,-,-,-,-,13,-6,+5,+5,-,-,-,-,-
-Twin Cloud Kicks,"FC 3+4, 3",-,-,-,-,-,-,-,-,-,13,0,KND,KND,-,-,-,-,-
-*,"FC 3+4 (second hit only), 3",-,-,-,-,-,-,-,-,-,23,0,KND,KND,-,-,-,-,-
-Twin Cloud Kicks,"(FC 3+4), 3",-,-,-,-,-,-,-,-,-,30,0,KND,KND,-,-,-,-,-
-*,"(FC 3+4), 3 (second hit only)",-,-,-,-,-,-,-,-,-,39,0,KND,KND,-,-,-,-,-
-*,"FC 3+4, 3, D",-,-,-,-,-,-,-,-,-,13,0,KND,KND,-,-,-,-,-
-Grace,FC d/f+2,-,-,-,-,-,-,-,-,-,16,-11,0,STUN,-,-,-,-,-
-Minazuki,FC d/f+3,-,-,-,-,-,-,-,-,-,17,-9,KND,KND,-,-,-,-,-
-Mist Palm Thrust,SS 2,-,-,-,-,-,-,-,-,-,13,-9,KND,KND,-,-,-,-,-
-Camellia,SS 4,-,-,-,-,-,-,-,-,-,17,-6,+7,KND,-,-,-,-,-
-Charging Tackle*,"WR f, f, F (Full Screen)",-,-,-,-,-,-,-,-,-,8,+13,KND,KND,-,-,-,-,-
-Running Stomp*,"WR f, f, F (Full Screen) (On Grounded Opponent)",-,-,-,-,-,-,-,-,-,12,-,KND,KND,-,-,-,-,-
-*,WR 4,-,-,-,-,-,-,-,-,-,14,-40,KND,KND,-,-,-,-,-
-*,WR 1+2,-,-,-,-,-,-,-,-,-,18,0,KND,KND,-,-,-,-,-
-*,WS 1,-,-,-,-,-,-,-,-,-,14,-7,+4,+4,-,-,-,-,-
-Shikeitai,"WS 1, 4",-,-,-,-,-,-,-,-,-,14,-,KND,KND,-,-,-,-,-
-*,"(WS 1), 4",-,-,-,-,-,-,-,-,-,20,-12,KND,KND,-,-,-,-,-
-Rising Elbow,WS 2,-,-,-,-,-,-,-,-,-,13,-8,+8,+8,-,-,-,-,-
-Moon Scent,WS 3,-,-,-,-,-,-,-,-,-,18,-16,LAUNCH,LAUNCH,-,-,-,-,-
-*,WS 4,-,-,-,-,-,-,-,-,-,11,-3,+8,+8,-,-,-,-,-
-Sudare Nagashi,WS 1+2,-,-,-,-,-,-,-,-,-,21,-2,+5,CRUMPLE STUN,-,-,-,-,-
-*,"WS 1+2, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Wake-Up Low Kick*,"Face Up, Feet Towards+3 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,STUN,-,-,-,-,-
-Wake-Up Mid Kick*,"Face Up, Feet Towards+4 or (After Rolling Forward)",-,-,-,-,-,-,-,-,-,22,-12,+5,KND,-,-,-,-,-
-Recovery Kick* (Back Roll on Hit),"Face Up, Feet Towards, d+3 (or 4)",-,-,-,-,-,-,-,-,-,13,-16,-3,-3,-,-,-,-,-
-Spring Attack*,"Face Up, Feet Towards+3+4",-,-,-,-,-,-,-,-,-,19,-21,KND,KND,-,-,-,-,-
-Flying Cross Chop*,"Face Up, Feet Towards, Roll Forward+1+2",-,-,-,-,-,-,-,-,-,19,+2,KND,KND,-,-,-,-,-
-*,"Face Down, Feet Away+3",-,-,-,-,-,-,-,-,-,21,-20,+1,STUN,-,-,-,-,-
-*,"Face Down, Feet Away+4",-,-,-,-,-,-,-,-,-,21,-19,-8,KND,-,-,-,-,-
-Handspring Kickup,(Upon Landing) f,-,-,-,-,-,-,-,-,-,33,-2,+3,+3,-,-,-,-,-
-10 Hit Combo 1,"WS 2, 1, 1, 1, 2, 1, 4, 3, 3+4",-,-,-,-,-,-,-,-,-,13,-,KND,KND,-,-,-,-,-
-10 Hit Combo 2,"WS 2, 1, 1, 1, 2, 1+4, 1, 3+4",-,-,-,-,-,-,-,-,-,13,-,KND,KND,-,-,-,-,-
-10 Hit Combo 3,"WS 2, 1, 1, 3",-,-,-,-,-,-,-,-,-,13,-20,KND,KND,-,-,-,-,-
-POWER CRUSHES,,,,,,,,,,,,,,,,,,,
-Exorcisor,f+1+2,-,-,-,-,-,-,-,-,-,15,-9,KND,KND,-,-,-,-,-
-RAGE MOVES,,,,,,,,,,,,,,,,,,,
-Rage Art,d/f+1+2,-,-,-,-,-,-,-,-,-,20,-22,KND,KND,-,-,-,-,-
-Rage Drive,"f, F+1+2",-,-,-,-,-,-,-,-,-,21,+11,KND,KND,-,-,-,-,-
-UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,,
-(Three Spins)*,"1, 2, 3 (Hold)",-,-,-,-,-,-,-,-,-,12,!,KND,KND,-,-,-,-,-
-(Three Spins)*,f+3 (Hold),-,-,-,-,-,-,-,-,-,12,!,KND,KND,-,-,-,-,-
-THROWS,,,,,,,,,,,,,,,,,,,
-Aki Nage,1+3,-,-,-,-,-,-,-,-,-,12,-2,KND,KND,-,-,-,-,-
-Aki Nage,f+1+3,-,-,-,-,-,-,-,-,-,15,-2,KND,KND,-,-,-,-,-
-Katanuki,2+4,-,-,-,-,-,-,-,-,-,12,-2,KND,KND,-,-,-,-,-
-Katanuki,f+2+4,-,-,-,-,-,-,-,-,-,15,-2,KND,KND,-,-,-,-,-
-Cloud Taste,Approach from left side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-2,KND,KND,-,-,-,-,-
-Wind Wheel,Approach from right side... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,-2,KND,KND,-,-,-,-,-
-Twisted Limbs,Approach from behind... 1+3 (or 2+4),-,-,-,-,-,-,-,-,-,12,!,KND,KND,-,-,-,-,-
-White Mountain,d/f+2+3,-,-,-,-,-,-,-,-,-,12,+7,KND,KND,-,-,-,-,-
-Destabilizer,d/b+1+2,-,-,-,-,-,-,-,-,-,12,!,+8,+8,-,-,-,-,-
-Cherry Blossom,b+1+2,-,-,-,-,-,-,-,-,-,12,-3,KND,KND,-,-,-,-,-
-Falling Rain,"d/f, d, d/f+1+2",-,-,-,-,-,-,-,-,-,11,+3,KND,KND,-,-,-,-,-
-Running Tackle*,"WR f, f, F (Mid Screen)",-,-,-,-,-,-,-,-,-,16,-5 (BT),KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1 (or 2)",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-*,"WR f, f, F (Mid Screen) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,-,-,-,KND,KND,-,-,-,-,-
-SPECIAL,COMMAND,HIT LEVEL,RANGE,PUSHBACK,TRACKING,CRUSH,JAIL,NC / NCc,BREAK / SPLAT,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,OC / OCc,RECOVERY,ACTIVE,,
-*,"u/b, b",-,-,-,-,-,-,-,-,-,30,-,-,-,-,-,-,-,-
-Attack Reversal,b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,28 (30),12,-,-,-,-,-,-,-,-
+MOVE NAME,COMMAND,HIT LEVEL,RANGE,GAP,TRACKING,CRUSH,JAIL,NC / NCc,ENVIRONMENTAL,DAMAGE,START UP,ON BLOCK,ON HIT,ON CH,IN AIR,ON WHIFF,ACTIVE,NOTES
+-,"Back towards wall... b, b, u/b",mid,1,0.25,-,low,-,-,-,21 [25],i26,+4,STUN,STUN,FLOAT,-25,3,-
+-,1,high,1.5,0,-,-,-,-,-,8 [9],i10,-2,+9,+9,FLOAT,-20,1,-
+Whiplash,"1, 1","high, mid",1.5,0,-,-,NO,NCc,-,"8 [9], 15",i10,-7,+4,-,-,-25,"1, 1",-
+-,"(1), 1",mid,1,0,SSL,-,-,-,-,15 [18],i24,-7,+4,+4,FLOAT,-25,1,-
+Jab Uppercut,"1, 2","high, mid",1.5,1,-,-,NO,NCc,-,"8 [9], 9",i10,-8,+3,-,-,-25,"1, 2",-
+-,"(1), 2",mid,1,1,-,-,-,-,-,9 [10],i24,-8,+3,+3,FLOAT,-25,2,-
+Jab Uppercut to Spinning Heel Drop,"1, 2, 3","high, mid, mid",1.5,0.25,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 9, 16",i10,-2,S!,-,-,-18,"1, 2, 3",-
+-,"(1), 2, 3","mid, mid",1.5,0.25,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 16",i24,-2,S!,-,-,-18,"2, 3",-
+-,"(1), (2), 3",mid,2,0.25,-,-,-,-,WALL BREAK / SPLAT,24 [28],i14,-2,KND,KND,S!,-18,3,-
+-,"(1), (2), 3* (2 spins)",mid,1.5,0.25,-,-,-,-,WALL BREAK / SPLAT,26 [31],i12,+6,KND,KND,S!,-20,2,-
+-,"(1), (2), 3*, B",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-35,-,-
+Jab Uppercut to Front Kick,"1, 2, 4","high, mid, mid",1.5,2,-,-,NO,NCc,WALL SPLAT,"8 [9], 9, 14",i10,-12,KND,-,-,-30,"1, 2, 2",-
+-,"(1), 2, 4","mid, mid",1.5,2,-,-,NO,NC,WALL SPLAT,"9 [10], 14",i24,-12,KND,-,-,-30,"2, 2",-
+-,"(1), (2), 4",mid,2.5,2.5,SSL,-,-,-,-,20 [24],i18,-12,KND,KND,BACK FLIP,-30,2,-
+Jab Low Kick,"1, 3","high, low",1.5,0.25,-,-,NO,NCc,-,"8 [9], 10",i10,-11,0,-,-,-29,"1, 1",-
+-,"(1), 3",low,1.5,0.25,SSL / SSR,-,-,-,-,10 [12],i21,-11,0,0,FLOAT,-29,1,-
+Jab Leg Cutter,"1, 4","high, low",1.5,0,-,-,NO,NCc,-,"8 [9], 14",i10,-11,0,-,-,-27,"1, 3",-
+-,"(1), 4",low,2,0.5,SWL / SWR,"high, mid",-,-,-,14 [16],i26,-11,0,+3,FLOAT,-27,3,-
+-,2,high,2,0,-,-,-,-,-,9 [10],i12,-11,0,0,FLOAT,-29,1,-
+-,"2, 1","high, high",2,0.5,-,-,NO,NC,-,"9 [10], 10",i12,-3,+8,-,-,-20,"1, 2",-
+-,"(2), 1",high,2.5,1.5,-,-,-,-,-,10 [12],i18,-3,+8,+8,FLOAT,-20,2,-
+Basho's Dance,"2, 1, 1+2","high, high, high, high",2,0,-,-,NO,NO,WALL BREAK / SPLAT,"9 [10], 10, 8, 20",i12,-10,S!,-,-,-35,"1, 2, 2, 3",-
+-,"(2), 1, 1+2","high, high, high",2.5,0,-,-,NO,NCc,WALL BREAK / SPLAT,"10 [12], 8, 20",i18,-10,S!,-,-,-35,"2, 2, 3",-
+-,"(2), (1), 1+2","high, high",2,0,SSL / SSR,-,-,-,WALL BREAK / SPLAT,"8 [9], 20",i24,-10,S!,S!,S!,-35,"2, 3",-
+Mizu Basho,"2, 3","high, mid",2,1.25,-,-,NO,NC,WALL BREAK / SPLAT,"9 [10], 20",i12,-19,KND,-,-,-39,"1, 2",-
+-,"(2), 3",mid,1.5,1.5,SSL / SSR,-,-,-,WALL BREAK / SPLAT,20 [24],i22,-19,KND,KND,TURN OVER,-39,2,-
+-,3,mid,1.5,0,-,-,-,-,-,17 [20],i14,-7,+8,+8,FLOAT,-25,1,-
+Hyakujitsuko,"3, 1","mid, mid",1.5,0.25,-,-,NO,NC,-,"17 [20], 17",i18,-11,+8,-,-,-28,"1, 2",-
+-,"(3), 1",mid,1.5,1,SSL / SSR,high,-,-,[WALL BREAK / SPLAT],17 [20],i14,-11,+8,KND,FLOAT,-28,2,-
+Sacred Blade,3~4,low,1.5,0.25,HOMING,-,-,-,-,22 [26],i26,-26,STUN,STUN,FLOAT,-31,3,-
+-,4,high,0.5,1,-,-,-,-,[WALL BREAK / SPLAT],18 [21],i11,-7,+7,LAUNCH,FLOAT,-25,1,-
+Inner Strength,1+2,mid,1.5,1,-,-,-,-,-,21 [25],i16,-9,STUN,STUN,FLOAT,-27,2,-
+-,1+4,"low, high",1.5,0,SWR,-,NO,YES,-,"5 [6], 8",i14,-19,+9,+9,FLOAT,-20,"1, 1",-
+-,1+4 (second hit only),high,1.5,0.25,-,-,-,-,-,8 [9],i17,-3,+9,+9,FLOAT,-20,1,-
+-,"1+4, 2","low, high, high",1.5,0.25,-,-,NO,NCc,-,"5 [6], 8, 10",i14,-19,+9,-,-,-20,"1, 1, 1",-
+-,"1+4 (second hit only), 2","high, high",1.5,0.25,-,-,NO,NC,-,"8 [9], 10",i17,-2,+9,+9,FLOAT,-20,"1, 1",-
+-,"(1+4), 2",high,2,0.25,-,-,-,-,-,10 [12],i19,-2,+9,+9,FLOAT,-20,1,-
+Blizzard Combo,"1+4, 2, 1","low, high, high, high",1.5,0,-,-,NO,NO,-,"5 [6], 8, 10, 12",i14,-19,+9,-,-,-20,"1, 1, 1, 1",-
+-,"1+4 (second hit only), 2, 1","high, high, high",1.5,0,-,-,NO,NO,-,"8 [9], 10, 12",i17,-2,+9,-,-,-20,"1, 1, 1",-
+-,"(1+4), 2, 1","high, high",2,0,-,-,NO,NCc,-,"10 [12], 12",i19,-2,+9,-,-,-20,"1, 1",-
+-,"(1+4), (2), 1",high,1.5,0,-,-,-,-,-,12 [14],i21,-2,+9,+9,FLOAT,-20,1,-
+White Heron Dance,"1+4, 2, 4","low, high, high, mid",1.5,1,-,-,NO,NO,-,"5 [6], 8, 10, 23",i14,-19,+4,-,-,-27,"1, 1, 1, 1",-
+-,"1+4 (second hit only), 2, 4","high, high, mid",1.5,1,-,-,NO,NO,-,"8 [9], 10, 23",i17,-9,+4,-,-,-27,"1, 1, 1",-
+-,"(1+4), 2, 4","high, mid",2,1,-,-,NO,NCc,-,"10 [12], 23",i19,-9,+4,-,-,-27,"1, 1",-
+-,"(1+4), (2), 4",mid,1.5,1,-,-,-,-,[WALL BREAK / SPLAT],23 [27],i24,-9,+4,KND,FLOAT,-27,1,-
+White Heron Lower Dance,"1+4, 2, d+4","low, high, high, low",1.5,0.25,-,-,NO,NO,-,"5 [6], 8, 10, 15",i14,-19,STUN,-,-,-29,"1, 1, 1, 2",-
+-,"1+4 (second hit only), 2, d+4","high, high, low",1.5,0.25,-,-,NO,NO,-,"8 [9], 10, 15",i17,-23,STUN,-,-,-29,"1, 1, 2",-
+-,"(1+4), 2, d+4","high, low",2,0.25,-,-,NO,NCc,-,"10 [12], 15",i19,-23,STUN,-,-,-29,"1, 2",-
+-,"(1+4), (2), d+4",low,1.5,0.25,SSL / SSR,"high, mid",-,-,-,15 [18],i24,-23,STUN,STUN,FLOAT,-29,2,-
+White Heron Spinning Heel Drop,"1+4, 3","low, high, mid",1.5,0.25,-,-,NO,NO,WALL BREAK / SPLAT,"5 [6], 8, 24",i14,-19,KND,-,-,-18,"1, 1, 3",-
+-,"1+4 (second hit only), 3","high, mid",1.5,0.25,-,-,NO,NO,WALL BREAK / SPLAT,"8 [9], 24",i17,-2,KND,-,-,-18,"1, 3",-
+-,"(1+4), 3",mid,2,0.5,-,-,-,-,WALL BREAK / SPLAT,24 [28],i14,-2,KND,KND,S!,-18,3,-
+-,"1+4, 3, B","low, high",1.5,0.25,-,-,NO,-,-,"5 [6], 8",i14,-37,-9,-,-,-18,"1, 1",-
+-,"1+4 (second hit only), 3, B",high,1.5,0.25,-,-,-,-,-,8 [9],i17,-21,-9,-9,FLOAT,-18,1,-
+Wheel Kick,2+3,high,1.75,0,SWL,-,-,-,-,21 [25],i28,0,KND,KND,TAIL SPIN,-26,2,-
+Thunder Fall Kick,3+4,"mid, mid",2,1,-,low,NO,NC,-,"10 [12], 21",i23,-6,KND,KND,FLOOR BREAK,-22,"2, 3",-
+-,3+4 (second hit only),mid,2.5,1,-,low,-,-,-,21 [25],i30,-6,KND,KND,FLOOR BREAK,-22,3,-
+Rangetsu,u/f+2,high,1.75,1.75,-,-,-,-,-,"20 [24], 20",i14,-7,KND,KND,FLOAT,-27,1,-
+Iwato,u/f+3,mid,2.5,0,SSR,-,-,-,-,17 [20],i20,-3,+8,KND,FLOAT,-20,2,-
+Night Sky,u/f+4,mid,1.75,0.5,-,-,-,-,WALL SPLAT,25 [30],i20,-13,LAUNCH,LAUNCH,FLOAT,-31,2,-
+Lunging Mist Thrust,f+1,mid,2,0,-,high,-,-,-,17 [20],i20,-7,+4,+4,FLOAT,-25,1,-
+Whiplash to Toe Kick,"f+1, 3","mid, mid",2,0.25,-,-,NO,NCc,-,"17 [20], 17",i20,-5,+6,-,-,-22,"1, 2",-
+-,"(f+1), 3",mid,2,0.25,SSR,-,-,-,-,17 [20],i21,-5,+6,STUN,FLOAT,-22,2,-
+Whiplash Combo,"f+1, 3, 1","mid, mid, high",2,0.25,-,-,NO,NO,-,"17 [20], 17, 12",i28,-8,+3,-,-,-26,"1, 2, 1",-
+-,"(f+1), 3, 1","mid, high",2,0.25,-,-,NO,NO,-,"17 [20], 12",-,-8,+3,-,-,-26,"2, 1",-
+-,"(f+1), (3), 1",high,1,0.25,-,-,-,-,-,12 [14],-,-8,+3,+3,FLOAT,-26,1,-
+Whiplash Double Lift Upper,"f+1, 4","mid, low, high",2,0,-,-,NO,NO,-,"17 [20], 5, 20",i20,-6,LAUNCH,-,-,-31,"1, 1, 3",-
+-,"(f+1), 4","low, high",1.5,0,-,low,NO,NCc,WALL SPLAT,"5 [6], 20",i18,-6,LAUNCH,LAUNCH,BACK FLIP,-31,"1, 3",-
+-,"(f+1), 4 (second hit only)",high,1.5,0,-,low,-,-,WALL SPLAT,20 [24],i28,-6,LAUNCH,LAUNCH,BACK FLIP,-31,3,-
+Whiplash Sacred Blade,"f+1, d+4","mid, low",2,0.25,-,-,NO,NCc,-,"17 [20], 22",i20,-26,STUN,-,-,-31,"1, 3",-
+-,"(f+1), d+4",low,2,0.25,SSL / SSR,"high, mid",-,-,-,22 [26],i25,-26,STUN,STUN,FLOAT,-31,3,-
+-,"f+1, d+4, D/B",mid,2,0,-,-,-,-,-,17 [20],i20,-45,-34,-34,FLOAT,-44,-,-
+Demon Slayer,f+2,mid,2.5,-,SSR,high,-,-,WALL SPLAT,20 [24],i17,-18,LAUNCH,LAUNCH,BACK FLIP,-35,2,-
+-,"f+2, D",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-25,-,-
+Spinning Heel Drop,f+3,mid,2.5,-,-,-,-,-,WALL BREAK / SPLAT,24 [28],i14,-2,KND,KND,S!,-18,3,-
+-,f+3 (Hold for 2 spins),mid,2.5,-,-,-,-,-,WALL BREAK / SPLAT,26 [31],i12,+6,KND,KND,S!,-20,2,-
+-,"f+3*, B",-,-,0,-,-,-,-,-,-,-,-,-,-,-,-32,-,-
+Back Spin Kick,f+4,high,2.5,0.5,HOMING,-,-,-,-,21 [25],i19,+3,KND,KND,S!,-22,3,-
+Burning Lantern,"f, F+1",mid,2,0.5,-,-,-,-,WALL BREAK / SPLAT,30 [36],i23,+4,KND,GROUND BOUNCE,FLOOR BREAK,-30,2,-
+-,"f, F+2",mid,2.5,0.25,SWR,high,-,-,-,16 [19],i15,-13,-3,-3,FLOAT,-33,2,-
+Hiboko no Kagami,"f, F+2, 1","mid, high",2.5,2.75,-,-,NO,NC,WALL BREAK / SPLAT,"16 [19], 21",i15,-5,KND,-,-,-27,"2, 2",-
+-,"(f, F+2), 1",high,2.5,2.75,SSR,-,-,-,WALL BREAK / SPLAT,21 [25],i21,-5,KND,KND,FLOAT,-27,2,-
+Yata Kagami,"f, F+2, 3","mid, mid",2.5,0,-,-,NO,NCc,WALL BREAK / SPLAT,"16 [19], 22",i15,-8,KND,-,-,-28,"2, 2",-
+-,"(f, F+2), 3",mid,2.25,0,SSL / SSR,-,-,-,WALL BREAK / SPLAT,22 [26],i27,-8,KND,KND,TURN OVER,-28,2,-
+Higata no Kagami,"f, F+2, 1+2","mid, mid",2.5,1,-,-,NO,NC,WALL BREAK / SPLAT,"16 [19], 25",i15,-13,KND,-,-,-30,"2, 2",-
+-,"(f, F+2), 1+2",mid,2.5,1,SSL,-,-,-,WALL BREAK / SPLAT,25 [30],i25,-13,KND,KND,KND,-30,2,-
+Matoi Hiragi,"f, F+3",mid,2.5,0.25,HOMING,high,-,-,WALL BREAK / SPLAT,23 [27],i20,-9,KND,S!,S!,-30,2,-
+Leaping Spin Kick,"f, F+4",high,2.5,1.5,-,low,-,-,WALL BREAK / SPLAT,28 [33],i20,-3,S!,S!,S!,-26,2,-
+Spinning Jump Kick,"f, f, f+3 (or u/b, b, 3)",mid,3.5,0.5,-,low,-,-,WALL BREAK / SPLAT,32 [38],i24,0,KND,KND,FLOAT,-23,5,-
+-,d/f+1,mid,1.5,0.5,SSR,-,-,-,-,10 [12],i13,-3,+8,+8,FLOAT,-20,2,-
+Falling Tower,"d/f+1, 2","mid, high",1.5,1.5,-,-,NO,NCc,-,"10 [12], 13, 20",i13,-1,KND,-,-,-21,"2, 1",-
+-,"(d/f+1), 2",high,1.75,1.5,-,-,-,-,-,"13 [15], 20",i22,-1,KND,KND,FLOAT,-21,1,-
+Kyara Boku,"d/f+1, 4","mid, mid",1.5,0.5,-,-,NO,NCc,WALL BREAK / SPLAT,"10 [12], 22",i13,-12,KND,-,-,-32,"2, 2",-
+-,"(d/f+1), 4",mid,2.25,0.5,SSR,-,-,-,WALL BREAK / SPLAT,22 [26],i23,-12,KND,STUN,FLOAT,-32,2,-
+Rising Palm,d/f+2,mid,1.5,1,-,-,-,-,WALL SPLAT,14 [16],i15,-6,LAUNCH,LAUNCH,FLOAT,-23,2,-
+Kagamino,d/f+3,mid,2.5,0,-,-,-,-,WALL BREAK / SPLAT,22 [26],i20,-8,KND,KND,TURN OVER,-31,2,-
+Heaven's Hammer,d+2,mid,2.5,1.5,-,-,-,-,-,18 [21],i18,-4,+9 (OC),STUN,FLOOR BREAK,-30,1,-
+Sashiro,d+1+2,low,1.5,1,SSL,high,-,-,-,20 [24],i20,-18,KND,KND,FLOOR BREAK,-36,1,-
+Double Lift Kicks,d+3+4,"low, high",1.5,0,SSL / SSR,low,NO,NCc,WALL BREAK / SPLAT,"5 [6], 20",i14,-25,LAUNCH,LAUNCH,FLOAT,-30,"1, 4",-
+-,d+3+4 (second hit only),high,0.5,0,-,low,-,-,WALL BREAK / SPLAT,20 [24],i24,-6,LAUNCH,LAUNCH,FLOAT,-30,4,-
+Swallow Slice,d/b+1,mid,1.5,0.25,SSL,high,-,-,-,13 [15],i14,-9,+4,+9,FLOAT,-27,1,-
+Returning Swallow,"d/b+1, 2","mid, low",1.5,1,-,-,NO,NCc,-,"13 [15], 17",i14,-13,+3,-,-,-30,"1, 2",-
+-,"(d/b+1), 2",low,1.5,1,SSL / SSR,high,-,-,-,17 [20],i19,-13,+3,KND,FLOOR BREAK,-30,2,-
+Funeral Palm,d/b+2,mid,1.75,0,-,-,-,-,WALL SPLAT,22 [26],i23,-13,LAUNCH,LAUNCH,BACK FLIP,-30,2,-
+Enchanted Circle,d/b+3,low,2.5,0.25,SWL,high,-,-,-,17 [20],i21,-12,+4,+14,FLOAT,-30,1,-
+-,d/b+4,low,2.25,0,SSL / SSR,"high, mid",-,-,-,14 [16],i22,-11,0,+3,FLOAT,-27,3,-
+-,"d/b+4, D",low,2.25,0,-,-,-,-,-,14 [16],i22,-11,0,+3,FLOAT,-27,3,-
+-,"d/b+4, 4","low, low",2.25,0.25,-,-,NO,NO,-,"14 [16], 15",i22,-7,+4,-,-,-23,"2, 3",-
+-,"(d/b+4), 4",low,2.25,0.25,SSL / SSR,"high, mid",-,-,-,15 [18],i31,-7,+4,STUN,FLOAT,-23,3,-
+-,"d/b+4, 4, D","low, low",2.25,0.25,-,-,NO,NO,-,"14 [16], 15",i22,-11,0,-,-,-27,"2, 3",-
+-,"(d/b+4), 4, D",low,2.25,0.25,-,-,-,-,-,15 [18],i31,-11,0,STUN,FLOAT,-27,3,-
+Leg Cutter,"d/b+4, 4, 4","low, low, low",2.25,0,-,-,NO,NO,-,"14 [16], 15, 16",i22,-7,+4,-,-,-23,"2, 2, 3",-
+-,"(d/b+4), 4, 4","low, low",2.25,0,-,-,NO,NCc,-,"15 [18], 16",i31,-7,+4,-,-,-23,"2, 3",-
+-,"(d/b+4), (4), 4",low,2.25,0,SSL / SSR,"high, mid",-,-,-,16 [19],i31,-7,+4,STUN,FLOAT,-23,3,-
+Leg Cutter,"d/b+4, 4, 4, D","low, low, low",2.25,0,-,-,NO,NO,-,"14 [16], 15, 16",i22,-11,0,-,-,-27,"2, 2, 3",-
+-,"(d/b+4), 4, 4, D","low, low",2.25,0,-,-,NO,NCc,-,"15 [18], 16",i31,-11,0,-,-,-27,"2, 3",-
+-,"(d/b+4), (4), 4, D",low,2.25,0,-,-,-,-,-,16 [19],i31,-11,0,STUN,FLOAT,-27,3,-
+Kariashi Shiranui,LCT 3,high,1.5,1.75,-,-,-,-,WALL SPLAT,21 [25],i17,-3,LAUNCH,LAUNCH,FLOAT,-30,1,-
+Kariashi Hakuro,LCT 1+4,"low, high",1.5,0,SSL / SSR,-,NO,NCc,-,"5 [6], 8",i22,-19,+9,+9,BACK FLIP,-20,"1, 1",-
+-,LCT 1+4 (second hit only),high,1.5,0.25,-,-,-,-,-,8 [9],i17,-3,+9,+9,FLOAT,-20,1,-
+Violet,b+1,low,1.75,0.5,SSL / SSR,high,-,-,-,17,i29,-10,+6,KND,FLOAT,-27,2,-
+Sumiregari,CH b+1,low throw,1.75,-,-,-,-,-,-,"20, 22",i29,-10,KND,KND,FLOAT,-27,2,-
+-,b+2,mid,1.75,0.5,-,-,-,-,-,12 [14],i15,-4 (OC),+1 (OC),+1 (OC),FLOAT,-28,1,-
+Swallow Mallet to Lunging Mist Thrust,"b+2, 1","mid, mid",1.75,0,-,-,NO,NCc,-,"12 [14], 14",i15,-7,+4,-,-,-25,"1, 1",-
+-,"(b+2), 1",mid,2.5,0,-,-,-,-,-,14 [16],i28,-7,+4,+4,FLOAT,-25,1,-
+Swallow Mallet to Leg Cutter,"b+2, 4","mid, low",1.75,0,-,-,NO,NO,-,"12 [14], 14",i15,-11,0,-,-,-27,"1, 3",-
+-,"(b+2), 4",low,2.5,0,SWL / SSR,"high, mid",-,-,-,14 [16],i33,-11,0,+3,FLOAT,-27,3,-
+Swallow Mallet Elbow,"b+2, 1+2","mid, high",1.75,0.25,-,-,YES,NC,-,"12 [14], 7",i15,-9,+2,-,-,-27,"1, 1",-
+-,"(b+2), 1+2",high,2,0.25,-,-,-,-,-,7 [8],i21,-9,+2,+2,FLOAT,-27,1,-
+-,"b+2, 1+2, D","mid, high",1.75,0.25,-,-,-,-,-,"12 [14], 7",i15,-6,-1,-,-,-30,1,-
+Swallow Mallet Combo,"b+2, 1+2, 4","mid, high, mid",1.75,0.25,-,-,NO,NCc,WALL BREAK / SPLAT,"12 [14], 7, 20",i15,-13,KND,-,-,-30,"1, 1, 2",-
+-,"(b+2), 1+2, 4","mid, high",2,0.25,-,-,NO,NCc,WALL BREAK / SPLAT,"7 [8], 20",i21,-13,KND,-,-,-30,"1, 2",-
+-,"(b+2), (1+2), 4",high,2.5,1,SSL,-,-,-,WALL BREAK / SPLAT,20 [24],i23,-13,KND,KND,S!,-30,2,-
+Dragon Wheel Kick,b+3,mid,1.5,2.5,SSR,-,-,-,WALL SPLAT,15 [18],i16,-19,LAUNCH,LAUNCH,BACK FLIP,-36,2,-
+Dragon Wheel Kick Demon Slayer,"b+3, 2","mid, mid",1.5,1,-,-,NO,NC,WALL SPLAT,"15 [18], 14",i16,-20,KND,-,-,-37,"2, 2",-
+-,"(b+3), 2",mid,2,1.5,SSR,high,-,-,WALL SPLAT,20 [24],i17,-20,LAUNCH,LAUNCH,BACK FLIP,-37,2,-
+-,"b+3, 2, D/F or D or D/B",mid,1.5,0,-,-,-,-,-,15 [18],i16,-33,KND,KND,BACK FLIP,-50,2,-
+Dragon Wheel Kick Leg Cutter,"b+3, 4","mid, low",1.5,0.5,-,-,NO,NC,-,"15 [18], 9",i16,-11,KND,-,-,-27,"2, 3",-
+-,"(b+3), 4",low,2.25,0.5,SWL / SSR,"high, mid",-,-,-,14 [16],i20,-11,0,+3,FLOAT,-27,3,-
+Heart Stopper,b+4,mid,1.5,1,SSR,-,-,-,-,17 [20],i15,-8,+8,STUN,FLOAT,-28,2,-
+-,"b+4, 2","mid, mid",1.5,0.25,-,-,NO,NCc,-,"17 [20], 12",i18,-12,+4 (OC),-,-,-29,"2, 2",-
+-,"(b+4), 2",mid,2.25,0.25,SSL / SSR,high,-,-,-,12 [14],i18,-12,+4 (OC),+4 (OC),FLOOR BREAK,-29,2,-
+Tsuyababuki,"b+4, 2, 3","mid, mid, mid",1.5,0,-,-,NO,NCc,WALL BREAK / SPLAT,"17 [20], 12, 21",i15,-16,KND,-,-,-31,"2, 2, 4",-
+-,"(b+4), 2, 3","mid, mid",2.25,0,-,-,NO,NC,WALL BREAK / SPLAT,"12 [14], 21",i18,-16,KND,-,-,-31,"2, 4",-
+-,"(b+4), (2), 3",mid,1.5,0,SWL / SWR,high,-,-,WALL BREAK / SPLAT,21 [25],i20,-16,KND,KND,BACK FLIP,-31,4,-
+-,b+1+4,"high, low",1.5,1,-,-,NO,NC,-,"15 [18], 8",i12,-8,+5,+5,FLOAT,-25,"1, 2",-
+-,b+1+4 (second hit only),low,1.5,1,SWL / SWR,-,-,-,-,8 [9],i29,-8,+5,+8,FLOAT,-25,2,-
+Reverse Narcissus,"b+1+4, 3","high, low, low",1.5,1,-,-,NO,NO,-,"15 [18], 8, 18",i12,-13,-2,-,-,-30,"1, 2, 2",-
+-,"b+1+4 (second hit only), 3","low, low",1.5,1,-,-,NO,NCc,-,"8 [9], 18",i29,-13,-2,-,-,-30,"2, 2",-
+-,"(b+1+4), 3",low,2.5,1,SSL / SSR,-,-,-,-,18 [21],i32,-13,-2,KND,FLOAT,-30,2,-
+Narcissus,"b+1+4, 4","high, low, mid",1.5,1,-,-,NO,NO,-,"15 [18], 8, 23",i12,-14,-15 (BT),-,-,-36,"1, 2, 2",-
+-,"b+1+4 (second hit only), 4","low, mid",1.5,1,-,-,NO,NCc,-,"8 [9], 23",i29,-14,-15 (BT),-,-,-36,"2, 2",-
+-,"(b+1+4), 4",mid,1.5,1,SWL / SWR,high,-,-,-,23 [27],i25,-14,-15 (BT),-15 (BT),S!,-36,2,-
+-,BT 1 (or 2),high,0.5,0.5,-,-,-,-,-,15 [18],i8,-8,+3,+3,FLOAT,-26,1,-
+-,BT 3 (or 4),high,0.75,0.5,-,-,-,-,WALL BREAK / SPLAT,18 [21],i10,-8,KND,KND,FLOAT,-26,1,-
+-,FC 1,s. mid,0,0.5,-,high,-,-,-,5 [6],i10,-5,+6,+6,FLOAT,-23,1,-
+-,FC 2,s. mid,0.5,0.5,-,high,-,-,-,8 [9],i11,-4,+7,+7,FLOAT,-22,1,-
+-,FC 3,low,1.5,1.25,SSL / SSR,high,-,-,-,12 [14],i16,-17,-3,-3,FLOAT,-32,1,-
+-,FC 4,low,1.5,1,SSL / SSR,high,-,-,-,10 [12],i12,-15,-4,-4,FLOAT,-33,1,-
+-,FC 3+4,"mid, mid",3.5,0,-,low,YES,NC,-,"10 [12], 10",i13,-6,+5,+5,FLOOR BREAK,-23,"2, 2",-
+-,FC 3+4 (second hit only),mid,3.5,0,-,-,-,-,-,10 [12],i23,-6,+5,+5,FLOOR BREAK,-23,2,-
+-,"FC 3+4, D","mid, mid",3.5,0,-,-,-,-,-,"10 [12], 10",i13,-6,+5,+5,FLOOR BREAK,-23,"2, 2",-
+Twin Cloud Kicks,"FC 3+4, 3","mid, mid, mid, mid",3.5,0,-,-,NO,NO,-,"10 [12], 10, 10, 10",i13,0,KND,-,-,-23,"2, 2, 2, 2",-
+-,"FC 3+4 (second hit only), 3","mid, mid, mid",3.5,0,-,-,NO,NO,-,"10 [12], 10, 10",i23,0,KND,-,-,-23,"2, 2, 2",-
+Twin Cloud Kicks,"(FC 3+4), 3","mid, mid",3.5,0,-,high,YES,NC,-,"10 [12], 10",i30,0,KND,KND,FLOOR BREAK,-23,"2, 2",-
+-,"(FC 3+4), 3 (second hit only)",mid,3.5,0,-,-,-,-,-,10 [12],i39,0,KND,KND,FLOOR BREAK,-23,2,-
+-,"FC 3+4, 3, D","mid, mid, mid, mid",3.5,0,-,-,-,-,-,"10 [12], 10, 10, 10",i13,0,KND,-,-,-23,"2, 2, 2, 2",-
+Grace,FC d/f+2,low,1.75,0.25,SWL / SWR,high,-,-,-,10 [12],i16,-11,0,STUN,FLOAT,-28,2,-
+Minazuki,FC d/f+3,mid,2.5,0.25,-,high,-,-,WALL BOUNCE,20 [24],i17,-9,KND,KND,FLOAT,-30,1,-
+Mist Palm Thrust,SS 2,mid,1.5,0.5,SWL / SWR,-,-,-,WALL BREAK / SPLAT,23 [27],i13,-9,KND,KND,FLOAT,-26,2,-
+Camellia,SS 4,high,2,1,SWR,-,-,-,-,18 [21],i17,-6,+7,KND,FLOAT,-20,5,-
+-,"WR f, f, F (Full Screen)",mid,0,0,SWL / SWR,-,-,-,WALL BREAK / SPLAT,30 [36],i8,+13,KND,KND,FLOAT,-35,13,-
+-,"WR f, f, F (Full Screen) (On Grounded Opponent)",low,0,-,-,-,-,-,-,8 [9],i12,-,KND,KND,-,-28,1,-
+-,WR 4,low,4,0,SSL / SSR,"high, mid",-,-,-,17 [20],i14,-40,KND,KND,FLOAT,-35,17,-
+-,WR 1+2,mid,3,0,-,high,-,-,WALL BREAK / SPLAT,24 [28],i18,0,KND,KND,FLOAT,-40,19,-
+-,WS 1,mid,1.5,0.5,-,-,-,-,-,12 [14],i14,-7,+4,+4,FLOAT,-24,2,-
+Shikeitai,"WS 1, 4","mid, high",1.5,2,-,-,NO,NC,-,"12 [14], 20",i14,-,KND,-,-,-32,"2, 1",-
+-,"(WS 1), 4",high,1.5,2,-,-,-,-,-,20 [24],i20,-12,KND,KND,FLOAT,-32,1,-
+Rising Elbow,WS 2,mid,1.5,0.75,SWR,-,-,-,-,18 [21],i13,-8,+8,+8,FLOAT,-25,2,-
+Moon Scent,WS 3,mid,1.75,1.75,-,-,-,-,-,20 [24],i18,-16,LAUNCH,LAUNCH,FLOAT,-33,2,-
+-,WS 4,mid,1.5,1.5,-,-,-,-,-,15 [18],i11,-3,+8,+8,FLOAT,-20,2,-
+Sudare Nagashi,WS 1+2,mid,3.5,1,SSR,high,-,-,-,20 [24],i21,-2,+5,STUN,FLOAT,-26,1,-
+-,"WS 1+2, D",mid,3.5,1,-,-,-,-,-,20 [24],-,-,-,-,-,-37,-,-
+10 Hit Combo 1,"WS 2, 1, 1, 1, 2, 1, 4, 3, 3+4",-,1.5,-,-,-,NO,NO,-,119,i13,-,KND,-,-,-,-,-
+10 Hit Combo 2,"WS 2, 1, 1, 1, 2, 1+4, 1, 3+4",-,1.5,-,-,-,NO,NO,WALL SPLAT,97,i13,-,KND,-,-,-,-,-
+10 Hit Combo 3,"WS 2, 1, 1, 3","mid, high, mid, mid",1.5,0.5,-,-,NO,NO,WALL BREAK / SPLAT,46,i13,-20,KND,-,-,-,-,-
+-,"Face Up, Feet Towards+3 or (After Rolling Forward)",low,1,1,SSL / SSR,"high, mid",-,-,-,10 [12],i22,-12,+5,STUN,FLOAT,-29,1,-
+-,"Face Up, Feet Towards+4 or (After Rolling Forward)",mid,1,1.5,SSL,-,-,-,WALL BREAK / SPLAT,18 [21],i22,-12,+5,KND,FLOAT,-29,1,-
+-,"Face Up, Feet Towards, d+3 (or 4)",low,0,1.5,SSR,"high, mid",-,-,-,4,i13,-16,-3,-3,FLOAT,-34,1,-
+-,"Face Up, Feet Towards+3+4",mid,0,0,-,low,-,-,WALL BREAK / SPLAT,20 [24],i19,-21,KND,KND,FLOAT,-26,12,-
+-,"Face Up, Feet Towards, Roll Forward+1+2",mid,5,0,-,high,-,-,WALL BREAK / SPLAT,15 [18],i19,+2,KND,KND,FLOAT,-42,6,-
+-,"Face Down, Feet Away+3",low,1,0.25,SSL / SSR,"high, mid",-,-,-,10 [12],i21,-20,+1,STUN,FLOAT,-35,1,-
+-,"Face Down, Feet Away+4 (close)",mid,1,2,-,-,-,-,WALL BREAK / SPLAT,15 [18],i21,-19,KND,KND,FLOAT,-37,1,-
+-,"Face Down, Feet Away+4 (far)",mid,1,2,-,-,-,-,[WALL BREAK / SPLAT],10 [12],i21,-19,-8,KND,FLOAT,-37,1,-
+-,(Upon Landing) f,mid,0,0,-,-,-,-,-,4,i33,-2,+3,+3,FLOAT,-13,4,-
+POWER CRUSHES,,,,,,,,,,,,,,,,,,
+Exorcisor,f+1+2,high,2,1,-,-,-,-,-,26 [31],i15,-9,KND,KND,FLOAT,-35,2,-
+RAGE MOVES,,,,,,,,,,,,,,,,,,
+Rage Art, (During Rage) d/f+1+2,mid,2.5,0,SWL / SWR,-,-,-,-,55 [57],i20,-22,KND,KND,ACTIVATE,-45,1,-
+Rage Drive,"(During Rage) f, F+1+2",mid,2.5,0.25,-,-,-,-,-,30 [36],i21,+11,KND,KND,KND,-30,2,-
+UNBLOCKABLE MOVES,,,,,,,,,,,,,,,,,,
+-,"1, 2, 3*",mid,1.5,-,-,-,-,-,WALL BREAK / SPLAT,28 [33],i12,!,KND,KND,S!,-19,2,-
+-,f+3*,mid,1.5,-,-,-,-,-,WALL BREAK / SPLAT,28 [33],i12,!,KND,KND,S!,-19,2,-
+THROWS,,,,,,,,,,,,,,,,,,
+Aki Nage,Approach enemy... 1+3,high throw,1.5,-,-,-,-,-,FLOOR BREAK,35,i12,-2,KND,-,-,-24,3,-
+Katanuki,Approach enemy... 2+4,high throw,1.5,-,-,-,-,-,-,35,i12,-2,KND,-,-,-24,3,-
+Aki Nage,Approach enemy... f+1+3,high throw,2,-,-,-,-,-,FLOOR BREAK,35,i15,-2,KND,-,-,-32,3,-
+Katanuki,Approach enemy... f+2+4,high throw,2,-,-,-,-,-,-,35,i15,-2,KND,-,-,-32,3,-
+White Mountain,Approach enemy... d/f+2+3,high throw,1.5,-,-,-,-,-,FLOOR BREAK,40,i12,+7,KND,-,-,-26,1,-
+Destabilizer,Approach enemy... d/b+1+2,high throw,2,-,-,-,-,-,-,-,i12,!,+8,-,-,-19,2,-
+Cherry Blossom,Approach enemy... b+1+2,high throw,1,-,-,-,-,-,-,40,i12,-3,KND,-,-,-26,1,-
+Cloud Taste,Approach from left side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-2,KND,-,-,-24,3,-
+Wind Wheel,Approach from right side... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,40,i12,-2,KND,-,-,-24,3,-
+Twisted Limbs,Approach from behind... 1+3 (or 2+4),high throw,1.5,-,-,-,-,-,-,50,i12,!,KND,-,-,-24,3,-
+Falling Rain,"FC d/f, d, d/f+1+2",high throw,1.5,-,-,-,-,-,-,45,i11,+3,KND,-,-,-26,2,-
+-,"WR f, f, F (Mid Screen)",mid throw,0,-,-,-,-,-,-,5,i16,-5 (BT),KND,-,-,-32,1,-
+DURING TACKLE,,,,,,,,,,,,,,,,,,
+-,(During Tackle) 1 (or 2),-,-,-,-,-,-,-,-,5,-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5",-,-,KND,-,-,-,-,-
+-,"(During Tackle) 1/2, 1/2, 1/2, 1/2",-,-,-,-,-,-,-,-,"5, 5, 5, 15",-,-,KND,-,-,-,-,-
+SPECIAL,COMMAND,HIT LEVEL,,,,,,,,,,,,,,,,
+-,"u/b, b",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-30,-,-
+Attack Reversal,Time with enemy attack... b+1+3 (or b+2+4),-,-,-,-,-,-,-,-,28 [30],-,-,-,-,-,-44,-,-
